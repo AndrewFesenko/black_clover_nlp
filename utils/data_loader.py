@@ -1,32 +1,37 @@
-from glob import glob 
+import re
+from glob import glob
 import pandas as pd
 
 def load_subtitles_dataset(dataset_path):
-    subtitles_paths = glob(dataset_path+'/*.ass')
+    # Use sorted with a custom key to sort numerically
+    subtitles_paths = sorted(glob(dataset_path + '/*.ass'), key=lambda x: int(re.search(r'(\d+)', x).group()))
 
-    scripts=[]
-    episode_num=[]
+    scripts = []
+    episode_num = []
 
     for path in subtitles_paths:
-
-        #Read Lines
+        # Read Lines
         with open(path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
-            lines = lines[30:]
-            lines =  [ ",".join(line.split(',')[9:])  for line in lines ]
-        
-        lines = [ line.replace('\\N',' ') for line in lines]
+            lines = lines[30:]  # Start from line 30 to skip metadata
+            lines = [",".join(line.split(',')[9:]) for line in lines]
+
+        # Remove \N and text enclosed in curly braces
+        lines = [re.sub(r'\\N', ' ', line) for line in lines]
+        lines = [re.sub(r'\{.*?\}', '', line) for line in lines]
+
+        # Join lines to form the script for this file
         script = " ".join(lines)
 
-        filename = path.split('\\')[-1]  # Extracts the filename from the path
+        # Extract episode number from filename
+        filename = path.split('\\')[-1]
         try:
-            episode = int(filename.split('-')[-1].split('.')[0].strip())
+            episode = int(re.search(r'(\d+)', filename).group())
         except ValueError:
-            episode = None  # Or some default value or logic to handle invalid filenames
-
+            episode = None  # Handle invalid filenames gracefully
 
         scripts.append(script)
         episode_num.append(episode)
 
-    df = pd.DataFrame.from_dict({"episode":episode_num, "script":scripts })
+    df = pd.DataFrame({"episode": episode_num, "script": scripts})
     return df
