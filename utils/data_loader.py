@@ -14,7 +14,7 @@ def load_subtitles_dataset(dataset_path):
         with open(path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
             lines = lines[30:]  # Start from line 30 to skip metadata
-            lines = [",".join(line.split(',')[9:]) for line in lines]
+            lines = [line.split(',', 9)[-1] for line in lines]  # Capture everything from the 9th comma onward
 
         # Remove \N and text enclosed in curly braces
         lines = [re.sub(r'\\N', ' ', line) for line in lines]
