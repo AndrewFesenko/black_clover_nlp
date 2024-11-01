@@ -1,0 +1,412 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0080,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+ 
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+
+Dialogue: 0,0:00:02.85,0:00:06.78,italics,nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.12,0:00:15.30,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.51,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:39.45,0:00:42.87,Ep Title,Sign,0000,0000,0000,,{\fad(1023,1)}The Man Named Fanzell Continued
+Dialogue: 0,0:02:00.95,0:02:05.84,italics,Nar,0000,0000,0000,,Fanzell Kruger: the former instructor \Nof the Diamond Kingdom's magic soldiers,
+Dialogue: 0,0:02:05.84,0:02:09.00,italics,Nar,0000,0000,0000,,who also happened to be the one who \Ntaught Asta how to use his sword.
+Dialogue: 0,0:02:12.39,0:02:14.25,main,Fanzell,0000,0000,0000,,You're following up too late \Nwith your left foot.
+Dialogue: 0,0:02:14.25,0:02:17.96,main,Fanzell,0000,0000,0000,,If you're going to attack consecutively, \Ndon't pause between each slash.
+Dialogue: 0,0:02:18.27,0:02:19.22,main,Asta,0000,0000,0000,,Got it!
+Dialogue: 0,0:02:21.09,0:02:23.72,italics,Nar,0000,0000,0000,,Some time had passed since they met,
+Dialogue: 0,0:02:23.72,0:02:27.10,italics,Nar,0000,0000,0000,,and Asta was gravely injured in the battle \Nagainst the Diamond Kingdom's assassin,
+Dialogue: 0,0:02:27.10,0:02:29.47,italics,Nar,0000,0000,0000,,Mars, in the dungeon exploration mission.
+Dialogue: 0,0:02:30.02,0:02:35.02,italics,Nar,0000,0000,0000,,Noelle was gathering nourishing herbs \Nthat would help him recover faster.
+Dialogue: 0,0:02:35.67,0:02:38.31,main,Noelle,0000,0000,0000,,Herbs, herbs...
+Dialogue: 0,0:02:38.77,0:02:39.76,main,Noelle,0000,0000,0000,,Here we go!
+Dialogue: 0,0:02:41.09,0:02:43.99,main,Fanzell,0000,0000,0000,,Hey, you, silver-haired girl...
+Dialogue: 0,0:02:43.99,0:02:46.24,main,Fanzell,0000,0000,0000,,Yes, you. You have a second?
+Dialogue: 0,0:02:46.99,0:02:49.54,main,Fanzell,0000,0000,0000,,There's something I'd like to ask you.
+Dialogue: 0,0:02:50.66,0:02:51.89,main,Fanzell,0000,0000,0000,,Do you have a sec?
+Dialogue: 0,0:02:51.89,0:02:54.32,main,Fanzell,0000,0000,0000,,I just want you to let me see for \Na second. Just a quick second.
+Dialogue: 0,0:02:54.32,0:02:55.46,main,Fanzell,0000,0000,0000,,Just a tiny bit.
+Dialogue: 0,0:02:55.46,0:02:57.46,main,Noelle,0000,0000,0000,,Why, you...
+Dialogue: 0,0:02:57.86,0:02:58.82,main,Fanzell,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:58.82,0:03:01.51,main,Noelle,0000,0000,0000,,...pervert!
+Dialogue: 0,0:03:01.96,0:03:03.98,main,Fanzell,0000,0000,0000,,Wait! I promise I'm not someone suspicious!
+Dialogue: 0,0:03:03.98,0:03:05.42,main,Fanzell,0000,0000,0000,,Just for a second!
+Dialogue: 0,0:03:05.42,0:03:08.27,top,Noelle,0000,0000,0000,,You're obviously very suspicious!
+Dialogue: 0,0:03:06.18,0:03:08.58,main,Yami,0000,0000,0000,,Damn it, what's all that racket?
+Dialogue: 0,0:03:08.27,0:03:10.43,top,Noelle,0000,0000,0000,,Get away from me!
+Dialogue: 0,0:03:08.58,0:03:10.43,main,Yami,0000,0000,0000,,I can't get any sleep.
+Dialogue: 0,0:03:10.43,0:03:11.88,main,Magna,0000,0000,0000,,Lady Noe?
+Dialogue: 0,0:03:12.98,0:03:13.83,main,,0000,0000,0000,,La?
+Dialogue: 0,0:03:16.35,0:03:18.32,main,Noelle,0000,0000,0000,,Please stop!
+Dialogue: 0,0:03:20.85,0:03:22.82,main,Fanzell,0000,0000,0000,,You've got it all wrong.
+Dialogue: 0,0:03:23.23,0:03:27.66,main,Fanzell,0000,0000,0000,,Just for a second, miss... \NI'm even willing to pay.
+Dialogue: 0,0:03:37.91,0:03:41.21,main,charmy,0000,0000,0000,,"Pan" and "pants" might sound similar, \Nbut pants aren't edible! La!
+Dialogue: 0,0:03:41.21,0:03:45.26,main,Vanessa,0000,0000,0000,,You poor girl, running into a pervert like that.
+Dialogue: 0,0:03:45.26,0:03:46.29,main,Vanessa,0000,0000,0000,,There, there...
+Dialogue: 0,0:03:46.29,0:03:50.21,main,Yami,0000,0000,0000,,You twisted bastard. What were you \Ntrying to do to my squad member?
+Dialogue: 0,0:03:50.21,0:03:52.98,main,Yami,0000,0000,0000,,You better be thankful we didn't kill you.
+Dialogue: 0,0:03:52.98,0:03:55.00,main,Fanzell,0000,0000,0000,,Y-You've got the wrong idea.
+Dialogue: 0,0:03:55.00,0:03:56.58,main,Fanzell,0000,0000,0000,,I was the victim of a robbery, and...
+Dialogue: 0,0:03:56.58,0:03:58.32,main,Magna,0000,0000,0000,,No excuses!
+Dialogue: 0,0:03:58.32,0:04:01.32,main,Luck,0000,0000,0000,,Hey, let's fight some more! \NI haven't had enough yet!
+Dialogue: 0,0:04:01.78,0:04:04.99,main,Gauche,0000,0000,0000,,Before he ever has a chance to \Nappear in front of Marie...
+Dialogue: 0,0:04:04.99,0:04:05.92,main,Gauche,0000,0000,0000,,I'll kill him.
+Dialogue: 0,0:04:05.92,0:04:07.76,main,Finral,0000,0000,0000,,Hello? Magic Knights HQ?
+Dialogue: 0,0:04:07.76,0:04:09.75,main,Finral,0000,0000,0000,,This is Finral, the hottie from the Black Bulls.
+Dialogue: 0,0:04:09.75,0:04:13.00,main,Finral,0000,0000,0000,,We've apprehended someone suspicious, \Nso we're coming to hand him over to you.
+Dialogue: 0,0:04:13.00,0:04:16.25,main,Fanzell,0000,0000,0000,,Wait! Please, wait! \NHonestly, this is all a mistake!
+Dialogue: 0,0:04:16.60,0:04:18.96,main,Yami,0000,0000,0000,,I'm not falling for that.\NI only use bait when I'm fishing.
+Dialogue: 0,0:04:18.96,0:04:21.43,main,Fanzell,0000,0000,0000,,Uh, I don't know much about fishing, but...
+Dialogue: 0,0:04:21.43,0:04:22.26,main,Asta,0000,0000,0000,,Zell?
+Dialogue: 0,0:04:22.57,0:04:23.80,main,Fanzell,0000,0000,0000,,That voice...
+Dialogue: 0,0:04:23.80,0:04:24.88,main,Fanzell,0000,0000,0000,,Asta!
+Dialogue: 0,0:04:25.28,0:04:27.93,main,Asta,0000,0000,0000,,What are you doing here, Zell?
+Dialogue: 0,0:04:27.93,0:04:29.31,main,Fanzell,0000,0000,0000,,I see.
+Dialogue: 0,0:04:29.31,0:04:32.59,main,Fanzell,0000,0000,0000,,So you were able to join the Magic Knights.
+Dialogue: 0,0:04:32.59,0:04:33.66,main,Fanzell,0000,0000,0000,,Congratulations.
+Dialogue: 0,0:04:35.91,0:04:38.20,main,Gauche,0000,0000,0000,,Oh, so it was just a misunderstanding.
+Dialogue: 0,0:04:38.20,0:04:40.19,main,Vanessa,0000,0000,0000,,To think that you really were robbed...
+Dialogue: 0,0:04:40.19,0:04:42.48,main,Magna,0000,0000,0000,,You should've said so earlier!
+Dialogue: 0,0:04:42.97,0:04:45.54,main,Fanzell,0000,0000,0000,,I'm pretty sure you guys\N weren't going to listen.
+Dialogue: 0,0:04:45.54,0:04:47.66,main,Yami,0000,0000,0000,,Who cares about the minor details?
+Dialogue: 0,0:04:47.66,0:04:48.88,main,Charmy,0000,0000,0000,,Eat up.
+Dialogue: 0,0:04:48.88,0:04:51.20,main,Charmy,0000,0000,0000,,This is the kind of pan \Nyou can actually eat, la.
+Dialogue: 0,0:04:51.62,0:04:52.70,main,Fanzell,0000,0000,0000,,Thanks.
+Dialogue: 0,0:04:52.74,0:04:54.75,sign_12489_108_You_only_eat_bar,Gordon/sign,0000,0000,0000,,You're my new friend.
+Dialogue: 0,0:04:54.75,0:04:58.17,top,Gordon,0000,0000,0000,,I want to know more about you. \NLet's talk into the morning.
+Dialogue: 0,0:04:56.63,0:04:58.17,main,Fanzell,0000,0000,0000,,Um, can I help you?
+Dialogue: 0,0:04:58.62,0:05:03.34,main,Yami,0000,0000,0000,,Zell, was it? Have we met before?
+Dialogue: 0,0:05:03.34,0:05:06.57,main,Fanzell,0000,0000,0000,,No, I'm pretty sure this is \Nthe first time we've ever met.
+Dialogue: 0,0:05:06.57,0:05:09.20,main,Asta,0000,0000,0000,,So what are you doing here, old man?
+Dialogue: 0,0:05:09.20,0:05:11.24,main,Fanzell,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:05:11.24,0:05:13.14,main,Fanzell,0000,0000,0000,,Noelle, was it?
+Dialogue: 0,0:05:13.14,0:05:15.98,main,Fanzell,0000,0000,0000,,I'm truly sorry for scaring you.
+Dialogue: 0,0:05:15.98,0:05:18.31,main,Fanzell,0000,0000,0000,,I wanted to ask you about your wand.
+Dialogue: 0,0:05:19.07,0:05:20.61,main,Noelle,0000,0000,0000,,My wand?
+Dialogue: 0,0:05:21.00,0:05:22.04,main,Fanzell,0000,0000,0000,,Yes.
+Dialogue: 0,0:05:22.04,0:05:23.86,main,Fanzell,0000,0000,0000,,I'm fairly certain that the wand
+Dialogue: 0,0:05:23.86,0:05:26.90,main,Fanzell,0000,0000,0000,,you're using was created by \NDomina, who I'm looking for.
+Dialogue: 0,0:05:26.90,0:05:28.11,main,Noelle,0000,0000,0000,,Domina?
+Dialogue: 0,0:05:28.11,0:05:31.86,main,Asta,0000,0000,0000,,Isn't that your fiancée?
+Dialogue: 0,0:05:31.86,0:05:36.87,main,Noelle,0000,0000,0000,,But the person who gave me \Nthis wand was named Code.
+Dialogue: 0,0:05:36.87,0:05:39.27,main,Vanessa,0000,0000,0000,,Right. It wasn't Domina.
+Dialogue: 0,0:05:39.27,0:05:41.70,main,Fanzell,0000,0000,0000,,So I was right. There's no doubt about it.
+Dialogue: 0,0:05:42.31,0:05:44.86,main,Fanzell,0000,0000,0000,,Her full name is Dominante Code.
+Dialogue: 0,0:05:44.86,0:05:45.80,main,Fanzell,0000,0000,0000,,Where'd you get that?
+Dialogue: 0,0:05:46.36,0:05:48.80,main,Noelle,0000,0000,0000,,The black market in the castle city.
+Dialogue: 0,0:05:49.41,0:05:50.39,main,Fanzell,0000,0000,0000,,I see...
+Dialogue: 0,0:05:51.03,0:05:51.94,main,Fanzell,0000,0000,0000,,Thank goodness.
+Dialogue: 0,0:05:52.45,0:05:53.43,main,Fanzell,0000,0000,0000,,Thank goodness.
+Dialogue: 0,0:05:54.51,0:05:57.46,main,Asta,0000,0000,0000,,Old man! That means Domina's alive!
+Dialogue: 0,0:05:57.46,0:06:00.10,main,Asta,0000,0000,0000,,That's great! Hurry up and go see her!
+Dialogue: 0,0:06:00.52,0:06:02.71,main,Fanzell,0000,0000,0000,,Yeah, I will.
+Dialogue: 0,0:06:02.71,0:06:04.11,main,Fanzell,0000,0000,0000,,Thank you. Thank you!
+Dialogue: 0,0:06:04.61,0:06:06.53,main,Vanessa,0000,0000,0000,,I'll lead you there.
+Dialogue: 0,0:06:06.99,0:06:08.55,main,Fanzell,0000,0000,0000,,Thank you, Noelle.
+Dialogue: 0,0:06:08.55,0:06:12.60,main,Fanzell,0000,0000,0000,,Because of you, I should be able to reunite \Nwith someone very important to me.
+Dialogue: 0,0:06:12.60,0:06:14.95,main,Fanzell,0000,0000,0000,,Thank you so much.
+Dialogue: 0,0:06:15.38,0:06:17.62,main,Noelle,0000,0000,0000,,I-I didn't do that much.
+Dialogue: 0,0:06:17.62,0:06:20.19,main,Noelle,0000,0000,0000,,So, can I go, Captain?
+Dialogue: 0,0:06:20.19,0:06:22.31,main,Yami,0000,0000,0000,,Huh? Sure, why not?
+Dialogue: 0,0:06:22.31,0:06:25.13,main,Yami,0000,0000,0000,,Oh, but don't blab about us trying \Nto get you arrested by mistake.
+Dialogue: 0,0:06:25.13,0:06:27.83,main,Finral,0000,0000,0000,,You actually just admitted \Nyou made a mistake.
+Dialogue: 0,0:06:27.83,0:06:29.20,main,Yami,0000,0000,0000,,Shut up.
+Dialogue: 0,0:06:29.20,0:06:33.07,main,Yami,0000,0000,0000,,Oh, yeah. Finral, take them to their \Ndestination with your spatial magic.
+Dialogue: 0,0:06:33.07,0:06:34.64,main,Yami,0000,0000,0000,,Then we're even.
+Dialogue: 0,0:06:34.64,0:06:37.09,main,Yami,0000,0000,0000,,I'm gonna take a dump and go to bed.
+Dialogue: 0,0:06:37.09,0:06:38.18,main,Finral,0000,0000,0000,,Sure.
+Dialogue: 0,0:06:38.58,0:06:40.64,main,Fanzell,0000,0000,0000,,Thanks.
+Dialogue: 0,0:06:40.64,0:06:43.73,main,Fanzell,0000,0000,0000,,Well, if I stick around too long, \Nit'll make it harder to say goodbye.
+Dialogue: 0,0:06:44.24,0:06:45.44,main,Fanzell,0000,0000,0000,,See you, Asta.
+Dialogue: 0,0:06:45.44,0:06:48.75,main,Fanzell,0000,0000,0000,,It wasn't for very long, but I'm \Nglad I got to see you again.
+Dialogue: 0,0:06:48.75,0:06:51.09,main,Fanzell,0000,0000,0000,,Let's meet again. And make \Nsure you become the Wizard King!
+Dialogue: 0,0:06:51.09,0:06:54.34,main,Asta,0000,0000,0000,,Heck yeah! And you better \Nlive happily ever after!
+Dialogue: 0,0:07:00.50,0:07:01.62,main,Vanessa,0000,0000,0000,,Everyone, get down!
+Dialogue: 0,0:07:02.30,0:07:03.50,main,Charmy,0000,0000,0000,,La!
+Dialogue: 0,0:07:03.50,0:07:06.00,main,Luck,0000,0000,0000,,Whoa, what? Are we being attacked?
+Dialogue: 0,0:07:06.35,0:07:08.88,main,Fanzell,0000,0000,0000,,They're probably the assassins \Nwho were after me.
+Dialogue: 0,0:07:09.33,0:07:11.51,main,Fanzell,0000,0000,0000,,I'll leave immediately.
+Dialogue: 0,0:07:12.05,0:07:16.99,main,Yami,0000,0000,0000,,The hell is this? Who do I \Nneed to kill for this, and how?
+Dialogue: 0,0:07:22.61,0:07:24.02,main,Mariella,0000,0000,0000,,I don't see any movement.
+Dialogue: 0,0:07:24.60,0:07:29.03,main,Mariella,0000,0000,0000,,Knowing Instructor Fanzell, \NI thought he'd come straight out.
+Dialogue: 0,0:07:29.03,0:07:31.45,top,Galleo,0000,0000,0000,,Let's see how things play out.
+Dialogue: 0,0:07:31.21,0:07:37.72,sign_10911_127_Diamond_Kingdom_,Sign,0000,0000,0000,,{\fad(760,787)}Diamond Kingdom Assassination Squad Commander\N{\fs30}Galleo
+Dialogue: 0,0:07:31.45,0:07:35.13,top,Galleo,0000,0000,0000,,Squads 1 through 4,\Nmaintain formation and advance.
+Dialogue: 0,0:07:35.13,0:07:38.24,top,Galleo,0000,0000,0000,,Squads 5 and 6, stand by.
+Dialogue: 0,0:07:38.81,0:07:42.55,main,Galleo,0000,0000,0000,,Is that building some kind \Nof apartment complex?
+Dialogue: 0,0:07:42.55,0:07:45.45,main,Mariella,0000,0000,0000,,I'm not sure. I'm going now.
+Dialogue: 0,0:07:45.45,0:07:48.25,main,Mariella,0000,0000,0000,,Commander Galleo, could you \Nuse your spatial magic?
+Dialogue: 0,0:07:48.70,0:07:52.40,main,Galleo,0000,0000,0000,,For insurance, just in case this \Nsurprise attack fails, huh?
+Dialogue: 0,0:07:53.44,0:07:55.51,main,Galleo,0000,0000,0000,,I don't think that's necessary, but fine.
+Dialogue: 0,0:07:55.51,0:07:59.81,main,Galleo,0000,0000,0000,,We'd be a laughing stock if a \Nplan like this actually failed.
+Dialogue: 0,0:07:59.81,0:08:05.79,main,Galleo,0000,0000,0000,,What's with the glare? Did you\Nforget who let you live?
+Dialogue: 0,0:08:05.79,0:08:07.61,main,Mariella,0000,0000,0000,,I know I owe you my life.
+Dialogue: 0,0:08:08.04,0:08:09.44,main,Galleo,0000,0000,0000,,Don't forget it.
+Dialogue: 0,0:08:09.94,0:08:12.93,main,Mariella,0000,0000,0000,,So I'd like to give you some advice.
+Dialogue: 0,0:08:14.08,0:08:15.45,main,Mariella,0000,0000,0000,,My instructor...
+Dialogue: 0,0:08:15.91,0:08:17.70,main,Mariella,0000,0000,0000,,is very strong.
+Dialogue: 0,0:08:21.49,0:08:25.03,italics,Scout,0000,0000,0000,,Scout from Unit 1 reporting.\NWe're within twenty meters of the building.
+Dialogue: 0,0:08:25.03,0:08:26.42,main,Galleo,0000,0000,0000,,All right, prepare to attack.
+Dialogue: 0,0:08:30.63,0:08:32.51,main,Galleo,0000,0000,0000,,There's the target. Don't let\N him get away. After him!
+Dialogue: 0,0:08:36.13,0:08:40.05,main,Luck,0000,0000,0000,,Lightning Creation Magic: \NThunderbolt Destruction!
+Dialogue: 0,0:08:41.31,0:08:44.73,main,Magna,0000,0000,0000,,Flame Magic: Prison Death Scattershot!
+Dialogue: 0,0:08:50.82,0:08:54.71,main,Magna,0000,0000,0000,,Hey, what the hell? Our surprise \Nattack actually worked.
+Dialogue: 0,0:08:54.71,0:08:57.78,main,Magna,0000,0000,0000,,Maybe these guys aren't so strong after all.
+Dialogue: 0,0:08:58.19,0:09:01.46,main,Luck,0000,0000,0000,,That works for me. Looks like \Nthere are plenty of them,
+Dialogue: 0,0:09:01.46,0:09:04.58,main,Luck,0000,0000,0000,,so let's have them play with us \Nuntil their kneecaps shatter!
+Dialogue: 0,0:09:06.66,0:09:09.47,main,Galleo,0000,0000,0000,,Squads 1 and 2, continue pursuing the target.
+Dialogue: 0,0:09:09.47,0:09:11.14,main,Gauche,0000,0000,0000,,Are you the commander?
+Dialogue: 0,0:09:14.26,0:09:17.92,main,Gauche,0000,0000,0000,,I'm going to end this quickly \Nso I can go see Marie.
+Dialogue: 0,0:09:18.55,0:09:21.11,main,Gauche,0000,0000,0000,,Mirror Magic: Reflect Refrain!
+Dialogue: 0,0:09:23.47,0:09:25.86,main,Galleo,0000,0000,0000,,Wh-What is this magic?
+Dialogue: 0,0:09:33.25,0:09:35.94,main,Yami,0000,0000,0000,,Guess I'll get things started.
+Dialogue: 0,0:09:43.12,0:09:48.81,main,Yami,0000,0000,0000,,Darkness Magic: Dark Cloaked Lightless Slash!
+Dialogue: 0,0:09:54.80,0:09:59.63,main,Charmy,0000,0000,0000,,None shall ever lay a finger on my food.
+Dialogue: 0,0:10:02.42,0:10:06.26,main,Yami,0000,0000,0000,,Don't go too overboard.\NMake sure you leave some for me.
+Dialogue: 0,0:10:06.80,0:10:08.31,italics,Galleo,0000,0000,0000,,That water barrier...
+Dialogue: 0,0:10:09.30,0:10:11.91,italics,Galleo,0000,0000,0000,,It wasn't created to stop our attacks,
+Dialogue: 0,0:10:11.91,0:10:15.00,italics,Galleo,0000,0000,0000,,but so their own magic \Nwouldn't destroy the place.
+Dialogue: 0,0:10:17.23,0:10:18.58,main,Fanzell,0000,0000,0000,,You the commander?
+Dialogue: 0,0:10:18.58,0:10:20.21,main,Galleo,0000,0000,0000,,You're Fanzell!
+Dialogue: 0,0:10:20.21,0:10:22.00,main,Galleo,0000,0000,0000,,Don't! You can't lay a finger on me!
+Dialogue: 0,0:10:22.00,0:10:23.83,main,Galleo,0000,0000,0000,,Don't you care what happens to the hostage?
+Dialogue: 0,0:10:23.83,0:10:25.49,main,Fanzell,0000,0000,0000,,Hostage? Who?
+Dialogue: 0,0:10:25.49,0:10:28.98,main,Galleo,0000,0000,0000,,Dominante Code...\N Mariella's heading to her now.
+Dialogue: 0,0:10:30.11,0:10:33.70,main,Galleo,0000,0000,0000,,Did you think we didn't \Nknow where Code was hiding?
+Dialogue: 0,0:10:33.70,0:10:35.18,main,Galleo,0000,0000,0000,,Now, let go of me, or—
+Dialogue: 0,0:10:35.18,0:10:37.58,main,Fanzell,0000,0000,0000,,Man, the captain's amazing.
+Dialogue: 0,0:10:37.58,0:10:39.97,main,Fanzell,0000,0000,0000,,To think he was exactly \Nright about what's going on.
+Dialogue: 0,0:10:40.34,0:10:41.55,main,Galleo,0000,0000,0000,,What?
+Dialogue: 0,0:10:41.55,0:10:43.88,main,Fanzell,0000,0000,0000,,My teammates are heading out to protect
+Dialogue: 0,0:10:43.88,0:10:46.34,main,Fanzell,0000,0000,0000,,Domina via spatial magic as we speak.
+Dialogue: 0,0:10:46.34,0:10:48.77,main,Fanzell,0000,0000,0000,,They've probably already found her.
+Dialogue: 0,0:10:48.77,0:10:50.58,main,Galleo,0000,0000,0000,,Wh-Who are you?
+Dialogue: 0,0:10:56.77,0:11:00.53,main,Domina,0000,0000,0000,,Just how long does it take you to \Ncome get me, you worthless fiancé?!
+Dialogue: 0,0:11:00.53,0:11:06.64,main,Domina,0000,0000,0000,,How dare you leave a delicate \Nflower like me alone for so long?!
+Dialogue: 0,0:11:07.49,0:11:13.96,sign_16097_181_MISSING,,0000,0000,0000,,{\fad(946,1)}Dominante Code
+Dialogue: 0,0:11:07.81,0:11:13.96,top,Domina,0000,0000,0000,,I... was so worried! I was \Nafraid you were hurt!
+Dialogue: 0,0:11:13.96,0:11:16.55,main,Finral,0000,0000,0000,,You're kind of hurting me right now...
+Dialogue: 0,0:11:16.55,0:11:18.52,main,Domina,0000,0000,0000,,Thank you, young lady.
+Dialogue: 0,0:11:18.52,0:11:22.07,main,Domina,0000,0000,0000,,I never thought you'd do this much for me \Njust because I gave you a little extra.
+Dialogue: 0,0:11:23.39,0:11:27.86,main,Domina,0000,0000,0000,,Looks like Bruce was right about you.
+Dialogue: 0,0:11:28.29,0:11:29.57,main,Noelle,0000,0000,0000,,I'm not so sure about that...
+Dialogue: 0,0:11:29.57,0:11:31.48,main,Domina,0000,0000,0000,,And you must be Asta.
+Dialogue: 0,0:11:31.48,0:11:33.47,main,Asta,0000,0000,0000,,Huh? How do you—
+Dialogue: 0,0:11:33.47,0:11:36.42,main,Domina,0000,0000,0000,,You look as gutsy as I've heard!
+Dialogue: 0,0:11:36.42,0:11:37.88,main,Asta,0000,0000,0000,,Who told you that?
+Dialogue: 0,0:11:37.88,0:11:38.90,main,Domina,0000,0000,0000,,Who?
+Dialogue: 0,0:11:49.67,0:11:51.20,main,Asta,0000,0000,0000,,You're Mariella!
+Dialogue: 0,0:11:56.25,0:11:58.47,main,Mariella,0000,0000,0000,,I won't do anything violent.
+Dialogue: 0,0:11:58.47,0:12:01.46,main,Mariella,0000,0000,0000,,What are you expecting a \Nsingle girl to do, anyway?
+Dialogue: 0,0:12:02.01,0:12:04.53,main,Asta,0000,0000,0000,,You and your buddies beat the \Ncrap out of your instructor!
+Dialogue: 0,0:12:04.53,0:12:06.26,main,Asta,0000,0000,0000,,You're probably plotting \Nthe same thing again!
+Dialogue: 0,0:12:06.26,0:12:10.01,main,Mariella,0000,0000,0000,,I mean no harm, \Nbut please allow me to use you.
+Dialogue: 0,0:12:10.42,0:12:11.22,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:11.22,0:12:12.60,main,Fanzell,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:12:12.60,0:12:16.64,main,Galleo,0000,0000,0000,,Ah, so you're the Black Bulls...
+Dialogue: 0,0:12:16.64,0:12:20.07,italics,Galleo,0000,0000,0000,,Did Mariella have us attack \Nwithout knowing who they were?
+Dialogue: 0,0:12:20.77,0:12:25.91,main,Asta,0000,0000,0000,,You had those guys attack the Black Bulls' \Nbase so we'd take care of them?
+Dialogue: 0,0:12:26.52,0:12:29.28,main,Mariella,0000,0000,0000,,While that was happening,\N I headed to the black market
+Dialogue: 0,0:12:29.28,0:12:32.24,main,Mariella,0000,0000,0000,,to tell Miss Domina that \Nthe instructor was coming,
+Dialogue: 0,0:12:32.24,0:12:34.45,main,Mariella,0000,0000,0000,,so we were getting prepared.
+Dialogue: 0,0:12:34.45,0:12:37.63,main,Mariella,0000,0000,0000,,Though I didn't think you'd get here so fast.
+Dialogue: 0,0:12:37.96,0:12:42.42,main,Mariella,0000,0000,0000,,I've drawn out a safe \Nescape route on this map.
+Dialogue: 0,0:12:42.42,0:12:44.92,main,Asta,0000,0000,0000,,Why are you doing this for us?
+Dialogue: 0,0:12:45.23,0:12:46.32,main,Fanzell,0000,0000,0000,,Mariella?
+Dialogue: 0,0:12:46.32,0:12:48.89,main,Mariella,0000,0000,0000,,Including the ones that \Nwere sent to the city,
+Dialogue: 0,0:12:48.89,0:12:52.11,main,Mariella,0000,0000,0000,,we'll be able to take care of \Nabout sixty assassins at once.
+Dialogue: 0,0:12:52.11,0:12:54.73,main,Mariella,0000,0000,0000,,On top of that, Instructor Fanzell and \NMiss Domina will be able to escape.
+Dialogue: 0,0:12:54.73,0:12:59.51,main,Mariella,0000,0000,0000,,I'm sure these incidents will set \Nthe organization back substantially.
+Dialogue: 0,0:12:59.92,0:13:03.81,main,Mariella,0000,0000,0000,,This is my revenge against the organization.
+Dialogue: 0,0:13:03.81,0:13:05.27,main,Asta,0000,0000,0000,,Revenge?
+Dialogue: 0,0:13:05.27,0:13:09.95,main,Mariella,0000,0000,0000,,Just like Instructor Fanzell... \NI'm tired of this job.
+Dialogue: 0,0:13:13.38,0:13:15.85,main,Mariella,0000,0000,0000,,But I'm also not prepared to be \Non the run for the rest of my life
+Dialogue: 0,0:13:15.85,0:13:17.84,main,Mariella,0000,0000,0000,,like Instructor Fanzell and Miss Domina.
+Dialogue: 0,0:13:17.84,0:13:20.67,main,Mariella,0000,0000,0000,,In the end, I decided to exact a huge revenge,
+Dialogue: 0,0:13:20.67,0:13:24.84,main,Mariella,0000,0000,0000,,then present myself to the \NClover Kingdom's Magic Knights.
+Dialogue: 0,0:13:24.84,0:13:26.97,main,Asta,0000,0000,0000,,You just... decided that?
+Dialogue: 0,0:13:27.48,0:13:31.18,main,Mariella,0000,0000,0000,,I was waiting for all of \Nthese circumstances to align.
+Dialogue: 0,0:13:31.18,0:13:32.55,main,Mariella,0000,0000,0000,,And then,
+Dialogue: 0,0:13:32.55,0:13:36.47,main,Mariella,0000,0000,0000,,I just happened to see Instructor Fanzell \Nbeing dragged into the Black Bulls' base.
+Dialogue: 0,0:13:36.47,0:13:40.19,main,Mariella,0000,0000,0000,,I thought if I got you involved, \Nyou'd annihilate the assassins.
+Dialogue: 0,0:13:40.19,0:13:42.53,main,Noelle,0000,0000,0000,,Did you, now?
+Dialogue: 0,0:13:42.53,0:13:44.27,main,Finral,0000,0000,0000,,You make it sound so easy.
+Dialogue: 0,0:13:44.83,0:13:48.82,main,Mariella,0000,0000,0000,,So please, capture me. Then this \Nwill end happily ever after.
+Dialogue: 0,0:13:49.19,0:13:52.41,main,Fanzell,0000,0000,0000,,Do you really think it'll work out that well?
+Dialogue: 0,0:13:53.15,0:13:58.14,main,Fanzell,0000,0000,0000,,Considering everything you've done,\N you'll probably be severely punished,
+Dialogue: 0,0:13:58.14,0:14:02.08,main,Fanzell,0000,0000,0000,,and you might face retaliation from the \Norganization while you're serving time.
+Dialogue: 0,0:14:02.58,0:14:04.39,main,Mariella,0000,0000,0000,,And that's perfectly fine.
+Dialogue: 0,0:14:04.39,0:14:07.09,main,Mariella,0000,0000,0000,,I'll be content with accepting \Nanything other than death.
+Dialogue: 0,0:14:08.87,0:14:15.56,main,Mariella,0000,0000,0000,,Remember when you said, "You're supposed \Nto find a reason to live for yourself"?
+Dialogue: 0,0:14:15.56,0:14:17.32,main,Asta,0000,0000,0000,,What about it?
+Dialogue: 0,0:14:17.32,0:14:19.14,main,Mariella,0000,0000,0000,,It was condescending. \NWho do you think you are?
+Dialogue: 0,0:14:19.14,0:14:19.94,main,Asta,0000,0000,0000,,Huh?!
+Dialogue: 0,0:14:20.25,0:14:22.90,main,Mariella,0000,0000,0000,,But your words resonated with me.
+Dialogue: 0,0:14:22.90,0:14:23.94,main,Mariella,0000,0000,0000,,You were really cool.
+Dialogue: 0,0:14:24.51,0:14:25.90,main,Asta,0000,0000,0000,,R-Really?
+Dialogue: 0,0:14:27.86,0:14:29.59,main,Mariella,0000,0000,0000,,The punishment I receive
+Dialogue: 0,0:14:29.59,0:14:33.67,main,Mariella,0000,0000,0000,,will be the cost for me to restart \Nand atone for everything I've done.
+Dialogue: 0,0:14:33.67,0:14:37.54,main,Mariella,0000,0000,0000,,That's why I believe I need to accept the\N punishment, no matter how severe it may be.
+Dialogue: 0,0:14:37.54,0:14:39.08,main,Fanzell,0000,0000,0000,,Mariella...
+Dialogue: 0,0:14:39.08,0:14:41.46,main,Galleo,0000,0000,0000,,I don't think so!
+Dialogue: 0,0:14:43.22,0:14:44.26,main,Mariella,0000,0000,0000,,Galleo!
+Dialogue: 0,0:14:44.26,0:14:47.25,main,Mariella,0000,0000,0000,,You're a commander,\Nand you deserted your squads?
+Dialogue: 0,0:14:47.25,0:14:48.21,main,Mariella,0000,0000,0000,,That's awful!
+Dialogue: 0,0:14:48.21,0:14:50.26,main,Galleo,0000,0000,0000,,You're the last person I \Nwant to hear that from!
+Dialogue: 0,0:14:50.26,0:14:52.02,main,Galleo,0000,0000,0000,,If you want to be executed so badly,
+Dialogue: 0,0:14:52.02,0:14:53.76,main,Galleo,0000,0000,0000,,I'll personally do it for you,\N right here, right now!
+Dialogue: 0,0:14:54.10,0:14:55.47,main,Mariella,0000,0000,0000,,Everyone, please run.
+Dialogue: 0,0:14:55.47,0:15:00.27,main,Mariella,0000,0000,0000,,He might not sound too dangerous, \Nbut his magic is a bit troublesome.
+Dialogue: 0,0:15:00.74,0:15:04.44,main,Galleo,0000,0000,0000,,Spatial Creation Magic: Unopening Red Room!
+Dialogue: 0,0:15:07.11,0:15:08.15,main,Noelle,0000,0000,0000,,Asta!
+Dialogue: 0,0:15:10.90,0:15:14.10,main,Galleo,0000,0000,0000,,Spatial Creation Magic: Crevice Men!
+Dialogue: 0,0:15:17.91,0:15:20.26,main,Asta,0000,0000,0000,,Who the heck are these creepy guys?
+Dialogue: 0,0:15:20.26,0:15:22.20,main,Asta,0000,0000,0000,,And what's this creepy room?
+Dialogue: 0,0:15:22.20,0:15:25.01,main,Mariella,0000,0000,0000,,This is a room that Galleo \Ncreated with magic,
+Dialogue: 0,0:15:25.01,0:15:29.03,main,Mariella,0000,0000,0000,,and those things are magic soldiers \Nthat he can only create in here.
+Dialogue: 0,0:15:29.03,0:15:32.61,main,Mariella,0000,0000,0000,,They're strong. But more importantly, \Nwhat were you doing?
+Dialogue: 0,0:15:32.61,0:15:35.57,main,Mariella,0000,0000,0000,,Why would you throw yourself in front of \Na spell without knowing the consequences?
+Dialogue: 0,0:15:36.08,0:15:39.20,main,Mariella,0000,0000,0000,,If that had been an attack spell, \Nyou might be dead right now.
+Dialogue: 0,0:15:39.20,0:15:40.35,main,Mariella,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:15:40.69,0:15:41.89,main,Fanzell,0000,0000,0000,,Stupid?
+Dialogue: 0,0:15:41.89,0:15:43.22,main,asta,0000,0000,0000,,Oh, shut up!
+Dialogue: 0,0:15:43.22,0:15:46.95,main,Asta,0000,0000,0000,,If it means just letting \Nsomeone die, I'd rather be stupid!
+Dialogue: 0,0:15:47.52,0:15:50.56,main,Asta,0000,0000,0000,,Not to mention, I'm not \Nthe same person anymore!
+Dialogue: 0,0:15:50.56,0:15:53.24,main,Asta,0000,0000,0000,,Now I'm Asta, a member of the \NMagic Knights squad, the Black Bulls!
+Dialogue: 0,0:15:53.57,0:15:55.34,main,Mariella,0000,0000,0000,,B-But I'm your enemy!
+Dialogue: 0,0:15:55.34,0:15:56.62,main,Asta,0000,0000,0000,,I don't care!
+Dialogue: 0,0:15:56.62,0:16:01.12,main,Asta,0000,0000,0000,,When there's someone in need, I can help \Nthem out as much as I want, whenever I want!
+Dialogue: 0,0:16:01.12,0:16:02.61,main,Asta,0000,0000,0000,,So take that!
+Dialogue: 0,0:16:04.59,0:16:08.38,main,Asta,0000,0000,0000,,Now that you get that, let me \Nsave you while you support me!
+Dialogue: 0,0:16:09.84,0:16:12.34,main,Fanzell,0000,0000,0000,,I can't be as big-hearted as him,
+Dialogue: 0,0:16:12.34,0:16:15.43,main,Fanzell,0000,0000,0000,,but I can't just sit back and watch \Nwhen my student's in trouble.
+Dialogue: 0,0:16:15.43,0:16:17.17,main,Fanzell,0000,0000,0000,,Let's work together and get through this!
+Dialogue: 0,0:16:18.05,0:16:21.18,main,Mariella,0000,0000,0000,,Get through this... Can we, though?
+Dialogue: 0,0:16:21.18,0:16:24.43,main,Asta,0000,0000,0000,,This is nothing!
+Dialogue: 0,0:16:27.26,0:16:29.28,main,Galleo,0000,0000,0000,,Th-These two...
+Dialogue: 0,0:16:30.63,0:16:32.31,main,Yami,0000,0000,0000,,Magic Knights HQ?
+Dialogue: 0,0:16:32.31,0:16:35.09,main,Yami,0000,0000,0000,,Hey, this is Yami from the Black Bulls.
+Dialogue: 0,0:16:35.09,0:16:40.53,main,Yami,0000,0000,0000,,I captured a bunch of troublemakers.\NCould you hurry and come get them?
+Dialogue: 0,0:16:42.61,0:16:45.17,main,Gauche,0000,0000,0000,,That guy had this many people after him?
+Dialogue: 0,0:16:45.17,0:16:49.01,main,Gauche,0000,0000,0000,,Who the hell is that Fanzell guy?
+Dialogue: 0,0:16:49.55,0:16:52.20,main,Yami,0000,0000,0000,,Fanzell? Wasn't his name Zell?
+Dialogue: 0,0:16:52.20,0:16:55.72,main,Gauche,0000,0000,0000,,Uh, Grey said that his real name is Fanzell.
+Dialogue: 0,0:16:58.25,0:16:59.05,main,Yami,0000,0000,0000,,Oh!
+Dialogue: 0,0:16:59.57,0:17:01.89,main,Yami,0000,0000,0000,,He's Fanzell Kruger.
+Dialogue: 0,0:17:01.89,0:17:05.16,main,Yami,0000,0000,0000,,He was one of the commanders of \Nthe Diamond Kingdom's armies.
+Dialogue: 0,0:17:05.16,0:17:08.40,main,Yami,0000,0000,0000,,I met him a long time ago during a battle.
+Dialogue: 0,0:17:09.01,0:17:10.11,main,Gauche,0000,0000,0000,,Captain...
+Dialogue: 0,0:17:10.53,0:17:15.47,main,Yami,0000,0000,0000,,I'd heard he became an instructor for \Nother soldiers, but he must've defected.
+Dialogue: 0,0:17:15.47,0:17:18.53,main,Yami,0000,0000,0000,,So that's why all these guys were after him.
+Dialogue: 0,0:17:19.17,0:17:21.73,main,Gauche,0000,0000,0000,,You're making this sound \Nlike it's not our problem...
+Dialogue: 0,0:17:22.56,0:17:28.15,main,Gauche,0000,0000,0000,,Wait, does that mean we ended up \Naiding a major enemy's escape?
+Dialogue: 0,0:17:28.15,0:17:29.54,main,Yami,0000,0000,0000,,That'd be correct.
+Dialogue: 0,0:17:30.59,0:17:31.60,main,Yami,0000,0000,0000,,Hey, Gauche...
+Dialogue: 0,0:17:32.18,0:17:33.36,main,Gauche,0000,0000,0000,,Yes, sir?
+Dialogue: 0,0:17:33.36,0:17:35.38,main,Yami,0000,0000,0000,,Don't mention this to anyone.
+Dialogue: 0,0:17:35.91,0:17:38.88,main,Gauche,0000,0000,0000,,I won't tell a soul, so please give \Nme a week of Marie vacation.
+Dialogue: 0,0:17:38.88,0:17:41.68,main,Yami,0000,0000,0000,,You're only allowed to see her \Nonce a month, aren't you?
+Dialogue: 0,0:17:41.68,0:17:46.81,main,Gauche,0000,0000,0000,,I'll spend 168 hours of the week staring at\N Marie in such a way that I won't get caught!
+Dialogue: 0,0:17:46.81,0:17:49.31,main,Yami,0000,0000,0000,,Oh, for crying out loud...
+Dialogue: 0,0:17:50.07,0:17:54.62,italics,Nar,0000,0000,0000,,And so, the mysterious incident in \Nwhich the Black Bulls' base got attacked
+Dialogue: 0,0:17:54.62,0:17:57.06,italics,Nar,0000,0000,0000,,came to an end.
+Dialogue: 0,0:18:02.62,0:18:05.06,main,Domina,0000,0000,0000,,Are you sure it's all right for us to leave?
+Dialogue: 0,0:18:05.55,0:18:10.08,main,Fanzell,0000,0000,0000,,I have a feeling we'd be causing you \Ntrouble if we just disappeared.
+Dialogue: 0,0:18:10.43,0:18:14.48,main,Asta,0000,0000,0000,,Captain Yami didn't seem to \Ncare about that, so it's fine.
+Dialogue: 0,0:18:14.48,0:18:16.29,main,Asta,0000,0000,0000,,Right, Finral?
+Dialogue: 0,0:18:16.29,0:18:17.84,main,Finral,0000,0000,0000,,Y-Y-Yeah, sure...
+Dialogue: 0,0:18:18.16,0:18:19.57,italics,Finral,0000,0000,0000,,I'm pretty sure it's not fine!
+Dialogue: 0,0:18:19.57,0:18:21.89,italics,Finral,0000,0000,0000,,I have a really bad feeling about this.
+Dialogue: 0,0:18:22.23,0:18:24.35,main,Asta,0000,0000,0000,,And are you guys sure you \Nwant to take that brat
+Dialogue: 0,0:18:24.35,0:18:26.60,main,Asta,0000,0000,0000,,with the terrible personality with you?
+Dialogue: 0,0:18:26.60,0:18:29.66,main,Mariella,0000,0000,0000,,I didn't choose to have\N this terrible personality.
+Dialogue: 0,0:18:29.66,0:18:35.71,main,Domina,0000,0000,0000,,I heard that they were going to try to \Nkidnap me, but she put a stop to that.
+Dialogue: 0,0:18:36.38,0:18:38.10,main,Domina,0000,0000,0000,,And if you think about it,
+Dialogue: 0,0:18:38.10,0:18:40.88,main,Domina,0000,0000,0000,,she's the reason I was able\N to be reunited with Zell.
+Dialogue: 0,0:18:42.71,0:18:45.20,main,Noelle,0000,0000,0000,,I'm not sure if you're just too nice, or...
+Dialogue: 0,0:18:46.13,0:18:48.94,main,Mariella,0000,0000,0000,,Honestly, you're all pushovers.
+Dialogue: 0,0:18:48.94,0:18:51.82,main,Mariella,0000,0000,0000,,That's why I can trick you all so easily.
+Dialogue: 0,0:18:51.82,0:18:54.96,main,Mariella,0000,0000,0000,,Besides, I didn't ask you to do all of this.
+Dialogue: 0,0:18:54.96,0:18:57.75,main,mariella,0000,0000,0000,,Even if I don't have help \Nfrom you pushovers...
+Dialogue: 0,0:18:57.75,0:18:59.84,main,Noelle,0000,0000,0000,,You can survive on your own?
+Dialogue: 0,0:18:59.84,0:19:02.15,main,Noelle,0000,0000,0000,,Just like you have been?
+Dialogue: 0,0:19:03.38,0:19:07.67,main,Noelle,0000,0000,0000,,It's actually a lot easier to carry \Nall the burden yourself, isn't it?
+Dialogue: 0,0:19:07.67,0:19:10.37,main,Noelle,0000,0000,0000,,You can just tell yourself that as long as \Nyou can get through it, you'll be fine.
+Dialogue: 0,0:19:10.37,0:19:12.74,main,Noelle,0000,0000,0000,,And you don't have to think \Nabout everyone around you,
+Dialogue: 0,0:19:12.74,0:19:14.86,main,Noelle,0000,0000,0000,,so you don't have to think \Nabout anything else.
+Dialogue: 0,0:19:16.56,0:19:19.51,main,Noelle,0000,0000,0000,,But that's not possible anymore.
+Dialogue: 0,0:19:19.51,0:19:22.16,main,Noelle,0000,0000,0000,,When people care for you,
+Dialogue: 0,0:19:22.16,0:19:25.03,main,Noelle,0000,0000,0000,,none of your problems are \Njust your own anymore.
+Dialogue: 0,0:19:28.42,0:19:31.71,main,Noelle,0000,0000,0000,,You have to think about them, too.
+Dialogue: 0,0:19:31.71,0:19:33.59,main,Noelle,0000,0000,0000,,So I hope you suffer.
+Dialogue: 0,0:19:35.44,0:19:38.05,main,Mariella,0000,0000,0000,,You seem to have a terrible \Npersonality yourself.
+Dialogue: 0,0:19:38.45,0:19:41.22,main,Noelle,0000,0000,0000,,I don't want people to think I \Nhave a good personality, anyway.
+Dialogue: 0,0:19:41.22,0:19:42.52,main,Noelle,0000,0000,0000,,Hmph!
+Dialogue: 0,0:19:42.52,0:19:45.46,main,Fanzell,0000,0000,0000,,Well, if we linger too long,\N the goodbyes will be—
+Dialogue: 0,0:19:46.05,0:19:48.60,main,Asta,0000,0000,0000,,Stop getting all emotional!
+Dialogue: 0,0:19:48.60,0:19:49.84,main,Asta,0000,0000,0000,,Go on, old man!
+Dialogue: 0,0:19:49.84,0:19:52.79,main,Asta,0000,0000,0000,,Time flows differently for \Nthose who actually try
+Dialogue: 0,0:19:52.79,0:19:54.72,main,Asta,0000,0000,0000,,to get stuff done and \Nthose who don't, right?
+Dialogue: 0,0:19:54.72,0:19:58.29,main,Asta,0000,0000,0000,,So get going, and make Domina happy!
+Dialogue: 0,0:19:58.29,0:19:59.91,main,Fanzell,0000,0000,0000,,Yeah, I will.
+Dialogue: 0,0:19:59.91,0:20:03.57,main,Fanzell,0000,0000,0000,,I won't waste this precious \Ntime that's been given to me.
+Dialogue: 0,0:20:03.57,0:20:07.87,main,Fanzell,0000,0000,0000,,From now on, I'll do my best \Nto live along with these two.
+Dialogue: 0,0:20:07.87,0:20:09.37,main,Asta,0000,0000,0000,,That's the spirit!
+Dialogue: 0,0:20:11.94,0:20:13.88,main,Fanzell,0000,0000,0000,,I'll write you a letter once \Neverything settles down.
+Dialogue: 0,0:20:13.88,0:20:16.05,main,Asta,0000,0000,0000,,Sure! Take care!
+Dialogue: 0,0:20:16.05,0:20:19.80,main,Fanzell,0000,0000,0000,,So, uh... I hate to ask \Nat a time like this...
+Dialogue: 0,0:20:20.72,0:20:23.65,main,Fanzell,0000,0000,0000,,But you know how I lost all \Nmy belongings to the assassins
+Dialogue: 0,0:20:23.65,0:20:26.76,main,Fanzell,0000,0000,0000,,right before you guys hauled \Nme off to your hideout?
+Dialogue: 0,0:20:29.12,0:20:30.58,main,Asta,0000,0000,0000,,Don't tell me...
+Dialogue: 0,0:20:30.58,0:20:33.31,main,Fanzell,0000,0000,0000,,Could you lend me some money?
+Dialogue: 0,0:20:34.58,0:20:38.22,main,asta,0000,0000,0000,,I never should've saved you!
+Dialogue: 0,0:20:38.22,0:20:44.07,italics,Nar,0000,0000,0000,,This was how Fanzell, Domina, \NMariella, and the Black Bulls met.
+Dialogue: 0,0:20:45.07,0:20:48.90,italics,Nar,0000,0000,0000,,And currently, Noelle and \NFinral have come to visit Fanzell
+Dialogue: 0,0:20:48.90,0:20:51.99,italics,Nar,0000,0000,0000,,in search of a way to heal Asta's arms.
+Dialogue: 0,0:20:51.99,0:20:54.18,main,Noelle,0000,0000,0000,,Domina, Mariella, how have you be—
+Dialogue: 0,0:20:54.18,0:20:57.92,main,Domina,0000,0000,0000,,You worthless husband! Would you fix \Nyour bad habit of getting naked already?!
+Dialogue: 0,0:20:57.92,0:21:00.69,main,Fanzell,0000,0000,0000,,Hey, stop! That's something I can't control!
+Dialogue: 0,0:21:00.69,0:21:04.67,main,Mariella,0000,0000,0000,,This house is already pretty run-down. \NCould you not mess it up more?
+Dialogue: 0,0:21:07.07,0:21:09.99,main,Fanzell,0000,0000,0000,,I see... So something like \Nthat happened to Asta?
+Dialogue: 0,0:21:09.99,0:21:13.01,main,Domina,0000,0000,0000,,He's been through a lot \Nfor someone so young.
+Dialogue: 0,0:21:13.51,0:21:16.31,main,Mariella,0000,0000,0000,,His streak of bad luck is quite \Nthe contrast to his height.
+Dialogue: 0,0:21:16.31,0:21:21.77,main,Noelle,0000,0000,0000,,Do you have any ideas on how to fix \NAsta's arms? Even if it's just a rumor?
+Dialogue: 0,0:21:22.98,0:21:24.88,main,Fanzell,0000,0000,0000,,An ancient curse, huh?
+Dialogue: 0,0:21:25.41,0:21:26.95,main,Domina,0000,0000,0000,,There's one thing I can think of.
+Dialogue: 0,0:21:28.11,0:21:30.03,main,Domina,0000,0000,0000,,My home, the Witches' Forest.
+Dialogue: 0,0:21:30.40,0:21:31.74,main,Noelle,0000,0000,0000,,The Witches' Forest?
+Dialogue: 0,0:21:32.39,0:21:34.50,main,Domina,0000,0000,0000,,With the magic of the queen there...
+Dialogue: 0,0:21:45.03,0:21:46.26,main,Vanessa,0000,0000,0000,,Hey!
+Dialogue: 0,0:21:46.26,0:21:48.15,main,Vanessa,0000,0000,0000,,The smartest witch to ever grace this world
+Dialogue: 0,0:21:48.15,0:21:50.51,main,Vanessa,0000,0000,0000,,since the creation of the \Nland of witches is back!
+Dialogue: 0,0:21:50.51,0:21:53.03,main,Vanessa,0000,0000,0000,,I need something, so open up!
+Dialogue: 0,0:23:35.67,0:23:38.08,main,Finral,0000,0000,0000,,We might be able to fix Asta's arms!
+Dialogue: 0,0:23:38.08,0:23:40.25,main,Finral,0000,0000,0000,,All right! Let's infiltrate \Nthe Witches' Forest!
+Dialogue: 0,0:23:40.25,0:23:42.55,main,Finral,0000,0000,0000,,Ooh, so many pretty witchies!
+Dialogue: 0,0:23:42.55,0:23:44.55,main,Finral,0000,0000,0000,,I'm gonna infiltrate that girl's heart!
+Dialogue: 0,0:23:44.55,0:23:47.46,main,Finral,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 57: "Infiltration."
+Dialogue: 0,0:23:45.50,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 57\N\N{\fs18} Infiltration
+Dialogue: 0,0:23:47.46,0:23:49.96,main,Finral,0000,0000,0000,,I'm going to fill your heart with me!

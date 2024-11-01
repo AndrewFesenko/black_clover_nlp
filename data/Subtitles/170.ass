@@ -1,0 +1,311 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H000400D6,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:01:24.91,0:01:28.19,Ep Title,Sign,0000,0000,0000,,{\t(1,1134,\c&H0900AD&)}The Faraway Future
+Dialogue: 0,0:01:37.14,0:01:40.20,italics,Liebe,0000,0000,0000,,Devils are born in the underworld.
+Dialogue: 0,0:01:40.20,0:01:44.44,italics,Liebe,0000,0000,0000,,From the moment they're born, devils have \Nan established spot in the pecking order
+Dialogue: 0,0:01:44.44,0:01:46.87,italics,Liebe,0000,0000,0000,,that cannot be overturned.
+Dialogue: 0,0:01:47.42,0:01:52.34,italics,Liebe,0000,0000,0000,,Since I was born with no magic, \NI was definitely at the very bottom.
+Dialogue: 0,0:01:50.91,0:01:52.34,flashbacktop,Devil 2,0000,0000,0000,,How do you like that?
+Dialogue: 0,0:01:52.34,0:01:54.84,italics,Liebe,0000,0000,0000,,I spent every day covered in my own blood.
+Dialogue: 0,0:01:55.42,0:01:58.91,flashback,Devil 2,0000,0000,0000,,You're so weak, we can't \Neven kill time with you.
+Dialogue: 0,0:01:58.91,0:02:00.93,flashback,Devil 1,0000,0000,0000,,If only {\i1}that{\i0} didn't exist.
+Dialogue: 0,0:02:01.36,0:02:05.93,italics,Liebe,0000,0000,0000,,All devils want to go to the human world.
+Dialogue: 0,0:02:06.42,0:02:09.65,italics,Liebe,0000,0000,0000,,But because the gates of the \Nunderworld block their way,
+Dialogue: 0,0:02:09.91,0:02:12.52,italics,Liebe,0000,0000,0000,,the powerful oppress the weak,
+Dialogue: 0,0:02:12.52,0:02:16.63,italics,Liebe,0000,0000,0000,,and then the weak oppress those \Nwho are even weaker to pass the time.
+Dialogue: 0,0:02:16.63,0:02:18.49,italics,Liebe,0000,0000,0000,,That's how shitty that world is.
+Dialogue: 0,0:02:19.10,0:02:22.78,flashback,Higher devil,0000,0000,0000,,Go on. Cry and scream like you usually do.
+Dialogue: 0,0:02:22.78,0:02:25.33,italics,Liebe,0000,0000,0000,,I didn't care about anything anymore.
+Dialogue: 0,0:02:25.33,0:02:27.77,italics,Liebe,0000,0000,0000,,Not even about dying.
+Dialogue: 0,0:02:28.70,0:02:31.58,flashback,Higher devil,0000,0000,0000,,Why, you little... Who do you think you are?!
+Dialogue: 0,0:02:35.62,0:02:40.01,italics,Liebe,0000,0000,0000,,I thought I'd crash into the gates, \Nand my body would shatter into pieces.
+Dialogue: 0,0:02:50.24,0:02:54.98,italics,Liebe,0000,0000,0000,,But because I had no magic, \NI slipped right through the gates
+Dialogue: 0,0:02:54.98,0:02:57.45,italics,Liebe,0000,0000,0000,,and actually ended up in the human world.
+Dialogue: 0,0:02:58.49,0:03:00.82,italics,Liebe,0000,0000,0000,,Maybe it was because I had \Nno magic and was helpless...
+Dialogue: 0,0:03:01.24,0:03:03.95,italics,Liebe,0000,0000,0000,,Or maybe it was because I was so beat-up...
+Dialogue: 0,0:03:03.95,0:03:08.05,italics,Liebe,0000,0000,0000,,But I had no feelings toward \Nthe humans whatsoever.
+Dialogue: 0,0:03:08.05,0:03:09.08,italics,Liebe,0000,0000,0000,,However...
+Dialogue: 0,0:03:09.08,0:03:12.21,flashback,Middle aged man,0000,0000,0000,,Look over there! Those horns... Could he be...
+Dialogue: 0,0:03:12.51,0:03:14.34,flashback,Mother,0000,0000,0000,,A devil! He's going to curse us!
+Dialogue: 0,0:03:14.57,0:03:16.48,flashback,Young man,0000,0000,0000,,We need to contact the Magic Knights!
+Dialogue: 0,0:03:18.50,0:03:22.78,italics,Liebe,0000,0000,0000,,Because I'm a devil, I was chased down \Nby humans with powerful magic.
+Dialogue: 0,0:03:22.78,0:03:27.60,italics,Liebe,0000,0000,0000,,My body stopped moving, \Nand I was ready to accept my death.
+Dialogue: 0,0:03:30.84,0:03:35.88,flashbackitalics,Liebe,0000,0000,0000,,At last... this worthless life will be over.
+Dialogue: 0,0:03:43.95,0:03:47.66,flashback,Licita,0000,0000,0000,,Hey, you're awake? Oh, thank goodness!
+Dialogue: 0,0:03:47.98,0:03:50.58,flashback,Licita,0000,0000,0000,,My name is Licita. Nice to meet you!
+Dialogue: 0,0:03:51.26,0:03:53.04,flashback,Licita,0000,0000,0000,,This is my house.
+Dialogue: 0,0:03:53.42,0:03:58.55,flashback,Licita,0000,0000,0000,,Don't worry. No one else knows you're here.
+Dialogue: 0,0:03:59.08,0:04:00.65,flashback,Licita,0000,0000,0000,,This is my magic.
+Dialogue: 0,0:04:03.60,0:04:08.09,flashback,Licita,0000,0000,0000,,As long as something lacks mana, I can \Nput it into and take it out of containers.
+Dialogue: 0,0:04:08.57,0:04:12.81,flashback,Licita,0000,0000,0000,,I found you while I was gathering \Nfirewood and carried you back in this.
+Dialogue: 0,0:04:13.47,0:04:15.81,flashback,Licita,0000,0000,0000,,But talk about a surprise!
+Dialogue: 0,0:04:16.34,0:04:20.24,flashback,Licita,0000,0000,0000,,The other day, I found a \Nfive-leaf-clover grimoire,
+Dialogue: 0,0:04:20.24,0:04:23.32,flashback,Licita,0000,0000,0000,,but I didn't think I'd \Nactually run into a devil!
+Dialogue: 0,0:04:24.18,0:04:27.66,flashback,Liebe,0000,0000,0000,,You're... not scared of me?
+Dialogue: 0,0:04:29.15,0:04:32.34,flashback,Licita,0000,0000,0000,,Why would I be scared of an injured child?
+Dialogue: 0,0:04:32.34,0:04:34.90,flashback,Licita,0000,0000,0000,,Besides, you don't have \Nany magic, and you're so weak.
+Dialogue: 0,0:04:36.16,0:04:38.67,flashback,Liebe,0000,0000,0000,,Still, I'm a devil.
+Dialogue: 0,0:04:38.67,0:04:40.48,flashback,Licita,0000,0000,0000,,Tsk, tsk, tsk...
+Dialogue: 0,0:04:40.48,0:04:44.20,flashback,Licita,0000,0000,0000,,I can give you a run for your money \Nwhen it comes to being loathed.
+Dialogue: 0,0:04:46.38,0:04:51.36,flashback,Licita,0000,0000,0000,,My body robs magic and life \Nfrom whatever's near me.
+Dialogue: 0,0:04:51.36,0:04:52.65,flashback,Licita,0000,0000,0000,,Just like that.
+Dialogue: 0,0:04:53.36,0:04:59.11,flashback,Licita,0000,0000,0000,,So I live out here by myself, away from \Nthe village, so I won't bother anyone.
+Dialogue: 0,0:04:59.82,0:05:00.98,flashback,Licita,0000,0000,0000,,But wait!
+Dialogue: 0,0:05:01.73,0:05:04.51,flashback,Licita,0000,0000,0000,,Maybe it's because you're \Na devil without any magic,
+Dialogue: 0,0:05:04.51,0:05:06.88,flashback,Licita,0000,0000,0000,,but it looks like I'm not \Nstealing away your mana or life.
+Dialogue: 0,0:05:07.41,0:05:08.49,flashback,Licita,0000,0000,0000,,Don't you think...
+Dialogue: 0,0:05:08.80,0:05:10.74,flashback,Licita,0000,0000,0000,,this is destiny?!
+Dialogue: 0,0:05:10.74,0:05:13.25,flashback,Licita,0000,0000,0000,,You should totally be my kid!
+Dialogue: 0,0:05:13.95,0:05:14.75,flashback,Liebe,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:15.26,0:05:17.92,italics,Liebe,0000,0000,0000,,A devil... adopted as a human's child?
+Dialogue: 0,0:05:17.92,0:05:21.24,italics,Liebe,0000,0000,0000,,I couldn't wrap my head \Naround what she was saying.
+Dialogue: 0,0:05:21.24,0:05:22.13,italics,Liebe,0000,0000,0000,,But...
+Dialogue: 0,0:05:26.18,0:05:27.93,flashback,Licita,0000,0000,0000,,Come on! This way!
+Dialogue: 0,0:05:29.53,0:05:32.25,flashback,Licita,0000,0000,0000,,Woo-hoo! Dinner secured!
+Dialogue: 0,0:05:33.52,0:05:35.18,italics,Liebe,0000,0000,0000,,That human...
+Dialogue: 0,0:05:36.27,0:05:37.75,flashback,Licita,0000,0000,0000,,Isn't this beautiful?
+Dialogue: 0,0:05:37.75,0:05:38.94,flashback,Liebe,0000,0000,0000,,Yeah...
+Dialogue: 0,0:05:38.94,0:05:42.15,italics,Liebe,0000,0000,0000,,For someone like me who was \Nborn in a dark, shitty hellhole,
+Dialogue: 0,0:05:42.65,0:05:46.53,italics,Liebe,0000,0000,0000,,tormented for being a devil with no magic,
+Dialogue: 0,0:05:46.53,0:05:49.44,italics,Liebe,0000,0000,0000,,and who cursed the fact that I was ever born...
+Dialogue: 0,0:05:49.44,0:05:52.73,italics,Liebe,0000,0000,0000,,She changed my world.
+Dialogue: 0,0:05:56.45,0:06:01.20,flashback,Licita,0000,0000,0000,,Just because you're a devil doesn't \Nautomatically make you a bad guy!
+Dialogue: 0,0:06:01.20,0:06:02.00,flashback,Licita,0000,0000,0000,,Because...
+Dialogue: 0,0:06:03.16,0:06:05.38,flashback,Licita,0000,0000,0000,,You're not a bad guy!
+Dialogue: 0,0:06:05.70,0:06:09.29,flashback,Licita,0000,0000,0000,,You saved me from the \Nsuffering of being all alone.
+Dialogue: 0,0:06:09.73,0:06:11.39,flashback,Licita,0000,0000,0000,,Thanks, Liebe!
+Dialogue: 0,0:06:12.38,0:06:14.64,flashback,Liebe,0000,0000,0000,,I... did... that?
+Dialogue: 0,0:06:17.98,0:06:20.66,flashback,Licita,0000,0000,0000,,Liebe! What's wrong, Liebe?!
+Dialogue: 0,0:06:22.63,0:06:24.29,flashback,Liebe,0000,0000,0000,,I... am...
+Dialogue: 0,0:06:25.31,0:06:27.44,flashback,Lucifero,0000,0000,0000,,Lucifero!
+Dialogue: 0,0:06:28.74,0:06:31.76,flashback,Lucifero,0000,0000,0000,,To think there'd be a devil \Nout in the human world
+Dialogue: 0,0:06:31.76,0:06:35.22,flashback,Lucifero,0000,0000,0000,,without making a contract with a human.
+Dialogue: 0,0:06:35.22,0:06:38.16,flashback,Lucifero,0000,0000,0000,,I'm glad I decided to kill \Nsome time looking for you.
+Dialogue: 0,0:06:38.16,0:06:41.26,flashbackitalics,Liebe,0000,0000,0000,,One of the highest-ranked devils?
+Dialogue: 0,0:06:41.26,0:06:44.17,flashbackitalics,Liebe,0000,0000,0000,,My body won't do what I want it to...
+Dialogue: 0,0:06:44.17,0:06:46.66,flashback,Lucifero,0000,0000,0000,,What an excellent find!
+Dialogue: 0,0:06:46.66,0:06:52.20,flashback,Lucifero,0000,0000,0000,,I'll use him and try to find a way to \Nmanifest my own body in the human wor—
+Dialogue: 0,0:06:53.14,0:06:56.43,flashback,Licita,0000,0000,0000,,Who the heck are you?! Get out of Liebe's body!
+Dialogue: 0,0:06:56.43,0:06:58.49,flashback,Lucifero,0000,0000,0000,,Foolish human.
+Dialogue: 0,0:06:58.49,0:07:02.66,flashback,Lucifero,0000,0000,0000,,Even though I cannot use most of my powers,\N you're still no match for...
+Dialogue: 0,0:07:04.02,0:07:06.86,flashbackitalics,Lucifero,0000,0000,0000,,She's... draining my mana?
+Dialogue: 0,0:07:07.31,0:07:11.12,flashback,Lucifero,0000,0000,0000,,Insolent human... You must have a death wish!
+Dialogue: 0,0:07:11.12,0:07:12.32,flashback,Liebe,0000,0000,0000,,No...
+Dialogue: 0,0:07:12.77,0:07:13.82,flashback,Licita,0000,0000,0000,,I won't let go!
+Dialogue: 0,0:07:21.92,0:07:24.10,flashback,Licita,0000,0000,0000,,I'm never...
+Dialogue: 0,0:07:25.20,0:07:26.49,flashback,Licita,0000,0000,0000,,letting go again!
+Dialogue: 0,0:07:35.00,0:07:36.20,flashback,Licita,0000,0000,0000,,I won't...
+Dialogue: 0,0:07:37.85,0:07:39.13,flashback,Licita,0000,0000,0000,,I won't let you...
+Dialogue: 0,0:07:40.28,0:07:41.85,flashback,Licita,0000,0000,0000,,take my son!
+Dialogue: 0,0:07:44.30,0:07:48.42,flashback,Lucifero,0000,0000,0000,,Inconceivable... To think a human \Nlike her would get in my way...
+Dialogue: 0,0:07:48.42,0:07:53.57,flashback,Lucifero,0000,0000,0000,,But I can meddle with a lower devil anywhere.
+Dialogue: 0,0:07:53.57,0:07:55.23,flashback,Lucifero,0000,0000,0000,,I shall return.
+Dialogue: 0,0:07:59.07,0:08:01.38,flashback,Liebe,0000,0000,0000,,L-Licita...
+Dialogue: 0,0:08:03.63,0:08:08.24,flashback,Licita,0000,0000,0000,,I'm sorry... I'm not very bright...
+Dialogue: 0,0:08:09.07,0:08:14.84,flashback,Licita,0000,0000,0000,,This was the only way I could think \Nof to protect you from that guy.
+Dialogue: 0,0:08:15.53,0:08:19.64,flashback,Licita,0000,0000,0000,,I'm going to use my magic to \Nseal you into this grimoire.
+Dialogue: 0,0:08:20.54,0:08:26.77,flashback,Licita,0000,0000,0000,,By the time you emerge, I'm sure \Nyou'll have grown big and strong.
+Dialogue: 0,0:08:31.90,0:08:35.24,flashback,Licita,0000,0000,0000,,Live, Liebe...
+Dialogue: 0,0:08:36.32,0:08:38.76,flashback,Licita,0000,0000,0000,,My beloved son.
+Dialogue: 0,0:08:46.86,0:08:48.29,flashback,Liebe,0000,0000,0000,,Mom!
+Dialogue: 0,0:09:04.57,0:09:06.06,main,Liebe,0000,0000,0000,,Hurry up...
+Dialogue: 0,0:09:06.06,0:09:08.65,main,Liebe,0000,0000,0000,,and hand over that body!
+Dialogue: 0,0:09:11.57,0:09:15.35,italics,Asta,0000,0000,0000,,This ki... is filled with an \Ninsane amount of rage and hatred.
+Dialogue: 0,0:09:15.88,0:09:17.02,italics,Asta,0000,0000,0000,,And...
+Dialogue: 0,0:09:17.02,0:09:18.15,italics,Asta,0000,0000,0000,,Sadness.
+Dialogue: 0,0:09:19.46,0:09:22.74,main,Asta,0000,0000,0000,,You must have your reasons, too.
+Dialogue: 0,0:09:24.03,0:09:27.92,main,Asta,0000,0000,0000,,Then I'll accept your feelings and fight...
+Dialogue: 0,0:09:28.49,0:09:30.01,main,Asta,0000,0000,0000,,And I'll win!
+Dialogue: 0,0:09:41.47,0:09:42.76,main,Liebe,0000,0000,0000,,You can't be serious!
+Dialogue: 0,0:09:42.76,0:09:47.10,main,Liebe,0000,0000,0000,,You're missing an arm and don't \Nhave any magic! Like you could win!
+Dialogue: 0,0:09:51.86,0:09:55.49,main,Asta,0000,0000,0000,,I'm totally serious! \NI'm gonna win with these muscles!
+Dialogue: 0,0:09:57.97,0:10:00.90,italics,Nacht,0000,0000,0000,,The true nature of the \Nanti-magic that the devil uses
+Dialogue: 0,0:10:00.90,0:10:03.10,italics,Nacht,0000,0000,0000,,is the power to nullify magic.
+Dialogue: 0,0:10:03.10,0:10:07.54,italics,Nacht,0000,0000,0000,,Since Asta can't use magic anyway, \Nthis doesn't put him at a disadvantage.
+Dialogue: 0,0:10:07.77,0:10:08.75,italics,Nacht,0000,0000,0000,,But...
+Dialogue: 0,0:10:12.43,0:10:15.90,main,Liebe,0000,0000,0000,,That's great, but I'm not losing!
+Dialogue: 0,0:10:17.26,0:10:18.98,italics,Asta,0000,0000,0000,,Captain Yami's katana!
+Dialogue: 0,0:10:20.43,0:10:25.33,main,Liebe,0000,0000,0000,,Without my powers, these would \Njust be rusted hunks of metal!
+Dialogue: 0,0:10:35.73,0:10:38.68,main,Liebe,0000,0000,0000,,No matter how physically skilled you are,
+Dialogue: 0,0:10:38.68,0:10:42.28,main,Liebe,0000,0000,0000,,you don't have any magic, \Nso you can't use spatial transfer!
+Dialogue: 0,0:10:42.65,0:10:45.29,main,Liebe,0000,0000,0000,,And you can't shatter steel!
+Dialogue: 0,0:10:49.71,0:10:54.75,main,Liebe,0000,0000,0000,,You'd stand no chance against a \Nhigher devil's magical powers!
+Dialogue: 0,0:10:54.75,0:10:57.93,main,Liebe,0000,0000,0000,,You'd never be able to win!
+Dialogue: 0,0:10:59.23,0:11:04.60,italics,Liebe,0000,0000,0000,,I was sealed within the five-leaf \Ngrimoire and unable to escape.
+Dialogue: 0,0:11:04.60,0:11:07.43,flashback,Liebe,0000,0000,0000,,They won't get away with this...\NI'll kill them.
+Dialogue: 0,0:11:07.43,0:11:10.25,flashback,Liebe,0000,0000,0000,,I'll kill all of them!
+Dialogue: 0,0:11:10.25,0:11:11.35,flashback,Liebe,0000,0000,0000,,I hate them...
+Dialogue: 0,0:11:11.78,0:11:12.58,flashback,Liebe,0000,0000,0000,,I'll kill them!
+Dialogue: 0,0:11:12.58,0:11:17.82,italics,Liebe,0000,0000,0000,,So I spent all of my time cursing \NLucifero and the other devils, and then...
+Dialogue: 0,0:11:18.98,0:11:23.57,italics,Liebe,0000,0000,0000,,I gained the power of anti-magic, \Nthe power to nullify magic.
+Dialogue: 0,0:11:24.74,0:11:28.44,flashback,Liebe,0000,0000,0000,,I'm going to use my powers to get revenge!
+Dialogue: 0,0:11:32.74,0:11:38.96,italics,Liebe,0000,0000,0000,,And that was when the five-leaf \Ngrimoire chose a human.
+Dialogue: 0,0:11:38.96,0:11:44.27,italics,Liebe,0000,0000,0000,,By some twist of fate, \Nhe was also born with no magic.
+Dialogue: 0,0:11:44.27,0:11:46.81,italics,Liebe,0000,0000,0000,,It looks like I'll have to \Nuse this human as a host
+Dialogue: 0,0:11:46.81,0:11:50.68,italics,Liebe,0000,0000,0000,,to come back out into the human world again.
+Dialogue: 0,0:11:51.48,0:11:55.10,italics,Liebe,0000,0000,0000,,Even if I have to steal \Nhis body, I'm going to...
+Dialogue: 0,0:11:56.39,0:12:00.45,main,Liebe,0000,0000,0000,,Every single devil is a piece of shit!
+Dialogue: 0,0:12:00.45,0:12:04.14,main,Liebe,0000,0000,0000,,And that's exactly why I'm going \Nto kill every last one of them!
+Dialogue: 0,0:12:04.14,0:12:10.16,main,Liebe,0000,0000,0000,,Even if I have to steal your body,\N my hatred is going to win!
+Dialogue: 0,0:12:12.70,0:12:16.56,main,Asta,0000,0000,0000,,I'm finally starting to understand you.
+Dialogue: 0,0:12:16.56,0:12:19.88,main,Asta,0000,0000,0000,,That must be how you really feel!
+Dialogue: 0,0:12:20.90,0:12:22.13,main,Liebe,0000,0000,0000,,What are you—
+Dialogue: 0,0:12:32.38,0:12:38.22,main,Liebe,0000,0000,0000,,You can't use magic or anti-magic... \NSo what the hell can you possibly do?!
+Dialogue: 0,0:12:51.72,0:12:53.74,main,Asta,0000,0000,0000,,As long as I concentrated and read your ki,
+Dialogue: 0,0:12:53.74,0:12:56.63,main,Asta,0000,0000,0000,,your movements with those swords \Nwere super easy to read!
+Dialogue: 0,0:12:58.51,0:13:01.10,main,Asta,0000,0000,0000,,You're right. I don't have any magic.
+Dialogue: 0,0:13:01.10,0:13:04.05,main,Asta,0000,0000,0000,,And without you, I can't even use anti-magic.
+Dialogue: 0,0:13:04.05,0:13:09.85,main,Asta,0000,0000,0000,,But I have strong, unbeatable feelings,\Nalong with all the people I've met!
+Dialogue: 0,0:13:10.75,0:13:14.98,main,Asta,0000,0000,0000,,I was taken in at the church at \NHage Village the same day as Yuno,
+Dialogue: 0,0:13:15.40,0:13:17.93,main,Asta,0000,0000,0000,,and I didn't have a lick of mana.
+Dialogue: 0,0:13:17.93,0:13:20.38,main,Asta,0000,0000,0000,,On top of that, Yuno's hot and a genius!
+Dialogue: 0,0:13:20.38,0:13:25.94,main,Asta,0000,0000,0000,,But still, he's my rival, and we promised \Nto see who would become the Wizard King!
+Dialogue: 0,0:13:25.94,0:13:29.88,main,Asta,0000,0000,0000,,And that's exactly why I was able to keep \Ngetting stronger so I wouldn't lose!
+Dialogue: 0,0:13:30.59,0:13:34.05,main,Asta,0000,0000,0000,,Because I met Captain Yami \Nat the entrance exam...
+Dialogue: 0,0:13:34.05,0:13:36.13,main,Asta,0000,0000,0000,,Because I met the rest of the Black Bulls...
+Dialogue: 0,0:13:36.13,0:13:37.61,main,Asta,0000,0000,0000,,I am who I am today!
+Dialogue: 0,0:13:38.59,0:13:40.08,main,Asta,0000,0000,0000,,That's not all!
+Dialogue: 0,0:13:40.08,0:13:43.24,main,Asta,0000,0000,0000,,I've met so many people up until now!
+Dialogue: 0,0:13:44.06,0:13:46.59,main,Asta,0000,0000,0000,,I fought so many enemies.
+Dialogue: 0,0:13:47.12,0:13:50.30,main,Asta,0000,0000,0000,,Some of them even became \Nmy friends after we fought,
+Dialogue: 0,0:13:50.81,0:13:55.59,main,Asta,0000,0000,0000,,and some didn't... but I won't forget them!\N I won't forget any of them!
+Dialogue: 0,0:13:55.59,0:13:59.35,main,Asta,0000,0000,0000,,All of these encounters \Nhelped make me who I am!
+Dialogue: 0,0:13:59.93,0:14:02.40,flashback,Julius,0000,0000,0000,,Merit that proves they are the best.
+Dialogue: 0,0:14:02.72,0:14:05.86,flashback,Yuno,0000,0000,0000,,Why are you taking forever \Nover there, Asta?
+Dialogue: 0,0:14:06.10,0:14:08.20,flashback,Yami,0000,0000,0000,,I can't win this one without you...
+Dialogue: 0,0:14:08.53,0:14:09.70,flashback,Yami,0000,0000,0000,,Asta!
+Dialogue: 0,0:14:22.97,0:14:23.88,italics,Liebe,0000,0000,0000,,This little...
+Dialogue: 0,0:14:49.00,0:14:54.92,main,Asta,0000,0000,0000,,Even after the five-leaf grimoire appeared, \Nand I was able to use anti-magic...
+Dialogue: 0,0:14:54.92,0:14:56.03,main,Asta,0000,0000,0000,,This whole time!
+Dialogue: 0,0:14:57.36,0:14:59.19,main,Asta,0000,0000,0000,,In order to be like
+Dialogue: 0,0:14:59.19,0:15:04.50,main,Asta,0000,0000,0000,,all of the magical swordsmen\NI'd fought alongside and against...
+Dialogue: 0,0:15:04.85,0:15:07.01,main,Asta,0000,0000,0000,,I kept training!
+Dialogue: 0,0:15:32.25,0:15:34.78,main,Yami,0000,0000,0000,,Is that your limit?
+Dialogue: 0,0:15:34.78,0:15:38.04,main,Yami,0000,0000,0000,,I know you can do better than that, Asta!
+Dialogue: 0,0:15:38.35,0:15:39.20,main,Asta,0000,0000,0000,,Yeah!
+Dialogue: 0,0:15:43.98,0:15:47.40,italics,Nacht,0000,0000,0000,,No matter how hard you train, \Nyour body still has limits.
+Dialogue: 0,0:15:47.90,0:15:50.65,italics,Nacht,0000,0000,0000,,You still don't stand a chance \Nagainst powerful magic.
+Dialogue: 0,0:15:50.65,0:15:51.63,italics,Nacht,0000,0000,0000,,But...
+Dialogue: 0,0:15:52.65,0:15:55.23,italics,Nacht,0000,0000,0000,,It looks like all that hard \Nwork wasn't for naught.
+Dialogue: 0,0:16:01.68,0:16:06.94,main,Asta,0000,0000,0000,,You're not just fighting against \Nsome guy who can't use magic.
+Dialogue: 0,0:16:07.75,0:16:10.56,main,Asta,0000,0000,0000,,You're fighting against a guy \Nwho can't use magic...
+Dialogue: 0,0:16:10.56,0:16:12.95,main,Asta,0000,0000,0000,,and has fought against countless \Npowerful warriors!
+Dialogue: 0,0:16:14.73,0:16:18.45,italics,Liebe,0000,0000,0000,,There's no way I can lose... \NI spent so much time cursing them!
+Dialogue: 0,0:16:18.86,0:16:20.86,italics,Liebe,0000,0000,0000,,All alone...
+Dialogue: 0,0:16:21.49,0:16:22.29,italics,Liebe,0000,0000,0000,,All—
+Dialogue: 0,0:16:44.89,0:16:47.72,main,Asta,0000,0000,0000,,I... win!
+Dialogue: 0,0:16:57.36,0:16:58.44,main,Nacht,0000,0000,0000,,Well done.
+Dialogue: 0,0:17:00.78,0:17:03.58,main,Nacht,0000,0000,0000,,Now the preparations for the \Ndevil-binding ritual are complete.
+Dialogue: 0,0:17:04.09,0:17:07.71,main,Nacht,0000,0000,0000,,You will make a contract with this devil that \Ngives you complete dominance over him,
+Dialogue: 0,0:17:07.71,0:17:09.56,main,Nacht,0000,0000,0000,,and you will make him your servant.
+Dialogue: 0,0:17:10.17,0:17:11.71,main,Nacht,0000,0000,0000,,Just think, "Obey me."
+Dialogue: 0,0:17:11.71,0:17:15.82,main,Nacht,0000,0000,0000,,Then he will follow your every order.
+Dialogue: 0,0:17:15.82,0:17:18.34,main,Nacht,0000,0000,0000,,He'll be able to aid you as your familiar.
+Dialogue: 0,0:17:19.08,0:17:22.22,main,Nacht,0000,0000,0000,,That is the path you should take \Nto become the ultimate warrior.
+Dialogue: 0,0:17:23.65,0:17:25.66,main,Asta,0000,0000,0000,,I see. In that case...
+Dialogue: 0,0:17:32.57,0:17:35.11,main,Asta,0000,0000,0000,,Let's be friends!
+Dialogue: 0,0:17:37.19,0:17:37.99,main,Nacht,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:39.40,0:17:42.62,main,Asta,0000,0000,0000,,What? Devils don't even \Nknow what friends are?
+Dialogue: 0,0:17:42.62,0:17:45.62,main,Asta,0000,0000,0000,,Friends are like, uh...
+Dialogue: 0,0:17:45.88,0:17:50.79,main,Nacht,0000,0000,0000,,Hold on a second. Are you trying to \Nmake an equal contract with that devil?
+Dialogue: 0,0:17:51.06,0:17:51.86,main,Asta,0000,0000,0000,,Yeah!
+Dialogue: 0,0:17:52.70,0:17:58.26,main,Asta,0000,0000,0000,,I said this before we fought, but he's \Nthe reason I was able to fight until now!
+Dialogue: 0,0:17:58.52,0:18:03.06,main,Asta,0000,0000,0000,,But I didn't know anything about him, \Neven though we'd been together all that time.
+Dialogue: 0,0:18:03.06,0:18:05.58,main,Asta,0000,0000,0000,,I want to know even more about him!
+Dialogue: 0,0:18:05.58,0:18:07.77,main,Asta,0000,0000,0000,,So first, we need to be friends!
+Dialogue: 0,0:18:09.03,0:18:10.99,main,Nacht,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:18:10.99,0:18:15.06,main,Nacht,0000,0000,0000,,There's no guarantee that \Nthis devil will listen to you.
+Dialogue: 0,0:18:15.06,0:18:19.48,main,Nacht,0000,0000,0000,,There's not a single merit \Nin a contract like that.
+Dialogue: 0,0:18:19.48,0:18:20.49,main,Asta,0000,0000,0000,,Nah, I mean...
+Dialogue: 0,0:18:20.78,0:18:23.91,main,Asta,0000,0000,0000,,He wasn't fighting seriously to begin with.
+Dialogue: 0,0:18:24.67,0:18:28.71,main,Asta,0000,0000,0000,,He kept saying "kill" and stuff, \Nbut he was definitely holding back.
+Dialogue: 0,0:18:29.29,0:18:31.57,main,Asta,0000,0000,0000,,You can't actually kill anyone, can you?
+Dialogue: 0,0:18:32.12,0:18:35.90,main,Asta,0000,0000,0000,,You're someone who can hate or be \Nsad for someone else's sake, right?
+Dialogue: 0,0:18:36.46,0:18:38.27,main,Asta,0000,0000,0000,,That's why we can get along!
+Dialogue: 0,0:18:38.27,0:18:41.22,main,Asta,0000,0000,0000,,And that's why I want us to be equals!
+Dialogue: 0,0:18:42.69,0:18:44.84,main,Asta,0000,0000,0000,,This isn't a devil-binding ritual.
+Dialogue: 0,0:18:44.84,0:18:48.23,main,Asta,0000,0000,0000,,It's, uh... Oh! A devil-befriending ritual!
+Dialogue: 0,0:18:49.69,0:18:52.96,main,Gimodero,0000,0000,0000,,He's a real idiot, Mister Nacht.
+Dialogue: 0,0:18:53.39,0:18:54.77,main,Nacht,0000,0000,0000,,He sure is.
+Dialogue: 0,0:18:55.18,0:18:59.20,main,Asta,0000,0000,0000,,And it seems like we want to \Ntake down the same guys!
+Dialogue: 0,0:19:00.64,0:19:03.11,main,Asta,0000,0000,0000,,Let's beat down the bad guys together!
+Dialogue: 0,0:19:03.11,0:19:04.20,main,Asta,0000,0000,0000,,You and me!
+Dialogue: 0,0:19:07.14,0:19:11.40,main,Liebe,0000,0000,0000,,Yeah, I can't believe how \Nunbelievably stupid you are.
+Dialogue: 0,0:19:12.75,0:19:16.82,italics,Liebe,0000,0000,0000,,I don't know if destiny \Nactually exists... But he's...
+Dialogue: 0,0:19:16.82,0:19:20.18,main,Asta,0000,0000,0000,,Hey, by the way, what's your name?
+Dialogue: 0,0:19:20.62,0:19:23.90,flashback,Licita,0000,0000,0000,,Hey, by the way, what's your name?
+Dialogue: 0,0:19:24.78,0:19:26.01,flashback,Liebe,0000,0000,0000,,Name?
+Dialogue: 0,0:19:26.01,0:19:27.93,flashback,Licita,0000,0000,0000,,What? You don't have one?
+Dialogue: 0,0:19:27.93,0:19:30.95,flashback,Licita,0000,0000,0000,,Then maybe I'll just give you one myself!
+Dialogue: 0,0:19:34.09,0:19:35.04,flashback,Licita,0000,0000,0000,,Liebe!
+Dialogue: 0,0:19:35.04,0:19:36.95,flashback,Licita,0000,0000,0000,,Starting today, you're Liebe!
+Dialogue: 0,0:19:39.18,0:19:40.95,italics,Liebe,0000,0000,0000,,He really is...
+Dialogue: 0,0:19:44.14,0:19:46.17,italics,Liebe,0000,0000,0000,,Licita's kid.
+Dialogue: 0,0:19:48.33,0:19:50.96,main,Liebe,0000,0000,0000,,I'm... Liebe.
+Dialogue: 0,0:20:02.08,0:20:03.39,main,Asta,0000,0000,0000,,The heck is this thing?
+Dialogue: 0,0:20:06.21,0:20:08.43,main,Asta,0000,0000,0000,,My right arm is back!
+Dialogue: 0,0:20:08.43,0:20:10.66,main,Asta,0000,0000,0000,,Thanks so much!
+Dialogue: 0,0:20:10.66,0:20:12.30,main,Nacht,0000,0000,0000,,The contract is complete.
+Dialogue: 0,0:20:12.99,0:20:16.76,main,Nacht,0000,0000,0000,,Unbelievable. That contract \Nwas unprecedented.
+Dialogue: 0,0:20:16.76,0:20:18.79,main,Nacht,0000,0000,0000,,I never imagined you'd be such a fool.
+Dialogue: 0,0:20:19.31,0:20:20.11,main,Nacht,0000,0000,0000,,However...
+Dialogue: 0,0:20:23.29,0:20:24.83,main,Nacht,0000,0000,0000,,You chose what was right.
+Dialogue: 0,0:20:27.24,0:20:31.21,main,Nacht,0000,0000,0000,,But that doesn't mean people who \Nare right will always be rewarded.
+Dialogue: 0,0:20:31.82,0:20:33.25,main,Nacht,0000,0000,0000,,So you need to get stronger,
+Dialogue: 0,0:20:33.85,0:20:35.90,main,Nacht,0000,0000,0000,,to keep yourself from losing to unjust evil.
+Dialogue: 0,0:20:37.58,0:20:41.26,main,Nacht,0000,0000,0000,,Are you prepared to become the \Nstrongest in the next two days?
+Dialogue: 0,0:20:41.63,0:20:42.43,main,Asta,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:52.22,0:20:55.85,italics,Noelle,0000,0000,0000,,Loropechika... I'm going to \Nsave you, no matter what.
+Dialogue: 0,0:20:56.73,0:20:58.90,main,Noelle,0000,0000,0000,,Okay, everyone! Let's do this!
+Dialogue: 0,0:21:12.40,0:21:13.41,italics,Finral,0000,0000,0000,,We're gonna do this.
+Dialogue: 0,0:21:14.07,0:21:16.14,italics,Finral,0000,0000,0000,,If the enemy is tremendously strong,
+Dialogue: 0,0:21:16.14,0:21:18.32,italics,Finral,0000,0000,0000,,then we'll just surpass our limits!
+Dialogue: 0,0:21:18.32,0:21:22.42,italics,Finral,0000,0000,0000,,Because we're the Black Bulls! Right, Yami?
+Dialogue: 0,0:22:11.21,0:22:13.64,italics,Yuno,0000,0000,0000,,I've been doing everything \NI can to defeat Zenon.
+Dialogue: 0,0:22:14.08,0:22:16.62,italics,Yuno,0000,0000,0000,,But as for the actual results...
+Dialogue: 0,0:22:17.98,0:22:21.45,main,Yuno,0000,0000,0000,,Why don't you stop hiding and just come out?
+Dialogue: 0,0:22:22.88,0:22:26.51,main,Langris,0000,0000,0000,,I thought maybe you could use someone \Nwith spatial magic to spar with.
+Dialogue: 0,0:22:26.96,0:22:30.68,main,Langris,0000,0000,0000,,I suppose I should help you \Nout with your training, huh?
+Dialogue: 0,0:22:32.97,0:22:35.65,main,Yuno,0000,0000,0000,,As much as I'd like to handle this on my own,
+Dialogue: 0,0:22:35.65,0:22:38.15,main,Yuno,0000,0000,0000,,this is something that affects \Nall of the Golden Dawn.
+Dialogue: 0,0:22:38.69,0:22:40.67,main,Yuno,0000,0000,0000,,You've become stronger, too, haven't you?
+Dialogue: 0,0:22:41.37,0:22:42.79,main,Yuno,0000,0000,0000,,So I will gladly accept your offer.
+Dialogue: 0,0:22:43.24,0:22:45.59,main,Langris,0000,0000,0000,,You're still an insolent brat,
+Dialogue: 0,0:22:45.59,0:22:48.17,main,Langris,0000,0000,0000,,but it looks like you're able to \Nbe a bit more straightforward now.
+Dialogue: 0,0:22:49.30,0:22:51.73,italics,Yuno,0000,0000,0000,,I'm going to save Captain Vangeance.
+Dialogue: 0,0:22:52.97,0:22:56.93,main,Asta,0000,0000,0000,,All right! Just wait, Captain Yami!
+Dialogue: 0,0:22:57.47,0:23:01.42,main,Asta,0000,0000,0000,,No matter how powerful they are,\N I'm gonna defeat them...
+Dialogue: 0,0:23:01.42,0:23:03.83,main,Asta,0000,0000,0000,,and protect this world!
+Dialogue: 0,0:23:06.86,0:23:13.32,italics,Nar,0000,0000,0000,,In this world where magic is everything, \Nthere was one boy who couldn't use magic.
+Dialogue: 0,0:23:14.17,0:23:17.46,italics,Nar,0000,0000,0000,,But he never let that hold him back.
+Dialogue: 0,0:23:17.46,0:23:20.04,italics,Nar,0000,0000,0000,,He trained through blood, sweat, and tears,
+Dialogue: 0,0:23:20.04,0:23:23.28,italics,Nar,0000,0000,0000,,and became stronger with his childhood rival...
+Dialogue: 0,0:23:24.02,0:23:27.59,italics,Nar,0000,0000,0000,,to one day become the Wizard King.

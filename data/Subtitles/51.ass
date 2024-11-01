@@ -1,0 +1,440 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0080,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,0030,0030,0018,1
+Style: sign_6809_77_Welcome_back__I_,Times New Roman,24,&H00F6F8F8,&H000000FF,&H00040908,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0070,1
+Style: sign_7188_87_I_even_bought_su,Times New Roman,24,&H00F6F8F8,&H000000FF,&H00040908,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0130,1
+Style: sign_16832_218_Clover_Kingdom,Times New Roman,20,&H000A1A2A,&H000000FF,&H00BFCBD6,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,7,0030,0428,0020,1
+Style: sign_16832_219_Kiten,Times New Roman,20,&H000A1A2A,&H000000FF,&H00BFCBD6,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,0214,0214,0020,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.71,0:00:07.13,italics,nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.06,0:00:15.29,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.43,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:30.46,0:00:36.06,italics,,0000,0000,0000,,We're being led far away
+Dialogue: 0,0:00:36.06,0:00:44.37,italics,,0000,0000,0000,,Until we shatter the road \Nbetween light and darkness
+Dialogue: 0,0:00:46.54,0:00:47.87,italics,,0000,0000,0000,,Yo Guess who's back
+Dialogue: 0,0:00:47.87,0:00:49.54,italics,,0000,0000,0000,,Everybody get down
+Dialogue: 0,0:00:49.54,0:00:50.54,italics,,0000,0000,0000,,Guess who's back
+Dialogue: 0,0:00:50.54,0:00:52.17,italics,,0000,0000,0000,,Hey step up step up!
+Dialogue: 0,0:01:00.07,0:01:02.81,Ep Title,Sign,0000,0000,0000,,{\fad(1,480)}Proof of Rightness
+Dialogue: 0,0:01:02.91,0:01:07.43,italics,,0000,0000,0000,,I'm falling down because of a twist of fate
+Dialogue: 0,0:01:07.43,0:01:11.58,italics,,0000,0000,0000,,The harmony we had is in the past
+Dialogue: 0,0:01:11.58,0:01:13.11,italics,,0000,0000,0000,,Still left behind
+Dialogue: 0,0:01:13.11,0:01:16.59,italics,,0000,0000,0000,,The scent of you is stuck in my head
+Dialogue: 0,0:01:16.59,0:01:18.40,italics,,0000,0000,0000,,Can't shake it
+Dialogue: 0,0:01:18.40,0:01:23.70,italics,,0000,0000,0000,,Waiting just isn't enough anymore, Yai yah!
+Dialogue: 0,0:01:22.41,0:01:24.55,italics,,0000,0000,0000,,Hey Guess Who is back!?
+Dialogue: 0,0:01:24.55,0:01:27.75,italics,,0000,0000,0000,,As I hold on to my wish
+Dialogue: 0,0:01:27.75,0:01:29.74,italics,,0000,0000,0000,,Hey Guess Who is back!?
+Dialogue: 0,0:01:29.74,0:01:32.96,italics,,0000,0000,0000,,The roulette points to tomorrow
+Dialogue: 0,0:01:32.96,0:01:35.02,italics,,0000,0000,0000,,Hey Guess Who is back!?
+Dialogue: 0,0:01:35.02,0:01:38.34,italics,,0000,0000,0000,,Let the light shine
+Dialogue: 0,0:01:38.34,0:01:40.31,italics,,0000,0000,0000,,Hey Guess Who is back!?
+Dialogue: 0,0:01:40.31,0:01:43.39,italics,,0000,0000,0000,,In the dark maze
+Dialogue: 0,0:01:43.71,0:01:45.74,italics,,0000,0000,0000,,Hey Guess Who is back!?
+Dialogue: 0,0:01:48.85,0:01:50.56,italics,,0000,0000,0000,,Hey Guess Who is back!?
+Dialogue: 0,0:01:53.15,0:01:55.62,italics,,0000,0000,0000,,Until we seize the hope in front of us
+Dialogue: 0,0:02:02.20,0:02:04.95,main,Julius,0000,0000,0000,,To tell you the truth, \Nwhen we were interrogating
+Dialogue: 0,0:02:04.95,0:02:06.95,main,Julius,0000,0000,0000,,the two Eye of the Midnight Sun members,
+Dialogue: 0,0:02:06.95,0:02:08.16,main,Julius,0000,0000,0000,,they told us one more thing.
+Dialogue: 0,0:02:08.62,0:02:12.02,main,Julius,0000,0000,0000,,Asta, do you remember the stone \Ntablet back at their hideout
+Dialogue: 0,0:02:12.02,0:02:15.34,main,Julius,0000,0000,0000,,when you were taken by them?
+Dialogue: 0,0:02:15.75,0:02:16.90,main,Asta,0000,0000,0000,,That thing...
+Dialogue: 0,0:02:16.90,0:02:21.38,main,Julius,0000,0000,0000,,They call the stones that were \Nset into it "magic stones."
+Dialogue: 0,0:02:21.38,0:02:23.38,main,Julius,0000,0000,0000,,They believe that if they \Ncollect all of them,
+Dialogue: 0,0:02:23.38,0:02:26.93,main,Julius,0000,0000,0000,,they will be reborn into their true forms,
+Dialogue: 0,0:02:26.93,0:02:30.10,main,Julius,0000,0000,0000,,which are linked closely to mana, \Nand gain enormous power.
+Dialogue: 0,0:02:31.39,0:02:33.52,main,Julius,0000,0000,0000,,There are three magic stones left.
+Dialogue: 0,0:02:33.97,0:02:37.47,main,Julius,0000,0000,0000,,They know the location of one of them.
+Dialogue: 0,0:02:37.47,0:02:39.53,main,Yami,0000,0000,0000,,Yeah? And where's that?
+Dialogue: 0,0:02:40.23,0:02:41.79,main,Julius,0000,0000,0000,,In a strong magic region...
+Dialogue: 0,0:02:41.79,0:02:44.12,main,Julius,0000,0000,0000,,The Underwater Temple.
+Dialogue: 0,0:02:44.71,0:02:48.43,main,Yami,0000,0000,0000,,So you want us to get there before \Nthe Eye of the Midnight Sun does
+Dialogue: 0,0:02:48.43,0:02:51.62,main,Yami,0000,0000,0000,,and snatch the magic stone or whatever?
+Dialogue: 0,0:02:51.62,0:02:52.82,main,Julius,0000,0000,0000,,That's right.
+Dialogue: 0,0:02:52.82,0:02:56.40,main,Julius,0000,0000,0000,,This is an important mission. \NThe best squad for the job
+Dialogue: 0,0:02:56.40,0:02:59.99,main,Julius,0000,0000,0000,,is the one with lots of members who aren't \Nrestricted by familial or social status...
+Dialogue: 0,0:02:59.99,0:03:02.13,main,Julius,0000,0000,0000,,Which means your Black Bulls, Yami.
+Dialogue: 0,0:03:02.96,0:03:04.63,main,Julius,0000,0000,0000,,Will you do it?
+Dialogue: 0,0:03:06.43,0:03:09.64,main,yami,0000,0000,0000,,I dealt with you in the end.
+Dialogue: 0,0:03:10.03,0:03:11.94,main,Yami,0000,0000,0000,,Hopefully, you can pass on now.
+Dialogue: 0,0:03:16.65,0:03:21.19,main,Gifso,0000,0000,0000,,Thank you from the bottom of my heart \Nfor saving our Underwater Temple!
+Dialogue: 0,0:03:21.19,0:03:23.57,main,Gifso,0000,0000,0000,,Thank you! Thank you!
+Dialogue: 0,0:03:24.24,0:03:26.03,main,Yami,0000,0000,0000,,All right, we'll be taking it.
+Dialogue: 0,0:03:26.59,0:03:28.65,main,Yami,0000,0000,0000,,This concludes our mission.
+Dialogue: 0,0:03:29.19,0:03:30.58,main,Yami,0000,0000,0000,,All of you...
+Dialogue: 0,0:03:32.72,0:03:33.87,main,Yami,0000,0000,0000,,Well done.
+Dialogue: 0,0:03:36.82,0:03:40.96,italics,Nar,0000,0000,0000,,The Black Bulls were given a \Nspecial mission by the Wizard King
+Dialogue: 0,0:03:40.96,0:03:44.79,italics,Nar,0000,0000,0000,,in which they fought hard against a \Nterrifying enemy, obtained a magic stone,
+Dialogue: 0,0:03:44.79,0:03:48.01,italics,Nar,0000,0000,0000,,and finally returned safely, \Nwithout losing a single member.
+Dialogue: 0,0:03:49.38,0:03:52.24,main,Asta,0000,0000,0000,,Great job, everyone!
+Dialogue: 0,0:03:52.24,0:03:54.81,main,Noelle,0000,0000,0000,,You're the most beat-up of all of us.
+Dialogue: 0,0:03:55.84,0:03:57.19,main,Finral,0000,0000,0000,,I'm so tired...
+Dialogue: 0,0:03:57.64,0:04:02.18,main,Gauche,0000,0000,0000,,Ah, Marie... I'm finally \Nback on land where you are.
+Dialogue: 0,0:04:02.18,0:04:05.32,main,Guache,0000,0000,0000,,I'm breathing the same air as Marie now...
+Dialogue: 0,0:04:06.45,0:04:08.64,main,Charmy,0000,0000,0000,,It's munchy time!
+Dialogue: 0,0:04:08.64,0:04:11.03,main,Charmy,0000,0000,0000,,My tummy always has room for fish and meat!
+Dialogue: 0,0:04:11.84,0:04:16.08,main,Vanessa,0000,0000,0000,,Nothing beats a drink, or a full \Nbottle, after a hard day's work!
+Dialogue: 0,0:04:16.70,0:04:19.60,main,Luck,0000,0000,0000,,The glory goes to all of \Nus Black Bulls, doesn't it?
+Dialogue: 0,0:04:19.60,0:04:21.71,main,Finral,0000,0000,0000,,We'll get a little closer \Nto positive stars again.
+Dialogue: 0,0:04:23.54,0:04:26.10,main,Magna,0000,0000,0000,,Maybe we're not a lost cause after all!
+Dialogue: 0,0:04:26.10,0:04:27.78,main,Finral,0000,0000,0000,,I say we might be getting closer,
+Dialogue: 0,0:04:27.78,0:04:31.22,main,Finral,0000,0000,0000,,but we're clearly still below \Nevery other Magic Knight squad.
+Dialogue: 0,0:04:31.22,0:04:32.89,main,Gauche,0000,0000,0000,,Hey, look.
+Dialogue: 0,0:04:34.34,0:04:36.67,main,Gauche,0000,0000,0000,,Oh, yeah. I forgot he wasn't with us.
+Dialogue: 0,0:04:36.67,0:04:39.73,main,Magna,0000,0000,0000,,Gordon... I totally forgot about him.
+Dialogue: 0,0:04:40.13,0:04:42.42,sign_6809_77_Welcome_back__I_,Gordon,0000,0000,0000,,Welcome back. I was so lonely...
+Dialogue: 0,0:04:40.95,0:04:43.33,top,Gauche,0000,0000,0000,,Hey, someone go talk to him.
+Dialogue: 0,0:04:42.75,0:04:43.55,sign_6809_77_Welcome_back__I_,Gordon,0000,0000,0000,,You guys are so mean.
+Dialogue: 0,0:04:43.33,0:04:44.91,top,Gauche,0000,0000,0000,,Is he sad?
+Dialogue: 0,0:04:43.71,0:04:45.63,sign_6809_77_Welcome_back__I_,Gordon,0000,0000,0000,,I can't believe you left me behind.
+Dialogue: 0,0:04:44.91,0:04:47.93,top,Magna,0000,0000,0000,,Nah, I think he's pissed. \NHe's, like, mumbling something.
+Dialogue: 0,0:04:46.30,0:04:47.59,sign_6809_77_Welcome_back__I_,Gordon,0000,0000,0000,,I wanted to go, too.
+Dialogue: 0,0:04:47.93,0:04:49.66,sign_6809_77_Welcome_back__I_,Gordon,0000,0000,0000,,I was looking forward to going so much.
+Dialogue: 0,0:04:50.26,0:04:52.72,main,Luck,0000,0000,0000,,Isn't he always mumbling?
+Dialogue: 0,0:04:52.72,0:04:55.66,main,Gauche,0000,0000,0000,,No idea... I have no idea what he's thinking.
+Dialogue: 0,0:04:55.93,0:04:58.69,sign_7188_87_I_even_bought_su,Gordon,0000,0000,0000,,I even bought sunscreen and a parasol.
+Dialogue: 0,0:04:59.40,0:05:00.35,sign_6809_77_Welcome_back__I_,Gordon,0000,0000,0000,,And you left me behind...
+Dialogue: 0,0:05:00.81,0:05:02.69,sign_6809_77_Welcome_back__I_,Gordon,0000,0000,0000,,I wanted to help at the Underwater Temple.
+Dialogue: 0,0:05:03.11,0:05:06.24,sign_7188_87_I_even_bought_su,Gordon,0000,0000,0000,,I wanted to fight alongside everyone else...
+Dialogue: 0,0:05:06.56,0:05:08.10,italics,Nar,0000,0000,0000,,Gordon Agrippa.
+Dialogue: 0,0:05:08.10,0:05:12.43,italics,Nar,0000,0000,0000,,He's a loner who just wants friends, \Nbut he can't seem to make any.
+Dialogue: 0,0:05:12.45,0:05:13.45,sign_6809_77_Welcome_back__I_,Gordon,0000,0000,0000,,No one even brought any gifts...
+Dialogue: 0,0:05:14.87,0:05:16.95,sign_7188_87_I_even_bought_su,Gordon,0000,0000,0000,,Tell me what happened at the Underwater Temple.
+Dialogue: 0,0:05:17.58,0:05:19.04,sign_6809_77_Welcome_back__I_,Gordon,0000,0000,0000,,I want to know what you all did.
+Dialogue: 0,0:05:19.58,0:05:20.88,sign_6809_77_Welcome_back__I_,Gordon,0000,0000,0000,,I want to record everything...
+Dialogue: 0,0:05:21.86,0:05:26.00,main,Yami,0000,0000,0000,,Well, I'm not looking forward to this, \Nbut I'm gonna go report to the Wizard King.
+Dialogue: 0,0:05:26.00,0:05:28.24,main,Yami,0000,0000,0000,,Charmy, you're coming \Nwith me. Bring the prisoners.
+Dialogue: 0,0:05:28.60,0:05:30.19,main,Charmy,0000,0000,0000,,Will there be yummy food?!
+Dialogue: 0,0:05:30.19,0:05:31.24,main,Yami,0000,0000,0000,,Nope.
+Dialogue: 0,0:05:32.27,0:05:33.91,main,Yami,0000,0000,0000,,Finral, transport us there.
+Dialogue: 0,0:05:33.91,0:05:35.12,main,Finral,0000,0000,0000,,Will there be pretty girls?!
+Dialogue: 0,0:05:35.43,0:05:36.34,main,Yami,0000,0000,0000,,Nope.
+Dialogue: 0,0:05:36.34,0:05:37.37,main,Finral,0000,0000,0000,,D'oh.
+Dialogue: 0,0:05:38.03,0:05:39.57,main,Gauche,0000,0000,0000,,Marie's an angel!
+Dialogue: 0,0:05:40.63,0:05:43.63,main,Asta,0000,0000,0000,,I-I wanna go, too! Please, sir, please!
+Dialogue: 0,0:05:44.42,0:05:47.09,main,Yami,0000,0000,0000,,You sure are full of energy.
+Dialogue: 0,0:05:47.09,0:05:50.84,main,Noelle,0000,0000,0000,,Hey, you need to get plenty \Nof rest so you can heal up.
+Dialogue: 0,0:05:51.20,0:05:56.89,main,Noelle,0000,0000,0000,,N-Not that I'm worried about you!\N Don't get the wrong idea!
+Dialogue: 0,0:05:56.89,0:05:58.89,main,Asta,0000,0000,0000,,What's the big idea, Noelle?!
+Dialogue: 0,0:05:59.43,0:06:02.15,main,Yami,0000,0000,0000,,You are pretty hurt. Just stay put, kid.
+Dialogue: 0,0:06:02.51,0:06:04.91,main,Yami,0000,0000,0000,,Or so I'd like to say,
+Dialogue: 0,0:06:04.91,0:06:08.95,main,Yami,0000,0000,0000,,but I guess you were with me when the \NWizard King gave us this mission.
+Dialogue: 0,0:06:08.95,0:06:10.61,main,Yami,0000,0000,0000,,Fine, come with.
+Dialogue: 0,0:06:10.61,0:06:11.86,main,Asta,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:06:12.47,0:06:14.74,main,Yami,0000,0000,0000,,Everyone else, make sure\Nyou get some rest...
+Dialogue: 0,0:06:14.74,0:06:17.50,main,Yami,0000,0000,0000,,Yeah, guess I don't need to tell you that.
+Dialogue: 0,0:06:19.06,0:06:19.85,sign_6809_77_Welcome_back__I_,Gordon,0000,0000,0000,,Take care.
+Dialogue: 0,0:06:22.77,0:06:25.12,main,Asta,0000,0000,0000,,You coming, too, Nero?
+Dialogue: 0,0:06:25.12,0:06:27.26,main,Asta,0000,0000,0000,,Come to think of it...
+Dialogue: 0,0:06:30.72,0:06:35.85,main,Asta,0000,0000,0000,,Didn't that thing you found at Saussy Village\N sorta look like a magic stone?
+Dialogue: 0,0:06:34.03,0:06:35.85,top,Finral,0000,0000,0000,,Asta!
+Dialogue: 0,0:06:35.85,0:06:36.85,main,Asta,0000,0000,0000,,Coming!
+Dialogue: 0,0:06:36.85,0:06:39.18,main,Finral,0000,0000,0000,,We're going! Hurry it up.
+Dialogue: 0,0:06:39.18,0:06:40.98,main,Yami,0000,0000,0000,,Quit wastin' time!
+Dialogue: 0,0:06:40.98,0:06:42.69,main,Asta,0000,0000,0000,,Sorry!
+Dialogue: 0,0:06:50.00,0:06:52.72,main,Asta,0000,0000,0000,,Man, this place is as stupidly huge as ever!
+Dialogue: 0,0:06:52.72,0:06:54.20,main,Yami,0000,0000,0000,,Shut up.
+Dialogue: 0,0:06:54.88,0:06:57.22,main,Yami,0000,0000,0000,,Good work, Finral.
+Dialogue: 0,0:06:56.85,0:06:57.88,main,Finral,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:57.22,0:06:59.39,main,Yami,0000,0000,0000,,You can go play until we come back.
+Dialogue: 0,0:06:59.39,0:07:01.18,main,Finral,0000,0000,0000,,What?! No fair!
+Dialogue: 0,0:07:01.18,0:07:03.19,main,Finral,0000,0000,0000,,I wanna meet the Wizard King, too!
+Dialogue: 0,0:07:03.19,0:07:06.02,main,Finral,0000,0000,0000,,I really am nothing but your ride now!
+Dialogue: 0,0:07:06.02,0:07:08.39,italics,Finral,0000,0000,0000,,But then again, it'd be more fun to go
+Dialogue: 0,0:07:08.39,0:07:10.66,italics,Finral,0000,0000,0000,,flirt with girls in the capital \Nthan to see the Wizard King.
+Dialogue: 0,0:07:10.66,0:07:11.97,main,Finral,0000,0000,0000,,See ya, guys!
+Dialogue: 0,0:07:11.97,0:07:15.09,main,Finral,0000,0000,0000,,Wait for me, cuties!
+Dialogue: 0,0:07:17.09,0:07:18.39,main,Julius,0000,0000,0000,,I see.
+Dialogue: 0,0:07:19.03,0:07:21.99,main,Julius,0000,0000,0000,,He was a member of the \NThird Eye, the strongest of
+Dialogue: 0,0:07:21.99,0:07:23.56,main,Julius,0000,0000,0000,,the Eye of the Midnight Sun, then?
+Dialogue: 0,0:07:23.96,0:07:26.27,main,Yami,0000,0000,0000,,His name was Vetto the Despair.
+Dialogue: 0,0:07:27.03,0:07:28.79,main,Julius,0000,0000,0000,,Despair, eh?
+Dialogue: 0,0:07:29.73,0:07:32.39,main,Julius,0000,0000,0000,,We'll send his corpse in for an autopsy
+Dialogue: 0,0:07:32.39,0:07:34.18,top,Teuke,0000,0000,0000,,I can't move! Let us go!
+Dialogue: 0,0:07:32.39,0:07:35.91,main,Julius,0000,0000,0000,,and interrogate the other \NEye of the Midnight Sun members.
+Dialogue: 0,0:07:34.18,0:07:35.91,top,Abari,0000,0000,0000,,Let us out!
+Dialogue: 0,0:07:35.91,0:07:37.33,main,Yami,0000,0000,0000,,Got it.
+Dialogue: 0,0:07:38.27,0:07:40.77,main,Julius,0000,0000,0000,,Your binding spell is fantastic.
+Dialogue: 0,0:07:40.77,0:07:42.62,main,Julius,0000,0000,0000,,That fluff is superb.
+Dialogue: 0,0:07:42.98,0:07:44.29,main,Charmy,0000,0000,0000,,Who are you?
+Dialogue: 0,0:07:44.29,0:07:47.63,main,Julius,0000,0000,0000,,By the way, Yami, is this \Nlittle one your child?
+Dialogue: 0,0:07:47.63,0:07:49.58,main,Julius,0000,0000,0000,,When did you end up with a kid this big?
+Dialogue: 0,0:07:49.58,0:07:50.56,main,Yami,0000,0000,0000,,She's not.
+Dialogue: 0,0:07:50.56,0:07:52.49,main,Charmy,0000,0000,0000,,Gimme something yummy.
+Dialogue: 0,0:07:52.49,0:07:53.91,main,Yami,0000,0000,0000,,But anyway...
+Dialogue: 0,0:07:53.91,0:07:54.95,main,,0000,0000,0000,,La!
+Dialogue: 0,0:07:54.95,0:07:55.93,main,Charmy,0000,0000,0000,,Safe!
+Dialogue: 0,0:07:56.51,0:07:58.55,main,Yami,0000,0000,0000,,Here's the magic stone.
+Dialogue: 0,0:08:02.23,0:08:05.14,main,Julius,0000,0000,0000,,Well done, indeed.
+Dialogue: 0,0:08:06.03,0:08:11.61,main,Julius,0000,0000,0000,,I'm sure you've heard, but many lost \Ntheir lives fighting at Raquey.
+Dialogue: 0,0:08:12.85,0:08:15.24,main,Julius,0000,0000,0000,,This should help them rest in peace.
+Dialogue: 0,0:08:15.24,0:08:19.06,main,Julius,0000,0000,0000,,The Black Bulls accomplished \Nthis very important mission
+Dialogue: 0,0:08:19.06,0:08:21.45,main,Julius,0000,0000,0000,,without losing a single member.
+Dialogue: 0,0:08:22.23,0:08:24.00,main,Julius,0000,0000,0000,,Absolutely brilliant.
+Dialogue: 0,0:08:24.96,0:08:28.75,italics,Julius,0000,0000,0000,,It seems that you've also grown stronger,
+Dialogue: 0,0:08:29.25,0:08:30.28,italics,Julius,0000,0000,0000,,Yami.
+Dialogue: 0,0:08:34.67,0:08:37.74,flashback,Guy 1,0000,0000,0000,,I heard he made that \Nforeigner a Magic Knight.
+Dialogue: 0,0:08:37.74,0:08:41.00,flashback,Guy 2,0000,0000,0000,,What's Captain Julius thinking?
+Dialogue: 0,0:08:43.51,0:08:46.63,flashback,Guy 3,0000,0000,0000,,You're going to make someone like \Nthat a Magic Knights Squad Captain?!
+Dialogue: 0,0:08:46.63,0:08:48.73,flashback,Guy 3,0000,0000,0000,,Are you insane, Wizard King?
+Dialogue: 0,0:08:51.55,0:08:53.89,flashback,Yami,0000,0000,0000,,Aren't you a little too \Nhappy-go-lucky, mister?
+Dialogue: 0,0:08:58.31,0:09:03.87,main,Julius,0000,0000,0000,,You've truly become a magnificent \NMagic Knights Captain, Yami.
+Dialogue: 0,0:09:05.83,0:09:09.29,main,Yami,0000,0000,0000,,Cut it out. I'm 28 now, you know? \NYou're embarrassing me.
+Dialogue: 0,0:09:09.29,0:09:11.79,main,Julius,0000,0000,0000,,Oh, sorry about that.
+Dialogue: 0,0:09:13.99,0:09:16.48,main,Yami,0000,0000,0000,,"If you want to say you're right,
+Dialogue: 0,0:09:16.48,0:09:19.93,main,Yami,0000,0000,0000,,then prove it with the results you \Nget from doing things your way."
+Dialogue: 0,0:09:20.69,0:09:24.39,main,Yami,0000,0000,0000,,That's what you told me, Julius.
+Dialogue: 0,0:09:25.46,0:09:29.44,main,Yami,0000,0000,0000,,I've said this before, but all I did
+Dialogue: 0,0:09:29.82,0:09:32.13,main,Yami,0000,0000,0000,,was prove that you were right.
+Dialogue: 0,0:09:33.57,0:09:36.78,main,Yami,0000,0000,0000,,And these guys, my Magic Knights...
+Dialogue: 0,0:09:37.10,0:09:38.37,main,Asta,0000,0000,0000,,Ow!
+Dialogue: 0,0:09:38.37,0:09:41.72,main,Yami,0000,0000,0000,,...proved that I was right.
+Dialogue: 0,0:09:44.11,0:09:45.22,main,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:09:47.44,0:09:51.54,main,Julius,0000,0000,0000,,Asta, you've earned another achievement.
+Dialogue: 0,0:09:51.54,0:09:54.93,main,Julius,0000,0000,0000,,You're another step closer \Nto becoming the Wizard King.
+Dialogue: 0,0:09:56.75,0:09:58.73,main,Julius,0000,0000,0000,,I look forward to seeing what you do next.
+Dialogue: 0,0:09:59.25,0:10:00.05,main,Asta,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:10:00.69,0:10:06.15,main,Asta,0000,0000,0000,,U-Um, Wizard King, sir, I have a r-request.
+Dialogue: 0,0:10:06.15,0:10:07.42,main,Julius,0000,0000,0000,,What is it?
+Dialogue: 0,0:10:07.42,0:10:09.06,main,Asta,0000,0000,0000,,U-Um, well...
+Dialogue: 0,0:10:09.06,0:10:12.40,main,Asta,0000,0000,0000,,C-Could I have your autograph?!
+Dialogue: 0,0:10:12.40,0:10:15.82,main,Yami,0000,0000,0000,,Sure, I'll write it right on your face.
+Dialogue: 0,0:10:15.82,0:10:18.10,main,Asta,0000,0000,0000,,Please, no!
+Dialogue: 0,0:10:16.77,0:10:19.78,main,Yami,0000,0000,0000,,You jerk. Get nervous around me, too!
+Dialogue: 0,0:10:18.66,0:10:20.51,main,Asta,0000,0000,0000,,I do! I do!
+Dialogue: 0,0:10:20.51,0:10:22.99,main,Marx,0000,0000,0000,,I'm sorry to interrupt, Wizard King.
+Dialogue: 0,0:10:24.05,0:10:24.95,main,Yami,0000,0000,0000,,Mushroom Head.
+Dialogue: 0,0:10:24.95,0:10:26.58,main,Marx,0000,0000,0000,,Who are you calling "Mushroom Head"?!
+Dialogue: 0,0:10:26.58,0:10:29.57,main,Marx,0000,0000,0000,,No, now's not the time for that!
+Dialogue: 0,0:10:29.57,0:10:31.12,main,Yami,0000,0000,0000,,What's the matter, Marx?
+Dialogue: 0,0:10:31.12,0:10:35.45,main,Marx,0000,0000,0000,,The border town of Kiten, which has a history \Nof skirmishes with the Diamond Kingdom,
+Dialogue: 0,0:10:35.45,0:10:37.76,main,Marx,0000,0000,0000,,is under attack by a \NDiamond Kingdom squad.
+Dialogue: 0,0:10:38.96,0:10:40.80,main,Julius,0000,0000,0000,,They couldn't have chosen a worse time.
+Dialogue: 0,0:10:46.91,0:10:48.27,main,Julius,0000,0000,0000,,This is...
+Dialogue: 0,0:10:51.51,0:10:55.05,main,Asta,0000,0000,0000,,Wh-What's with that massive horde of people?!
+Dialogue: 0,0:11:10.91,0:11:13.71,main,Julius,0000,0000,0000,,This looks like a bit more \Nthan their usual harassment.
+Dialogue: 0,0:11:13.71,0:11:16.67,main,Julius,0000,0000,0000,,Not to mention the ones leading this army...
+Dialogue: 0,0:11:16.67,0:11:18.46,main,Marx,0000,0000,0000,,Yes, sir. We believe they're Lagus,
+Dialogue: 0,0:11:18.46,0:11:19.92,main,Marx,0000,0000,0000,,Brocks,
+Dialogue: 0,0:11:19.92,0:11:21.88,main,Marx,0000,0000,0000,,and Yagos.
+Dialogue: 0,0:11:22.56,0:11:24.71,main,Julius,0000,0000,0000,,Three of the Eight Shining Generals.
+Dialogue: 0,0:11:25.17,0:11:27.42,main,Asta,0000,0000,0000,,What are the Eight Shining Generals?
+Dialogue: 0,0:11:27.42,0:11:30.18,main,Yami,0000,0000,0000,,The eight strongest from the Diamond Kingdom.
+Dialogue: 0,0:11:30.18,0:11:31.56,main,Both,0000,0000,0000,,What?!
+Dialogue: 0,0:11:32.05,0:11:36.07,main,Yami,0000,0000,0000,,They're similar to the Magic Knights \NCaptains of the Clover Kingdom.
+Dialogue: 0,0:11:36.07,0:11:38.15,main,Asta,0000,0000,0000,,That's super bad news!
+Dialogue: 0,0:11:38.15,0:11:45.72,sign_16832_218_Clover_Kingdom,Sign,0000,0000,0000,,{\fad(1,1001)}Clover Kingdom
+Dialogue: 0,0:11:38.15,0:11:45.72,sign_16832_219_Kiten,Sign,0000,0000,0000,,{\fad(1,1001)}Kiten
+Dialogue: 0,0:11:38.15,0:11:45.72,sign_16832_220_Diamond_Kingdom,Sign,0000,0000,0000,,{\fad(1,1001)}Diamond Kingdom
+Dialogue: 0,0:11:38.57,0:11:41.87,main,Marx,0000,0000,0000,,This isn't good. Kiten is the \Ncornerstone of our border defense.
+Dialogue: 0,0:11:41.87,0:11:45.70,main,Marx,0000,0000,0000,,It'll be easier for the Diamond Kingdom\Nto invade if they take it.
+Dialogue: 0,0:11:48.15,0:11:49.66,top,Lagus,0000,0000,0000,,The time has come.
+Dialogue: 0,0:11:48.15,0:11:52.91,sign_17072_224_Diamond_Kingdom_,Sign,0000,0000,0000,,{\fad(910,1)}The Diamond Kingdom's Eight Shining Generals\N{\fs30}Lagus
+Dialogue: 0,0:11:49.66,0:11:52.91,top,Lagus,0000,0000,0000,,The history of the Diamond Kingdom \Nwill finally move forward.
+Dialogue: 0,0:11:52.91,0:11:58.54,sign_17072_224_Diamond_Kingdom_,Sign,0000,0000,0000,,The Diamond Kingdom's Eight Shining Generals\N{\fs30}Yagos
+Dialogue: 0,0:11:54.61,0:11:58.54,top,Yagos,0000,0000,0000,,It's been so long since my last battle!\NI can barely contain myself!
+Dialogue: 0,0:11:58.54,0:12:06.76,sign_17072_224_Diamond_Kingdom_,Sign,0000,0000,0000,,The Diamond Kingdom's Eight Shining Generals\N{\fs30}Brocks
+Dialogue: 0,0:12:01.68,0:12:06.76,top,Brocks,0000,0000,0000,,Those Clover Kingdom weaklings! \NI'll crush them all!
+Dialogue: 0,0:12:07.17,0:12:11.51,main,Lagus,0000,0000,0000,,It appears that our intel about their \Nborder defense being weakened due to
+Dialogue: 0,0:12:11.51,0:12:14.02,main,Lagus,0000,0000,0000,,their struggles with a terrorist group
+Dialogue: 0,0:12:14.02,0:12:16.94,main,Lagus,0000,0000,0000,,called the Eye of the Midnight Sun was correct.
+Dialogue: 0,0:12:16.94,0:12:21.09,main,Brocks,0000,0000,0000,,If we can conquer Kiten, it'll immediately \Ngive our forces the advantage!
+Dialogue: 0,0:12:21.09,0:12:22.95,main,Brocks,0000,0000,0000,,I can't wait!
+Dialogue: 0,0:12:24.02,0:12:26.77,main,Yagos,0000,0000,0000,,Besides, that location is \Npacked with resources.
+Dialogue: 0,0:12:26.77,0:12:29.78,main,Yagos,0000,0000,0000,,They're wasted on the likes of the Clovers.
+Dialogue: 0,0:12:31.47,0:12:35.46,main,Magic knight A,0000,0000,0000,,The Diamond Kingdom is attacking!
+Dialogue: 0,0:12:35.46,0:12:40.24,main,Magic Knight A,0000,0000,0000,,In the name of the Magic Knights, \Ndo not allow them to invade!
+Dialogue: 0,0:12:40.24,0:12:41.79,main,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:12:41.79,0:12:44.17,main,Magic Knight A,0000,0000,0000,,Activate the magical barrier!
+Dialogue: 0,0:12:51.19,0:12:54.61,main,Magic Knight A,0000,0000,0000,,That's a magical barrier built with \Nthe power of fifty Magic Knights!
+Dialogue: 0,0:12:54.61,0:12:56.69,main,Magic Knight A,0000,0000,0000,,They won't be able to \Nbreak through that easily!
+Dialogue: 0,0:12:57.51,0:13:01.30,main,Magic Knight A,0000,0000,0000,,And this barrier doesn't allow \Nattacks from the outside in,
+Dialogue: 0,0:13:01.30,0:13:03.28,main,Magic Knight A,0000,0000,0000,,but will let spells from the inside out.
+Dialogue: 0,0:13:04.16,0:13:06.51,main,Magic Knight A,0000,0000,0000,,First, we'll attack that \Nlightning magic user,
+Dialogue: 0,0:13:06.51,0:13:08.03,main,Magic Knight A,0000,0000,0000,,one of the Eight Shining Generals, Lagus!
+Dialogue: 0,0:13:08.49,0:13:10.53,main,Magic Knight A,0000,0000,0000,,Concentrate all your attacks on him!
+Dialogue: 0,0:13:18.80,0:13:22.29,main,Lagus,0000,0000,0000,,Such pathetic and ugly magic.
+Dialogue: 0,0:13:22.29,0:13:26.26,main,Lagus,0000,0000,0000,,Watch carefully. {\i1}This{\i0} is how you use magic.
+Dialogue: 0,0:13:26.62,0:13:31.77,main,Lagus,0000,0000,0000,,Lightning Creation Magic: Thunderbird \NWarrior Air-Splitting Magic Bow!
+Dialogue: 0,0:13:52.91,0:13:56.44,main,Brocks,0000,0000,0000,,All right! Now we charge!
+Dialogue: 0,0:13:57.86,0:14:00.48,main,Yagos,0000,0000,0000,,Don't break formation.
+Dialogue: 0,0:14:00.48,0:14:02.71,main,Yagos,0000,0000,0000,,Stay in squads of ten.
+Dialogue: 0,0:14:03.14,0:14:07.87,main,Yagos,0000,0000,0000,,Defense mages, activate barrier spells \Nand watch out for long-range magic.
+Dialogue: 0,0:14:07.87,0:14:08.67,main,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:14:08.67,0:14:10.77,main,Yagos,0000,0000,0000,,Close-range and mid-range attack mages,
+Dialogue: 0,0:14:10.77,0:14:13.35,main,Yagos,0000,0000,0000,,scout for enemies and let \Nyour magic charge up.
+Dialogue: 0,0:14:13.35,0:14:14.18,main,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:14:14.18,0:14:16.20,main,Yagos,0000,0000,0000,,Long-range attack mages,
+Dialogue: 0,0:14:16.20,0:14:20.06,main,Yagos,0000,0000,0000,,keep up a barrage of spells with low magic \Nconsumption to throw them into confusion!
+Dialogue: 0,0:14:20.06,0:14:20.95,main,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:14:20.95,0:14:22.02,main,Yagos,0000,0000,0000,,And then—
+Dialogue: 0,0:14:20.95,0:14:23.19,main,Brocks,0000,0000,0000,,Go!
+Dialogue: 0,0:14:23.91,0:14:28.25,main,Brocks,0000,0000,0000,,Red Clay Creation Magic: \NRaging Great Boar Charge!
+Dialogue: 0,0:14:33.73,0:14:36.41,main,Brocks,0000,0000,0000,,Long live the Diamond Kingdom!
+Dialogue: 0,0:14:36.41,0:14:39.95,main,Yagos,0000,0000,0000,,Curse that Brocks! I was still talking!
+Dialogue: 0,0:14:39.95,0:14:42.47,main,Yagos,0000,0000,0000,,What kind of general charges in personally?
+Dialogue: 0,0:14:42.47,0:14:44.59,main,Yagos,0000,0000,0000,,Also, you should be flying.
+Dialogue: 0,0:14:45.11,0:14:47.70,main,Lagus,0000,0000,0000,,Oh, well. This is nothing new.
+Dialogue: 0,0:14:47.70,0:14:49.44,main,Lagus,0000,0000,0000,,There was very little beauty in it,
+Dialogue: 0,0:14:49.44,0:14:53.05,main,Lagus,0000,0000,0000,,but he was trying to use that \Nattack to make them cower in fear.
+Dialogue: 0,0:14:53.51,0:14:56.29,main,Lagus,0000,0000,0000,,Yagos, we're going after him.
+Dialogue: 0,0:15:07.61,0:15:10.99,main,Magic knight B,0000,0000,0000,,I-It's no use! They're just too powerful!
+Dialogue: 0,0:15:15.38,0:15:16.99,main,Yami,0000,0000,0000,,Well, that ain't good.
+Dialogue: 0,0:15:19.54,0:15:22.29,main,Marx,0000,0000,0000,,The Magic Knights charged \Nwith defending Kiten
+Dialogue: 0,0:15:22.66,0:15:24.33,main,Marx,0000,0000,0000,,have mostly been wiped out.
+Dialogue: 0,0:15:26.02,0:15:27.02,main,Marx,0000,0000,0000,,That's—
+Dialogue: 0,0:15:27.02,0:15:29.35,main,Yami,0000,0000,0000,,What? What is it, Mushroom Head?
+Dialogue: 0,0:15:29.90,0:15:31.97,main,Marx,0000,0000,0000,,It's them.
+Dialogue: 0,0:15:33.11,0:15:36.22,main,Marx,0000,0000,0000,,The Clover Kingdom's most\Npowerful Magic Knights Squad.
+Dialogue: 0,0:15:37.72,0:15:39.91,main,Marx,0000,0000,0000,,The Golden Dawn!
+Dialogue: 0,0:15:42.48,0:15:46.69,main,William,0000,0000,0000,,All right, everyone. Let's ask our \Nrude guests to take their leave.
+Dialogue: 0,0:15:48.98,0:15:50.26,italics,Asta,0000,0000,0000,,Yuno!
+Dialogue: 0,0:15:50.26,0:15:51.94,italics,Charmy,0000,0000,0000,,My meal-saving prince?!
+Dialogue: 0,0:15:55.59,0:15:57.81,main,Brocks,0000,0000,0000,,Weak! Too weak!
+Dialogue: 0,0:15:57.81,0:16:01.70,Default,Brocks,0000,0000,0000,,Where are the Magic Knights Captains?!\NYou're all worthless!
+Dialogue: 0,0:16:02.39,0:16:03.91,italics,Voice,0000,0000,0000,,A message for the generals!
+Dialogue: 0,0:16:03.91,0:16:06.28,italics,Voice,0000,0000,0000,,It appears the Clover Kingdom's \Nreinforcements have arrived!
+Dialogue: 0,0:16:06.71,0:16:08.73,italics,Voice,0000,0000,0000,,The only enemy is the \Nmembers of the Golden Dawn!
+Dialogue: 0,0:16:08.73,0:16:11.61,italics,Voice,0000,0000,0000,,I repeat, the only enemy is \Nthe members of the Golden Dawn!
+Dialogue: 0,0:16:10.27,0:16:14.95,top,Brocks,0000,0000,0000,,Idiots! Do they think they can \Nstop us with just one squad?!
+Dialogue: 0,0:16:14.95,0:16:16.89,main,Brocks,0000,0000,0000,,They're all fools!
+Dialogue: 0,0:16:22.32,0:16:25.83,main,Brocks,0000,0000,0000,,Blocking my way? You've got some guts!
+Dialogue: 0,0:16:25.83,0:16:29.23,main,Brocks,0000,0000,0000,,You fool! I'll blast you to bits!
+Dialogue: 0,0:16:29.78,0:16:32.73,main,Yuno,0000,0000,0000,,Wind Magic: Tornado Fang!
+Dialogue: 0,0:16:41.19,0:16:43.25,main,Yuno,0000,0000,0000,,Who's blasting whom to bits?
+Dialogue: 0,0:16:43.25,0:16:46.37,main,Bell,0000,0000,0000,,Well, look at you, acting all cool.
+Dialogue: 0,0:16:47.51,0:16:50.04,main,Bell,0000,0000,0000,,Use my powers, too!
+Dialogue: 0,0:16:50.95,0:16:53.51,top,Bell,0000,0000,0000,,Listen, the reason you \Ncan't make any friends is
+Dialogue: 0,0:16:51.96,0:16:58.34,sign_17072_224_Diamond_Kingdom_,Sign,0000,0000,0000,,{\fad(1029,1)}Wind Spirit\N{\fs30}Bell
+Dialogue: 0,0:16:53.51,0:16:55.17,top,Bell,0000,0000,0000,,because you put on airs like that!
+Dialogue: 0,0:16:55.17,0:16:58.34,top,Bell,0000,0000,0000,,Why don't you try putting on a breezy \Nsmile once in a while, Yuno?
+Dialogue: 0,0:16:58.34,0:17:01.40,main,Yuno,0000,0000,0000,,Breezy? Not happening.
+Dialogue: 0,0:17:01.40,0:17:04.91,main,Bell,0000,0000,0000,,Hey... What do you mean by "not happening"?
+Dialogue: 0,0:17:04.91,0:17:07.42,main,Bell,0000,0000,0000,,I'm one of the Four Great \NNature Spirits! Don't ignore me!
+Dialogue: 0,0:17:07.42,0:17:09.02,main,Bell,0000,0000,0000,,Say something, dang it!
+Dialogue: 0,0:17:09.83,0:17:11.01,main,Yuno,0000,0000,0000,,"Something."
+Dialogue: 0,0:17:11.01,0:17:12.67,main,Bell,0000,0000,0000,,"Something"?!
+Dialogue: 0,0:17:12.67,0:17:15.78,main,Bell,0000,0000,0000,,You'll never be able to make \Nfriends like that, you sourpuss!
+Dialogue: 0,0:17:17.49,0:17:22.18,main,Bell,0000,0000,0000,,But don't you worry. \NI'll be staying with you forever!
+Dialogue: 0,0:17:22.18,0:17:23.41,main,Bell,0000,0000,0000,,Aren't you lucky?
+Dialogue: 0,0:17:24.27,0:17:28.67,main,Bell,0000,0000,0000,,Okay, let's hurry up and take care \Nof those guys and go on a date, Yuno!
+Dialogue: 0,0:17:28.67,0:17:30.21,main,Yuno,0000,0000,0000,,Nope.
+Dialogue: 0,0:17:30.21,0:17:34.76,main,Bell,0000,0000,0000,,How dare you refuse a date \Nwith me?! Unbelievable!
+Dialogue: 0,0:17:34.76,0:17:36.04,main,Bell,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:38.66,0:17:41.14,main,Brocks,0000,0000,0000,,Looks like at least one of you has a spine!
+Dialogue: 0,0:17:47.27,0:17:50.16,main,Charmy,0000,0000,0000,,My meal-saving prince!
+Dialogue: 0,0:17:50.16,0:17:53.57,main,Julius,0000,0000,0000,,So that's the Wind Spirit? \NI want to see her in person!
+Dialogue: 0,0:17:54.45,0:17:58.28,main,Julius,0000,0000,0000,,Looks like you've gotten even stronger, Yuno.
+Dialogue: 0,0:17:59.25,0:18:01.28,italics,Asta,0000,0000,0000,,Damn, Yuno!
+Dialogue: 0,0:18:19.86,0:18:22.72,main,Julius,0000,0000,0000,,The Golden Dawn rushed to the scene,
+Dialogue: 0,0:18:22.72,0:18:26.21,main,Julius,0000,0000,0000,,but they're up against three of the \NEight Shining Generals and that many troops.
+Dialogue: 0,0:18:26.71,0:18:28.40,main,Julius,0000,0000,0000,,I'd like to send reinforcements,
+Dialogue: 0,0:18:28.40,0:18:30.81,main,Julius,0000,0000,0000,,but the only ones who can \Nhead there immediately are...
+Dialogue: 0,0:18:30.81,0:18:35.16,main,Marx,0000,0000,0000,,The Crimson Lion Kings went to the \NIoto Mountain Range on another mission.
+Dialogue: 0,0:18:35.16,0:18:37.64,main,Marx,0000,0000,0000,,The Silver Eagles are tied up \Nwith the Spade Kingdom...
+Dialogue: 0,0:18:38.27,0:18:41.57,main,Yami,0000,0000,0000,,You want me to go, Julius?
+Dialogue: 0,0:18:41.91,0:18:46.62,main,Yami,0000,0000,0000,,I'm pretty sure Finral's been there before,\Nso we can go immediately.
+Dialogue: 0,0:18:47.10,0:18:52.12,main,Julius,0000,0000,0000,,Are you sure, Yami? You just returned \Nfrom the Underwater Temple.
+Dialogue: 0,0:18:52.12,0:18:56.72,main,Yami,0000,0000,0000,,Sure. I'm pretty invincible right now anyway,
+Dialogue: 0,0:18:56.72,0:18:57.63,main,Yami,0000,0000,0000,,and...
+Dialogue: 0,0:18:59.49,0:19:02.88,main,Yami,0000,0000,0000,,There's a guy I'm a little concerned about.
+Dialogue: 0,0:19:03.41,0:19:06.07,main,Julius,0000,0000,0000,,I'd feel better if you were to go.
+Dialogue: 0,0:19:06.07,0:19:07.80,main,Julius,0000,0000,0000,,I'd like to go, but...
+Dialogue: 0,0:19:07.80,0:19:09.55,main,Marx,0000,0000,0000,,We need you here, Wizard King.
+Dialogue: 0,0:19:09.55,0:19:13.18,main,Marx,0000,0000,0000,,If this is a feint, their next \Ntarget will be the royal capital.
+Dialogue: 0,0:19:13.18,0:19:16.19,main,Julius,0000,0000,0000,,What he said. I can't just leave.
+Dialogue: 0,0:19:16.19,0:19:18.51,main,Julius,0000,0000,0000,,Besides, the king is here.
+Dialogue: 0,0:19:18.51,0:19:20.19,main,Yami,0000,0000,0000,,All right, then...
+Dialogue: 0,0:19:20.19,0:19:24.31,main,Yami,0000,0000,0000,,Shit. I should've had Finral \Ncome up here with us.
+Dialogue: 0,0:19:24.31,0:19:26.99,main,Yami,0000,0000,0000,,That useless bastard.
+Dialogue: 0,0:19:29.39,0:19:32.04,main,Finral,0000,0000,0000,,I wonder if someone's talking about me.
+Dialogue: 0,0:19:32.55,0:19:34.78,main,Finral,0000,0000,0000,,Cuties spotted!
+Dialogue: 0,0:19:34.78,0:19:38.90,main,Finral,0000,0000,0000,,Hey there, you beauties who \Nput flowers to shame...
+Dialogue: 0,0:19:38.90,0:19:39.88,main,Finral,0000,0000,0000,,Are you busy?
+Dialogue: 0,0:19:40.90,0:19:42.51,main,Asta,0000,0000,0000,,Captain Yami!
+Dialogue: 0,0:19:43.12,0:19:45.08,main,Asta,0000,0000,0000,,Take me with you!
+Dialogue: 0,0:19:45.08,0:19:46.52,main,Yami,0000,0000,0000,,With your arm like that?
+Dialogue: 0,0:19:46.52,0:19:49.56,main,Asta,0000,0000,0000,,There must be people who couldn't get \Naway! I'm sure I can do something!
+Dialogue: 0,0:19:51.09,0:19:55.56,italics,Yami,0000,0000,0000,,I'd like him to get experience on that \Nkind of battlefield, but right now...
+Dialogue: 0,0:19:56.07,0:19:56.99,main,Yami,0000,0000,0000,,No.
+Dialogue: 0,0:19:56.99,0:20:00.35,main,Yami,0000,0000,0000,,Someone who's as beat up as you \Nwill just get in the way. Go home.
+Dialogue: 0,0:20:00.35,0:20:01.40,main,Asta,0000,0000,0000,,But...
+Dialogue: 0,0:20:03.38,0:20:06.84,main,Charmy,0000,0000,0000,,As his senior, I'll go along and protect him.
+Dialogue: 0,0:20:06.84,0:20:08.50,main,Asta,0000,0000,0000,,Miz Charmy...
+Dialogue: 0,0:20:08.95,0:20:10.95,main,Charmy,0000,0000,0000,,That makes it all right, doesn't it?
+Dialogue: 0,0:20:11.62,0:20:14.46,main,Yami,0000,0000,0000,,You two! Especially you, Charmy...
+Dialogue: 0,0:20:15.01,0:20:18.39,main,Yami,0000,0000,0000,,Oh, fine. Come with me, you dumbasses!
+Dialogue: 0,0:20:18.39,0:20:19.86,main,Yami,0000,0000,0000,,Let's go get Finral!
+Dialogue: 0,0:20:19.86,0:20:21.75,main,Asta,0000,0000,0000,,Roger that, sir!
+Dialogue: 0,0:20:21.75,0:20:22.71,main,Charmy,0000,0000,0000,,La, sir!
+Dialogue: 0,0:20:22.71,0:20:25.88,italics,Charmy,0000,0000,0000,,Now I can see my meal-saving prince!
+Dialogue: 0,0:20:27.31,0:20:29.39,italics,Asta,0000,0000,0000,,Just you wait, Yuno!
+Dialogue: 0,0:20:39.95,0:20:44.15,main,Langris,0000,0000,0000,,Wow, that's amazing. It's in pieces.
+Dialogue: 0,0:20:45.01,0:20:47.30,main,William,0000,0000,0000,,He'll get even stronger.
+Dialogue: 0,0:20:47.86,0:20:51.13,main,Langris,0000,0000,0000,,I guess I wouldn't expect any \Nless from our genius, Yuno,
+Dialogue: 0,0:20:51.13,0:20:54.12,main,Langris,0000,0000,0000,,who became one of our best knights \Nless than a year after joining.
+Dialogue: 0,0:20:54.73,0:20:58.58,main,William,0000,0000,0000,,Well, shall we, Langris?
+Dialogue: 0,0:20:59.20,0:21:00.63,main,Langris,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:21:01.54,0:21:06.37,main,William,0000,0000,0000,,Let's make them regret barging into \Nour country with their muddy boots.
+Dialogue: 0,0:21:09.50,0:21:12.51,italics,,0000,0000,0000,,4 AM in the morning
+Dialogue: 0,0:21:12.51,0:21:14.88,italics,,0000,0000,0000,,Why can't I sleep?
+Dialogue: 0,0:21:14.88,0:21:17.48,italics,,0000,0000,0000,,On such a bad day, whispering \N"Bye Bye Black Birds"
+Dialogue: 0,0:21:17.48,0:21:21.98,italics,,0000,0000,0000,,Won't make my anxiety go away
+Dialogue: 0,0:21:21.98,0:21:24.01,italics,,0000,0000,0000,,for hours, lately
+Dialogue: 0,0:21:24.01,0:21:27.53,italics,,0000,0000,0000,,I've been crying for hours Baby
+Dialogue: 0,0:21:28.57,0:21:32.09,italics,,0000,0000,0000,,I wish you were here
+Dialogue: 0,0:21:33.91,0:21:38.62,italics,,0000,0000,0000,,All those letters that you gave to me
+Dialogue: 0,0:21:38.62,0:21:44.50,italics,,0000,0000,0000,,Every time I read them again, the pain's gone
+Dialogue: 0,0:21:44.50,0:21:50.63,italics,,0000,0000,0000,,We're not alone, cause we're perfect as four
+Dialogue: 0,0:21:50.63,0:21:56.64,italics,,0000,0000,0000,,Even though we're far apart, \Nwe're connected, believing you
+Dialogue: 0,0:21:56.64,0:22:02.77,italics,,0000,0000,0000,,I always feel you next to me
+Dialogue: 0,0:22:02.77,0:22:07.87,italics,,0000,0000,0000,,closer to me and a "clover" for you
+Dialogue: 0,0:22:07.87,0:22:10.54,italicstop,,0000,0000,0000,,I wish you the best of luck
+Dialogue: 0,0:22:09.36,0:22:15.12,italics,,0000,0000,0000,,You know you're not alone, \Ncause we're perfect as four
+Dialogue: 0,0:22:15.12,0:22:21.33,italics,,0000,0000,0000,,Even though we're far apart, \Nwe're connected, you live in me
+Dialogue: 0,0:22:21.33,0:22:27.58,italics,,0000,0000,0000,,I'll always be by your side
+Dialogue: 0,0:22:27.58,0:22:32.26,italics,,0000,0000,0000,,closer to me and a "clover" for you
+Dialogue: 0,0:22:32.26,0:22:34.96,italics,,0000,0000,0000,,I wish you the best of luck
+Dialogue: 0,0:22:38.06,0:22:42.56,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:38.79,0:22:41.72,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:42.33,0:22:46.07,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Promise!
+Dialogue: 0,0:22:43.46,0:22:44.77,main,Both,0000,0000,0000,,Promise!
+Dialogue: 0,0:22:48.67,0:22:52.70,main,Asta,0000,0000,0000,,It's been a while, Yuno! \NLooks like you've gotten even stronger!
+Dialogue: 0,0:22:53.14,0:22:56.74,main,Yuno,0000,0000,0000,,Of course. I'm going to \Nbecome stronger than anyone.
+Dialogue: 0,0:22:57.07,0:23:02.58,main,Asta,0000,0000,0000,,Do you remember our promise? About seeing \Nwho can become the Wizard King first?
+Dialogue: 0,0:23:03.27,0:23:06.75,main,Yuno,0000,0000,0000,,Promise? I've forgotten about the past.
+Dialogue: 0,0:23:07.19,0:23:09.54,main,Asta,0000,0000,0000,,Why are you trying to act so cool?
+Dialogue: 0,0:23:09.54,0:23:12.38,main,asta,0000,0000,0000,,So, uh, what're you doing tomorrow?\NYou got work?
+Dialogue: 0,0:23:12.83,0:23:16.35,main,yuno,0000,0000,0000,,Tomorrow? Who knows what tomorrow brings?
+Dialogue: 0,0:23:16.35,0:23:19.02,main,Asta,0000,0000,0000,,Seriously, why are you trying \Nto act so cool, Yuno?!
+Dialogue: 0,0:23:19.02,0:23:23.03,main,Yuno,0000,0000,0000,,Yuno? Is that my name?
+Dialogue: 0,0:23:23.03,0:23:25.81,main,Yuno,0000,0000,0000,,I don't know anything! \NThis can't be happening!
+Dialogue: 0,0:23:25.81,0:23:29.23,main,Asta,0000,0000,0000,,So you weren't just trying to \Nact cool?! Get a grip, Yuno!
+Dialogue: 0,0:23:29.23,0:23:33.46,main,Both,0000,0000,0000,,The super fun anime, {\i1}Black Clover{\i0}! \NWe hope you guys keep watching!
+Dialogue: 0,0:23:36.03,0:23:38.03,main,Vanessa,0000,0000,0000,,The Diamonds are attacking?
+Dialogue: 0,0:23:38.03,0:23:42.50,main,Vanessa,0000,0000,0000,,The Golden Dawn is on the job? \NThen let's just leave it to them!
+Dialogue: 0,0:23:42.50,0:23:46.13,main,Vanessa,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 52: \N"Whoever's Strongest Wins."
+Dialogue: 0,0:23:43.37,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 52\N\N{\fs18} Whoever's Strongest Wins
+Dialogue: 0,0:23:46.13,0:23:49.96,main,vanessa,0000,0000,0000,,What? Asta's headed there, too?\NWell, that's worrying.

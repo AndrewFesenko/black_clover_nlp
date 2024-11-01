@@ -1,0 +1,349 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H000400D6,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0055,1
+ 
+
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.14,0:00:16.62,main,Ralph,0000,0000,0000,,I need to get through this strong magic \Nregion before my mana runs out.
+Dialogue: 0,0:00:27.17,0:00:28.12,main,Ralph,0000,0000,0000,,Back off!
+Dialogue: 0,0:00:32.01,0:00:35.20,main,Ralph,0000,0000,0000,,I can't die in a place like this!
+Dialogue: 0,0:00:40.26,0:00:43.16,italics,Ralph,0000,0000,0000,,Not until I tell him.
+Dialogue: 0,0:02:04.95,0:02:08.23,Ep Title,Sign,0000,0000,0000,,{\t(1,1134,\c&H0900AD&) }The Beginning of Hope and Despair
+Dialogue: 0,0:02:30.94,0:02:33.84,main,Soldier A,0000,0000,0000,,The giant mobile fortress, Candelo,
+Dialogue: 0,0:02:33.84,0:02:36.75,main,Soldier A,0000,0000,0000,,created to cross the strong magic region...
+Dialogue: 0,0:02:36.75,0:02:39.33,main,Soldier A,0000,0000,0000,,Isn't it just the best?
+Dialogue: 0,0:02:40.25,0:02:45.60,main,Soldier A,0000,0000,0000,,But this low-stage trash \Nsure does run out of mana fast.
+Dialogue: 0,0:02:46.02,0:02:50.04,main,Soldier,0000,0000,0000,,We just need half of them to survive until \Nwe get out of the strong magic region.
+Dialogue: 0,0:02:51.27,0:02:54.27,main,Soldier,0000,0000,0000,,There is mana within life energy.
+Dialogue: 0,0:02:54.81,0:02:58.28,main,Soldier,0000,0000,0000,,Get every last drop of mana from them,\Neven if it's from a child.
+Dialogue: 0,0:03:08.73,0:03:12.29,main,Loropechika,0000,0000,0000,,Thank you for responding \Nto the sudden summons.
+Dialogue: 0,0:03:12.75,0:03:15.10,top,Noelle,0000,0000,0000,,There's no need for formality, Loropechika.
+Dialogue: 0,0:03:14.56,0:03:18.30,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\fad(760,1)\blur3}Noelle Silva
+Dialogue: 0,0:03:15.10,0:03:18.30,top,Noelle,0000,0000,0000,,More importantly, the Spade Kingdom's \Narmy is drawing nearer, isn't it?
+Dialogue: 0,0:03:18.60,0:03:22.30,main,Loropechika,0000,0000,0000,,Yes. They will soon reach \Nour kingdom's borders.
+Dialogue: 0,0:03:22.30,0:03:24.98,main,Gaja,0000,0000,0000,,Within the last six months, \Nthe Spade Kingdom has
+Dialogue: 0,0:03:24.98,0:03:27.67,main,Gaja,0000,0000,0000,,basically taken over the Diamond Kingdom,
+Dialogue: 0,0:03:27.67,0:03:32.26,main,Gaja,0000,0000,0000,,and is now advancing toward the \NClover Kingdom and the Heart Kingdom.
+Dialogue: 0,0:03:33.06,0:03:36.59,sign_16275_184_Yultim_Volcano_T,Sign,0000,0000,0000,,{\an2\pos(205,305)\blur3\fad(1,541)}Leopold Vermillion
+Dialogue: 0,0:03:33.32,0:03:36.01,top,Leopold,0000,0000,0000,,We were also preparing for an attack,
+Dialogue: 0,0:03:36.01,0:03:38.02,top,Leopold,0000,0000,0000,,but it seems they've gotten ahead of us.
+Dialogue: 0,0:03:37.09,0:03:40.07,sign_16275_184_Yultim_Volcano_T,Sign,0000,0000,0000,,{\an2\pos(490,305)\blur3\fad(502,1)}Luck Voltia
+Dialogue: 0,0:03:38.02,0:03:40.07,top,Luck,0000,0000,0000,,I'm ready to fight whenever.
+Dialogue: 0,0:03:40.36,0:03:44.40,main,Loropechika,0000,0000,0000,,Yes. I'd like all of you to intercept them,
+Dialogue: 0,0:03:44.40,0:03:47.83,main,Loropechika,0000,0000,0000,,but the Spade Kingdom's forces are \Ncurrently in the strong magic region.
+Dialogue: 0,0:03:47.83,0:03:51.60,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3\fad(773,787)}Finral Roulacase
+Dialogue: 0,0:03:48.41,0:03:51.27,top,Finral,0000,0000,0000,,I guess timing will be really important.
+Dialogue: 0,0:03:51.27,0:03:54.58,top,Finral,0000,0000,0000,,They might be easier to fight \Nif we draw them closer to us.
+Dialogue: 0,0:03:55.13,0:03:57.48,Default,Mimosa,0000,0000,0000,,If they're going through \Nthe strong magic region,
+Dialogue: 0,0:03:57.48,0:04:00.39,top,Mimosa,0000,0000,0000,,they should be weakened by the \Ntime they reach the border.
+Dialogue: 0,0:03:58.61,0:04:02.34,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\fad(754,1)\blur3}Mimosa Vermillion
+Dialogue: 0,0:04:00.39,0:04:02.34,top,Mimosa,0000,0000,0000,,That will be the moment to strike.
+Dialogue: 0,0:04:02.65,0:04:06.54,main,Loropechika,0000,0000,0000,,Actually, it's rather likely their \Nforces will not be weakened.
+Dialogue: 0,0:04:06.54,0:04:10.35,main,Loropechika,0000,0000,0000,,They are heading here in a mobile fortress.
+Dialogue: 0,0:04:10.35,0:04:11.60,main,Noelle,0000,0000,0000,,A mobile fortress?
+Dialogue: 0,0:04:13.40,0:04:18.11,main,Loropechika,0000,0000,0000,,They use those in their kingdom who \Nare at a lower stage in a vile fashion...
+Dialogue: 0,0:04:18.80,0:04:22.05,main,Loropechika,0000,0000,0000,,as energy to move this fortress.
+Dialogue: 0,0:04:24.16,0:04:25.07,main,Noelle,0000,0000,0000,,Hey!
+Dialogue: 0,0:04:25.07,0:04:27.12,main,Finral,0000,0000,0000,,We're still in the middle \Nof our strategy meeting.
+Dialogue: 0,0:04:28.75,0:04:32.37,main,Mimosa,0000,0000,0000,,What shall we do? Should we bring \Nhim back for the time being?
+Dialogue: 0,0:04:33.69,0:04:36.79,main,Loropechika,0000,0000,0000,,No. Let us have him break \Nthrough the front lines.
+Dialogue: 0,0:04:37.65,0:04:41.63,main,Loropechika,0000,0000,0000,,I'm quite certain that he \Nwill not be defeated easily.
+Dialogue: 0,0:04:43.13,0:04:45.41,main,Gaja,0000,0000,0000,,The ones who see results from this training
+Dialogue: 0,0:04:45.41,0:04:49.47,main,Gaja,0000,0000,0000,,should only be those loved by mana\Nand those in the higher stages
+Dialogue: 0,0:04:49.47,0:04:52.14,main,Gaja,0000,0000,0000,,who can use the techniques.
+Dialogue: 0,0:04:52.35,0:04:54.49,main,Gaja,0000,0000,0000,,But to think he, someone with no magic,
+Dialogue: 0,0:04:54.49,0:04:58.90,main,Gaja,0000,0000,0000,,would get so much stronger \Nafter training with us.
+Dialogue: 0,0:04:59.60,0:05:01.90,main,Loropechika,0000,0000,0000,,The fact that he's at the \Narcane stage was surprising,
+Dialogue: 0,0:05:01.90,0:05:04.65,main,Loropechika,0000,0000,0000,,but even more surprising \Nwas his hard work, gutsiness,
+Dialogue: 0,0:05:04.65,0:05:06.89,main,Loropechika,0000,0000,0000,,and strength to never give up.
+Dialogue: 0,0:05:13.21,0:05:15.43,main,Soldier A,0000,0000,0000,,And done.
+Dialogue: 0,0:05:15.43,0:05:19.19,main,Soldier B,0000,0000,0000,,All right, so who's next?
+Dialogue: 0,0:05:19.19,0:05:22.06,main,Soldier B,0000,0000,0000,,Make sure you carry the fallen to the back.
+Dialogue: 0,0:05:22.42,0:05:28.09,main,Girl,0000,0000,0000,,P-Please! She's still small \Nand barely has any mana!
+Dialogue: 0,0:05:28.09,0:05:29.93,main,Girl,0000,0000,0000,,Please have mercy!
+Dialogue: 0,0:05:30.17,0:05:31.68,main,Soldier A,0000,0000,0000,,Oh?
+Dialogue: 0,0:05:32.10,0:05:36.44,main,Soldier A,0000,0000,0000,,You have some nerve, trying to talk to us.
+Dialogue: 0,0:05:37.36,0:05:40.39,main,Soldier A,0000,0000,0000,,You're nothing but low-stage scum.
+Dialogue: 0,0:05:42.08,0:05:46.30,main,Soldier A,0000,0000,0000,,You low-stage trash who can barely \Nmanage attack magic can only be useful
+Dialogue: 0,0:05:46.30,0:05:52.25,main,Soldier A,0000,0000,0000,,by contributing your measly \Nmana to move this fortress!
+Dialogue: 0,0:05:53.70,0:05:57.99,main,Soldier B,0000,0000,0000,,If you don't wanna get hurt, \Ndon't get any funny ideas.
+Dialogue: 0,0:05:59.20,0:06:01.58,main,Soldier C,0000,0000,0000,,You guys are blessed, really.
+Dialogue: 0,0:06:01.58,0:06:06.57,main,Soldier C,0000,0000,0000,,You won't be killed until all your mana's gone.
+Dialogue: 0,0:06:08.30,0:06:09.72,main,Soldier A,0000,0000,0000,,All right.
+Dialogue: 0,0:06:10.18,0:06:14.28,main,Soldier A,0000,0000,0000,,You get to play a special little role.
+Dialogue: 0,0:06:15.50,0:06:17.48,main,Girl,0000,0000,0000,,N-No!
+Dialogue: 0,0:06:17.48,0:06:19.20,top,Little girl,0000,0000,0000,,Sis!
+Dialogue: 0,0:06:17.48,0:06:23.48,main,Soldier A,0000,0000,0000,,Someone as low-class as you will actually \Nbe of use to me. You should be honored!
+Dialogue: 0,0:06:26.91,0:06:27.99,main,Girl,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:35.16,0:06:39.00,main,Asta,0000,0000,0000,,Man... what's with this crazy weather?
+Dialogue: 0,0:06:39.00,0:06:41.00,main,Asta,0000,0000,0000,,Well, that's a strong magic region for you.
+Dialogue: 0,0:06:42.92,0:06:46.51,main,Asta,0000,0000,0000,,Guess I don't have full \Ncontrol over it yet. Damn!
+Dialogue: 0,0:06:47.76,0:06:48.90,main,Asta,0000,0000,0000,,Demon-Slayer!
+Dialogue: 0,0:06:55.21,0:06:56.37,main,Asta,0000,0000,0000,,All right!
+Dialogue: 0,0:07:02.15,0:07:06.58,main,Soldier A,0000,0000,0000,,That robe... You must be a Magic Knight\N from the Clover Kingdom.
+Dialogue: 0,0:07:06.58,0:07:08.00,main,Soldier A,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:07:09.10,0:07:13.37,main,Soldier A,0000,0000,0000,,What's with this guy? \NHe doesn't have any mana at all!
+Dialogue: 0,0:07:13.37,0:07:14.88,main,Soldier B,0000,0000,0000,,Hey, come on, now!
+Dialogue: 0,0:07:14.88,0:07:18.16,main,Soldier C,0000,0000,0000,,He came here by himself? What an idiot.
+Dialogue: 0,0:07:18.38,0:07:21.67,main,Soldier A,0000,0000,0000,,I don't know why you showed up, \Nbut you're just wasting your time!
+Dialogue: 0,0:07:22.00,0:07:24.17,main,Soldier A,0000,0000,0000,,I'll finish you off in an instant!
+Dialogue: 0,0:07:24.17,0:07:25.42,main,Soldier A,0000,0000,0000,,You piece of trash!
+Dialogue: 0,0:07:29.51,0:07:30.51,main,Soldier B/C,0000,0000,0000,,Wha—
+Dialogue: 0,0:07:30.51,0:07:34.51,main,Asta,0000,0000,0000,,Wasting time? That's my line.
+Dialogue: 0,0:07:34.76,0:07:39.27,main,Asta,0000,0000,0000,,I don't know how many of you there are, \Nbut I'll take care of you in an instant.
+Dialogue: 0,0:07:39.27,0:07:42.52,main,Asta,0000,0000,0000,,So all of you can come at me at once!
+Dialogue: 0,0:07:42.52,0:07:43.95,main,Soldier B,0000,0000,0000,,You brat!
+Dialogue: 0,0:07:43.95,0:07:45.02,main,Soldier C,0000,0000,0000,,Who do you think you are?
+Dialogue: 0,0:07:50.99,0:07:56.27,main,Asta,0000,0000,0000,,I'm one of the Clover Kingdom's Magic Knights,\NAsta of the Black Bulls!
+Dialogue: 0,0:07:56.27,0:07:59.48,main,Asta,0000,0000,0000,,I won't harm any of you!
+Dialogue: 0,0:07:59.98,0:08:02.16,main,Asta,0000,0000,0000,,Don't worry! You're safe now!
+Dialogue: 0,0:08:06.61,0:08:14.68,main,Girl,0000,0000,0000,,We're only being left alive... so that \Nour mana can keep this fortress moving.
+Dialogue: 0,0:08:14.94,0:08:17.68,italics,Asta,0000,0000,0000,,Her heart is... frightened?
+Dialogue: 0,0:08:18.25,0:08:21.41,main,Girl,0000,0000,0000,,We can never leave this place.
+Dialogue: 0,0:08:22.18,0:08:28.91,main,Girl,0000,0000,0000,,Even if we were to be freed, \Nwe couldn't escape this strong magic region.
+Dialogue: 0,0:08:29.77,0:08:35.45,main,Girl,0000,0000,0000,,Why did this happen? \NWe don't want this war.
+Dialogue: 0,0:08:35.68,0:08:39.66,italics,Asta,0000,0000,0000,,Who's the one making these \Npeople suffer like this?
+Dialogue: 0,0:08:39.66,0:08:44.46,main,Girl,0000,0000,0000,,The captain in charge of this \Nfortress has an eerie magic.
+Dialogue: 0,0:08:44.93,0:08:49.96,main,Girl,0000,0000,0000,,He has some otherworldly, frightful power.
+Dialogue: 0,0:08:50.61,0:08:51.54,main,Asta,0000,0000,0000,,All right.
+Dialogue: 0,0:08:52.21,0:08:57.15,main,Asta,0000,0000,0000,,In that case, I'm gonna go beat \Ndown all the bad guys here.
+Dialogue: 0,0:08:57.15,0:08:59.72,main,Girl,0000,0000,0000,,What?! But that's impossible!
+Dialogue: 0,0:09:00.09,0:09:03.52,main,Girl,0000,0000,0000,,There are still so many soldiers, and...
+Dialogue: 0,0:09:03.52,0:09:04.73,main,Asta,0000,0000,0000,,Don't worry!
+Dialogue: 0,0:09:08.66,0:09:10.48,main,Soldier D,0000,0000,0000,,Are you the intruder?!
+Dialogue: 0,0:09:10.48,0:09:11.69,main,Soldier E,0000,0000,0000,,You won't get away!
+Dialogue: 0,0:09:11.69,0:09:12.73,main,Asta,0000,0000,0000,,Demon-Dweller!
+Dialogue: 0,0:09:13.45,0:09:15.24,main,Asta,0000,0000,0000,,Black Slash!
+Dialogue: 0,0:09:22.79,0:09:23.75,main,Asta,0000,0000,0000,,So you're up there, huh?
+Dialogue: 0,0:09:27.02,0:09:28.12,main,Soldier I,0000,0000,0000,,What the?!
+Dialogue: 0,0:09:31.61,0:09:32.29,main,Soldier J,0000,0000,0000,,Why, you—
+Dialogue: 0,0:09:32.29,0:09:33.63,main,Soldier J,0000,0000,0000,,Die!
+Dialogue: 0,0:09:43.39,0:09:44.64,main,Soldier N,0000,0000,0000,,Take this!
+Dialogue: 0,0:09:47.40,0:09:49.90,main,Soldier R,0000,0000,0000,,Who the hell are you?!
+Dialogue: 0,0:09:53.14,0:09:54.40,main,Asta,0000,0000,0000,,Hup!
+Dialogue: 0,0:09:54.67,0:09:55.90,main,Asta,0000,0000,0000,,You must be here.
+Dialogue: 0,0:10:01.59,0:10:04.91,main,Soldier,0000,0000,0000,,Well, you sure made a mess of things.
+Dialogue: 0,0:10:05.34,0:10:09.92,main,Soldier,0000,0000,0000,,It appears you also have the power of a devil.
+Dialogue: 0,0:10:09.92,0:10:13.42,main,Asta,0000,0000,0000,,How can you do something so \Nawful to your own people?
+Dialogue: 0,0:10:13.63,0:10:16.42,main,Soldier,0000,0000,0000,,My people? Something awful?
+Dialogue: 0,0:10:16.42,0:10:19.85,main,Soldier,0000,0000,0000,,They're merely sacrificing themselves \Nso that the Spade Kingdom can prosper.
+Dialogue: 0,0:10:19.85,0:10:24.18,main,Soldier,0000,0000,0000,,I don't know of anything more honorable \Nthat the lower-stage filth could do.
+Dialogue: 0,0:10:24.18,0:10:26.39,main,Asta,0000,0000,0000,,Your people aren't filth!
+Dialogue: 0,0:10:28.10,0:10:30.33,italics,Asta,0000,0000,0000,,M-My body—
+Dialogue: 0,0:10:35.94,0:10:38.85,main,Soldier,0000,0000,0000,,I don't know how trash like you\Nwho doesn't have any mana
+Dialogue: 0,0:10:38.85,0:10:42.70,main,Soldier,0000,0000,0000,,managed to get your hands \Non the devil's power.
+Dialogue: 0,0:10:43.00,0:10:45.70,main,Soldier,0000,0000,0000,,But you're powerless against \Nthings you can't evade.
+Dialogue: 0,0:10:45.99,0:10:50.82,main,Soldier,0000,0000,0000,,You're no match for someone \Nat a higher stage, like myself.
+Dialogue: 0,0:10:50.82,0:10:54.96,main,Soldier,0000,0000,0000,,Poison Creation Magic: Basilisk's Breath.
+Dialogue: 0,0:10:54.96,0:10:59.97,main,Soldier,0000,0000,0000,,In the end, you're absolutely worthless. \NYou won't even serve as food for him.
+Dialogue: 0,0:10:59.97,0:11:01.47,main,Asta,0000,0000,0000,,Demon-Destroyer!
+Dialogue: 0,0:11:06.43,0:11:08.23,main,Soldier,0000,0000,0000,,What?
+Dialogue: 0,0:11:08.47,0:11:11.23,main,Soldier,0000,0000,0000,,He erased... the poison?
+Dialogue: 0,0:11:11.58,0:11:14.73,italics,Soldier,0000,0000,0000,,How could scum like you have such a power?
+Dialogue: 0,0:11:14.97,0:11:17.10,main,Asta,0000,0000,0000,,You may have the devil's power,
+Dialogue: 0,0:11:17.61,0:11:21.21,main,Asta,0000,0000,0000,,but it looks like you've \Nonly got a tiny piece of it.
+Dialogue: 0,0:11:21.74,0:11:26.46,main,Asta,0000,0000,0000,,Sacrificing the citizens for the \Nprosperity of your kingdom, my ass!
+Dialogue: 0,0:11:26.46,0:11:29.00,main,Asta,0000,0000,0000,,If you want to fight so badly,
+Dialogue: 0,0:11:29.00,0:11:32.00,main,Asta,0000,0000,0000,,I'll crush all of you!
+Dialogue: 0,0:11:49.77,0:11:54.02,main,Noelle,0000,0000,0000,,He definitely made a mess again...\NThat Stupidsta.
+Dialogue: 0,0:11:59.59,0:12:00.49,main,Villager,0000,0000,0000,,What?
+Dialogue: 0,0:12:00.49,0:12:01.53,main,Villager,0000,0000,0000,,How did he...
+Dialogue: 0,0:12:01.53,0:12:02.64,top,,0000,0000,0000,,Impossible!
+Dialogue: 0,0:12:02.18,0:12:06.15,main,Asta,0000,0000,0000,,I beat the strongest guy, \Nas well as everyone else!
+Dialogue: 0,0:12:06.15,0:12:07.53,main,Asta,0000,0000,0000,,You don't have to worry anymore!
+Dialogue: 0,0:12:10.93,0:12:16.29,main,Asta,0000,0000,0000,,Hey, it's Noelle and the others! \NHer water armor's always super cool!
+Dialogue: 0,0:12:16.61,0:12:19.56,main,Asta,0000,0000,0000,,And now she can use the traveling \Nwater bubble at the same time!
+Dialogue: 0,0:12:19.56,0:12:21.32,main,Asta,0000,0000,0000,,Man, she's really grown—
+Dialogue: 0,0:12:21.32,0:12:22.07,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:26.21,0:12:28.33,main,Noelle,0000,0000,0000,,Hmph! Just so you know,
+Dialogue: 0,0:12:28.33,0:12:32.56,main,Noelle,0000,0000,0000,,controlling a transport spell while going \Nthrough a strong magic region is super hard!
+Dialogue: 0,0:12:34.10,0:12:36.31,main,Mimosa,0000,0000,0000,,Yes, we know, Noelle.
+Dialogue: 0,0:12:36.90,0:12:39.61,main,Mimosa,0000,0000,0000,,We made it safely, so you did wonderfully.
+Dialogue: 0,0:12:39.61,0:12:41.32,main,Mimosa,0000,0000,0000,,Excellent work.
+Dialogue: 0,0:12:41.32,0:12:43.67,main,Noelle,0000,0000,0000,,Hey, who do you think \Nyou're talking to, Mimosa?
+Dialogue: 0,0:12:43.67,0:12:45.17,main,Noelle,0000,0000,0000,,I'm royalty.
+Dialogue: 0,0:12:45.17,0:12:46.65,main,Mimosa,0000,0000,0000,,I am, too...
+Dialogue: 0,0:12:48.28,0:12:53.93,main,Noelle,0000,0000,0000,,Hey, Stupidsta. What's the big idea\Nof leaving me behind like that?
+Dialogue: 0,0:12:53.93,0:12:55.83,main,Mimosa,0000,0000,0000,,He's just being his usual self.
+Dialogue: 0,0:12:56.29,0:12:59.59,italics,Noelle,0000,0000,0000,,Take me with you, for crying out loud.
+Dialogue: 0,0:13:00.38,0:13:04.69,italics,Finral,0000,0000,0000,,I almost died from the excitement of \Nbeing stuck with Noelle and Mimosa.
+Dialogue: 0,0:13:04.69,0:13:07.67,italics,Finral,0000,0000,0000,,Wait, that's nonsense! I wasn't excited at all!
+Dialogue: 0,0:13:07.67,0:13:10.90,italics,Finral,0000,0000,0000,,I only get excited over Miss Finnes now—
+Dialogue: 0,0:13:12.97,0:13:16.76,main,Finral,0000,0000,0000,,Are you all right, miss?! \NWho could have done something so awful?!
+Dialogue: 0,0:13:16.76,0:13:19.40,main,Finral,0000,0000,0000,,Allow me to gently take care of—
+Dialogue: 0,0:13:19.40,0:13:22.53,main,Finral,0000,0000,0000,,No, I can't! Not with anyone \Nother than Miss Finnes!
+Dialogue: 0,0:13:22.53,0:13:25.11,main,Little,0000,0000,0000,,Sis, that guy is really weird.
+Dialogue: 0,0:13:25.11,0:13:29.28,main,Asta,0000,0000,0000,,You're so awesome, Finral! \NYou've grown so much!
+Dialogue: 0,0:13:30.17,0:13:31.55,main,Finral,0000,0000,0000,,Thanks, Asta.
+Dialogue: 0,0:13:31.55,0:13:34.87,main,Noelle,0000,0000,0000,,There's nothing awesome \Nabout this. Are you stupid?
+Dialogue: 0,0:13:35.37,0:13:39.28,main,Noelle,0000,0000,0000,,I still have a hard time believing \NFinral has a fiancée.
+Dialogue: 0,0:13:39.69,0:13:41.88,main,Noelle,0000,0000,0000,,Are you sure you didn't just imagine her?
+Dialogue: 0,0:13:41.88,0:13:44.92,main,Finral,0000,0000,0000,,Noelle, she's totally real!
+Dialogue: 0,0:13:47.26,0:13:48.13,main,Guy,0000,0000,0000,,What's going on?
+Dialogue: 0,0:13:48.60,0:13:52.42,main,Mimosa,0000,0000,0000,,Plant Recovery Magic: \NPrincess-Healing Flower Paradise.
+Dialogue: 0,0:13:53.65,0:13:57.89,main,Mimosa,0000,0000,0000,,I cannot recover your mana, \Nbut I can recover your stamina.
+Dialogue: 0,0:13:59.35,0:14:02.16,main,Asta,0000,0000,0000,,Mimosa's magic totally powered up, too!
+Dialogue: 0,0:14:02.16,0:14:03.65,main,asta,0000,0000,0000,,Way to go!
+Dialogue: 0,0:14:04.46,0:14:06.65,main,Mimosa,0000,0000,0000,,Thank you very much, Asta.
+Dialogue: 0,0:14:06.65,0:14:08.20,main,Guy,0000,0000,0000,,Wow.
+Dialogue: 0,0:14:08.73,0:14:09.66,main,Lady,0000,0000,0000,,But...
+Dialogue: 0,0:14:13.01,0:14:16.66,main,Noelle,0000,0000,0000,,The place where you live \Nwas taken over, too, right?
+Dialogue: 0,0:14:17.45,0:14:18.67,main,Girl,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:19.51,0:14:21.92,main,Girl,0000,0000,0000,,Our town...
+Dialogue: 0,0:14:22.24,0:14:26.80,main,Girl,0000,0000,0000,,One night, without warning, \Nthat army suddenly showed up.
+Dialogue: 0,0:14:27.67,0:14:31.18,main,Girl,0000,0000,0000,,Anyone who defied them \Nwas killed on the spot.
+Dialogue: 0,0:14:33.81,0:14:39.87,main,Girl,0000,0000,0000,,If we go back there, we'll probably \Nbe executed for escaping.
+Dialogue: 0,0:14:45.08,0:14:46.57,main,Noelle,0000,0000,0000,,You don't need to worry about that.
+Dialogue: 0,0:14:46.95,0:14:47.82,main,Girl,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:48.17,0:14:51.32,main,Noelle,0000,0000,0000,,Luck and Leopold are heading over there.
+Dialogue: 0,0:14:54.32,0:14:57.83,flashback,Noelle,0000,0000,0000,,Honestly, Stupidsta! Who does he think he is?
+Dialogue: 0,0:14:57.83,0:14:59.85,flashback,Leopold,0000,0000,0000,,We shall follow Asta's lead!
+Dialogue: 0,0:14:59.85,0:15:02.76,flashback,Luck,0000,0000,0000,,It's no fun leaving it all to Asta.
+Dialogue: 0,0:15:04.30,0:15:07.84,flashbackitalics,Noelle,0000,0000,0000,,Come to think of it, I never see \Nher in formal attire anymore...
+Dialogue: 0,0:15:08.34,0:15:13.35,flashback,Loropechika,0000,0000,0000,,No! I have a separate mission \Nfor you, Leopold and Luck!
+Dialogue: 0,0:15:13.35,0:15:14.19,flashback,Both,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:14.19,0:15:15.60,flashback,Loropechika,0000,0000,0000,,This is the perfect opportunity.
+Dialogue: 0,0:15:15.94,0:15:19.60,flashback,Loropechika,0000,0000,0000,,Let's take over the Spade Kingdom's\N outlying base!
+Dialogue: 0,0:15:19.60,0:15:20.60,flashback,Both,0000,0000,0000,,What?!
+Dialogue: 0,0:15:21.04,0:15:25.61,flashback,Loropechika,0000,0000,0000,,Noelle, Mimosa, and Finral, \Nplease go back Asta up.
+Dialogue: 0,0:15:25.89,0:15:30.36,flashback,Finral,0000,0000,0000,,U-Um... Do we really want to \Nsplit up our forces like that?
+Dialogue: 0,0:15:31.77,0:15:32.86,flashback,Loropechika,0000,0000,0000,,It'll be all right.
+Dialogue: 0,0:15:33.54,0:15:36.84,flashback,Loropechika,0000,0000,0000,,I'm sure all of you will be fine now.
+Dialogue: 0,0:15:42.62,0:15:47.83,main,Soldier S,0000,0000,0000,,Man, I'm bored. Why do we have to waste \Nour time watching over this dumb village?
+Dialogue: 0,0:15:47.83,0:15:51.63,main,Soldier T,0000,0000,0000,,Hey! Don't let the captain hear you!
+Dialogue: 0,0:15:54.91,0:15:56.07,main,Soldier S,0000,0000,0000,,An intruder!
+Dialogue: 0,0:15:56.94,0:15:58.10,main,Soldier T,0000,0000,0000,,Why, you—
+Dialogue: 0,0:15:58.64,0:15:59.72,main,Soldier U,0000,0000,0000,,You're mine!
+Dialogue: 0,0:16:05.66,0:16:07.15,main,Luck,0000,0000,0000,,Is this really...
+Dialogue: 0,0:16:07.15,0:16:08.90,main,Luck,0000,0000,0000,,all you guys have got?!
+Dialogue: 0,0:16:08.90,0:16:12.45,italics,Leopold,0000,0000,0000,,I was told everyone here \Nwas stage two or lower.
+Dialogue: 0,0:16:13.01,0:16:16.70,italics,Leopold,0000,0000,0000,,Which means it doesn't matter how many \Nthere are. They're no match for us!
+Dialogue: 0,0:16:16.70,0:16:20.50,main,Leopold,0000,0000,0000,,Flame Magic: Profound Spiral Flames!
+Dialogue: 0,0:16:25.89,0:16:28.41,main,Luck,0000,0000,0000,,Huh? Did we beat all of them already?
+Dialogue: 0,0:16:28.41,0:16:31.67,main,Leopold,0000,0000,0000,,Yes! There's no more left for you!
+Dialogue: 0,0:16:31.92,0:16:33.17,main,Luck,0000,0000,0000,,Boo.
+Dialogue: 0,0:16:33.68,0:16:35.21,main,Luck,0000,0000,0000,,We're all done over here.
+Dialogue: 0,0:16:35.21,0:16:36.89,italics,Asta,0000,0000,0000,,That was so fast!
+Dialogue: 0,0:16:37.48,0:16:40.46,main,Leopold,0000,0000,0000,,Asta! You don't get to have all the fun!
+Dialogue: 0,0:16:40.46,0:16:43.69,italics,Asta,0000,0000,0000,,Leo! Man, you sure did grow up!
+Dialogue: 0,0:16:43.69,0:16:46.69,italics,Leopold,0000,0000,0000,,I am Fuegoleon and Mereoleona's little brother.
+Dialogue: 0,0:16:46.69,0:16:48.76,italics,Leopold,0000,0000,0000,,Of course I've grown!
+Dialogue: 0,0:16:49.63,0:16:51.69,main,Asta,0000,0000,0000,,I'm so jealous!
+Dialogue: 0,0:16:52.20,0:16:56.27,Default,Finral,0000,0000,0000,,I've marked this place, so I'm gonna head out.\N I'll come back for you guys later.
+Dialogue: 0,0:16:56.27,0:16:58.70,Default,Asta,0000,0000,0000,,Thanks, Finral!
+Dialogue: 0,0:17:00.30,0:17:02.20,Default,Loropechika,0000,0000,0000,,Looks like everything went well.
+Dialogue: 0,0:17:02.62,0:17:06.21,Default,Gaja,0000,0000,0000,,We've received word that they were able \Nto take over the base successfully.
+Dialogue: 0,0:17:06.55,0:17:09.13,Default,Loropechika,0000,0000,0000,,I had confidence that \Nthey were up to the task,
+Dialogue: 0,0:17:09.13,0:17:10.92,Default,Loropechika,0000,0000,0000,,but they far exceeded my expectations.
+Dialogue: 0,0:17:10.92,0:17:12.83,Default,Gaja,0000,0000,0000,,Yes. But...
+Dialogue: 0,0:17:13.24,0:17:14.22,Default,Loropechika,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:15.78,0:17:18.22,Default,Loropechika,0000,0000,0000,,The real battle has yet to begin.
+Dialogue: 0,0:17:24.23,0:17:25.88,Default,Villager,0000,0000,0000,,Our town...
+Dialogue: 0,0:17:24.23,0:17:26.31,main,Villager,0000,0000,0000,,Are the soldiers gone?
+Dialogue: 0,0:17:26.31,0:17:27.73,main,Lady,0000,0000,0000,,We can go home?
+Dialogue: 0,0:17:26.86,0:17:28.30,main,Some,0000,0000,0000,,Really?
+Dialogue: 0,0:17:28.30,0:17:31.73,main,Girl,0000,0000,0000,,What do you intend to do to our town?
+Dialogue: 0,0:17:31.95,0:17:34.24,main,Asta,0000,0000,0000,,Huh? What do we intend to do to it?
+Dialogue: 0,0:17:34.24,0:17:37.61,main,Girl,0000,0000,0000,,I mean, the ones who just took it over...
+Dialogue: 0,0:17:37.61,0:17:42.24,main,Girl,0000,0000,0000,,Your friends are from the \NClover Kingdom, right?
+Dialogue: 0,0:17:42.52,0:17:46.25,main,Girl,0000,0000,0000,,We can't survive unless we obey the strong.
+Dialogue: 0,0:17:46.25,0:17:48.25,main,Girl,0000,0000,0000,,Isn't that right?
+Dialogue: 0,0:17:49.35,0:17:52.92,main,Asta,0000,0000,0000,,What are we going to do? \NI mean, it's your town, isn't it?
+Dialogue: 0,0:17:53.41,0:17:54.76,main,Asta,0000,0000,0000,,We're not gonna do anything to it!
+Dialogue: 0,0:17:54.76,0:17:55.76,main,Girl,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:55.99,0:17:59.53,main,Asta,0000,0000,0000,,Finral's gonna take all of you \Nguys back there with his magic!
+Dialogue: 0,0:17:59.53,0:18:00.57,main,Asta,0000,0000,0000,,Just hang tight!
+Dialogue: 0,0:18:00.57,0:18:01.72,main,Guy,0000,0000,0000,,Really?
+Dialogue: 0,0:18:01.72,0:18:03.77,main,,0000,0000,0000,,They won't take our mana from us?
+Dialogue: 0,0:18:02.33,0:18:03.77,main,Guy,0000,0000,0000,,We really get to go back home?
+Dialogue: 0,0:18:04.15,0:18:05.27,main,Guy,0000,0000,0000,,That's great!
+Dialogue: 0,0:18:05.62,0:18:07.52,main,Girl,0000,0000,0000,,Thank you so much!
+Dialogue: 0,0:18:07.52,0:18:09.27,main,Sister,0000,0000,0000,,Thanks, mister!
+Dialogue: 0,0:18:09.27,0:18:13.53,main,Asta,0000,0000,0000,,We just want to defeat the devil \Nthat's in the Spade Kingdom!
+Dialogue: 0,0:18:13.53,0:18:14.69,main,Girl,0000,0000,0000,,The devil?
+Dialogue: 0,0:18:15.58,0:18:18.68,main,Girl,0000,0000,0000,,C-Currently, the Spade Kingdom
+Dialogue: 0,0:18:19.53,0:18:22.53,main,Girl,0000,0000,0000,,is ruled by sinister mages \Nknown as the Dark Triad,
+Dialogue: 0,0:18:22.97,0:18:28.17,main,Girl,0000,0000,0000,,along with the Dark Disciples, whom they've \Nbestowed powers upon to help them rule.
+Dialogue: 0,0:18:30.04,0:18:33.06,main,Girl,0000,0000,0000,,They are all incredibly powerful.
+Dialogue: 0,0:18:33.49,0:18:39.05,main,Girl,0000,0000,0000,,I heard that the Dark Triad are \Nas fearsome as devils themselves.
+Dialogue: 0,0:18:39.29,0:18:41.80,main,Asta,0000,0000,0000,,The Dark Triad...
+Dialogue: 0,0:18:51.07,0:18:56.82,main,Dante,0000,0000,0000,,It appears as though you've grown quite \Naccustomed to using the devil's power, Zenon.
+Dialogue: 0,0:18:57.05,0:18:59.32,main,Zenon,0000,0000,0000,,Yes... For the most part.
+Dialogue: 0,0:18:59.82,0:19:02.49,main,Zenon,0000,0000,0000,,We've received reports that Candelo,
+Dialogue: 0,0:19:02.49,0:19:07.47,main,Zenon,0000,0000,0000,,the fortress we sent toward the Heart Kingdom, \Nand our base on the border have fallen.
+Dialogue: 0,0:19:08.15,0:19:09.83,main,Dante,0000,0000,0000,,Just leave them be.
+Dialogue: 0,0:19:10.15,0:19:14.34,main,Dante,0000,0000,0000,,We need to give our soldiers something \Nto do, or they'll get bored.
+Dialogue: 0,0:19:14.71,0:19:19.32,main,Vanica,0000,0000,0000,,Hey, Big Bro Dante! \NWhy does Zenon get all the fun?
+Dialogue: 0,0:19:20.01,0:19:22.84,main,Vanica,0000,0000,0000,,You let him go to the Diamond \NKingdom all by himself, too!
+Dialogue: 0,0:19:22.84,0:19:25.85,main,Zenon,0000,0000,0000,,I was more suited for that mission.
+Dialogue: 0,0:19:25.85,0:19:31.76,main,Vanica,0000,0000,0000,,What? But you only used about \N40% of your powers back there!
+Dialogue: 0,0:19:31.76,0:19:35.09,main,Vanica,0000,0000,0000,,I can do about that much too, you know.
+Dialogue: 0,0:19:35.86,0:19:40.11,main,Vanica,0000,0000,0000,,Aw... I wanna do something big, too!
+Dialogue: 0,0:19:41.39,0:19:43.62,main,Dante,0000,0000,0000,,You've grown much yourself, Vanica.
+Dialogue: 0,0:19:43.62,0:19:46.87,main,Vanica,0000,0000,0000,,Right?! So come on!
+Dialogue: 0,0:19:46.87,0:19:50.62,main,Dante,0000,0000,0000,,Yes, you're right. \NIt's about time we make our move.
+Dialogue: 0,0:19:51.83,0:19:54.88,main,Vanica,0000,0000,0000,,Yay! I'll finally be able to eat
+Dialogue: 0,0:19:55.44,0:19:58.88,main,Vanica,0000,0000,0000,,that delicious treat I've been saving.
+Dialogue: 0,0:19:59.59,0:20:02.38,main,Zenon,0000,0000,0000,,Why did we wait half a year?
+Dialogue: 0,0:20:02.38,0:20:05.84,main,Dante,0000,0000,0000,,All so we could prepare for the time to come.
+Dialogue: 0,0:20:05.84,0:20:09.39,main,Dante,0000,0000,0000,,It'd be no fun if the game ended instantly.
+Dialogue: 0,0:20:10.15,0:20:13.31,main,Dante,0000,0000,0000,,We're going to wipe \Neverything from this world.
+Dialogue: 0,0:20:13.31,0:20:17.70,main,Dante,0000,0000,0000,,All order, everything people have \Ndone, the blessings of nature...
+Dialogue: 0,0:20:18.15,0:20:20.40,main,Dante,0000,0000,0000,,We're going to make it all meaningless.
+Dialogue: 0,0:20:20.94,0:20:24.81,main,Dante,0000,0000,0000,,The keys we need to open the \Ndoor are within our reach.
+Dialogue: 0,0:20:26.04,0:20:28.16,main,Zenon,0000,0000,0000,,The two arcane-stage mages...
+Dialogue: 0,0:20:28.58,0:20:31.40,main,Dante,0000,0000,0000,,They cannot escape.
+Dialogue: 0,0:20:31.93,0:20:37.00,main,Dante,0000,0000,0000,,All life is within the palms of our hands.
+Dialogue: 0,0:20:45.47,0:20:48.69,main,Lily,0000,0000,0000,,Asta's working hard even in other kingdoms.
+Dialogue: 0,0:20:48.69,0:20:49.74,main,Lily,0000,0000,0000,,But...
+Dialogue: 0,0:20:49.74,0:20:53.43,main,Lily,0000,0000,0000,,He wrote, "I think the big \Nbattle's going to start soon."
+Dialogue: 0,0:20:54.70,0:20:57.64,main,Lily,0000,0000,0000,,Oh, dear. It's getting cloudy.
+Dialogue: 0,0:21:05.21,0:21:06.45,main,Lily,0000,0000,0000,,O-Oh, no!
+Dialogue: 0,0:21:09.25,0:21:11.50,main,Ralph,0000,0000,0000,,Lord Yuno...
+Dialogue: 0,0:22:42.00,0:22:46.51,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:42.91,0:22:45.88,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:46.01,0:22:50.01,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Comparing Heights
+Dialogue: 0,0:22:46.95,0:22:48.45,main,Mimosa,0000,0000,0000,,Comparing Heights.
+Dialogue: 0,0:22:50.01,0:22:53.51,main,Leopold,0000,0000,0000,,Behold, Asta! See how much I've grown!
+Dialogue: 0,0:22:53.76,0:22:58.72,main,Asta,0000,0000,0000,,Well, I mean, I've grown, too, \Nmaybe, I think, somewhat!
+Dialogue: 0,0:22:58.72,0:23:02.59,main,Asta,0000,0000,0000,,If you look closer, I think you'll \Nsee we're about the same height!
+Dialogue: 0,0:23:02.59,0:23:06.03,main,Leopold,0000,0000,0000,,Don't be foolish! Then let \Nus compare our heights!
+Dialogue: 0,0:23:06.03,0:23:07.74,main,Leopold,0000,0000,0000,,See? I told you!
+Dialogue: 0,0:23:09.45,0:23:11.72,main,Mimosa,0000,0000,0000,,Asta's in trouble!
+Dialogue: 0,0:23:11.72,0:23:13.32,main,Mimosa,0000,0000,0000,,I must help him!
+Dialogue: 0,0:23:16.04,0:23:19.17,main,Asta,0000,0000,0000,,See? We {\i1}are{\i0} about the same!
+Dialogue: 0,0:23:19.17,0:23:20.29,main,Leopold,0000,0000,0000,,But that's impossible!
+Dialogue: 0,0:23:20.59,0:23:22.79,main,Mimosa,0000,0000,0000,,Good for you, Asta.
+Dialogue: 0,0:23:22.79,0:23:25.29,main,Mimosa,0000,0000,0000,,While I'm at it, I'll just let you win.
+Dialogue: 0,0:23:27.30,0:23:31.38,main,Asta,0000,0000,0000,,How do you like that, Leo!\N I'm taller than you?!
+Dialogue: 0,0:23:31.38,0:23:35.81,main,Leopold,0000,0000,0000,,Uh, even I would notice this.
+Dialogue: 0,0:23:39.57,0:23:42.16,main,Asta,0000,0000,0000,,Leo! Who said you could grow without me?!
+Dialogue: 0,0:23:42.16,0:23:43.61,main,Leopold,0000,0000,0000,,Well, it has been six months.
+Dialogue: 0,0:23:43.61,0:23:47.30,main,Noelle,0000,0000,0000,,I've also grown these six... \NHey! Just where are you looking?!
+Dialogue: 0,0:23:47.30,0:23:48.35,main,Asta,0000,0000,0000,,What?!
+Dialogue: 0,0:23:48.35,0:23:53.55,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 159: \N"Quiet Lakes and Forest Shadows."
+Dialogue: 0,0:23:49.57,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 159\N\N{\fs18} Quiet Lakes and Forest Shadows

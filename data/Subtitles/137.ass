@@ -1,0 +1,348 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FFFB,&H000000FF,&H1900122E,&H000D1728,-1,0,0,0,100,100,0,0,1,1,0,8,0030,0030,0020,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+ 
+ 
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.31,0:00:07.04,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:07.57,0:00:09.51,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:09.51,0:00:12.95,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:13.41,0:00:15.61,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:16.34,0:00:18.90,italics,Nar,0000,0000,0000,,With guts and hard work, \Nhe made it into the Magic Knights,
+Dialogue: 0,0:00:18.90,0:00:21.77,italics,Nar,0000,0000,0000,,and he never gave up, \Ndespite how much he got hurt.
+Dialogue: 0,0:00:21.77,0:00:24.68,italics,Nar,0000,0000,0000,,He continues to diligently aim for the top!
+Dialogue: 0,0:00:25.88,0:00:27.79,italics,Nar,0000,0000,0000,,Even if you are a peasant,
+Dialogue: 0,0:00:27.79,0:00:29.63,italics,Nar,0000,0000,0000,,or even if you're poor...
+Dialogue: 0,0:00:29.63,0:00:32.38,italics,Nar,0000,0000,0000,,Anyone in this world can still shine!
+Dialogue: 0,0:00:32.47,0:00:34.80,italics,Nar,0000,0000,0000,,He's working hard to prove that,
+Dialogue: 0,0:00:35.21,0:00:37.82,italics,Nar,0000,0000,0000,,and to become the Wizard King!
+Dialogue: 0,0:00:40.69,0:00:45.53,italics,Nar,0000,0000,0000,,The Black Bulls visited \NRaquey to do some training.
+Dialogue: 0,0:00:46.06,0:00:50.07,italics,Nar,0000,0000,0000,,Asta and Noelle reunited with \NKahono and Kiato there,
+Dialogue: 0,0:00:50.47,0:00:53.20,italics,Nar,0000,0000,0000,,but under the sea, trouble was brewing.
+Dialogue: 0,0:00:54.17,0:00:58.21,italics,Nar,0000,0000,0000,,An underwater creature they called \Nthe guardian was wreaking havoc,
+Dialogue: 0,0:00:58.21,0:01:00.25,italics,Nar,0000,0000,0000,,causing trouble even for the Underwater Temple.
+Dialogue: 0,0:01:01.29,0:01:05.34,italics,Nar,0000,0000,0000,,In order to quell the guardian, Noelle and\N a few others headed into the water.
+Dialogue: 0,0:01:11.43,0:01:12.63,italics,Noelle,0000,0000,0000,,Just watch, Mother.
+Dialogue: 0,0:01:12.96,0:01:16.16,italics,Noelle,0000,0000,0000,,I'm going to become even stronger.
+Dialogue: 0,0:01:16.16,0:01:21.97,italics,Nar,0000,0000,0000,,But it wasn't only Noelle who \Nvowed to become stronger.
+Dialogue: 0,0:01:33.18,0:01:34.32,main,Asta,0000,0000,0000,,So this is...
+Dialogue: 0,0:01:34.32,0:01:38.53,main,Noelle,0000,0000,0000,,The food that's going to explosively \Nenhance our mana just by eating it.
+Dialogue: 0,0:01:38.90,0:01:41.80,main,Luck,0000,0000,0000,,You can do that just by eating food?
+Dialogue: 0,0:01:42.27,0:01:43.62,main,Asta,0000,0000,0000,,I guess I'll dig in.
+Dialogue: 0,0:01:43.62,0:01:46.94,main,Magna,0000,0000,0000,,You don't have any magic, so it's not like \Nanything's going to change for you.
+Dialogue: 0,0:01:46.94,0:01:50.79,main,Asta,0000,0000,0000,,Who knows?! I might get more anti-magic!
+Dialogue: 0,0:01:51.39,0:01:53.30,main,All,0000,0000,0000,,Let's eat!
+Dialogue: 0,0:01:56.50,0:01:58.84,main,Magna,0000,0000,0000,,Holy crap! I can feel it instantly!
+Dialogue: 0,0:01:58.84,0:02:01.65,main,Noelle,0000,0000,0000,,It feels like my mana's \Noverflowing from within me.
+Dialogue: 0,0:02:02.75,0:02:05.10,main,Magna,0000,0000,0000,,The hell is this?!
+Dialogue: 0,0:02:09.48,0:02:12.73,main,Magna,0000,0000,0000,,My body's just...
+Dialogue: 0,0:02:16.27,0:02:17.58,main,Luck,0000,0000,0000,,This is so much fun!
+Dialogue: 0,0:02:17.58,0:02:18.99,main,Asta,0000,0000,0000,,You guys!
+Dialogue: 0,0:02:19.99,0:02:22.01,main,Asta,0000,0000,0000,,What's going—huh?!
+Dialogue: 0,0:02:22.21,0:02:24.37,main,Asta,0000,0000,0000,,She's in trouble, too?!
+Dialogue: 0,0:02:28.17,0:02:32.63,main,Asta,0000,0000,0000,,M-Miz Charmy! You need to \Ndo something about this!
+Dialogue: 0,0:02:33.50,0:02:36.01,italics,Charmy,0000,0000,0000,,No... This food isn't good enough.
+Dialogue: 0,0:02:36.01,0:02:39.21,top,Asta,0000,0000,0000,,No, wait! Stop!
+Dialogue: 0,0:02:36.51,0:02:39.21,italics,Charmy,0000,0000,0000,,I know! I'll have to go see him!
+Dialogue: 0,0:02:59.30,0:03:03.91,Ep Title,Sign,0000,0000,0000,,{\fad(210,1871)\t(210,2419,\fscx120\fscy120)}Charmy's Century of Hunger,\N Gordon's Millennium of Loneliness
+Dialogue: 0,0:04:11.25,0:04:15.23,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3\fad(1002,1)}Magic Knights Headquarters
+Dialogue: 0,0:04:15.27,0:04:18.98,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3\fad(986,1)}Jamo
+Dialogue: 0,0:04:17.46,0:04:18.98,top,Jamo,0000,0000,0000,,You want to be my student?
+Dialogue: 0,0:04:23.61,0:04:26.12,italics,Jamo,0000,0000,0000,,Her fiery, glistening eyes...
+Dialogue: 0,0:04:26.12,0:04:28.61,italics,Jamo,0000,0000,0000,,Her fiery, glistening drool...
+Dialogue: 0,0:04:28.61,0:04:29.55,italics,Jamo,0000,0000,0000,,And...
+Dialogue: 0,0:04:29.55,0:04:32.54,italics,Jamo,0000,0000,0000,,Her fiery, glistening forehead!
+Dialogue: 0,0:04:32.54,0:04:34.09,italics,Jamo,0000,0000,0000,,As always...
+Dialogue: 0,0:04:34.93,0:04:36.54,italics,Jamo,0000,0000,0000,,She's really something else!
+Dialogue: 0,0:04:37.18,0:04:42.14,main,Jamo,0000,0000,0000,,All right, you got it! You're my \Nstudent starting today, shrimp!
+Dialogue: 0,0:04:42.14,0:04:43.05,main,Charmy,0000,0000,0000,,Thanks!
+Dialogue: 0,0:04:44.02,0:04:46.05,main,Jamo,0000,0000,0000,,Food that'll enhance mana, eh?
+Dialogue: 0,0:04:46.52,0:04:51.12,main,Charmy,0000,0000,0000,,I can make food that will \Nrecover mana with my magic.
+Dialogue: 0,0:04:51.12,0:04:56.56,main,Charmy,0000,0000,0000,,But what I need right now is food that \Nwill explosively enhance my friends' mana!
+Dialogue: 0,0:04:57.05,0:05:00.78,main,Jamo,0000,0000,0000,,I see. That's not gonna be a simple task.
+Dialogue: 0,0:05:00.78,0:05:02.82,main,Jamo,0000,0000,0000,,Are you ready for this, shrimp?
+Dialogue: 0,0:05:03.62,0:05:05.07,main,Charmy,0000,0000,0000,,Sure am!
+Dialogue: 0,0:05:06.14,0:05:08.57,main,Charmy,0000,0000,0000,,La!
+Dialogue: 0,0:05:08.57,0:05:11.33,main,Charmy,0000,0000,0000,,La!
+Dialogue: 0,0:05:11.74,0:05:14.08,main,,0000,0000,0000,,La!
+Dialogue: 0,0:05:14.08,0:05:16.67,main,Charmy,0000,0000,0000,,La!
+Dialogue: 0,0:05:17.41,0:05:25.34,top,Charmy,0000,0000,0000,,986, 987, 988, 989, 990...
+Dialogue: 0,0:05:20.69,0:05:24.70,italics,Jamo,0000,0000,0000,,The sheep cooks are your magic.
+Dialogue: 0,0:05:24.70,0:05:28.34,italics,Jamo,0000,0000,0000,,But just leveling up your \Nmagic won't be enough.
+Dialogue: 0,0:05:25.69,0:05:28.34,top,Charmy,0000,0000,0000,,991, 992...
+Dialogue: 0,0:05:28.34,0:05:34.64,top,Charmy,0000,0000,0000,,993, 994, 995...
+Dialogue: 0,0:05:29.05,0:05:33.49,italics,Jamo,0000,0000,0000,,You need to seal away your magic and \Ntrain yourself past your physical limits,
+Dialogue: 0,0:05:33.49,0:05:37.05,italics,Jamo,0000,0000,0000,,so that not only the Sheep Cooks\N but also you, shrimp,
+Dialogue: 0,0:05:34.64,0:05:40.15,top,Charmy,0000,0000,0000,,996, 997, 998...
+Dialogue: 0,0:05:37.05,0:05:39.73,italics,Jamo,0000,0000,0000,,can acquire the food that will enhance mana.
+Dialogue: 0,0:05:40.15,0:05:45.40,main,Charmy,0000,0000,0000,,999... 1,000!
+Dialogue: 0,0:05:46.97,0:05:48.49,main,Jamo,0000,0000,0000,,We've got your stamina up now.
+Dialogue: 0,0:05:49.33,0:05:53.56,main,Jamo,0000,0000,0000,,According to this book, the next \Nthing you need to do is acquire three
+Dialogue: 0,0:05:53.56,0:05:56.12,main,Jamo,0000,0000,0000,,unknown ingredients that \Neven I've never seen before.
+Dialogue: 0,0:05:56.73,0:05:59.09,main,Charmy,0000,0000,0000,,Three unknown ingredients?
+Dialogue: 0,0:06:05.88,0:06:09.47,flashbackitalics,Jamo,0000,0000,0000,,The first is the bulb of a\N mentanpin mandoradora!
+Dialogue: 0,0:06:09.47,0:06:11.97,main,Charmy,0000,0000,0000,,Got it!
+Dialogue: 0,0:06:11.97,0:06:15.39,flashbackitalics,Jamo,0000,0000,0000,,The second is the noonesheardofthis coelacanth!
+Dialogue: 0,0:06:17.89,0:06:21.19,flashbackitalics,Jamo,0000,0000,0000,,The third is the butt hide \Nof a surprisesquatch!
+Dialogue: 0,0:06:21.51,0:06:24.16,main,Charmy,0000,0000,0000,,La!
+Dialogue: 0,0:06:25.44,0:06:27.36,main,Jamo,0000,0000,0000,,Say what?!
+Dialogue: 0,0:06:28.01,0:06:29.61,main,Jamo,0000,0000,0000,,The shrimp did what?!
+Dialogue: 0,0:06:35.31,0:06:40.29,main,Charmy,0000,0000,0000,,La... La... La...
+Dialogue: 0,0:06:40.85,0:06:42.49,main,Jamo,0000,0000,0000,,You didn't have to push yourself that hard!
+Dialogue: 0,0:06:42.99,0:06:45.46,main,Charmy,0000,0000,0000,,Just as you said, Master.
+Dialogue: 0,0:06:46.02,0:06:48.92,main,Charmy,0000,0000,0000,,Now... I...
+Dialogue: 0,0:06:51.47,0:06:55.93,main,Charmy,0000,0000,0000,,Tonight I, Charmy Pappitson, will serve
+Dialogue: 0,0:06:55.93,0:07:00.72,main,Charmy,0000,0000,0000,,the best mana enhancement dishes ever.
+Dialogue: 0,0:07:06.77,0:07:10.24,main,Asta,0000,0000,0000,,So these are true mana enhancement dishes?
+Dialogue: 0,0:07:11.10,0:07:13.21,main,Finral,0000,0000,0000,,Uh, why did I get called in all of a sudden?
+Dialogue: 0,0:07:13.21,0:07:15.74,main,Noelle,0000,0000,0000,,You're insurance if things go south, duh.
+Dialogue: 0,0:07:15.74,0:07:17.87,main,Finral,0000,0000,0000,,Wait, when what goes south?!
+Dialogue: 0,0:07:18.81,0:07:22.21,italics,Asta,0000,0000,0000,,Miz Charmy... You pushed yourself so hard.
+Dialogue: 0,0:07:22.21,0:07:23.83,main,Charmy,0000,0000,0000,,Eat up!
+Dialogue: 0,0:07:25.50,0:07:27.48,main,Magna,0000,0000,0000,,I-I'm gonna pass.
+Dialogue: 0,0:07:27.48,0:07:28.84,main,Luck,0000,0000,0000,,I think I will, too.
+Dialogue: 0,0:07:29.19,0:07:30.72,main,Finral,0000,0000,0000,,We should get going.
+Dialogue: 0,0:07:31.13,0:07:32.59,main,Asta,0000,0000,0000,,Please eat it!
+Dialogue: 0,0:07:33.55,0:07:37.06,main,Asta,0000,0000,0000,,Please show Miz Charmy \Nher efforts weren't in vain!
+Dialogue: 0,0:07:37.51,0:07:39.20,main,Jamo,0000,0000,0000,,I beg of you!
+Dialogue: 0,0:07:40.07,0:07:42.14,main,Jamo,0000,0000,0000,,These dishes were created by the shri...
+Dialogue: 0,0:07:42.14,0:07:47.60,main,Jamo,0000,0000,0000,,by Charmy for her friends, and she \Nrisked her life for these ingredients!
+Dialogue: 0,0:07:48.62,0:07:50.53,italics,Noelle,0000,0000,0000,,Who the heck are you?
+Dialogue: 0,0:07:51.75,0:07:54.24,italics,Charmy,0000,0000,0000,,Master... Asta...
+Dialogue: 0,0:07:55.99,0:07:57.96,main,Magna,0000,0000,0000,,Oh, fine.
+Dialogue: 0,0:08:02.11,0:08:04.12,main,Jamo,0000,0000,0000,,C-Could it be...
+Dialogue: 0,0:08:06.65,0:08:08.55,main,Magna,0000,0000,0000,,Hey, hey, hey! What the hell's going on?!
+Dialogue: 0,0:08:08.55,0:08:10.18,main,Finral,0000,0000,0000,,This isn't good. Everyone!
+Dialogue: 0,0:08:10.18,0:08:12.82,main,Finral,0000,0000,0000,,Spatial Magic: Fallen Angel Gate!
+Dialogue: 0,0:08:15.52,0:08:17.41,main,Asta,0000,0000,0000,,Ow...
+Dialogue: 0,0:08:17.41,0:08:19.20,main,Yami,0000,0000,0000,,The hell are you guys doing?
+Dialogue: 0,0:08:20.13,0:08:21.02,main,Asta,0000,0000,0000,,Captain Yami?
+Dialogue: 0,0:08:21.44,0:08:25.14,main,Yami,0000,0000,0000,,You thinking about using \Nmy wheels to go somewhere?
+Dialogue: 0,0:08:25.14,0:08:28.26,main,Finral,0000,0000,0000,,Now's not the time for that, Yami!
+Dialogue: 0,0:08:31.34,0:08:32.65,main,Yami,0000,0000,0000,,The hell is that?
+Dialogue: 0,0:08:36.50,0:08:39.15,main,Jamo,0000,0000,0000,,That's... demon food!
+Dialogue: 0,0:08:39.15,0:08:40.53,main,Asta,0000,0000,0000,,Demon food?!
+Dialogue: 0,0:08:40.53,0:08:42.47,main,Noelle,0000,0000,0000,,You just now thought that up, didn't you?
+Dialogue: 0,0:08:42.47,0:08:45.03,main,Magna,0000,0000,0000,,Quit making random shit up, you jerk!
+Dialogue: 0,0:08:45.03,0:08:46.54,main,Yami,0000,0000,0000,,Who the hell is that?
+Dialogue: 0,0:08:47.04,0:08:49.45,main,Jamo,0000,0000,0000,,This is the first time I'm \Nseeing it with my own eyes,
+Dialogue: 0,0:08:49.45,0:08:51.85,main,Jamo,0000,0000,0000,,but the combination of pure devotion and mana
+Dialogue: 0,0:08:51.85,0:08:53.82,main,Jamo,0000,0000,0000,,sometimes gives life to food.
+Dialogue: 0,0:08:53.82,0:08:54.93,main,Noelle,0000,0000,0000,,Uh, that doesn't happen!
+Dialogue: 0,0:08:54.93,0:08:58.08,main,Jamo,0000,0000,0000,,Then how would you explain \Nwhat we're seeing right now?!
+Dialogue: 0,0:08:58.08,0:09:03.06,main,Jamo,0000,0000,0000,,All the feelings that Charmy put toward \Nenhancing mana were the real deal!
+Dialogue: 0,0:09:03.06,0:09:08.50,main,Jamo,0000,0000,0000,,And that's exactly how the food ended \Nup with an explosive amount of mana!
+Dialogue: 0,0:09:09.19,0:09:11.42,main,Charmy,0000,0000,0000,,The food has life now?
+Dialogue: 0,0:09:12.19,0:09:13.19,main,Charmy,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:13.50,0:09:15.25,main,Asta,0000,0000,0000,,Miz Charmy, what's wrong?!
+Dialogue: 0,0:09:16.61,0:09:18.09,main,Magna,0000,0000,0000,,The hell?!
+Dialogue: 0,0:09:18.09,0:09:19.05,main,Asta,0000,0000,0000,,Magna?
+Dialogue: 0,0:09:19.05,0:09:22.03,main,Luck,0000,0000,0000,,I dunno why, but I don't have any strength.
+Dialogue: 0,0:09:22.03,0:09:23.05,main,Asta,0000,0000,0000,,Luck?!
+Dialogue: 0,0:09:23.05,0:09:24.98,main,Jamo,0000,0000,0000,,It's stealing away our mana!
+Dialogue: 0,0:09:24.98,0:09:26.96,main,Noelle,0000,0000,0000,,What's going on?
+Dialogue: 0,0:09:27.29,0:09:31.53,main,Jamo,0000,0000,0000,,The demon food is absorbing all of our mana
+Dialogue: 0,0:09:31.53,0:09:34.26,main,Jamo,0000,0000,0000,,so it can become even more powerful!
+Dialogue: 0,0:09:34.26,0:09:35.72,main,Yami,0000,0000,0000,,No, really. Who are you?
+Dialogue: 0,0:09:36.25,0:09:38.34,main,Charmy,0000,0000,0000,,The noms I made...
+Dialogue: 0,0:09:38.34,0:09:42.39,main,Yami,0000,0000,0000,,Hey, kid. What the hell are you zoning out for?
+Dialogue: 0,0:09:42.89,0:09:46.15,main,Yami,0000,0000,0000,,Don't you think your sword \Ncan do something about that
+Dialogue: 0,0:09:46.15,0:09:47.89,main,Yami,0000,0000,0000,,stupidly big food monster?
+Dialogue: 0,0:09:49.23,0:09:50.54,main,Asta,0000,0000,0000,,Well...
+Dialogue: 0,0:09:52.40,0:09:55.46,main,Yami,0000,0000,0000,,Tch. Okay, fine.
+Dialogue: 0,0:09:56.21,0:10:00.41,main,Yami,0000,0000,0000,,I'll go out on a limb and—
+Dialogue: 0,0:09:59.26,0:10:00.41,main,Asta,0000,0000,0000,,You can't!
+Dialogue: 0,0:10:02.05,0:10:04.16,main,Yami,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:10:04.16,0:10:08.67,main,Asta,0000,0000,0000,,That food is filled with \NMiz Charmy's feelings...
+Dialogue: 0,0:10:08.67,0:10:11.17,main,Asta,0000,0000,0000,,Yes! It's food!
+Dialogue: 0,0:10:11.51,0:10:13.08,main,Yami,0000,0000,0000,,The hell are you talking about?
+Dialogue: 0,0:10:15.30,0:10:16.52,main,Charmy,0000,0000,0000,,Asta...
+Dialogue: 0,0:10:19.53,0:10:21.55,main,Charmy,0000,0000,0000,,Please put a stop to it!
+Dialogue: 0,0:10:25.07,0:10:25.97,main,Asta,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:29.40,0:10:30.60,main,Yami,0000,0000,0000,,Wait, are you seriously...
+Dialogue: 0,0:10:34.94,0:10:38.74,main,Asta,0000,0000,0000,,I'll gobble up all of Miz Charmy's food!
+Dialogue: 0,0:10:46.41,0:10:48.60,main,Yami,0000,0000,0000,,Don't blame me if you get a stomachache.
+Dialogue: 0,0:10:51.29,0:10:53.58,main,Yami,0000,0000,0000,,Our mana's gradually coming back.
+Dialogue: 0,0:10:55.03,0:10:58.55,main,Yami,0000,0000,0000,,Mana's flowing out of the \Npart the kid's eating?
+Dialogue: 0,0:10:58.55,0:11:02.86,main,Charmy,0000,0000,0000,,I'm not gonna let Asta have all the noms!
+Dialogue: 0,0:11:06.13,0:11:08.85,main,Magna,0000,0000,0000,,We can't just leave this to those two!
+Dialogue: 0,0:11:08.85,0:11:10.14,main,Luck,0000,0000,0000,,I guess not.
+Dialogue: 0,0:11:10.67,0:11:13.15,main,Yami,0000,0000,0000,,Well, now that that's settled, \Nthis shouldn't take too long.
+Dialogue: 0,0:11:13.15,0:11:15.68,main,Yami,0000,0000,0000,,Eat every last bit of that \Nstupidly big food monster.
+Dialogue: 0,0:11:15.68,0:11:17.30,main,Finral,0000,0000,0000,,Wait! Me, too?
+Dialogue: 0,0:11:17.30,0:11:18.65,main,Noelle,0000,0000,0000,,Absolutely not!
+Dialogue: 0,0:11:24.95,0:11:26.61,main,Yami,0000,0000,0000,,Again...
+Dialogue: 0,0:11:26.61,0:11:27.95,main,Yami,0000,0000,0000,,Who are you?
+Dialogue: 0,0:11:36.21,0:11:38.59,main,Yami,0000,0000,0000,,Good job, you guys.
+Dialogue: 0,0:11:39.53,0:11:41.43,main,Noelle,0000,0000,0000,,This looks like a scene right out of hell.
+Dialogue: 0,0:11:41.98,0:11:43.42,main,Asta,0000,0000,0000,,Miz Charmy...
+Dialogue: 0,0:11:43.42,0:11:44.35,main,Charmy,0000,0000,0000,,La?
+Dialogue: 0,0:11:44.35,0:11:49.67,main,Asta,0000,0000,0000,,I feel like that food was \Ndifferent from your usual food.
+Dialogue: 0,0:11:49.67,0:11:50.48,main,Charmy,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:50.48,0:11:53.34,main,Asta,0000,0000,0000,,I can't really put it into words,
+Dialogue: 0,0:11:53.34,0:11:57.59,main,Asta,0000,0000,0000,,but it seems like it was \Nsolely made to enhance mana.
+Dialogue: 0,0:11:57.59,0:12:03.10,main,Asta,0000,0000,0000,,Your food is usually filled with your desire \Nto make the people eating it happy,
+Dialogue: 0,0:12:03.10,0:12:04.94,main,Asta,0000,0000,0000,,but that seemed to be missing...
+Dialogue: 0,0:12:05.91,0:12:08.99,main,Asta,0000,0000,0000,,Wait! I'm sorry for being out of line!
+Dialogue: 0,0:12:09.51,0:12:10.64,main,Charmy,0000,0000,0000,,Master!
+Dialogue: 0,0:12:11.94,0:12:17.50,main,Jamo,0000,0000,0000,,We might've forgotten the most \Nimportant thing as chefs.
+Dialogue: 0,0:12:18.22,0:12:21.76,main,Jamo,0000,0000,0000,,Charmy... no, shrimp! Back to square one!
+Dialogue: 0,0:12:22.24,0:12:24.17,main,Charmy,0000,0000,0000,,Yes, Master!
+Dialogue: 0,0:12:35.83,0:12:37.31,main,Asta,0000,0000,0000,,One more time!
+Dialogue: 0,0:12:42.86,0:12:45.11,main,Asta,0000,0000,0000,,One more time!
+Dialogue: 0,0:12:46.78,0:12:49.68,italics,Gordon,0000,0000,0000,,My days now are spent \Nsurrounded by many friends.
+Dialogue: 0,0:12:50.99,0:12:55.50,italics,Gordon,0000,0000,0000,,I might be happier now than I've ever been.
+Dialogue: 0,0:12:57.17,0:13:01.55,italics,Gordon,0000,0000,0000,,We have to win in this fight against the devil.
+Dialogue: 0,0:13:01.89,0:13:05.45,italics,Gordon,0000,0000,0000,,If we don't, our happy days will come to an end.
+Dialogue: 0,0:13:05.45,0:13:08.02,main,Asta,0000,0000,0000,,I think that last one was pretty good.
+Dialogue: 0,0:13:08.02,0:13:09.06,main,Gordon,0000,0000,0000,,Asta...
+Dialogue: 0,0:13:10.18,0:13:13.69,main,Gordon,0000,0000,0000,,Do you think I could join in on your training?
+Dialogue: 0,0:13:13.69,0:13:15.33,main,Asta,0000,0000,0000,,Of course!
+Dialogue: 0,0:13:15.33,0:13:17.51,main,Asta,0000,0000,0000,,Noelle, go ahead and take a break!
+Dialogue: 0,0:13:17.51,0:13:18.94,main,Noelle,0000,0000,0000,,Uh, sure.
+Dialogue: 0,0:13:19.77,0:13:21.53,main,Asta,0000,0000,0000,,Come at me with everything you've got!
+Dialogue: 0,0:13:21.53,0:13:22.78,main,Gordon,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:13:22.78,0:13:24.44,italics,Gordon,0000,0000,0000,,With everything I've got...
+Dialogue: 0,0:13:25.34,0:13:28.93,italics,Gordon,0000,0000,0000,,That wasn't my intention, \Nbut I'm sure Asta will be okay.
+Dialogue: 0,0:13:29.54,0:13:30.96,main,Gordon,0000,0000,0000,,Okay, here I go.
+Dialogue: 0,0:13:30.96,0:13:34.01,italics,Gordon,0000,0000,0000,,Poison Curse Magic: \NDwelling of the Poison Cloud.
+Dialogue: 0,0:13:45.22,0:13:47.18,main,Asta,0000,0000,0000,,Gordon! Are you okay?!
+Dialogue: 0,0:13:47.65,0:13:49.30,main,Gordon,0000,0000,0000,,As expected.
+Dialogue: 0,0:13:49.98,0:13:52.09,main,Gordon,0000,0000,0000,,I'm no match for you.
+Dialogue: 0,0:13:58.51,0:14:00.70,italics,Gordon,0000,0000,0000,,I was fighting with everything I had.
+Dialogue: 0,0:14:03.21,0:14:05.69,italics,Gordon,0000,0000,0000,,Maybe I've gotten weaker.
+Dialogue: 0,0:14:07.45,0:14:10.60,italics,Gordon,0000,0000,0000,,When I first came to the \NBlack Bulls, I was truly alone.
+Dialogue: 0,0:14:11.63,0:14:17.91,italics,Gordon,0000,0000,0000,,But I was sharp as a knife and had the \Nstrength to not let anyone near me.
+Dialogue: 0,0:14:18.58,0:14:20.92,italics,Gordon,0000,0000,0000,,And yet, now I'm...
+Dialogue: 0,0:14:23.84,0:14:27.22,sign_20712_208_Please_don_t_try,Sign,0000,0000,0000,,{\blur3}Please don't try to find me.
+Dialogue: 0,0:14:31.18,0:14:35.00,italics,Gordon,0000,0000,0000,,I can't just stay complacent, \Nsurrounded by my friends.
+Dialogue: 0,0:14:35.00,0:14:39.49,italics,Gordon,0000,0000,0000,,In order to defeat the devil, and to \Nregain my strength from before...
+Dialogue: 0,0:14:42.07,0:14:45.72,italics,Gordon,0000,0000,0000,,I must be alone once more.
+Dialogue: 0,0:14:47.82,0:14:51.28,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3\fad(734,1)}The Forest of Poisonous Magical Beasts
+Dialogue: 0,0:14:54.19,0:14:58.66,italics,Gordon,0000,0000,0000,,In the past, Lady Mereoleona walked \Nthrough a strong magic region alone
+Dialogue: 0,0:14:58.66,0:15:01.40,italics,Gordon,0000,0000,0000,,and became as powerful as she is now.
+Dialogue: 0,0:15:02.97,0:15:06.15,italics,Gordon,0000,0000,0000,,That's why I'm going to go through the \NForest of Poisonous Magical Beasts
+Dialogue: 0,0:15:06.15,0:15:07.80,italics,Gordon,0000,0000,0000,,that lies right before the Witches' Forest.
+Dialogue: 0,0:15:07.80,0:15:08.30,sign_21766_217_Noble_Realm,,0000,0000,0000,,{\move(125,290,125,355)\blur3}Noble Realm
+Dialogue: 0,0:15:07.80,0:15:12.34,sign_21766_217_Noble_Realm,Sign,0000,0000,0000,,{\pos(110,335)\fad(3500,1)\blur3}Common Realm
+Dialogue: 0,0:15:08.53,0:15:12.21,italics,Gordon,0000,0000,0000,,I'd go to the strong magic region...\Nbut that's a bit scary,
+Dialogue: 0,0:15:08.78,0:15:12.34,sign_21766_217_Noble_Realm,Sign,0000,0000,0000,,{\pos(115,175)\fad(2840,1)\blur3}Forsaken Realm
+Dialogue: 0,0:15:09.38,0:15:12.34,sign_21766_217_Noble_Realm,Sign,0000,0000,0000,,{\pos(440,75)\fad(2240,1)\blur3}Strong Magic Region
+Dialogue: 0,0:15:12.21,0:15:14.60,italics,Gordon,0000,0000,0000,,so I'll do my best in this forest.
+Dialogue: 0,0:15:12.34,0:15:14.60,sign_21766_217_Noble_Realm,Sign,0000,0000,0000,,{\pos(110,245)\fad(900,1)\blur3}Common Realm
+Dialogue: 0,0:15:12.34,0:15:14.60,sign_21766_217_Noble_Realm,Sign,0000,0000,0000,,{\pos(115,80)\fad(875,1)\blur3}Forsaken Realm
+Dialogue: 0,0:15:18.01,0:15:19.94,main,Gordon,0000,0000,0000,,Things seem to be going well.
+Dialogue: 0,0:15:19.94,0:15:22.60,main,Gordon,0000,0000,0000,,Probably because I'm all alone again.
+Dialogue: 0,0:15:23.19,0:15:24.97,main,Gordon,0000,0000,0000,,Okay, I'll take a break now.
+Dialogue: 0,0:15:26.61,0:15:28.53,main,Gordon,0000,0000,0000,,I {\i1}am{\i0} pretty hungry.
+Dialogue: 0,0:15:31.01,0:15:32.49,main,Gordon,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:35.59,0:15:37.46,main,Gordon,0000,0000,0000,,My week's worth of food!
+Dialogue: 0,0:15:39.49,0:15:40.58,main,Gordon,0000,0000,0000,,Wait!
+Dialogue: 0,0:15:42.87,0:15:45.50,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\fad(739,1)\blur3}3 Days Later
+Dialogue: 0,0:15:49.97,0:15:54.05,italics,Gordon,0000,0000,0000,,I can't find my backpack. \NMaybe I'll head back...
+Dialogue: 0,0:15:54.62,0:15:57.06,italics,Gordon,0000,0000,0000,,I think I've gotten a good \Ntaste of being alone again.
+Dialogue: 0,0:15:58.75,0:15:59.56,main,Gordon,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:00.86,0:16:03.16,italics,Gordon,0000,0000,0000,,I don't know how to get home.
+Dialogue: 0,0:16:10.50,0:16:13.36,italics,Gordon,0000,0000,0000,,Eating all alone never tastes good.
+Dialogue: 0,0:16:14.55,0:16:18.46,italics,Gordon,0000,0000,0000,,Eating with everyone was pretty rowdy, but fun.
+Dialogue: 0,0:16:20.14,0:16:24.06,italics,Gordon,0000,0000,0000,,If my friends were here at a time like this...
+Dialogue: 0,0:16:28.61,0:16:32.72,main,Gordon,0000,0000,0000,,Gordon! I'll go get you some yummy food, stat!
+Dialogue: 0,0:16:32.72,0:16:36.43,main,Gordon,0000,0000,0000,,Get a grip, Gordon. As your partner \Nin the G-G duo, I'll be by your side.
+Dialogue: 0,0:16:37.01,0:16:40.16,main,Gordon,0000,0000,0000,,Gordon, are you tired? Eek!
+Dialogue: 0,0:16:40.16,0:16:43.31,main,Gordon,0000,0000,0000,,I know you've got more to you than that!
+Dialogue: 0,0:16:43.67,0:16:47.02,main,Gordon,0000,0000,0000,,I'm done trying to kill Magna, \Nso you're next, Gordon!
+Dialogue: 0,0:16:47.87,0:16:50.80,main,Gordon,0000,0000,0000,,What the hell am I doing?
+Dialogue: 0,0:16:59.06,0:17:02.25,italics,Gordon,0000,0000,0000,,Now's my chance to test out the strength
+Dialogue: 0,0:17:02.25,0:17:03.89,italics,Gordon,0000,0000,0000,,I've regained by being alone.
+Dialogue: 0,0:17:06.03,0:17:08.97,italics,Gordon,0000,0000,0000,,Poison Curse Magic: \NDwelling of the Poison Cloud.
+Dialogue: 0,0:17:16.34,0:17:17.14,main,Gordon,0000,0000,0000,,One more time!
+Dialogue: 0,0:17:22.43,0:17:23.89,italics,Gordon,0000,0000,0000,,But why?
+Dialogue: 0,0:17:29.66,0:17:31.95,italics,Gordon,0000,0000,0000,,My poison curse magic didn't work.
+Dialogue: 0,0:17:31.95,0:17:33.80,italics,Gordon,0000,0000,0000,,I really must be weaker.
+Dialogue: 0,0:17:41.63,0:17:45.21,italics,Gordon,0000,0000,0000,,Thank goodness... This is the \Nfirst water I've had in three days.
+Dialogue: 0,0:17:46.13,0:17:49.16,italics,Gordon,0000,0000,0000,,I'll live here on my own for a while.
+Dialogue: 0,0:17:49.16,0:17:52.46,italics,Gordon,0000,0000,0000,,I'll find food on my own and sleep alone.
+Dialogue: 0,0:17:52.46,0:17:54.96,italics,Gordon,0000,0000,0000,,And wash my face alone, like this...
+Dialogue: 0,0:17:55.89,0:17:59.77,italics,Gordon,0000,0000,0000,,Back at the Black Bulls' hideout, Asta and \NI would always wash each other's backs.
+Dialogue: 0,0:18:01.13,0:18:04.97,italics,Gordon,0000,0000,0000,,There were nights I'd drink with \NVanessa as we talked about our dreams.
+Dialogue: 0,0:18:06.05,0:18:10.06,italics,Gordon,0000,0000,0000,,There were times I helped Gauche \Ntake care of his Marie doll.
+Dialogue: 0,0:18:11.55,0:18:14.56,italics,Gordon,0000,0000,0000,,There were even times Luck and I \Nrisked our lives fighting each other.
+Dialogue: 0,0:18:16.99,0:18:18.91,italics,Gordon,0000,0000,0000,,I must get stronger.
+Dialogue: 0,0:18:19.27,0:18:22.46,italics,Gordon,0000,0000,0000,,But to think that being alone is so painful...
+Dialogue: 0,0:18:23.07,0:18:26.91,italics,Gordon,0000,0000,0000,,Even though this was normal for \Nme before joining the Black Bulls...
+Dialogue: 0,0:18:27.46,0:18:30.13,italics,Gordon,0000,0000,0000,,I wonder what everyone's up to right now.
+Dialogue: 0,0:18:32.87,0:18:34.17,main,Gordon,0000,0000,0000,,This is...
+Dialogue: 0,0:18:34.70,0:18:36.46,main,Gordon,0000,0000,0000,,We've got to hurry!
+Dialogue: 0,0:18:36.97,0:18:38.85,main,Gordon,0000,0000,0000,,All right, let's get moving!
+Dialogue: 0,0:18:38.85,0:18:40.18,main,Gordon,0000,0000,0000,,Right!
+Dialogue: 0,0:18:42.86,0:18:46.06,italics,Gordon,0000,0000,0000,,They're going to come find me, right?
+Dialogue: 0,0:18:48.23,0:18:50.44,main,Gordon,0000,0000,0000,,You guys are here already?
+Dialogue: 0,0:18:55.79,0:18:58.44,italics,Gordon,0000,0000,0000,,The... mother of that\N magical beast from earlier?
+Dialogue: 0,0:19:03.34,0:19:04.45,main,Yami,0000,0000,0000,,This is...
+Dialogue: 0,0:19:04.45,0:19:06.65,main,Yami,0000,0000,0000,,We've got to hurry!
+Dialogue: 0,0:19:07.16,0:19:09.48,main,Yami,0000,0000,0000,,All right, let's get moving!
+Dialogue: 0,0:19:09.48,0:19:10.33,main,All,0000,0000,0000,,Right!
+Dialogue: 0,0:19:16.11,0:19:19.93,italics,Gordon,0000,0000,0000,,Poison Curse Magic: Aufwachen Dachs!
+Dialogue: 0,0:19:22.01,0:19:25.73,italics,Gordon,0000,0000,0000,,It's no use... My magic is having no effect at all.
+Dialogue: 0,0:19:37.15,0:19:41.69,italics,Gordon,0000,0000,0000,,I'm finished... I'm going to die here all alone.
+Dialogue: 0,0:19:46.29,0:19:47.41,italics,Gordon,0000,0000,0000,,I see...
+Dialogue: 0,0:19:49.21,0:19:52.54,italics,Gordon,0000,0000,0000,,So they didn't abandon me.
+Dialogue: 0,0:19:53.58,0:19:58.21,italics,Gordon,0000,0000,0000,,I finally see that it wasn't \Nloneliness that I needed.
+Dialogue: 0,0:19:58.21,0:20:01.38,italics,Gordon,0000,0000,0000,,I became stronger because I had friends!
+Dialogue: 0,0:20:02.80,0:20:06.35,italics,Gordon,0000,0000,0000,,This loneliness is poison itself.
+Dialogue: 0,0:20:06.35,0:20:08.81,italics,Gordon,0000,0000,0000,,And the antidote for this poison...
+Dialogue: 0,0:20:10.02,0:20:12.31,italics,Gordon,0000,0000,0000,,is my friendship with my teammates!
+Dialogue: 0,0:20:25.18,0:20:26.34,main,Gordon,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:20:26.98,0:20:31.00,main,Gordon,0000,0000,0000,,I panicked, and I ended up hurting you.
+Dialogue: 0,0:20:31.67,0:20:36.99,main,Gordon,0000,0000,0000,,That's unforgivable for a Magic Knight who's \Ntasked with protecting this kingdom...
+Dialogue: 0,0:20:36.99,0:20:40.66,main,Gordon,0000,0000,0000,,You're my fellow comrades\Nliving in the Clover Kingdom.
+Dialogue: 0,0:20:40.66,0:20:43.81,main,Gordon,0000,0000,0000,,No... You're my friends.
+Dialogue: 0,0:20:56.26,0:20:58.11,main,Gordon,0000,0000,0000,,Thanks for leading the way.
+Dialogue: 0,0:21:02.86,0:21:06.61,main,Gordon,0000,0000,0000,,I see. You both have immunity to poison magic.
+Dialogue: 0,0:21:06.92,0:21:09.60,main,Gordon,0000,0000,0000,,So that's why my magic didn't work.
+Dialogue: 0,0:21:16.27,0:21:17.50,main,Gordon,0000,0000,0000,,I'm home.
+Dialogue: 0,0:21:19.13,0:21:20.25,main,Gordon,0000,0000,0000,,Ah...
+Dialogue: 0,0:21:20.25,0:21:24.51,italics,Gordon,0000,0000,0000,,Everyone must've gone looking for me.
+Dialogue: 0,0:21:25.27,0:21:28.47,italics,Gordon,0000,0000,0000,,They might all be in danger somewhere.
+Dialogue: 0,0:21:29.10,0:21:31.66,italics,Gordon,0000,0000,0000,,Now it's my turn to go find them.
+Dialogue: 0,0:21:32.14,0:21:35.73,italics,Gordon,0000,0000,0000,,I'll never leave my friends again.
+Dialogue: 0,0:21:38.13,0:21:40.15,main,Asta,0000,0000,0000,,This is great!
+Dialogue: 0,0:21:40.15,0:21:43.99,main,Yami,0000,0000,0000,,Listen up! Surpass your limits! \NEat and drink all you can!
+Dialogue: 0,0:21:43.99,0:21:46.28,main,Asta,0000,0000,0000,,I've definitely surpassed them!
+Dialogue: 0,0:21:46.28,0:21:49.78,main,Magna,0000,0000,0000,,Mister Yami, the workers \Nhere sure are staring at us.
+Dialogue: 0,0:21:49.78,0:21:51.40,main,Yami,0000,0000,0000,,Hell if I care!
+Dialogue: 0,0:21:51.40,0:21:53.86,main,Yami,0000,0000,0000,,They're doing an inventory count and \Nselling off all their ingredients,
+Dialogue: 0,0:21:53.86,0:21:54.91,main,Yami,0000,0000,0000,,and this says...
+Dialogue: 0,0:21:55.99,0:21:59.92,main,Yami,0000,0000,0000,,we get 90% off our bill for \Nan unlimited time period!
+Dialogue: 0,0:23:39.77,0:23:41.27,main,Charmy,0000,0000,0000,,I'm not going to lose!
+Dialogue: 0,0:23:41.27,0:23:43.34,main,Charmy,0000,0000,0000,,No matter how much food there is,
+Dialogue: 0,0:23:43.34,0:23:44.85,main,Charmy,0000,0000,0000,,I'm going to eat all of it!
+Dialogue: 0,0:23:44.85,0:23:46.66,main,Charmy,0000,0000,0000,,In the name of my tummy!
+Dialogue: 0,0:23:46.66,0:23:50.15,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, \NPage 138: "In Zara's Footsteps."
+Dialogue: 0,0:23:47.69,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 138\N\N{\fs18}In Zara's Footsteps
+Dialogue: 0,0:23:50.15,0:23:51.98,main,Charmy,0000,0000,0000,,Who's Zara, la?
+Dialogue: 0,0:23:51.98,0:23:53.99,main,Charmy,0000,0000,0000,,Huh? Zora's dad?

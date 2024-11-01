@@ -1,0 +1,366 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0085,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+
+Dialogue: 0,0:00:02.79,0:00:06.76,italics,Nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.09,0:00:15.30,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.52,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:30.80,0:00:34.74,italics,Nar,0000,0000,0000,,The first stage of the Royal Knights \NSelection Exam continues to heat up!
+Dialogue: 0,0:00:35.37,0:00:37.61,italics,Nar,0000,0000,0000,,Asta and the others from B Team...
+Dialogue: 0,0:00:39.78,0:00:41.74,italics,Nar,0000,0000,0000,,Magna and the others from C Team...
+Dialogue: 0,0:00:44.75,0:00:47.08,italics,Nar,0000,0000,0000,,Finral and the others from E Team...
+Dialogue: 0,0:00:50.93,0:00:53.42,italics,Nar,0000,0000,0000,,Langris and the others from G Team...
+Dialogue: 0,0:00:53.42,0:00:57.33,italics,Nar,0000,0000,0000,,All these teams were victorious \Nand made it into stage two.
+Dialogue: 0,0:00:59.61,0:01:03.25,main,langris,0000,0000,0000,,In the end, you'll never be more than \Na means of transportation, Brother.
+Dialogue: 0,0:01:03.25,0:01:08.41,main,langris,0000,0000,0000,,In our upcoming match, be careful not to \Nget in the way of my spatial magic, okay?
+Dialogue: 0,0:01:08.41,0:01:11.61,main,Langris,0000,0000,0000,,I can't guarantee that you \Nwon't lose something.
+Dialogue: 0,0:01:12.58,0:01:16.27,main,Langris,0000,0000,0000,,If that were to happen, \NMother and Father aside,
+Dialogue: 0,0:01:16.27,0:01:17.53,main,Langris,0000,0000,0000,,I'm sure she'd be sad.
+Dialogue: 0,0:01:18.03,0:01:19.41,main,Finral,0000,0000,0000,,You're right.
+Dialogue: 0,0:01:21.11,0:01:24.52,main,Finral,0000,0000,0000,,So to ensure that doesn't happen,\N I'm going to win!
+Dialogue: 0,0:01:46.39,0:01:50.19,Ep Title,Sign,0000,0000,0000,,{\fad(187,1)}Mage X
+Dialogue: 0,0:02:58.83,0:03:02.51,italics,Finral,0000,0000,0000,,Aw, man... I finally said it.
+Dialogue: 0,0:03:03.31,0:03:04.76,flashback,Finral,0000,0000,0000,,I'm going to win!
+Dialogue: 0,0:03:05.23,0:03:08.77,flashback,Langris,0000,0000,0000,,How insolent of you, Brother.
+Dialogue: 0,0:03:09.12,0:03:11.78,italics,Finral,0000,0000,0000,,I wasn't trying to make him angry, but...
+Dialogue: 0,0:03:14.34,0:03:17.40,main,Guy,0000,0000,0000,,We will now begin round five!
+Dialogue: 0,0:03:20.68,0:03:21.90,main,Asta,0000,0000,0000,,Finally!
+Dialogue: 0,0:03:21.90,0:03:23.91,main,King,0000,0000,0000,,Hurry it up already.
+Dialogue: 0,0:03:24.63,0:03:26.91,main,Guy,0000,0000,0000,,I Team and J Team, come forth.
+Dialogue: 0,0:03:28.03,0:03:29.62,main,Nils,0000,0000,0000,,Hello.
+Dialogue: 0,0:03:29.62,0:03:30.91,main,Ruben,0000,0000,0000,,I hope you take it easy on us.
+Dialogue: 0,0:03:31.63,0:03:32.83,main,Wainsley,0000,0000,0000,,Likewise.
+Dialogue: 0,0:03:32.83,0:03:34.32,main,Nix,0000,0000,0000,,Pleasure.
+Dialogue: 0,0:03:34.32,0:03:35.92,main,Roland,0000,0000,0000,,We're going to do our best.
+Dialogue: 0,0:03:35.92,0:03:38.90,main,Asta,0000,0000,0000,,Roland, Wainsley, Nix...
+Dialogue: 0,0:03:38.90,0:03:40.76,main,Asta,0000,0000,0000,,Nils, Ruben...
+Dialogue: 0,0:03:40.76,0:03:44.31,main,Asta,0000,0000,0000,,And "Times"? What a strange name.
+Dialogue: 0,0:03:44.31,0:03:47.00,main,Mimosa,0000,0000,0000,,I believe it's just "X," Asta.
+Dialogue: 0,0:03:47.00,0:03:47.85,main,Asta,0000,0000,0000,,X?!
+Dialogue: 0,0:03:47.85,0:03:49.69,main,Yuno,0000,0000,0000,,What a strange name.
+Dialogue: 0,0:03:49.69,0:03:51.12,main,Noelle,0000,0000,0000,,I wonder if they entered anonymously.
+Dialogue: 0,0:03:52.92,0:03:54.52,main,Ruben,0000,0000,0000,,Um, pardon me...
+Dialogue: 0,0:03:54.88,0:03:55.69,main,Guy,0000,0000,0000,,Yes?
+Dialogue: 0,0:03:56.11,0:03:59.58,main,Ruben,0000,0000,0000,,Who's this "X" that's on our team?
+Dialogue: 0,0:03:59.58,0:04:01.28,main,Nils,0000,0000,0000,,We can't seem to find them anywhere.
+Dialogue: 0,0:04:01.28,0:04:02.36,main,Guy,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:03.28,0:04:07.66,main,King,0000,0000,0000,,Hurry it up. If you can't find your other \Nmember soon, I'm going to disqualify you.
+Dialogue: 0,0:04:08.15,0:04:11.81,main,Guy,0000,0000,0000,,Um... X! X!
+Dialogue: 0,0:04:11.81,0:04:13.46,main,Guy,0000,0000,0000,,If you're here, please come over immediately!
+Dialogue: 0,0:04:13.46,0:04:14.48,main,Guy,0000,0000,0000,,X!
+Dialogue: 0,0:04:19.54,0:04:22.21,main,Asta,0000,0000,0000,,Wh-Who the hell's that guy?!
+Dialogue: 0,0:04:26.47,0:04:29.44,main,Ril,0000,0000,0000,,I'm X!
+Dialogue: 0,0:04:36.85,0:04:42.82,sign_6730_49_Captain_of_the_A,Sign,0000,0000,0000,,{\blur3\fad(487,1)}The Captain of the Aqua Deer\N{\fs30}Rill Boismortier
+Dialogue: 0,0:04:37.47,0:04:40.95,top,Rill,0000,0000,0000,,Hello! It's me, Rill Boismortier!
+Dialogue: 0,0:04:40.95,0:04:42.82,top,Rill,0000,0000,0000,,Are you all surprised?
+Dialogue: 0,0:04:43.54,0:04:46.61,main,Asta,0000,0000,0000,,The Captain of the Aqua Deer, Rill?!
+Dialogue: 0,0:04:48.02,0:04:48.95,main,Noelle,0000,0000,0000,,Why, though?
+Dialogue: 0,0:04:49.62,0:04:54.47,main,Guy,0000,0000,0000,,The guy who uses paint \Nand picture magic?
+Dialogue: 0,0:04:54.47,0:04:56.76,main,Guy 2,0000,0000,0000,,Why's a captain participating?
+Dialogue: 0,0:04:56.76,0:04:57.75,main,Guy 3,0000,0000,0000,,You can't be serious!
+Dialogue: 0,0:04:58.07,0:05:02.17,main,Rill,0000,0000,0000,,Huh? Wait... Were captains \Nnot supposed to enter?!
+Dialogue: 0,0:05:02.55,0:05:05.42,main,Julius,0000,0000,0000,,Not true! We're glad to have you!
+Dialogue: 0,0:05:05.77,0:05:09.18,italics,Julius,0000,0000,0000,,Yes! I get to see Rill's cool magic again.
+Dialogue: 0,0:05:09.18,0:05:11.93,main,King,0000,0000,0000,,Hurry up and start, if you're all here.
+Dialogue: 0,0:05:12.24,0:05:14.67,main,Julius,0000,0000,0000,,There's no need to be afraid, everyone.
+Dialogue: 0,0:05:14.67,0:05:17.98,main,Julius,0000,0000,0000,,This is your chance to defeat a captain \Nand make a name for yourselves.
+Dialogue: 0,0:05:17.98,0:05:19.49,main,Guy,0000,0000,0000,,True!
+Dialogue: 0,0:05:19.49,0:05:23.32,main,Guy 2,0000,0000,0000,,With the rules of this game, \Nwe actually have a fighting chance!
+Dialogue: 0,0:05:25.07,0:05:27.83,main,Rill,0000,0000,0000,,The Aqua Deer were dead \Nlast in the previous term,
+Dialogue: 0,0:05:27.83,0:05:29.29,main,Rill,0000,0000,0000,,so I'm here to rebuild our reputation!
+Dialogue: 0,0:05:29.29,0:05:31.95,main,Rill,0000,0000,0000,,I'm not going to be taken down so easily.
+Dialogue: 0,0:05:32.38,0:05:34.54,main,Walter,0000,0000,0000,,What enthusiasm!
+Dialogue: 0,0:05:36.71,0:05:40.12,main,Walter,0000,0000,0000,,I am deeply moved, Young Master Rill!
+Dialogue: 0,0:05:40.12,0:05:43.21,italics,Asta,0000,0000,0000,,A super-fast old guy just \Npopped outta nowhere!
+Dialogue: 0,0:05:43.25,0:05:48.22,sign_6730_49_Captain_of_the_A,Sign,0000,0000,0000,,{\blur3\fad(487,1)}The Butler of the Boismortier Family\N{\fs30}Walter
+Dialogue: 0,0:05:43.58,0:05:48.22,top,Walter,0000,0000,0000,,Ladies and gentlemen, I ask that you \Ntake good care of Master Rill today.
+Dialogue: 0,0:05:49.46,0:05:51.84,main,Rill,0000,0000,0000,,You're always so dramatic.
+Dialogue: 0,0:05:51.84,0:05:54.10,main,Rill,0000,0000,0000,,Oh, hey, Asta!
+Dialogue: 0,0:05:54.74,0:05:56.22,main,Rill,0000,0000,0000,,I look forward to today!
+Dialogue: 0,0:05:56.53,0:05:59.03,main,Asta,0000,0000,0000,,Yeah! Let's both do our best!
+Dialogue: 0,0:05:59.03,0:06:01.42,main,Klaus,0000,0000,0000,,B-But he's a captain!
+Dialogue: 0,0:06:01.42,0:06:03.31,main,Mimosa,0000,0000,0000,,Are you two friends?
+Dialogue: 0,0:06:04.48,0:06:07.76,main,Asta,0000,0000,0000,,This old guy's scary!
+Dialogue: 0,0:06:11.33,0:06:15.93,main,Walter,0000,0000,0000,,You must be Master Rill's \Ntrustworthy friend, Master Asta.
+Dialogue: 0,0:06:15.93,0:06:18.16,main,Walter,0000,0000,0000,,I've heard all about you.
+Dialogue: 0,0:06:18.16,0:06:21.25,italics,Asta,0000,0000,0000,,Where'd that come from?! \NThat was super smooth!
+Dialogue: 0,0:06:21.25,0:06:25.47,main,Walter,0000,0000,0000,,Thank you for being good \Nfriends with Master Rill.
+Dialogue: 0,0:06:25.47,0:06:31.76,main,Walter,0000,0000,0000,,I am Walter, Master Rill's butler.
+Dialogue: 0,0:06:32.08,0:06:33.43,main,Walter,0000,0000,0000,,Please, do have some tea.
+Dialogue: 0,0:06:33.43,0:06:35.89,main,Asta,0000,0000,0000,,Th-Thank you very much.
+Dialogue: 0,0:06:39.10,0:06:41.06,italics,Asta,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:06:41.06,0:06:42.48,main,Mimosa,0000,0000,0000,,Asta?
+Dialogue: 0,0:06:43.23,0:06:45.52,main,Asta,0000,0000,0000,,It's so classy that I can't \Neven understand the taste!
+Dialogue: 0,0:06:45.52,0:06:46.66,main,Noelle,0000,0000,0000,,Moron.
+Dialogue: 0,0:06:47.78,0:06:52.13,main,walteR,0000,0000,0000,,Just imagine... \NMaster Rill having a friend.
+Dialogue: 0,0:06:52.13,0:06:54.74,main,walter,0000,0000,0000,,This would've been unfathomable before.
+Dialogue: 0,0:06:54.74,0:06:58.37,main,Asta,0000,0000,0000,,Really? I guess I'm not that surprised.
+Dialogue: 0,0:06:58.37,0:07:03.71,main,Walter,0000,0000,0000,,I do apologize. I've been moved to tears.
+Dialogue: 0,0:07:03.71,0:07:05.14,main,Rill,0000,0000,0000,,Oh, come on, Walter!
+Dialogue: 0,0:07:05.14,0:07:07.87,main,Rill,0000,0000,0000,,Stop bringing up the past! It's embarrassing.
+Dialogue: 0,0:07:07.87,0:07:10.19,main,Walter,0000,0000,0000,,Oh, I do beg your pardon.
+Dialogue: 0,0:07:10.19,0:07:12.17,main,Guy,0000,0000,0000,,We're going to begin, finally!
+Dialogue: 0,0:07:12.17,0:07:16.17,main,Rill,0000,0000,0000,,All right! I'm going to paint \Nthe best picture ever!
+Dialogue: 0,0:07:16.17,0:07:18.43,italics,Both,0000,0000,0000,,What the heck does he mean by that?
+Dialogue: 0,0:07:18.75,0:07:20.56,main,Guy,0000,0000,0000,,Round five of stage one!
+Dialogue: 0,0:07:20.56,0:07:26.56,top,Guy,0000,0000,0000,,I Team: Rill, Nils, and Ruben \Nversus J Team: Wainsley, Roland, and Nix.
+Dialogue: 0,0:07:20.60,0:07:26.56,sign_10657_102_Roland,Sign,0000,0000,0000,,{\blur3\fad(484,1)}Roland
+Dialogue: 0,0:07:20.60,0:07:26.56,sign_10657_103_Nix,Sign,0000,0000,0000,,{\blur3\fad(484,1)}Nix
+Dialogue: 0,0:07:20.60,0:07:26.56,sign_10657_104_Wainsley,Sign,0000,0000,0000,,{\blur3\fad(484,1)}Wainsley
+Dialogue: 0,0:07:20.60,0:07:26.56,sign_10224_105_D_Team,Sign,0000,0000,0000,,{\blur3\fad(484,1)}J Team
+Dialogue: 0,0:07:20.60,0:07:26.56,sign_10224_102_Sol___Kirsch___M,Sign,0000,0000,0000,,{\blur3\fad(484,1)}Nils   Rill   Ruben
+Dialogue: 0,0:07:20.60,0:07:26.56,sign_10224_103_C_Team,,0000,0000,0000,,{\blur3\fad(484,1)}I Team
+Dialogue: 0,0:07:26.91,0:07:29.26,main,Guy 2,0000,0000,0000,,The Captain of the Aqua Deer...
+Dialogue: 0,0:07:29.26,0:07:30.78,main,Guy 3,0000,0000,0000,,I wonder how powerful he is.
+Dialogue: 0,0:07:32.36,0:07:33.57,main,walteR,0000,0000,0000,,Young master...
+Dialogue: 0,0:07:35.49,0:07:37.24,main,guy,0000,0000,0000,,Begin!
+Dialogue: 0,0:07:44.25,0:07:46.80,main,Nils,0000,0000,0000,,U-Um... Captain Rill...
+Dialogue: 0,0:07:46.80,0:07:48.40,main,Ruben,0000,0000,0000,,The match has started.
+Dialogue: 0,0:07:48.40,0:07:50.43,main,Rill,0000,0000,0000,,Isn't the sky beautiful?
+Dialogue: 0,0:07:50.43,0:07:51.49,main,Both,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:51.49,0:07:54.72,main,Rill,0000,0000,0000,,I wonder if I could get that \Ncolor if I used lapis lazuli.
+Dialogue: 0,0:07:54.72,0:07:58.95,main,Ril,0000,0000,0000,,Did you know? You can grind up \Nprecious stone and create blue paint.
+Dialogue: 0,0:07:58.95,0:08:00.12,main,Both,0000,0000,0000,,Right...
+Dialogue: 0,0:08:00.12,0:08:02.89,main,Ril,0000,0000,0000,,For the white clouds, I'll use whitewash.
+Dialogue: 0,0:08:02.89,0:08:07.31,main,Ril,0000,0000,0000,,Oh, whitewash is paint made from seashells.
+Dialogue: 0,0:08:09.52,0:08:13.49,main,Fil,0000,0000,0000,,Fighting under such a beautiful sky\N is the absolute best.
+Dialogue: 0,0:08:14.23,0:08:16.24,main,Rill,0000,0000,0000,,All right, let's do this, you two!
+Dialogue: 0,0:08:16.24,0:08:20.74,main,Rill,0000,0000,0000,,Let's create a beautiful piece \Non this canvas known as the battlefield.
+Dialogue: 0,0:08:26.35,0:08:28.02,main,Rill,0000,0000,0000,,Stay close!
+Dialogue: 0,0:08:29.69,0:08:32.00,main,Rill,0000,0000,0000,,Here we go!
+Dialogue: 0,0:08:37.52,0:08:39.42,main,Ruben,0000,0000,0000,,C-Captain Rill...
+Dialogue: 0,0:08:39.42,0:08:42.52,main,Nils,0000,0000,0000,,He dashed off on his own, but...
+Dialogue: 0,0:08:44.67,0:08:47.85,top,Rill,0000,0000,0000,,I got captured!
+Dialogue: 0,0:08:46.52,0:08:49.11,main,Asta,0000,0000,0000,,Hey... What the heck are you doing, Rill?
+Dialogue: 0,0:08:49.11,0:08:52.65,main,Klaus,0000,0000,0000,,He's a captain... right?
+Dialogue: 0,0:08:49.11,0:08:53.65,top,Rill,0000,0000,0000,,Someone save me!
+Dialogue: 0,0:08:52.65,0:08:56.11,main,Yuno,0000,0000,0000,,He basically jumped right \Ninto the enemy's trap.
+Dialogue: 0,0:08:56.42,0:08:58.86,main,King,0000,0000,0000,,Well, this looks like it's \Ngoing to be over immediately.
+Dialogue: 0,0:09:00.70,0:09:03.80,main,Wainsley,0000,0000,0000,,He easily fell for that trap spell.
+Dialogue: 0,0:09:03.80,0:09:07.83,main,Nix,0000,0000,0000,,Is it really okay for us to defeat him? \NIsn't he the captain of the Aqua Deer?
+Dialogue: 0,0:09:07.83,0:09:10.26,main,Roland,0000,0000,0000,,No, a match is a match.
+Dialogue: 0,0:09:10.26,0:09:13.75,main,Roland,0000,0000,0000,,We're going to give it our all and fight, \Nno matter who the enemy might be!
+Dialogue: 0,0:09:13.75,0:09:14.93,main,Wainsley,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:15.67,0:09:17.13,main,Nix,0000,0000,0000,,You're right.
+Dialogue: 0,0:09:18.93,0:09:19.91,main,Roland,0000,0000,0000,,Here we go!
+Dialogue: 0,0:09:24.85,0:09:28.23,main,Roland,0000,0000,0000,,Plant Reinforcement Magic: Magic Pollen!
+Dialogue: 0,0:09:28.23,0:09:29.40,main,Roland,0000,0000,0000,,Go!
+Dialogue: 0,0:09:29.79,0:09:31.09,main,Nix,0000,0000,0000,,Flame Magic:
+Dialogue: 0,0:09:32.32,0:09:34.40,main,Nix,0000,0000,0000,,Flame Spike!
+Dialogue: 0,0:09:34.40,0:09:38.90,main,Wainsley,0000,0000,0000,,Ice Magic: Icicle Bridge!
+Dialogue: 0,0:09:40.44,0:09:44.91,main,All,0000,0000,0000,,We're going to take down the \NCaptain of the Aqua Deer!
+Dialogue: 0,0:09:45.81,0:09:50.97,italics,Rill,0000,0000,0000,,Oh... What decisive and beautiful magic.
+Dialogue: 0,0:09:51.71,0:09:56.84,italics,Rill,0000,0000,0000,,The battlefield... \NThis canvas really is great.
+Dialogue: 0,0:09:57.25,0:10:00.59,italics,Rill,0000,0000,0000,,I feel the urge to create, Walter!
+Dialogue: 0,0:10:03.20,0:10:05.93,sign_14555_151_4_years_ago,Sign,0000,0000,0000,,{\blur3\fad(505,1)}4 Years Ago
+Dialogue: 0,0:10:05.93,0:10:07.27,flashback,Lady,0000,0000,0000,,It's happened again.
+Dialogue: 0,0:10:07.27,0:10:09.85,flashback,Lady,0000,0000,0000,,I wonder how many times \Nit's been just today.
+Dialogue: 0,0:10:10.48,0:10:14.24,flashback,Lady,0000,0000,0000,,Ever since the young master from the House \Nof Boismortier received his grimoire,
+Dialogue: 0,0:10:14.24,0:10:17.79,flashback,Lady,0000,0000,0000,,he's shut himself up in his room \Nand let his magic go berserk.
+Dialogue: 0,0:10:20.32,0:10:26.04,flashback,Lady 2,0000,0000,0000,,He's always been a bit strange, but now,\Nit's as though he's possessed.
+Dialogue: 0,0:10:26.67,0:10:32.05,flashback,Lady,0000,0000,0000,,On top of that, he has a tremendous amount \Nof magic, so no one's been able to stop him.
+Dialogue: 0,0:10:32.05,0:10:34.80,flashback,Lady,0000,0000,0000,,The master is quite troubled.
+Dialogue: 0,0:10:39.44,0:10:42.09,flashback,Mom,0000,0000,0000,,How did he end up like this?
+Dialogue: 0,0:10:42.44,0:10:44.60,flashback,Girl,0000,0000,0000,,Madam, please stay strong.
+Dialogue: 0,0:10:45.01,0:10:50.63,flashback,Mom,0000,0000,0000,,He won't listen to a word I say. \NHe just keeps drawing and painting.
+Dialogue: 0,0:10:52.24,0:10:53.49,flashback,Mom,0000,0000,0000,,That boy...
+Dialogue: 0,0:10:56.48,0:10:59.12,flashback,Mom,0000,0000,0000,,That boy is beyond human understanding.
+Dialogue: 0,0:10:59.87,0:11:01.49,flashback,Mom,0000,0000,0000,,He's a monster!
+Dialogue: 0,0:11:06.07,0:11:07.12,flashback,Rill,0000,0000,0000,,No...
+Dialogue: 0,0:11:07.63,0:11:11.12,flashback,Rill,0000,0000,0000,,It's all wrong, wrong, \Nwrong, wrong, wrong, wrong!
+Dialogue: 0,0:11:16.29,0:11:17.73,flashback,Rill,0000,0000,0000,,This isn't it.
+Dialogue: 0,0:11:18.15,0:11:20.88,flashback,Rill,0000,0000,0000,,This isn't the picture that I want to draw.
+Dialogue: 0,0:11:21.96,0:11:24.51,flashback,Rill,0000,0000,0000,,It has to be more... more...
+Dialogue: 0,0:11:26.31,0:11:28.44,flashback,Mom,0000,0000,0000,,Please don't draw anymore, Rill!
+Dialogue: 0,0:11:28.44,0:11:30.52,flashback,Mom,0000,0000,0000,,Why do you keep doing this?
+Dialogue: 0,0:11:31.06,0:11:35.02,flashback,Mom,0000,0000,0000,,I should've... I should've...
+Dialogue: 0,0:11:35.33,0:11:37.44,flashback,Mom,0000,0000,0000,,never given birth to you!
+Dialogue: 0,0:11:43.65,0:11:47.03,flashback,Rill,0000,0000,0000,,You don't understand a thing about my art.
+Dialogue: 0,0:11:47.03,0:11:48.98,flashback,Rill,0000,0000,0000,,You don't understand at all!
+Dialogue: 0,0:11:54.72,0:11:57.51,flashback,Walter,0000,0000,0000,,Young master, may I have \Na moment of your time?
+Dialogue: 0,0:11:57.51,0:12:00.21,flashback,Rill,0000,0000,0000,,Shut up, Walter! Go away!
+Dialogue: 0,0:12:09.51,0:12:10.57,flashback,Walter,0000,0000,0000,,Young master...
+Dialogue: 0,0:12:10.57,0:12:11.85,flashback,Rill,0000,0000,0000,,Stay back!
+Dialogue: 0,0:12:16.31,0:12:20.65,flashback,Rill,0000,0000,0000,,I can't draw or paint the way \Nthat I want. It's not fun!
+Dialogue: 0,0:12:20.65,0:12:21.98,flashback,Rill,0000,0000,0000,,It's boring!
+Dialogue: 0,0:12:24.74,0:12:27.07,flashback,Rill,0000,0000,0000,,I told you to stay back!
+Dialogue: 0,0:12:34.08,0:12:36.96,flashback,Rill,0000,0000,0000,,None of you understand my pain.
+Dialogue: 0,0:12:36.96,0:12:40.71,flashback,Rill,0000,0000,0000,,Not you, not Mother... No one!
+Dialogue: 0,0:12:40.71,0:12:42.59,flashback,Rill,0000,0000,0000,,None of you understand m—
+Dialogue: 0,0:13:10.91,0:13:16.91,flashback,Walter,0000,0000,0000,,You finally see me, Young Master Rill.
+Dialogue: 0,0:13:17.25,0:13:18.40,flashback,Rill,0000,0000,0000,,Walter...
+Dialogue: 0,0:13:18.40,0:13:20.39,flashback,Walter,0000,0000,0000,,Does your cheek hurt?
+Dialogue: 0,0:13:20.39,0:13:21.21,flashback,Rill,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:21.21,0:13:24.43,flashback,Walter,0000,0000,0000,,When people are wounded, they feel pain.
+Dialogue: 0,0:13:24.43,0:13:26.91,flashback,Walter,0000,0000,0000,,That's why they're scared of getting hurt.
+Dialogue: 0,0:13:27.57,0:13:30.30,flashback,walteR,0000,0000,0000,,They're afraid of what they don't understand.
+Dialogue: 0,0:13:30.30,0:13:33.22,flashback,Walter,0000,0000,0000,,They don't want to go near it.
+Dialogue: 0,0:13:36.77,0:13:41.73,flashback,Walter,0000,0000,0000,,If you wish to be understood, \Nthen please try to understand others.
+Dialogue: 0,0:13:42.10,0:13:44.15,flashback,Walter,0000,0000,0000,,You went through a lot of \Ntrouble over these pictures.
+Dialogue: 0,0:13:44.15,0:13:46.73,flashback,Walter,0000,0000,0000,,You want others to see them, don't you?
+Dialogue: 0,0:13:48.24,0:13:54.44,flashback,Walter,0000,0000,0000,,That said, your talent is too great for \Nsuch a small canvas, Young Master Rill.
+Dialogue: 0,0:13:54.44,0:13:56.76,flashback,Walter,0000,0000,0000,,It's far too great.
+Dialogue: 0,0:13:57.30,0:14:00.59,flashback,Walter,0000,0000,0000,,It will be difficult for the people \Naround you to understand it.
+Dialogue: 0,0:14:01.43,0:14:04.84,flashback,Walter,0000,0000,0000,,But that's what having such \Nprodigious talent is like.
+Dialogue: 0,0:14:06.73,0:14:11.91,flashback,Walter,0000,0000,0000,,There is a canvas on which you can display \Nyour magic to its fullest potential.
+Dialogue: 0,0:14:11.91,0:14:13.35,flashback,Rill,0000,0000,0000,,Huh? What's that?
+Dialogue: 0,0:14:13.93,0:14:15.72,flashback,Walter,0000,0000,0000,,The Magic Knights.
+Dialogue: 0,0:14:16.09,0:14:17.65,flashback,Rill,0000,0000,0000,,The Magic Knights?
+Dialogue: 0,0:14:18.27,0:14:21.41,flashback,Walter,0000,0000,0000,,Yes. Why not try to join?
+Dialogue: 0,0:14:21.96,0:14:25.52,flashback,Walter,0000,0000,0000,,With your talent, I'm sure \Nyou'll get in immediately.
+Dialogue: 0,0:14:25.88,0:14:31.96,flashback,Walter,0000,0000,0000,,And there, you can draw \Nupon an endless canvas!
+Dialogue: 0,0:14:31.96,0:14:35.28,flashback,Walter,0000,0000,0000,,You'll be able to draw \Nthe ultimate masterpiece.
+Dialogue: 0,0:14:35.28,0:14:38.37,flashback,Rill,0000,0000,0000,,The ultimate masterpiece?
+Dialogue: 0,0:14:38.76,0:14:39.91,flashback,Walter,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:42.42,0:14:45.38,flashback,Rill,0000,0000,0000,,Okay, I will. I'll join the Magic Knights.
+Dialogue: 0,0:14:49.07,0:14:51.51,flashback,Rill,0000,0000,0000,,I'm sorry, Walter. Are you okay?
+Dialogue: 0,0:14:51.51,0:14:55.43,flashback,Walter,0000,0000,0000,,Oh, 'tis nothing but a scratch.
+Dialogue: 0,0:15:11.27,0:15:15.24,flashback,Walter,0000,0000,0000,,Are you sure you don't want to say goodbye?
+Dialogue: 0,0:15:15.24,0:15:18.70,flashback,Rill,0000,0000,0000,,Yup. I don't feel lonely.
+Dialogue: 0,0:15:20.82,0:15:25.00,flashback,Rill,0000,0000,0000,,She's always smiling \Nwithin my heart's canvas.
+Dialogue: 0,0:15:27.44,0:15:28.21,flashback,Walter,0000,0000,0000,,Indeed.
+Dialogue: 0,0:15:30.26,0:15:32.22,flashback,Rill,0000,0000,0000,,Okay, let's go to the royal capital!
+Dialogue: 0,0:15:32.97,0:15:35.26,flashback,Rill,0000,0000,0000,,To the Magic Knights Entrance Exam!
+Dialogue: 0,0:15:46.44,0:15:48.52,flashback,Mom,0000,0000,0000,,I'm sorry, Rill.
+Dialogue: 0,0:15:49.78,0:15:51.20,flashback,Mom,0000,0000,0000,,Have a safe journey.
+Dialogue: 0,0:15:55.21,0:15:59.29,italics,Walter,0000,0000,0000,,You let your talent blossom \Nafter joining the Magic Knights
+Dialogue: 0,0:15:59.29,0:16:02.68,italics,Walter,0000,0000,0000,,and became the youngest captain in history.
+Dialogue: 0,0:16:02.68,0:16:04.87,italics,Walter,0000,0000,0000,,You are the pride of the \NHouse of Boismortier.
+Dialogue: 0,0:16:05.96,0:16:09.59,italics,Rill,0000,0000,0000,,Yeah... This canvas is the best.
+Dialogue: 0,0:16:10.35,0:16:16.21,italics,Rill,0000,0000,0000,,I want to show Walter\Nthe ultimate picture first.
+Dialogue: 0,0:16:17.38,0:16:19.95,italics,Rill,0000,0000,0000,,After all, Walter is the \None who made me human.
+Dialogue: 0,0:16:23.56,0:16:27.35,italics,Walter,0000,0000,0000,,The young master's picture magic...\N Its ability...
+Dialogue: 0,0:16:27.35,0:16:31.86,main,Rill,0000,0000,0000,,Picture Magic: Twin Storms of Fire and Water!
+Dialogue: 0,0:16:32.40,0:16:36.11,italics,Walter,0000,0000,0000,,...is to recreate every magical attribute!
+Dialogue: 0,0:16:47.35,0:16:51.46,main,Noelle,0000,0000,0000,,He attacked them with the attributes \Nthey're weakest against at the same time!
+Dialogue: 0,0:16:55.22,0:16:58.72,italics,Walter,0000,0000,0000,,The stronger the opponent, \Nthe greater his urge to create!
+Dialogue: 0,0:16:59.96,0:17:02.72,italics,Walter,0000,0000,0000,,The young master's\Nimagination knows no bounds!
+Dialogue: 0,0:17:04.10,0:17:06.48,main,Walter,0000,0000,0000,,Excellent work, young master!
+Dialogue: 0,0:17:09.81,0:17:12.32,main,Roland,0000,0000,0000,,What?
+Dialogue: 0,0:17:13.60,0:17:16.97,main,Rill,0000,0000,0000,,You guys were pretty good.
+Dialogue: 0,0:17:16.97,0:17:20.07,main,Rill,0000,0000,0000,,But I haven't quite managed \Nthe ultimate painting yet.
+Dialogue: 0,0:17:27.65,0:17:30.29,main,Rill,0000,0000,0000,,Hup! Thanks.
+Dialogue: 0,0:17:30.29,0:17:34.21,main,Nils,0000,0000,0000,,Oh, it was nothing. \NYou're amazing, Captain Rill.
+Dialogue: 0,0:17:34.21,0:17:35.92,main,Nils,0000,0000,0000,,That was an intense attack.
+Dialogue: 0,0:17:39.34,0:17:43.48,main,Roland,0000,0000,0000,,Sandstone Magic: Rock Storm!
+Dialogue: 0,0:17:50.24,0:17:53.65,main,Guy,0000,0000,0000,,The crystal has been destroyed.\N I Team wins!
+Dialogue: 0,0:17:55.49,0:17:57.49,main,Julius,0000,0000,0000,,Well done, well done.
+Dialogue: 0,0:17:57.91,0:18:00.49,main,King,0000,0000,0000,,I guess that was all right.
+Dialogue: 0,0:18:03.03,0:18:05.73,main,Nil,0000,0000,0000,,We somehow managed to make \Nit through the first stage.
+Dialogue: 0,0:18:05.73,0:18:09.47,main,Roland,0000,0000,0000,,Yeah... But what's he doing?
+Dialogue: 0,0:18:12.97,0:18:16.24,main,Rill,0000,0000,0000,,I could've gone a little crazier over there.
+Dialogue: 0,0:18:16.24,0:18:20.12,main,Rill,0000,0000,0000,,But the cobalt blue really stands out here.
+Dialogue: 0,0:18:21.03,0:18:23.01,main,Rill,0000,0000,0000,,I've still got a ways to go.
+Dialogue: 0,0:18:23.65,0:18:26.52,main,Both,0000,0000,0000,,Um... Could you concentrate on the match?
+Dialogue: 0,0:18:28.63,0:18:30.73,italics,Both,0000,0000,0000,,We're going to have to keep it together.
+Dialogue: 0,0:18:31.18,0:18:34.21,main,Walter,0000,0000,0000,,He's rather irresponsible despite \Nbeing a Grand Magic Knight,
+Dialogue: 0,0:18:34.21,0:18:36.35,main,Walter,0000,0000,0000,,so he has those around him work hard.
+Dialogue: 0,0:18:36.35,0:18:38.76,main,Walter,0000,0000,0000,,That's the young master's true talent!
+Dialogue: 0,0:18:38.76,0:18:41.15,italics,Asta,0000,0000,0000,,What the hell is that?!
+Dialogue: 0,0:18:41.15,0:18:44.40,main,Guy,0000,0000,0000,,Next, we will begin round six of stage one.
+Dialogue: 0,0:18:44.40,0:18:46.54,main,Guy,0000,0000,0000,,K Team and L Team, step forward.
+Dialogue: 0,0:18:47.97,0:18:49.54,main,Klaus,0000,0000,0000,,It's our turn.
+Dialogue: 0,0:18:51.94,0:18:54.00,main,Nils,0000,0000,0000,,Let's go, Captain Rill.
+Dialogue: 0,0:18:54.52,0:18:57.56,main,Guy,0000,0000,0000,,We have to get on with the \Nnext match, so please move!
+Dialogue: 0,0:18:57.56,0:18:59.37,main,Nils,0000,0000,0000,,Of course. We're terribly sorry.
+Dialogue: 0,0:18:59.37,0:19:00.34,main,Roland,0000,0000,0000,,We'll move him right away.
+Dialogue: 0,0:19:03.08,0:19:03.79,main,Rill,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:03.79,0:19:04.89,main,Rill,0000,0000,0000,,Wait, what?
+Dialogue: 0,0:19:05.22,0:19:08.53,main,Rill,0000,0000,0000,,Let go! I need to look at it longer!
+Dialogue: 0,0:19:08.53,0:19:09.89,main,Rill,0000,0000,0000,,Come on!
+Dialogue: 0,0:19:10.75,0:19:12.64,main,Luck,0000,0000,0000,,Are you done? Are you done now?
+Dialogue: 0,0:19:12.98,0:19:16.48,main,Asta,0000,0000,0000,,Yeah! You're up next, Luck! \NI'll be cheering you on.
+Dialogue: 0,0:19:16.48,0:19:18.66,main,Noelle,0000,0000,0000,,Don't you dare lose.
+Dialogue: 0,0:19:18.66,0:19:20.39,main,Luck,0000,0000,0000,,Yup, thanks!
+Dialogue: 0,0:19:20.39,0:19:24.49,main,Luck,0000,0000,0000,,It's finally our turn! I can't wait!
+Dialogue: 0,0:19:24.49,0:19:26.07,main,Klaus,0000,0000,0000,,Luck Voltia...
+Dialogue: 0,0:19:26.45,0:19:29.74,main,Klaus,0000,0000,0000,,This is a match that will decide \Nwho will be among the Royal Knights.
+Dialogue: 0,0:19:29.74,0:19:31.25,main,Klaus,0000,0000,0000,,You need to take this more seriously.
+Dialogue: 0,0:19:31.67,0:19:35.67,main,Kalus,0000,0000,0000,,I am the leader. Make sure you \Ndon't go running off on your own.
+Dialogue: 0,0:19:35.67,0:19:38.22,main,Luck,0000,0000,0000,,Aw, don't be so serious. Let's have some fun!
+Dialogue: 0,0:19:38.22,0:19:40.04,main,Klaus,0000,0000,0000,,Oh, shut up!
+Dialogue: 0,0:19:40.58,0:19:43.13,italics,Puli,0000,0000,0000,,So these are my teammates.
+Dialogue: 0,0:19:43.13,0:19:46.01,italics,Puli,0000,0000,0000,,A crazy boy and a quiet, \Nstraitlaced four-eyes.
+Dialogue: 0,0:19:46.01,0:19:47.63,italics,Puli,0000,0000,0000,,This can't be good!
+Dialogue: 0,0:19:47.63,0:19:51.39,italics,Puli,0000,0000,0000,,Honestly... Is this team going to be okay?
+Dialogue: 0,0:19:53.94,0:19:57.16,main,Puli,0000,0000,0000,,Welp, there's no point in worrying about it!
+Dialogue: 0,0:19:57.16,0:19:59.65,top,Puli,0000,0000,0000,,Let's give it our all!
+Dialogue: 0,0:20:00.01,0:20:00.92,top,Klaus,0000,0000,0000,,What?
+Dialogue: 0,0:20:01.75,0:20:02.86,top,Luck,0000,0000,0000,,Who the heck are you?
+Dialogue: 0,0:20:02.86,0:20:04.37,top,Puli,0000,0000,0000,,I'm your teammate.
+Dialogue: 0,0:20:04.26,0:20:10.24,sign_28966_288_The_Blue_Rose_Kn,Sign,0000,0000,0000,,{\blur3\fad(754,1)}The Blue Rose Knights 4th Class Senior Magic Knight\N{\fs30}Puli Angel
+Dialogue: 0,0:20:04.37,0:20:06.45,top,Puli,0000,0000,0000,,I'm Puli. Puli Angel.
+Dialogue: 0,0:20:06.45,0:20:10.24,top,Puli,0000,0000,0000,,As my name and appearance suggest,\N I'm an angel!
+Dialogue: 0,0:20:10.24,0:20:12.98,main,Luck,0000,0000,0000,,Oh, I see. Nice to meet you.
+Dialogue: 0,0:20:12.98,0:20:16.35,main,Puli,0000,0000,0000,,Let's hit 'em with our best performances!
+Dialogue: 0,0:20:16.35,0:20:17.50,main,Luck,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:17.50,0:20:20.94,italics,Klaus,0000,0000,0000,,Wh-What's with this chipper person?
+Dialogue: 0,0:20:20.94,0:20:21.99,italics,Klaus,0000,0000,0000,,This is just...
+Dialogue: 0,0:20:22.69,0:20:24.51,main,Klaus,0000,0000,0000,,I have to remain the responsible one.
+Dialogue: 0,0:20:24.51,0:20:26.48,main,Asta,0000,0000,0000,,You've got this, Klaus!
+Dialogue: 0,0:20:26.48,0:20:29.21,main,Mimosa,0000,0000,0000,,Please do your best. I know \Nyou can do it if you try.
+Dialogue: 0,0:20:29.21,0:20:31.56,main,Yuno,0000,0000,0000,,I won't consider you my senior if you lose.
+Dialogue: 0,0:20:31.56,0:20:34.39,main,Klaus,0000,0000,0000,,I see that you're as insolent as ever.
+Dialogue: 0,0:20:34.39,0:20:36.73,main,Yuno,0000,0000,0000,,Just sit back and watch my battle.
+Dialogue: 0,0:20:37.08,0:20:39.46,main,Luck,0000,0000,0000,,Hey, let's come up with a plan.
+Dialogue: 0,0:20:39.46,0:20:40.53,main,Klaus,0000,0000,0000,,Indeed.
+Dialogue: 0,0:20:41.07,0:20:43.53,main,Klaus,0000,0000,0000,,The one we have to watch out \Nfor the most in this match
+Dialogue: 0,0:20:43.91,0:20:47.36,main,Klaus,0000,0000,0000,,is their wind magic user, who's said to \Nbe the most mobile member of his squad.
+Dialogue: 0,0:20:47.77,0:20:52.40,main,Klaus,0000,0000,0000,,A 2nd Class Senior Magic Knight from \Nthe Silver Eagles, Rob Vitesse.
+Dialogue: 0,0:20:53.44,0:20:56.25,main,Guy,0000,0000,0000,,And now, for the sixth round of stage one!
+Dialogue: 0,0:20:56.25,0:21:02.25,top,Guy,0000,0000,0000,,K Team: Puli, Klaus, and Luck \Nversus L Team: Rob, Francis, and Winston.
+Dialogue: 0,0:20:56.33,0:21:02.25,sign_30215_308_Rob,Sign,0000,0000,0000,,{\blur3\fad(694,1)}Rob
+Dialogue: 0,0:20:56.33,0:21:02.25,sign_30215_309_Francis,Sign,0000,0000,0000,,{\blur3\fad(694,1)}Francis
+Dialogue: 0,0:20:56.33,0:21:02.25,sign_30215_310_Winston,Sign,0000,0000,0000,,{\blur3\fad(694,1)}Winston
+Dialogue: 0,0:20:56.33,0:21:02.25,sign_10224_105_D_Team,,0000,0000,0000,,{\blur3\fad(694,1)}L Team
+Dialogue: 0,0:20:56.33,0:21:02.25,sign_30215_312_Puli,Sign,0000,0000,0000,,{\blur3\fad(694,1)}Puli
+Dialogue: 0,0:20:56.33,0:21:02.25,sign_30215_313_Klaus,Sign,0000,0000,0000,,{\blur3\fad(694,1)}Klaus
+Dialogue: 0,0:20:56.33,0:21:02.25,sign_30215_314_Luck,Sign,0000,0000,0000,,{\blur3\fad(694,1)}Luck
+Dialogue: 0,0:20:56.33,0:21:02.25,sign_30215_315_K_Team,,0000,0000,0000,,{\blur3\fad(694,1)}K Team
+Dialogue: 0,0:21:10.93,0:21:12.68,main,Guy,0000,0000,0000,,And... begin!
+Dialogue: 0,0:22:47.03,0:22:51.49,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:47.97,0:22:50.73,main,Al,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:50.99,0:22:54.99,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Wrong!
+Dialogue: 0,0:22:52.10,0:22:53.13,main,Rill,0000,0000,0000,,Wrong!
+Dialogue: 0,0:22:55.39,0:22:56.49,main,Rill,0000,0000,0000,,No...
+Dialogue: 0,0:22:57.05,0:23:00.50,main,Rill,0000,0000,0000,,It's all wrong, wrong, \Nwrong, wrong, wrong, wrong!
+Dialogue: 0,0:23:05.67,0:23:07.15,main,Rill,0000,0000,0000,,This isn't it.
+Dialogue: 0,0:23:07.64,0:23:10.51,main,Rill,0000,0000,0000,,This isn't the picture that I want to draw.
+Dialogue: 0,0:23:11.47,0:23:13.84,main,Rill,0000,0000,0000,,It has to be more... more...
+Dialogue: 0,0:23:15.85,0:23:18.35,main,Rill,0000,0000,0000,,I want to draw something more beautiful.
+Dialogue: 0,0:23:18.83,0:23:21.60,main,King,0000,0000,0000,,You have a problem with me?
+Dialogue: 0,0:23:22.13,0:23:24.03,main,Rill,0000,0000,0000,,Something beautiful...
+Dialogue: 0,0:23:26.37,0:23:27.86,main,Rill,0000,0000,0000,,He's beautiful—wait...
+Dialogue: 0,0:23:28.44,0:23:31.08,main,Mimosa,0000,0000,0000,,I want you to disappear so badly.
+Dialogue: 0,0:23:31.08,0:23:33.23,main,Yuno,0000,0000,0000,,Honestly, you can't be serious.
+Dialogue: 0,0:23:35.77,0:23:41.08,main,Walter,0000,0000,0000,,I am the butler of the Captain of \Nthe Aqua Deer, Rill Boismortier.
+Dialogue: 0,0:23:41.08,0:23:43.79,main,Walter,0000,0000,0000,,You've grown so much, young master.
+Dialogue: 0,0:23:43.79,0:23:47.12,main,walter,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 77: "Bad Blood."
+Dialogue: 0,0:23:44.96,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 77\N\N{\fs18} Bad Blood
+Dialogue: 0,0:23:47.12,0:23:49.88,main,Walter,0000,0000,0000,,I'm sure your mother is elated, too!

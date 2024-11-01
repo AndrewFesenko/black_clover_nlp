@@ -1,0 +1,367 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FFFB,&H000000FF,&H1900122E,&H000D1728,-1,0,0,0,100,100,0,0,1,1,0,8,0030,0030,0075,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+ 
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.35,0:00:07.02,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:07.57,0:00:09.56,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:09.56,0:00:12.95,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:13.41,0:00:15.61,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:16.27,0:00:18.90,italics,Nar,0000,0000,0000,,With guts and hard work, \Nhe made it into the Magic Knights,
+Dialogue: 0,0:00:18.90,0:00:21.78,italics,Nar,0000,0000,0000,,and he never gave up, \Ndespite how much he got hurt.
+Dialogue: 0,0:00:21.78,0:00:24.58,italics,Nar,0000,0000,0000,,He continues to diligently aim for the top!
+Dialogue: 0,0:00:25.88,0:00:27.79,italics,Nar,0000,0000,0000,,Even if you are a peasant,
+Dialogue: 0,0:00:27.79,0:00:29.63,italics,Nar,0000,0000,0000,,or even if you're poor...
+Dialogue: 0,0:00:29.94,0:00:32.38,italics,Nar,0000,0000,0000,,Anyone in this world can still shine!
+Dialogue: 0,0:00:32.81,0:00:34.80,italics,Nar,0000,0000,0000,,He's working hard to prove that,
+Dialogue: 0,0:00:35.13,0:00:37.78,italics,Nar,0000,0000,0000,,and to become the Wizard King!
+Dialogue: 0,0:00:43.25,0:00:46.72,italics,Nar,0000,0000,0000,,In order to defeat Megicula, the devil \Nwho inhabits the Spade Kingdom,
+Dialogue: 0,0:00:46.72,0:00:49.25,italics,Nar,0000,0000,0000,,the Magic Knights have been training hard.
+Dialogue: 0,0:00:50.89,0:00:53.93,italics,Nar,0000,0000,0000,,Meanwhile, deep within the sea,
+Dialogue: 0,0:00:53.93,0:00:56.33,italics,Nar,0000,0000,0000,,another problem was arising.
+Dialogue: 0,0:01:01.70,0:01:04.69,main,Gio,0000,0000,0000,,Kiato! Kahono! You two make a run for it.
+Dialogue: 0,0:01:04.69,0:01:05.83,main,Kahono,0000,0000,0000,,But...
+Dialogue: 0,0:01:05.83,0:01:09.04,main,Gio,0000,0000,0000,,Go ask the Magic Knights for help.
+Dialogue: 0,0:01:09.39,0:01:10.80,main,Kiato,0000,0000,0000,,What? But we've gotten this far!
+Dialogue: 0,0:01:13.38,0:01:14.78,main,Kahono,0000,0000,0000,,Father!
+Dialogue: 0,0:01:13.38,0:01:14.78,top,Kiato,0000,0000,0000,,Dad!
+Dialogue: 0,0:01:16.91,0:01:18.53,main,Kiato,0000,0000,0000,,Let's fall back for now, Kahono!
+Dialogue: 0,0:01:18.53,0:01:19.64,main,Kahono,0000,0000,0000,,Okay.
+Dialogue: 0,0:01:49.25,0:01:53.84,Ep Title,Sign,0000,0000,0000,,{\fad(210,1871)\t(210,2419,\fscx120\fscy120)}A Black Deep-Sea Story
+Dialogue: 0,0:03:02.42,0:03:06.42,italics,Nar,0000,0000,0000,,Raquey is hot all year round due to \Nthe strong mana that surrounds it,
+Dialogue: 0,0:03:06.42,0:03:08.78,italics,Nar,0000,0000,0000,,making it a popular resort location.
+Dialogue: 0,0:03:09.31,0:03:15.04,italics,Nar,0000,0000,0000,,It's also an excellent training ground \Nfor those who use water magic.
+Dialogue: 0,0:03:19.38,0:03:21.30,italics,Noelle,0000,0000,0000,,If I can only maintain this force...
+Dialogue: 0,0:03:37.31,0:03:39.36,italics,Noelle,0000,0000,0000,,It's not enough to just be able to split them.
+Dialogue: 0,0:03:39.36,0:03:42.40,italics,Noelle,0000,0000,0000,,I need to make sure there's \Nmore mana in both of them.
+Dialogue: 0,0:03:57.09,0:03:59.20,italics,Noelle,0000,0000,0000,,A song? Or is that crying?
+Dialogue: 0,0:04:00.18,0:04:05.14,italics,Noelle,0000,0000,0000,,I'm not sure why, but it \Nfeels sort of... nostalgic.
+Dialogue: 0,0:04:07.64,0:04:11.21,italics,Noelle,0000,0000,0000,,Wait, why did I just see my mother?
+Dialogue: 0,0:04:11.21,0:04:13.64,main,Asta,0000,0000,0000,,Black Bulls, fight!
+Dialogue: 0,0:04:13.64,0:04:15.92,main,Asta,0000,0000,0000,,Push harder!
+Dialogue: 0,0:04:15.92,0:04:17.65,main,Finral,0000,0000,0000,,Harder! Even harder!
+Dialogue: 0,0:04:15.92,0:04:17.65,top,Finral,0000,0000,0000,,Fight... Fight...
+Dialogue: 0,0:04:17.65,0:04:18.88,main,Magna,0000,0000,0000,,I'll get you this time!
+Dialogue: 0,0:04:21.71,0:04:23.11,main,Luck,0000,0000,0000,,You out of steam already?
+Dialogue: 0,0:04:24.03,0:04:27.52,main,Finral,0000,0000,0000,,Well, I mean... It's not like \NI usually run this much.
+Dialogue: 0,0:04:27.52,0:04:30.12,main,Finral,0000,0000,0000,,And what's the point of \Ntraining like this, anyway?
+Dialogue: 0,0:04:30.74,0:04:35.63,main,Magna,0000,0000,0000,,You know how much Mr. Yami and Asta \Ndid in that battle with the elves.
+Dialogue: 0,0:04:35.63,0:04:38.63,main,Magna,0000,0000,0000,,The stronger your body is, \Nthe stronger your magic will be.
+Dialogue: 0,0:04:39.41,0:04:44.42,main,Asta,0000,0000,0000,,That's right, Finral! If you get as buff as \NCaptain Yami, you'll be unstoppable!
+Dialogue: 0,0:04:44.42,0:04:46.14,main,Finral,0000,0000,0000,,Isn't that hurdle a bit high?
+Dialogue: 0,0:04:46.72,0:04:50.82,main,Luck,0000,0000,0000,,We should all get super buff, and then\N you should all try to fight me!
+Dialogue: 0,0:04:50.82,0:04:54.66,main,Asta,0000,0000,0000,,All right! We need to be \Neven louder this time!
+Dialogue: 0,0:04:54.66,0:04:55.58,main,Luck,0000,0000,0000,,Whoa, there!
+Dialogue: 0,0:04:58.30,0:05:00.15,main,Three,0000,0000,0000,,Ow...
+Dialogue: 0,0:05:00.63,0:05:03.15,main,Zora,0000,0000,0000,,Tch. Damn, I missed one.
+Dialogue: 0,0:05:03.15,0:05:06.09,main,Magna,0000,0000,0000,,Zora, you bastard! What the hell was that for?!
+Dialogue: 0,0:05:06.09,0:05:10.28,main,Zora,0000,0000,0000,,Well, I specialize in traps, so I'm \Ntraining with traps, you moron.
+Dialogue: 0,0:05:10.78,0:05:13.42,main,Zora,0000,0000,0000,,Train together, my ass.
+Dialogue: 0,0:05:13.42,0:05:17.08,main,Zora,0000,0000,0000,,I didn't join the squad so I could \Nbe all buddy-buddy with you guys.
+Dialogue: 0,0:05:17.08,0:05:18.48,main,Magna,0000,0000,0000,,What'd you say?!
+Dialogue: 0,0:05:19.54,0:05:22.21,main,Magna,0000,0000,0000,,Luck, you bastard! \NAre you trying to bury us?!
+Dialogue: 0,0:05:22.21,0:05:23.22,main,Luck,0000,0000,0000,,Sure am!
+Dialogue: 0,0:05:23.22,0:05:24.22,main,Luck,0000,0000,0000,,Here you go!
+Dialogue: 0,0:05:28.69,0:05:31.89,italics,Noelle,0000,0000,0000,,Ugh. They're all so noisy.
+Dialogue: 0,0:05:33.89,0:05:37.54,main,Grey,0000,0000,0000,,I-I can't hide my face while doing this pose!
+Dialogue: 0,0:05:37.54,0:05:39.19,main,Grey,0000,0000,0000,,I-I'm so embarrassed!
+Dialogue: 0,0:05:39.50,0:05:43.03,italics,Vanessa,0000,0000,0000,,I've been eating so much of Charmy's \Ncooking that my weight's not going back down.
+Dialogue: 0,0:05:43.03,0:05:44.50,italics,Vanessa,0000,0000,0000,,Gonna lose weight, gonna lose weight,
+Dialogue: 0,0:05:44.50,0:05:45.90,italics,Vanessa,0000,0000,0000,,gonna lose weight, gonna lose weight...
+Dialogue: 0,0:05:50.22,0:05:53.70,main,Gordon,0000,0000,0000,,In order to bulk up, you need \Nto stress your muscles.
+Dialogue: 0,0:05:53.70,0:05:57.17,main,Gordon,0000,0000,0000,,It's said that it's effective when \Nweight training to do three sets,
+Dialogue: 0,0:05:57.17,0:05:59.33,main,Gordon,0000,0000,0000,,and it's important to monitor your \Nprotein amounts and timing—
+Dialogue: 0,0:05:59.33,0:06:02.23,main,Gauche,0000,0000,0000,,Who knew that the deltoids and trapezius \Nwere connected this way?
+Dialogue: 0,0:06:02.23,0:06:03.63,main,Gauche,0000,0000,0000,,I'm going to learn even more
+Dialogue: 0,0:06:03.63,0:06:07.14,main,Gauche,0000,0000,0000,,about human anatomy, and create \Nan even more accurate Marie doll.
+Dialogue: 0,0:06:07.14,0:06:08.30,main,Gauche,0000,0000,0000,,By the way, Gordon,
+Dialogue: 0,0:06:08.30,0:06:11.76,main,Gauche,0000,0000,0000,,I thought you mentioned that you \Ndon't handle sunlight very well.
+Dialogue: 0,0:06:12.19,0:06:14.06,main,Gauche,0000,0000,0000,,Were you able to get over that?
+Dialogue: 0,0:06:14.06,0:06:16.39,main,Gordon,0000,0000,0000,,Yeah, I'm fine now.
+Dialogue: 0,0:06:16.80,0:06:19.22,main,Gordon,0000,0000,0000,,It's all thanks to this sunblock.
+Dialogue: 0,0:06:19.22,0:06:21.69,main,Gordon,0000,0000,0000,,You can try some if you'd like.
+Dialogue: 0,0:06:21.69,0:06:23.57,main,Gauche,0000,0000,0000,,Ah, thank you.
+Dialogue: 0,0:06:24.31,0:06:27.36,main,Gordon,0000,0000,0000,,You need to be meticulous \Nwhen dealing with UV rays.
+Dialogue: 0,0:06:27.36,0:06:28.74,main,Gordon,0000,0000,0000,,Here you go.
+Dialogue: 0,0:06:29.18,0:06:32.30,main,Gauche,0000,0000,0000,,That's cold! What the hell \Ndo you think you're doing?!
+Dialogue: 0,0:06:32.30,0:06:34.24,main,Gordon,0000,0000,0000,,Huh?! Uh... What?!
+Dialogue: 0,0:06:34.24,0:06:39.21,main,Henry,0000,0000,0000,,Hey... Here... you... go.
+Dialogue: 0,0:06:42.83,0:06:45.73,main,Yami,0000,0000,0000,,Drinking first thing in \Nthe morning's not so bad.
+Dialogue: 0,0:06:45.73,0:06:46.80,main,Nero,0000,0000,0000,,Here you go.
+Dialogue: 0,0:06:48.94,0:06:51.65,main,Yami,0000,0000,0000,,So aren't you gonna train \Nlike the rest of them?
+Dialogue: 0,0:06:54.63,0:06:56.22,main,Yami,0000,0000,0000,,You're just gonna ignore me?
+Dialogue: 0,0:06:58.73,0:07:02.97,main,Charmy,0000,0000,0000,,Guys! Food's ready!
+Dialogue: 0,0:07:12.39,0:07:15.24,main,All,0000,0000,0000,,Thanks for the meal!
+Dialogue: 0,0:07:15.24,0:07:18.40,main,Asta,0000,0000,0000,,Man, that was great!
+Dialogue: 0,0:07:21.82,0:07:23.50,italics,Noelle,0000,0000,0000,,It's that sound again.
+Dialogue: 0,0:07:25.25,0:07:26.42,main,Asta,0000,0000,0000,,Noelle?
+Dialogue: 0,0:07:39.05,0:07:42.06,italics,Noelle,0000,0000,0000,,I think I heard it for the first \Ntime somewhere around here.
+Dialogue: 0,0:07:42.06,0:07:43.60,main,Asta,0000,0000,0000,,Hey!
+Dialogue: 0,0:07:43.60,0:07:45.14,main,Noelle,0000,0000,0000,,Asta...
+Dialogue: 0,0:07:45.14,0:07:46.27,main,Asta,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:07:47.53,0:07:50.03,main,Noelle,0000,0000,0000,,Do you hear that strange sound?
+Dialogue: 0,0:07:50.03,0:07:51.30,main,Asta,0000,0000,0000,,Sound?
+Dialogue: 0,0:08:02.74,0:08:03.54,main,Kahono,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:03.94,0:08:05.31,main,Noelle,0000,0000,0000,,Kahono!
+Dialogue: 0,0:08:05.31,0:08:06.29,main,Asta,0000,0000,0000,,Kiato!
+Dialogue: 0,0:08:06.95,0:08:08.47,top,Noelle,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:08:07.11,0:08:11.57,sign_11679_105_Kahono,Sign,0000,0000,0000,,{\blur3\fad(710,789)}Kahono
+Dialogue: 0,0:08:08.47,0:08:10.87,top,Kahono,0000,0000,0000,,I could ask you the same thing,\N but this is great.
+Dialogue: 0,0:08:10.87,0:08:13.22,top,Kahono,0000,0000,0000,,We were just about to go find you.
+Dialogue: 0,0:08:12.07,0:08:16.05,sign_11798_108_Kiato,Sign,0000,0000,0000,,{\blur3\fad(755,1)}Kiato
+Dialogue: 0,0:08:13.22,0:08:16.05,italicstop,Kiato,0000,0000,0000,,The sea goddess is as beautiful as ever.
+Dialogue: 0,0:08:16.77,0:08:18.86,main,Asta,0000,0000,0000,,Did something happen at\Nthe Underwater Temple?
+Dialogue: 0,0:08:18.86,0:08:21.77,main,Kiato,0000,0000,0000,,Oh, right. We wanted to ask you guys for help.
+Dialogue: 0,0:08:23.49,0:08:26.40,main,Kahono,0000,0000,0000,,Please come with us.
+Dialogue: 0,0:08:26.40,0:08:29.40,sign_4757_29_Royal_Capital__M,Sign,0000,0000,0000,,{\blur3}Underwater Temple
+Dialogue: 0,0:08:29.40,0:08:31.42,main,Asta,0000,0000,0000,,They were attacked by a monster?!
+Dialogue: 0,0:08:31.42,0:08:34.61,main,Gifso,0000,0000,0000,,It was probably a guardian of the sea.
+Dialogue: 0,0:08:34.61,0:08:39.12,main,Kahono,0000,0000,0000,,They've been around since time immemorial, \Nand are said to be the sea god's servants.
+Dialogue: 0,0:08:39.61,0:08:44.08,main,Noelle,0000,0000,0000,,But why would a creature like that attack \Npeople from the Underwater Temple?
+Dialogue: 0,0:08:44.08,0:08:48.59,sign_12566_118_Gifso,Sign,0000,0000,0000,,{\blur4\fad(777,819)}Gifso
+Dialogue: 0,0:08:44.40,0:08:48.65,top,Gifso,0000,0000,0000,,Something has disturbed the \Nunderwater mana these past few days.
+Dialogue: 0,0:08:48.65,0:08:52.21,main,Gifso,0000,0000,0000,,Some of the creatures around \Nhere have become violent.
+Dialogue: 0,0:08:53.41,0:08:57.21,main,Gifso,0000,0000,0000,,I decided to dig into this a \Nlittle further, then I saw it...
+Dialogue: 0,0:08:57.21,0:09:00.22,main,Gifso,0000,0000,0000,,I couldn't see it clearly because \Nof the disturbance in the mana,
+Dialogue: 0,0:09:00.22,0:09:05.49,main,Gifso,0000,0000,0000,,but south of the Underwater Temple, \Nthere is a place called the Void of No Return.
+Dialogue: 0,0:09:05.49,0:09:08.40,main,Gifso,0000,0000,0000,,That's where I saw the guardian \Nof the sea letting its rage
+Dialogue: 0,0:09:08.40,0:09:10.23,main,Gifso,0000,0000,0000,,overtake it, going berserk.
+Dialogue: 0,0:09:11.77,0:09:16.66,main,Gifso,0000,0000,0000,,I'm sure the disturbance in the mana \Nhere is due to the guardian's rage.
+Dialogue: 0,0:09:16.66,0:09:19.54,main,Gifso,0000,0000,0000,,The shrine mages tried to \Nquell the guardian's rage
+Dialogue: 0,0:09:19.54,0:09:23.54,main,Gifso,0000,0000,0000,,with their song and dance, but...
+Dialogue: 0,0:09:24.01,0:09:26.87,main,Kahono,0000,0000,0000,,They all got hurt trying to defend us.
+Dialogue: 0,0:09:27.67,0:09:28.63,main,Noelle,0000,0000,0000,,Kahono...
+Dialogue: 0,0:09:29.08,0:09:33.39,main,Gifso,0000,0000,0000,,What I'd like to ask from you \Nis to protect Kiato and Kahono.
+Dialogue: 0,0:09:33.39,0:09:37.76,main,Gifso,0000,0000,0000,,Please get them to the Void of No Return safely.
+Dialogue: 0,0:09:38.20,0:09:40.55,main,Yami,0000,0000,0000,,Why the hell are you asking us, though?
+Dialogue: 0,0:09:40.55,0:09:43.04,main,Yami,0000,0000,0000,,We're pretty busy with our training, you know.
+Dialogue: 0,0:09:43.04,0:09:45.02,main,Finral,0000,0000,0000,,You were just drinking booze, Yami!
+Dialogue: 0,0:09:45.02,0:09:46.02,main,Gifso,0000,0000,0000,,I beg of you!
+Dialogue: 0,0:09:46.02,0:09:49.50,main,Gifso,0000,0000,0000,,I ask this knowing how \Npowerful the Black Bulls are!
+Dialogue: 0,0:09:49.50,0:09:53.33,main,Gifso,0000,0000,0000,,You're among the few \NMagic Knights who can reach this
+Dialogue: 0,0:09:53.33,0:09:57.10,main,Gifso,0000,0000,0000,,Underwater Temple safely \Ndespite being land dwellers.
+Dialogue: 0,0:09:57.67,0:10:00.28,main,Gifso,0000,0000,0000,,Because of the sea goddess's protection.
+Dialogue: 0,0:10:03.97,0:10:07.10,main,Yami,0000,0000,0000,,This may sound harsh, \Nbut you got any proof that
+Dialogue: 0,0:10:07.10,0:10:10.37,main,Yami,0000,0000,0000,,this song and dance can calm \Ndown that guardian of yours?
+Dialogue: 0,0:10:11.49,0:10:12.42,main,Kiato,0000,0000,0000,,Well...
+Dialogue: 0,0:10:12.42,0:10:15.59,main,Yami,0000,0000,0000,,We're not protecting this \Nkingdom as volunteers.
+Dialogue: 0,0:10:16.43,0:10:22.89,main,Yami,0000,0000,0000,,I can't just loan out some of my squad \Nmembers when your resolve's that weak.
+Dialogue: 0,0:10:24.65,0:10:28.48,main,Noelle,0000,0000,0000,,So basically, you just need to \Nknow there's a chance, right?
+Dialogue: 0,0:10:28.48,0:10:29.33,main,Yami,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:29.33,0:10:30.15,main,Asta,0000,0000,0000,,Noelle?
+Dialogue: 0,0:10:30.48,0:10:33.59,italics,Noelle,0000,0000,0000,,The disturbance in the mana that's \Naffecting this whole underwater area...
+Dialogue: 0,0:10:33.59,0:10:37.02,italics,Noelle,0000,0000,0000,,Maybe a devil's behind this, too.
+Dialogue: 0,0:10:37.02,0:10:39.49,main,Noelle,0000,0000,0000,,It's the Magic Knights' job to protect people.
+Dialogue: 0,0:10:39.49,0:10:42.91,main,Noelle,0000,0000,0000,,I'll get those two there safely, no matter what.
+Dialogue: 0,0:10:42.91,0:10:44.25,italics,Kahono,0000,0000,0000,,Noelle...
+Dialogue: 0,0:10:44.25,0:10:45.64,italics,Kiato,0000,0000,0000,,Sea Goddess...
+Dialogue: 0,0:10:48.66,0:10:49.54,main,Kiato,0000,0000,0000,,We...
+Dialogue: 0,0:10:50.18,0:10:52.47,main,Kiato,0000,0000,0000,,We'll definitely quell the guardian's rage!
+Dialogue: 0,0:10:52.47,0:10:56.34,main,Kahono,0000,0000,0000,,We've sung and danced solely for the sea god!
+Dialogue: 0,0:10:57.05,0:11:00.30,main,Kahono,0000,0000,0000,,We'll make sure the guardian \Nhears our prayers, too!
+Dialogue: 0,0:11:00.98,0:11:03.32,main,Yami,0000,0000,0000,,I guess I'll acknowledge your resolve.
+Dialogue: 0,0:11:04.11,0:11:06.14,main,Yami,0000,0000,0000,,So, what's this chance you mentioned?
+Dialogue: 0,0:11:07.09,0:11:10.06,main,Noelle,0000,0000,0000,,I... have an idea.
+Dialogue: 0,0:11:19.81,0:11:21.78,main,Kahono,0000,0000,0000,,It's right over there, Noelle.
+Dialogue: 0,0:11:22.88,0:11:24.29,main,Kahono,0000,0000,0000,,The Void of No Return.
+Dialogue: 0,0:11:25.03,0:11:26.28,main,Kahono,0000,0000,0000,,Just as the name suggests,
+Dialogue: 0,0:11:26.28,0:11:30.04,main,Kahono,0000,0000,0000,,it's said that any creature that \Nwanders in there can never return.
+Dialogue: 0,0:11:32.54,0:11:36.08,main,Kiato,0000,0000,0000,,I thought the stories about \Nthe guardian of the sea
+Dialogue: 0,0:11:36.08,0:11:39.30,main,Kiato,0000,0000,0000,,and the Void of No Return were \Njust fairy tales when I was a kid.
+Dialogue: 0,0:11:39.30,0:11:42.30,main,Finral,0000,0000,0000,,H-How deep does that thing go?
+Dialogue: 0,0:11:46.58,0:11:48.52,flashback,Yami,0000,0000,0000,,So, what's your plan?
+Dialogue: 0,0:11:49.22,0:11:52.94,flashback,Noelle,0000,0000,0000,,I'm going to make the Sea Dragon's Cradle\N smaller and more powerful.
+Dialogue: 0,0:11:52.94,0:11:56.73,flashback,Noelle,0000,0000,0000,,That's going to limit who \NI can take with me, though.
+Dialogue: 0,0:11:57.62,0:12:02.02,flashback,Yami,0000,0000,0000,,Which means other than you, Kahono, and Kiato,
+Dialogue: 0,0:12:02.02,0:12:03.24,flashback,Yami,0000,0000,0000,,we need one more—
+Dialogue: 0,0:12:02.89,0:12:04.62,flashback,Asta,0000,0000,0000,,Me, me! Me, me, me, me, me!
+Dialogue: 0,0:12:04.62,0:12:07.56,flashback,Asta,0000,0000,0000,,Me! I'll go!
+Dialogue: 0,0:12:07.56,0:12:09.51,flashback,Luck,0000,0000,0000,,Let's hurry up and kill that guardian!
+Dialogue: 0,0:12:09.51,0:12:12.31,flashback,Luck,0000,0000,0000,,I wonder how strong it is. \NI can't wait to find out!
+Dialogue: 0,0:12:12.31,0:12:16.69,flashback,Gauche,0000,0000,0000,,Let's just finish off the stupid thing so \NI can work ou... I mean, so I can go see Marie.
+Dialogue: 0,0:12:16.69,0:12:19.00,flashback,Asta,0000,0000,0000,,How can you say something \Nlike that right now?!
+Dialogue: 0,0:12:19.00,0:12:21.66,flashback,Charmy,0000,0000,0000,,Don't worry! Life is an endless cycle!
+Dialogue: 0,0:12:21.66,0:12:23.59,flashback,Charmy,0000,0000,0000,,To taste noms that have been \Naged since time immemorial...
+Dialogue: 0,0:12:24.17,0:12:26.25,flashback,Yami,0000,0000,0000,,Yeah, you guys aren't going.
+Dialogue: 0,0:12:26.25,0:12:27.54,flashback,All,0000,0000,0000,,What?!
+Dialogue: 0,0:12:27.54,0:12:28.36,flashback,Gauche,0000,0000,0000,,Tch!
+Dialogue: 0,0:12:28.36,0:12:29.83,flashback,Yami,0000,0000,0000,,And you're not going, either.
+Dialogue: 0,0:12:29.83,0:12:31.23,flashback,Asta,0000,0000,0000,,What?!
+Dialogue: 0,0:12:31.23,0:12:34.98,flashback,Asta,0000,0000,0000,,But why?! Is it because I can't swim?!
+Dialogue: 0,0:12:34.98,0:12:37.78,flashback,Yami,0000,0000,0000,,Oh, right. No way in hell you're going, then.
+Dialogue: 0,0:12:38.82,0:12:40.45,flashback,Asta,0000,0000,0000,,Crap!
+Dialogue: 0,0:12:40.45,0:12:42.61,flashbackitalics,Noelle,0000,0000,0000,,How stupid can you be?
+Dialogue: 0,0:12:42.61,0:12:43.82,flashback,Yami,0000,0000,0000,,Finral.
+Dialogue: 0,0:12:44.30,0:12:45.53,flashback,Yami,0000,0000,0000,,You go.
+Dialogue: 0,0:12:45.53,0:12:46.62,flashback,Finral,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:46.62,0:12:50.94,flashback,Yami,0000,0000,0000,,If things get dangerous, get everyone back \Nhere safe, even if it costs your life.
+Dialogue: 0,0:12:50.94,0:12:52.20,flashback,Yami,0000,0000,0000,,Got it?
+Dialogue: 0,0:12:53.90,0:12:54.97,flashback,Finral,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:12:54.97,0:12:57.09,flashback,Yami,0000,0000,0000,,Oh, and Noelle.
+Dialogue: 0,0:12:58.21,0:13:01.71,flashback,Yami,0000,0000,0000,,You decided to do this, so make sure \Nyou see it all the way through.
+Dialogue: 0,0:13:02.51,0:13:03.37,flashback,Noelle,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:13:07.70,0:13:09.32,italics,Noelle,0000,0000,0000,,Such violent mana!
+Dialogue: 0,0:13:09.32,0:13:12.22,italics,Noelle,0000,0000,0000,,If I let my guard down for \Neven a second, we're finished.
+Dialogue: 0,0:13:13.72,0:13:14.52,main,Kiato,0000,0000,0000,,Look!
+Dialogue: 0,0:13:16.87,0:13:18.65,main,Noelle,0000,0000,0000,,What the heck are those guys?!
+Dialogue: 0,0:13:18.65,0:13:22.23,main,Kiato,0000,0000,0000,,I don't know. We've never \Nseen them before, either.
+Dialogue: 0,0:13:24.81,0:13:25.61,main,Kiato,0000,0000,0000,,Kahono!
+Dialogue: 0,0:13:25.61,0:13:26.77,main,Kahono,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:13:27.30,0:13:29.68,main,Kahono,0000,0000,0000,,Song Magic: Mother Lullaby!
+Dialogue: 0,0:13:34.87,0:13:38.47,main,Kahono,0000,0000,0000,,It could be that the \Npowerful mana in the area
+Dialogue: 0,0:13:38.47,0:13:41.77,main,Kahono,0000,0000,0000,,caused the fish here to turn into monsters.
+Dialogue: 0,0:13:42.21,0:13:43.96,main,Noelle,0000,0000,0000,,Is that even...
+Dialogue: 0,0:13:49.17,0:13:50.64,main,Noelle,0000,0000,0000,,There are so many of them!
+Dialogue: 0,0:13:51.37,0:13:52.71,main,Kiato,0000,0000,0000,,There's no end to them.
+Dialogue: 0,0:13:52.71,0:13:54.12,main,Finral,0000,0000,0000,,We'll just have to keep going.
+Dialogue: 0,0:13:58.89,0:13:59.86,main,Kahono,0000,0000,0000,,Noelle!
+Dialogue: 0,0:14:01.55,0:14:03.73,main,Kiato,0000,0000,0000,,Leave this to us.
+Dialogue: 0,0:14:03.95,0:14:06.74,main,Kahono,0000,0000,0000,,Song Magic: Destructive Beat!
+Dialogue: 0,0:14:09.24,0:14:11.49,main,Noelle,0000,0000,0000,,Wait! Kahono! Kiato!
+Dialogue: 0,0:14:14.74,0:14:15.91,main,Kahono,0000,0000,0000,,Big Brother!
+Dialogue: 0,0:14:17.38,0:14:18.29,main,Kiato,0000,0000,0000,,Got it!
+Dialogue: 0,0:14:19.29,0:14:22.92,main,Both,0000,0000,0000,,Combo Spell: Sea God's Descent!
+Dialogue: 0,0:14:33.91,0:14:35.89,italics,Kiato,0000,0000,0000,,There are too many of them!
+Dialogue: 0,0:14:36.22,0:14:37.14,italics,Finral,0000,0000,0000,,Noelle...
+Dialogue: 0,0:14:37.14,0:14:40.54,italics,Noelle,0000,0000,0000,,What am I even doing? I'm supposed \Nto protect Kahono and Kiato,
+Dialogue: 0,0:14:40.54,0:14:43.15,italics,Noelle,0000,0000,0000,,and yet I'm just watching \Nwhile they do all the fighting.
+Dialogue: 0,0:14:48.21,0:14:49.40,main,Finral,0000,0000,0000,,Noelle, run!
+Dialogue: 0,0:14:49.79,0:14:51.47,main,Noelle,0000,0000,0000,,Wh-What are you talking about?
+Dialogue: 0,0:14:51.47,0:14:55.56,main,Noelle,0000,0000,0000,,If I leave, you're going to \Nbe thrown into the ocean!
+Dialogue: 0,0:14:55.56,0:14:59.54,main,Finral,0000,0000,0000,,Don't worry. I promise to take those \Ntwo and meet back with you safely.
+Dialogue: 0,0:14:59.96,0:15:01.71,main,Noelle,0000,0000,0000,,But how...
+Dialogue: 0,0:15:01.71,0:15:06.48,main,Finral,0000,0000,0000,,Well, our captain did say to bring everyone \Nback even if it costs my life.
+Dialogue: 0,0:15:06.48,0:15:09.61,main,Finral,0000,0000,0000,,And I'm not so much of a failure \Nthat I'd leave a girl behind
+Dialogue: 0,0:15:09.61,0:15:11.10,main,Finral,0000,0000,0000,,in such a dangerous place.
+Dialogue: 0,0:15:11.10,0:15:12.97,main,Finral,0000,0000,0000,,So go on! Quickly!
+Dialogue: 0,0:15:13.97,0:15:15.22,main,Noelle,0000,0000,0000,,Finral...
+Dialogue: 0,0:15:21.98,0:15:22.98,main,Kahono,0000,0000,0000,,Noelle!
+Dialogue: 0,0:15:27.23,0:15:28.49,main,Kiato,0000,0000,0000,,Kahono!
+Dialogue: 0,0:15:33.33,0:15:34.26,italics,Noelle,0000,0000,0000,,Everyone...
+Dialogue: 0,0:15:37.14,0:15:39.50,italics,Noelle,0000,0000,0000,,I can't just...
+Dialogue: 0,0:15:43.98,0:15:47.00,italics,Noelle,0000,0000,0000,,That's right. If I let this stop me,
+Dialogue: 0,0:15:47.48,0:15:52.30,italics,Noelle,0000,0000,0000,,I'll never be able to defeat \Nthe devil and avenge my mother!
+Dialogue: 0,0:15:52.62,0:15:58.25,flashbackitalics,Loropechika,0000,0000,0000,,The Spirit Guardians borrow some power \Nfrom natural mana to use powerful magic,
+Dialogue: 0,0:15:58.25,0:16:00.31,flashbackitalics,Loropechika,0000,0000,0000,,but they still cannot defeat devils.
+Dialogue: 0,0:16:01.06,0:16:02.77,italics,Noelle,0000,0000,0000,,Natural mana...
+Dialogue: 0,0:16:02.77,0:16:05.81,italics,Noelle,0000,0000,0000,,If I can somehow get all this chaotic \Nunderwater mana on my side...
+Dialogue: 0,0:16:06.77,0:16:09.46,italics,Noelle,0000,0000,0000,,Please... lend me your strength!
+Dialogue: 0,0:16:13.59,0:16:14.58,main,Kahono,0000,0000,0000,,What?
+Dialogue: 0,0:16:14.58,0:16:15.44,main,Kiato,0000,0000,0000,,This is...
+Dialogue: 0,0:16:17.76,0:16:18.62,main,Finral,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:23.21,0:16:24.62,italics,Finral,0000,0000,0000,,It's so powerful!
+Dialogue: 0,0:16:25.05,0:16:30.38,italics,Finral,0000,0000,0000,,It requires so much magic control \Njust to protect all of us, let alone this...
+Dialogue: 0,0:16:30.81,0:16:34.04,main,Kahono,0000,0000,0000,,This is amazing! I always knew \Nyou were amazing, Noelle!
+Dialogue: 0,0:16:34.04,0:16:36.39,main,Noelle,0000,0000,0000,,Sorry for putting you in danger like that.
+Dialogue: 0,0:16:36.72,0:16:39.39,main,Noelle,0000,0000,0000,,Now, we're heading right to \Nthe guardian of the sea!
+Dialogue: 0,0:16:41.83,0:16:43.39,main,Finral,0000,0000,0000,,Wh-What's that?
+Dialogue: 0,0:16:54.17,0:16:55.91,main,Kiato,0000,0000,0000,,That's a kraken!
+Dialogue: 0,0:16:57.16,0:17:01.66,main,Kahono,0000,0000,0000,,The kraken is the protector of the sea. \NIt protects all the creatures within the sea.
+Dialogue: 0,0:17:01.66,0:17:03.91,main,Finral,0000,0000,0000,,So right now, it's protecting the guardian?
+Dialogue: 0,0:17:09.92,0:17:11.92,main,Charmy,0000,0000,0000,,Ooh, a squid leg!
+Dialogue: 0,0:17:16.23,0:17:17.68,main,Noelle,0000,0000,0000,,Not bad, Finral!
+Dialogue: 0,0:17:17.68,0:17:18.72,main,Finral,0000,0000,0000,,Here it comes!
+Dialogue: 0,0:17:22.38,0:17:24.96,main,Finral,0000,0000,0000,,This ink isn't just to obstruct our vision.
+Dialogue: 0,0:17:24.96,0:17:28.24,main,Finral,0000,0000,0000,,It's disturbing the mana \Naround us. At this rate...
+Dialogue: 0,0:17:30.69,0:17:32.32,italics,Noelle,0000,0000,0000,,Water Creation Magic:
+Dialogue: 0,0:17:33.26,0:17:34.74,italics,Noelle,0000,0000,0000,,Valkyrie Armor!
+Dialogue: 0,0:17:50.04,0:17:51.04,main,Finral,0000,0000,0000,,Noelle!
+Dialogue: 0,0:17:55.59,0:17:58.76,italics,Noelle,0000,0000,0000,,Sorry, but I need you to take a little nap.
+Dialogue: 0,0:18:03.82,0:18:05.10,main,Noelle,0000,0000,0000,,Now's our chance!
+Dialogue: 0,0:18:05.10,0:18:06.35,main,Both,0000,0000,0000,,Right!
+Dialogue: 0,0:18:21.85,0:18:22.98,main,Noelle,0000,0000,0000,,Ruins?
+Dialogue: 0,0:18:23.61,0:18:26.96,main,Noelle,0000,0000,0000,,I had no idea there was a place like \Nthis at the bottom of that hole.
+Dialogue: 0,0:18:27.41,0:18:30.46,main,Finral,0000,0000,0000,,I wonder if people used to live down here, too.
+Dialogue: 0,0:18:46.99,0:18:48.85,main,Finral,0000,0000,0000,,Is that... the guardian?
+Dialogue: 0,0:18:51.78,0:18:53.53,main,Noelle,0000,0000,0000,,Such powerful mana...
+Dialogue: 0,0:18:53.53,0:18:56.23,main,Noelle,0000,0000,0000,,It's as though it's just unleashing pure rage.
+Dialogue: 0,0:18:56.23,0:18:59.15,main,Finral,0000,0000,0000,,Are we being threatened?
+Dialogue: 0,0:19:36.97,0:19:41.91,main,Finral,0000,0000,0000,,I see. The guardian was \Nuneasy because of its baby.
+Dialogue: 0,0:19:42.50,0:19:44.30,main,Noelle,0000,0000,0000,,And the creatures of the sea were
+Dialogue: 0,0:19:44.30,0:19:46.66,main,Noelle,0000,0000,0000,,just trying to protect the \Nguardian and its baby.
+Dialogue: 0,0:19:51.35,0:19:52.34,main,Noelle,0000,0000,0000,,This is...
+Dialogue: 0,0:19:54.53,0:19:58.67,main,Noelle,0000,0000,0000,,So that sound I've been \Nhearing was your lullaby.
+Dialogue: 0,0:20:20.14,0:20:22.70,main,Noelle,0000,0000,0000,,Wait! Was that...
+Dialogue: 0,0:20:50.49,0:20:52.77,main,Kiato,0000,0000,0000,,Thank you, Sea Godde—
+Dialogue: 0,0:20:55.70,0:20:57.31,main,Kiato,0000,0000,0000,,A-Are you hurt?
+Dialogue: 0,0:20:57.86,0:20:59.00,main,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:59.00,0:21:02.82,main,Noelle,0000,0000,0000,,No, I'm fine. It's nothing.
+Dialogue: 0,0:21:04.61,0:21:08.77,italics,Noelle,0000,0000,0000,,Maybe my mother came here once, too.
+Dialogue: 0,0:21:09.18,0:21:13.08,italics,Noelle,0000,0000,0000,,Though I'm sure I took much \Nlonger and was far clumsier.
+Dialogue: 0,0:21:13.93,0:21:16.08,italics,Noelle,0000,0000,0000,,Even so, I made it here.
+Dialogue: 0,0:21:16.70,0:21:19.57,italics,Noelle,0000,0000,0000,,I'm growing, too.
+Dialogue: 0,0:21:26.80,0:21:29.13,main,Kahono,0000,0000,0000,,Thank you all so much!
+Dialogue: 0,0:21:29.54,0:21:31.68,main,Kiato,0000,0000,0000,,But are you sure this is \Nall the thanks you need?
+Dialogue: 0,0:21:32.08,0:21:35.16,main,Kiato,0000,0000,0000,,Gramps was super excited about holding a feast.
+Dialogue: 0,0:21:35.58,0:21:37.30,main,Charmy,0000,0000,0000,,This is the best, la!
+Dialogue: 0,0:21:37.75,0:21:40.01,main,Vanessa,0000,0000,0000,,F-Feast?
+Dialogue: 0,0:21:40.01,0:21:42.98,main,Asta,0000,0000,0000,,Kahono, Kiato! Tell Gramps hi for me.
+Dialogue: 0,0:21:42.98,0:21:44.20,main,Kahono,0000,0000,0000,,Sure!
+Dialogue: 0,0:21:44.20,0:21:46.32,main,Kiato,0000,0000,0000,,Come visit again once \Nthings have calmed down.
+Dialogue: 0,0:21:46.32,0:21:49.08,main,Kiato,0000,0000,0000,,Then I'll give the sea goddess \Nthe best welcome ev—
+Dialogue: 0,0:21:49.08,0:21:52.41,main,Kahono,0000,0000,0000,,Let's go on another double \Ndate, Asta and Noelle!
+Dialogue: 0,0:21:52.41,0:21:56.00,main,Noelle,0000,0000,0000,,Wh-Wh-Wh-Wh-Wha...
+Dialogue: 0,0:21:53.69,0:21:55.81,main,Asta,0000,0000,0000,,Sure thing!
+Dialogue: 0,0:21:56.00,0:21:59.64,main,Noelle,0000,0000,0000,,H-H-H-How could you agree to that?!
+Dialogue: 0,0:21:57.77,0:22:00.34,italics,Finral,0000,0000,0000,,Kahono's so forward. I love it!
+Dialogue: 0,0:22:00.34,0:22:04.20,italics,Finral,0000,0000,0000,,Damn it, no! I have Miss Finnes!
+Dialogue: 0,0:22:04.20,0:22:05.51,main,Yami,0000,0000,0000,,Good work.
+Dialogue: 0,0:22:06.47,0:22:07.51,main,Finral,0000,0000,0000,,Yami...
+Dialogue: 0,0:22:09.17,0:22:13.32,main,Yami,0000,0000,0000,,Come to think of it, it was also here \Nthat a good-for-nothing like you
+Dialogue: 0,0:22:13.32,0:22:16.53,main,Yami,0000,0000,0000,,decided to willingly join a \Nbattle for the first time.
+Dialogue: 0,0:22:17.37,0:22:19.27,main,Finral,0000,0000,0000,,Yeah, I guess that also happened.
+Dialogue: 0,0:22:19.78,0:22:24.78,main,Yami,0000,0000,0000,,Do you remember what I told you when \Nyou were still a good-for-nothing?
+Dialogue: 0,0:22:25.29,0:22:28.54,flashback,Yami,0000,0000,0000,,You've probably got your own \Nway of fighting, right?
+Dialogue: 0,0:22:30.03,0:22:33.12,main,Finral,0000,0000,0000,,Yes. And I've already found it.
+Dialogue: 0,0:22:34.29,0:22:39.04,main,Finral,0000,0000,0000,,Now, I'm working hard toward my \Nnext goal... or at least, I'm trying.
+Dialogue: 0,0:22:40.75,0:22:41.80,main,Yami,0000,0000,0000,,I see.
+Dialogue: 0,0:22:42.77,0:22:44.24,main,Yami,0000,0000,0000,,That's great and all, but...
+Dialogue: 0,0:22:44.24,0:22:45.04,main,Finral,0000,0000,0000,,Yes?
+Dialogue: 0,0:22:45.82,0:22:49.97,main,Yami,0000,0000,0000,,You totally brought a squid leg over here \Nwith your spatial magic, didn't you?!
+Dialogue: 0,0:22:49.97,0:22:52.42,main,Finral,0000,0000,0000,,I-It was a spur-of-the-moment thing! I'm sorry!
+Dialogue: 0,0:22:52.42,0:22:54.06,main,Yami,0000,0000,0000,,I don't want to hear your lame excuses.
+Dialogue: 0,0:22:54.06,0:22:55.72,top,Finral,0000,0000,0000,,Ow, ow, ow, ow, ow!
+Dialogue: 0,0:22:54.42,0:23:00.14,main,Henry,0000,0000,0000,,Welcome... back... everyone!
+Dialogue: 0,0:23:00.46,0:23:03.20,main,Asta,0000,0000,0000,,Thanks, Henry!
+Dialogue: 0,0:23:03.20,0:23:05.11,main,Yami,0000,0000,0000,,Right. Guess it's chow time.
+Dialogue: 0,0:23:05.11,0:23:07.03,main,Asta,0000,0000,0000,,I'm starving!
+Dialogue: 0,0:23:07.03,0:23:08.98,main,Vanessa,0000,0000,0000,,What are you making for us?
+Dialogue: 0,0:23:08.98,0:23:11.34,main,Charmy,0000,0000,0000,,We'll start simple with a seafood barbecue
+Dialogue: 0,0:23:11.34,0:23:13.85,main,Charmy,0000,0000,0000,,and enjoy its natural yumminess!
+Dialogue: 0,0:23:13.85,0:23:15.30,main,Gordon,0000,0000,0000,,Plenty of protein!
+Dialogue: 0,0:23:15.30,0:23:16.62,main,Gordon,0000,0000,0000,,A gift for Marie!
+Dialogue: 0,0:23:16.62,0:23:17.61,main,Nero,0000,0000,0000,,I want to eat squid.
+Dialogue: 0,0:23:17.61,0:23:20.21,main,Finral,0000,0000,0000,,A squid almost finished... I mean, \NI'm done with squid for now.
+Dialogue: 0,0:23:24.85,0:23:26.52,italics,Noelle,0000,0000,0000,,Just watch, Mother.
+Dialogue: 0,0:23:26.52,0:23:29.50,italics,Noelle,0000,0000,0000,,I'm going to become even stronger.
+Dialogue: 0,0:23:39.81,0:23:43.10,main,Kahono,0000,0000,0000,,Noelle! Asta! Let's continue to do our best!
+Dialogue: 0,0:23:43.10,0:23:46.23,main,Kahono,0000,0000,0000,,I'm going to become an idol! Just you watch!
+Dialogue: 0,0:23:46.23,0:23:48.84,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 137:
+Dialogue: 0,0:23:47.28,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 137\N\N{\fs18}Charmy's Century of Hunger, Gordon's Millennium of Loneliness
+Dialogue: 0,0:23:48.84,0:23:52.54,main,Some,0000,0000,0000,,"Charmy's Century of Hunger, \NGordon's Millennium of Loneliness."
+Dialogue: 0,0:23:52.54,0:23:53.99,main,Kahono,0000,0000,0000,,I hope you'll cheer me on!

@@ -1,0 +1,330 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00E678C2,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.37,0:00:07.05,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:07.60,0:00:09.53,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:09.53,0:00:12.62,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:13.36,0:00:15.25,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:16.27,0:00:18.96,italics,Nar,0000,0000,0000,,With guts and hard work, \Nhe made it into the Magic Knights,
+Dialogue: 0,0:00:18.96,0:00:21.76,italics,Nar,0000,0000,0000,,and he never gave up, \Ndespite how much he got hurt.
+Dialogue: 0,0:00:21.76,0:00:24.60,italics,Nar,0000,0000,0000,,He continues to diligently aim for the top!
+Dialogue: 0,0:00:26.16,0:00:27.79,italics,Nar,0000,0000,0000,,Even if you are a peasant,
+Dialogue: 0,0:00:27.79,0:00:29.28,italics,Nar,0000,0000,0000,,or even if you're poor...
+Dialogue: 0,0:00:29.93,0:00:32.38,italics,Nar,0000,0000,0000,,Anyone in this world can still shine!
+Dialogue: 0,0:00:32.77,0:00:34.80,italics,Nar,0000,0000,0000,,He's working hard to prove that,
+Dialogue: 0,0:00:35.18,0:00:37.80,italics,Nar,0000,0000,0000,,and to become the Wizard King!
+Dialogue: 0,0:00:41.14,0:00:45.89,italics,Nar,0000,0000,0000,,In order to learn the Mana Method\N and acquire new powers,
+Dialogue: 0,0:00:45.89,0:00:48.86,italics,Nar,0000,0000,0000,,Asta and the others train their \Nhardest in the Heart Kingdom.
+Dialogue: 0,0:00:54.57,0:00:56.07,main,asta,0000,0000,0000,,This time, I'll get you!
+Dialogue: 0,0:01:01.51,0:01:04.54,main,Gaja,0000,0000,0000,,The power to nullify magic is unrivaled.
+Dialogue: 0,0:01:04.54,0:01:07.58,main,Gaja,0000,0000,0000,,But your vision is so narrow that you can't \Nuse your powers to their full potential.
+Dialogue: 0,0:01:07.58,0:01:09.49,main,Asta,0000,0000,0000,,Not yet!
+Dialogue: 0,0:01:10.87,0:01:14.47,italics,Nar,0000,0000,0000,,And this man was making his move, too.
+Dialogue: 0,0:01:15.36,0:01:18.72,main,Yami,0000,0000,0000,,Looks like they're all trying \Nto surpass their limits.
+Dialogue: 0,0:01:19.57,0:01:22.22,main,Yami,0000,0000,0000,,So I guess I need to work a bit harder, too.
+Dialogue: 0,0:02:47.58,0:02:52.23,Ep Title,Sign,0000,0000,0000,,{\fs22\move(320,70,320,60)\t(1,4650,\fs24)\fad(1000,1)}Awakening Powers
+Dialogue: 0,0:03:02.94,0:03:05.58,main,Gaja,0000,0000,0000,,Lightning Magic: Tenjiolia.
+Dialogue: 0,0:03:22.55,0:03:27.64,italics,Asta,0000,0000,0000,,I've been sparring with him for days now,\N and I still can't get a hit in!
+Dialogue: 0,0:03:27.87,0:03:32.57,main,Gaja,0000,0000,0000,,If I wasn't holding back, \Nyou'd be in far worse shape.
+Dialogue: 0,0:03:33.85,0:03:36.79,main,Gaja,0000,0000,0000,,The extremely rare power known as anti-magic,
+Dialogue: 0,0:03:36.79,0:03:40.00,main,Gaja,0000,0000,0000,,physical strength that you've trained \Nto your limit, and your friends
+Dialogue: 0,0:03:40.00,0:03:43.03,main,Gaja,0000,0000,0000,,are what have led you to victory thus far.
+Dialogue: 0,0:03:43.41,0:03:48.04,main,Gaja,0000,0000,0000,,But the enemy we're about \Nto face is far too powerful.
+Dialogue: 0,0:03:48.04,0:03:54.29,main,Gaja,0000,0000,0000,,If you cannot defeat me on your own, \Nyou will not be able to defeat the devil.
+Dialogue: 0,0:03:54.56,0:03:56.79,main,Asta,0000,0000,0000,,Please let me have another try!
+Dialogue: 0,0:03:57.47,0:04:02.80,italics,Gaja,0000,0000,0000,,Is it his unwavering willpower that \Nhas strengthened him to this point?
+Dialogue: 0,0:04:03.48,0:04:06.23,italics,Gaja,0000,0000,0000,,No, it's not just him.
+Dialogue: 0,0:04:06.23,0:04:09.48,italics,Gaja,0000,0000,0000,,Some of the mages who came \Nfrom the Clover Kingdom
+Dialogue: 0,0:04:09.48,0:04:12.71,italics,Gaja,0000,0000,0000,,have already started creating \Ntechniques of their own.
+Dialogue: 0,0:04:19.77,0:04:22.55,italics,Leo,0000,0000,0000,,Faster... I need to be faster.
+Dialogue: 0,0:04:22.55,0:04:23.95,italics,Leo,0000,0000,0000,,I need to be stronger!
+Dialogue: 0,0:04:28.11,0:04:29.41,main,Floga,0000,0000,0000,,Leopold...
+Dialogue: 0,0:04:29.85,0:04:33.66,italics,Leopold,0000,0000,0000,,I know I should be able to do more... More!
+Dialogue: 0,0:04:42.30,0:04:44.38,main,Floga,0000,0000,0000,,Those were great moves, Leo.
+Dialogue: 0,0:04:45.13,0:04:48.80,main,Floga,0000,0000,0000,,You're able to use the \NMana Method faster now, too.
+Dialogue: 0,0:04:49.31,0:04:50.11,main,Floga,0000,0000,0000,,It's just...
+Dialogue: 0,0:04:50.96,0:04:53.04,main,Floga,0000,0000,0000,,Hmm, how do I put this?
+Dialogue: 0,0:04:53.89,0:04:57.73,main,Floga,0000,0000,0000,,Every now and then, you seem to \Nwaver a bit when you're fighting.
+Dialogue: 0,0:04:58.78,0:05:01.16,main,Floga,0000,0000,0000,,It feels like something's making you hesitate.
+Dialogue: 0,0:05:03.05,0:05:04.83,main,Floga,0000,0000,0000,,Is there a reason why?
+Dialogue: 0,0:05:05.99,0:05:09.53,main,Leo,0000,0000,0000,,I have an older brother and \Nan older sister that I look up to.
+Dialogue: 0,0:05:09.91,0:05:14.14,main,Leo,0000,0000,0000,,Their strength is burned into \Nmy eyes. I cannot unsee it.
+Dialogue: 0,0:05:15.26,0:05:17.04,main,Leo,0000,0000,0000,,The stronger I become,
+Dialogue: 0,0:05:17.47,0:05:21.09,main,Leo,0000,0000,0000,,the more I realize how much higher \Nup my brother and sister are.
+Dialogue: 0,0:05:21.09,0:05:22.55,flashback,Mereoleona,0000,0000,0000,,Stand up.
+Dialogue: 0,0:05:22.85,0:05:25.17,flashback,Mereoleona,0000,0000,0000,,Lions should never look so pitiful.
+Dialogue: 0,0:05:25.17,0:05:29.34,main,Leo,0000,0000,0000,,The more powerful I get, the more \Nout of reach they seem to become.
+Dialogue: 0,0:05:29.34,0:05:34.98,main,Leo,0000,0000,0000,,No matter how hard I try, I can't help \Nbut think that they're stronger than me.
+Dialogue: 0,0:05:41.02,0:05:43.94,main,Mereoleona,0000,0000,0000,,Flame Magic: Calidos Brachium!
+Dialogue: 0,0:05:46.57,0:05:48.91,main,Yami,0000,0000,0000,,Man, it's hot.
+Dialogue: 0,0:05:49.60,0:05:51.36,main,Yami,0000,0000,0000,,Heya, Sisgoleon.
+Dialogue: 0,0:05:51.36,0:05:54.16,main,Mereoleona,0000,0000,0000,,Who are you calling Sisgoleon, you fool?
+Dialogue: 0,0:05:55.01,0:05:57.32,main,Mereoleona,0000,0000,0000,,Did you come for a dip in the hot springs, too?
+Dialogue: 0,0:05:57.82,0:06:00.79,main,Mereoleona,0000,0000,0000,,Why not go defeat one of the magical \Nbeasts around here while you're at it?
+Dialogue: 0,0:06:00.79,0:06:06.04,main,Yami,0000,0000,0000,,Jeez, were you fighting so you \Ncould enjoy a nice, long bath?
+Dialogue: 0,0:06:06.04,0:06:08.97,main,Yami,0000,0000,0000,,You sure are violent, aren't ya?
+Dialogue: 0,0:06:09.25,0:06:12.97,main,Mereoleona,0000,0000,0000,,Hah. I couldn't even call this a warmup.
+Dialogue: 0,0:06:13.22,0:06:14.65,main,Yami,0000,0000,0000,,I'm sure you couldn't.
+Dialogue: 0,0:06:14.65,0:06:16.00,main,Yami,0000,0000,0000,,So in that case...
+Dialogue: 0,0:06:16.61,0:06:18.73,main,Yami,0000,0000,0000,,How about fighting me?
+Dialogue: 0,0:06:19.02,0:06:22.52,main,Mereoleona,0000,0000,0000,,Oh? What brought this on?
+Dialogue: 0,0:06:22.52,0:06:24.43,main,Yami,0000,0000,0000,,Yeah, about that.
+Dialogue: 0,0:06:25.21,0:06:27.32,main,Yami,0000,0000,0000,,In that last battle with the devil,
+Dialogue: 0,0:06:27.96,0:06:31.36,main,Yami,0000,0000,0000,,I was able to use the Mana Zone \Nor whatever it's called.
+Dialogue: 0,0:06:32.41,0:06:38.04,main,Yami,0000,0000,0000,,But I still don't really get it, \Nand I think I could take it a bit further,
+Dialogue: 0,0:06:38.27,0:06:40.12,main,Yami,0000,0000,0000,,so I wanted to give it a try.
+Dialogue: 0,0:06:40.12,0:06:42.84,main,Mereoleona,0000,0000,0000,,Give it a try? With me?
+Dialogue: 0,0:06:43.39,0:06:45.57,main,Yami,0000,0000,0000,,Well, you're more experienced \Nwith Mana Zone, aren't you?
+Dialogue: 0,0:06:45.57,0:06:47.84,main,Yami,0000,0000,0000,,Help a newbie out, will ya?
+Dialogue: 0,0:06:48.36,0:06:52.50,main,Mereoleona,0000,0000,0000,,Very well. I was just thinking \NI hadn't had enough.
+Dialogue: 0,0:06:53.31,0:06:57.87,main,Mereoleona,0000,0000,0000,,But are you sure about this? \NBefore you even get to try,
+Dialogue: 0,0:06:57.87,0:07:00.31,main,Mereoleona,0000,0000,0000,,your body might not even hold up!
+Dialogue: 0,0:07:00.31,0:07:04.94,main,Yami,0000,0000,0000,,Yikes. Not only is she ready, \Nshe's ready to kill me.
+Dialogue: 0,0:07:05.38,0:07:08.57,main,Yami,0000,0000,0000,,Yeah, I'm going home. Sorry to bug you.
+Dialogue: 0,0:07:11.42,0:07:13.81,main,Yami,0000,0000,0000,,I guess that's not gonna work, is it?
+Dialogue: 0,0:07:14.35,0:07:17.58,main,Mereoleona,0000,0000,0000,,Looks like you're ready \Nto be devoured by a lion.
+Dialogue: 0,0:07:18.19,0:07:21.82,main,Yami,0000,0000,0000,,Then again, if you don't come at me like that,
+Dialogue: 0,0:07:22.31,0:07:25.09,main,Yami,0000,0000,0000,,I won't be able to surpass my limits, either.
+Dialogue: 0,0:07:25.33,0:07:29.09,main,Mereoleona,0000,0000,0000,,As you wish, I'll burn you to a crisp!
+Dialogue: 0,0:07:59.33,0:08:01.96,italics,Asta,0000,0000,0000,,Black Meteorite!
+Dialogue: 0,0:08:03.77,0:08:05.92,italics,Gaja,0000,0000,0000,,Is he tracking my mana?
+Dialogue: 0,0:08:06.13,0:08:07.16,italics,Gaja,0000,0000,0000,,In that case...
+Dialogue: 0,0:08:14.40,0:08:16.14,main,Asta,0000,0000,0000,,Ow...
+Dialogue: 0,0:08:16.89,0:08:19.00,main,Gaja,0000,0000,0000,,If I can figure out how your technique works,
+Dialogue: 0,0:08:19.00,0:08:21.81,main,Gaja,0000,0000,0000,,I can figure out many ways to deal with it.
+Dialogue: 0,0:08:23.19,0:08:28.98,main,Gaja,0000,0000,0000,,Would you like to continue fighting until \Nyou cannot use your anti-magic anymore?
+Dialogue: 0,0:08:30.25,0:08:31.65,italics,Asta,0000,0000,0000,,What the heck am I supposed to do?
+Dialogue: 0,0:08:31.94,0:08:35.78,italics,Asta,0000,0000,0000,,How do I get my anti-magic to reach him?
+Dialogue: 0,0:08:36.04,0:08:38.39,main,Gaja,0000,0000,0000,,Mana and anti-magic...
+Dialogue: 0,0:08:38.39,0:08:40.53,main,Gaja,0000,0000,0000,,They are fundamentally different,
+Dialogue: 0,0:08:40.53,0:08:42.99,main,Gaja,0000,0000,0000,,but the power to create \Nand the power to nullify
+Dialogue: 0,0:08:42.99,0:08:45.79,main,Gaja,0000,0000,0000,,are similar in that they \Nare both a form of power.
+Dialogue: 0,0:08:46.08,0:08:49.24,main,Gaja,0000,0000,0000,,Which means the way to use them \Nshouldn't be that different, either.
+Dialogue: 0,0:08:50.43,0:08:52.54,main,Gaja,0000,0000,0000,,The basic technique in using the Mana Method
+Dialogue: 0,0:08:52.54,0:08:54.80,main,Gaja,0000,0000,0000,,is to feel the flow of mana.
+Dialogue: 0,0:08:54.80,0:08:58.46,main,Gaja,0000,0000,0000,,Which means the thing you \Nneed to do right now...
+Dialogue: 0,0:08:59.05,0:09:02.10,italics,Asta,0000,0000,0000,,...is to feel the flow of anti-magic!
+Dialogue: 0,0:09:06.73,0:09:08.62,italics,Yami,0000,0000,0000,,She's faster than my ki can track.
+Dialogue: 0,0:09:08.62,0:09:09.61,main,Mereoleona,0000,0000,0000,,Is that all you've got?
+Dialogue: 0,0:09:10.33,0:09:12.23,main,Mereoleona,0000,0000,0000,,You can't win if you just keep running away!
+Dialogue: 0,0:09:13.11,0:09:14.95,italics,Yami,0000,0000,0000,,How the hell is she so fast?!
+Dialogue: 0,0:09:18.17,0:09:19.20,italics,Yami,0000,0000,0000,,But if that's also
+Dialogue: 0,0:09:19.20,0:09:23.45,italics,Yami,0000,0000,0000,,thanks to Mana Zone, \NI should be able to do it, too!
+Dialogue: 0,0:09:23.74,0:09:24.75,main,Mereoleona,0000,0000,0000,,Too slow!
+Dialogue: 0,0:09:27.31,0:09:31.30,main,Mereoleona,0000,0000,0000,,Here, get an up-close feel for what \Nyou can really do with Mana Zone!
+Dialogue: 0,0:09:37.34,0:09:40.09,italics,Yami,0000,0000,0000,,Well... what to do?
+Dialogue: 0,0:09:46.80,0:09:48.10,italics,Yami,0000,0000,0000,,Hot! Hot!
+Dialogue: 0,0:09:48.10,0:09:50.57,italics,Yami,0000,0000,0000,,I guess I should've expected \Nthat from the Mana Zone expert.
+Dialogue: 0,0:09:50.57,0:09:51.88,italics,Yami,0000,0000,0000,,She's definitely something else.
+Dialogue: 0,0:09:53.00,0:09:56.70,main,Yami,0000,0000,0000,,I guess you're as crazy as ever,\N you violent lioness.
+Dialogue: 0,0:09:58.06,0:10:00.45,main,Mereoleona,0000,0000,0000,,There's no fun in catching weak prey.
+Dialogue: 0,0:10:00.67,0:10:02.72,main,Mereoleona,0000,0000,0000,,Try struggling more!
+Dialogue: 0,0:10:07.01,0:10:10.50,italics,Yami,0000,0000,0000,,If we're just fighting with speed, \NI'm definitely at a disadvantage.
+Dialogue: 0,0:10:14.79,0:10:17.46,main,Yami,0000,0000,0000,,Dark Magic: Dark Cloaked Black Blade!
+Dialogue: 0,0:10:21.17,0:10:23.35,main,Asta,0000,0000,0000,,Black Divider!
+Dialogue: 0,0:10:26.07,0:10:26.89,italics,Asta,0000,0000,0000,,He disappeared?!
+Dialogue: 0,0:10:28.43,0:10:33.41,main,Gaja,0000,0000,0000,,So you're trying to make your \Nblade longer to reach me.
+Dialogue: 0,0:10:33.90,0:10:35.48,main,Gaja,0000,0000,0000,,But you're too slow.
+Dialogue: 0,0:10:35.48,0:10:39.33,italics,Asta,0000,0000,0000,,Even if I can sense him with \Nmy ki, I can't keep up.
+Dialogue: 0,0:10:39.33,0:10:42.04,main,Gaja,0000,0000,0000,,As long as I use the Mana Method\N to increase my speed,
+Dialogue: 0,0:10:42.04,0:10:44.20,main,Gaja,0000,0000,0000,,I'll have no problem dodging.
+Dialogue: 0,0:10:50.17,0:10:52.57,main,Gaja,0000,0000,0000,,The mages of the Heart Kingdom
+Dialogue: 0,0:10:52.57,0:10:55.10,main,Gaja,0000,0000,0000,,borrow power from natural mana.
+Dialogue: 0,0:10:55.71,0:10:57.96,main,Gaja,0000,0000,0000,,Depending on the level of their Mana Method,
+Dialogue: 0,0:10:57.96,0:11:00.47,main,Gaja,0000,0000,0000,,they will have unlimited use of their mana.
+Dialogue: 0,0:11:02.13,0:11:09.56,main,Gaja,0000,0000,0000,,Which means that so long as your attacks \Ndon't reach me, my mana is limitless.
+Dialogue: 0,0:11:10.07,0:11:15.32,italics,Asta,0000,0000,0000,,If I keep using up my anti-magic,\N I'm going to lose.
+Dialogue: 0,0:11:20.21,0:11:21.71,main,Mereoleona,0000,0000,0000,,What was that?
+Dialogue: 0,0:11:22.22,0:11:23.63,main,Mereoleona,0000,0000,0000,,This is pathetic.
+Dialogue: 0,0:11:29.95,0:11:31.99,main,Mereoleona,0000,0000,0000,,Before the devil has a chance to end you,
+Dialogue: 0,0:11:32.64,0:11:35.46,main,Mereoleona,0000,0000,0000,,I wouldn't mind giving you \Nyour last rites here and now.
+Dialogue: 0,0:11:36.00,0:11:39.94,main,Yami,0000,0000,0000,,I'm already grateful that you're \Nhelping me out with my training.
+Dialogue: 0,0:11:39.94,0:11:42.22,main,Yami,0000,0000,0000,,There's no need for you to do that, too.
+Dialogue: 0,0:11:46.38,0:11:50.41,main,Yami,0000,0000,0000,,I guess I can't even get in the \Nring with you unless I can use
+Dialogue: 0,0:11:50.41,0:11:52.69,main,Yami,0000,0000,0000,,that superhuman walking-through-the-air bit.
+Dialogue: 0,0:11:53.37,0:11:56.77,italics,Asta,0000,0000,0000,,Think... I need to figure out \Nan attack that can reach him,
+Dialogue: 0,0:11:56.77,0:11:59.67,italics,Asta,0000,0000,0000,,but one that's fast enough so he can't dodge!
+Dialogue: 0,0:12:00.61,0:12:05.03,main,Gaja,0000,0000,0000,,I've now seen the powers of the Demon-Slayer\N Sword and the Demon-Destroyer Sword.
+Dialogue: 0,0:12:05.35,0:12:08.03,main,Gaja,0000,0000,0000,,Does that sword have some \Nspecial power, too?
+Dialogue: 0,0:12:09.48,0:12:11.87,italics,Asta,0000,0000,0000,,That's right. The Demon-Dweller Sword...
+Dialogue: 0,0:12:12.78,0:12:15.14,italics,Asta,0000,0000,0000,,It must have some power \Nthat I haven't drawn out yet.
+Dialogue: 0,0:12:16.72,0:12:18.13,italics,Asta,0000,0000,0000,,That reminds me. Back then,
+Dialogue: 0,0:12:18.71,0:12:21.95,italics,Asta,0000,0000,0000,,I was able to unleash the mana \Nthat I borrowed from Noelle.
+Dialogue: 0,0:12:23.20,0:12:27.71,italics,Asta,0000,0000,0000,,I might be able to do the same \Nthing with my anti-magic!
+Dialogue: 0,0:12:27.71,0:12:30.81,main,Gaja,0000,0000,0000,,It appears as though \Nyou've found your answer.
+Dialogue: 0,0:12:31.37,0:12:33.27,main,Asta,0000,0000,0000,,I'd like another try, please!
+Dialogue: 0,0:12:33.75,0:12:35.06,main,Gaja,0000,0000,0000,,Very well.
+Dialogue: 0,0:12:35.06,0:12:37.43,main,Gaja,0000,0000,0000,,I won't be holding back \Nas much on this attack.
+Dialogue: 0,0:12:38.12,0:12:42.32,main,Gaja,0000,0000,0000,,If you can hit me even once, \NI will declare you the winner.
+Dialogue: 0,0:12:42.32,0:12:46.16,main,Asta,0000,0000,0000,,I'd prefer if you didn't hold back at all!
+Dialogue: 0,0:12:49.41,0:12:52.33,main,Mereoleona,0000,0000,0000,,If you're not going to \Nmake a move, then I will!
+Dialogue: 0,0:12:56.06,0:12:57.56,italics,Yami,0000,0000,0000,,And now, I'm gonna kick the air!
+Dialogue: 0,0:13:01.05,0:13:04.23,main,Mereoleona,0000,0000,0000,,Lions hurl even their young \Ninto bottomless valleys.
+Dialogue: 0,0:13:04.23,0:13:07.59,main,Mereoleona,0000,0000,0000,,I'll have no problem hurling you into the lava!
+Dialogue: 0,0:13:07.81,0:13:09.86,main,Yami,0000,0000,0000,,Are you seriously chasing me right now?!
+Dialogue: 0,0:13:10.39,0:13:13.35,italics,Yami,0000,0000,0000,,But, I mean... Sisgoleon's right.
+Dialogue: 0,0:13:13.35,0:13:15.85,italics,Yami,0000,0000,0000,,If I lose here...
+Dialogue: 0,0:13:18.79,0:13:21.65,italics,Yami,0000,0000,0000,,I'm not gonna stand a chance against a devil!
+Dialogue: 0,0:13:22.39,0:13:23.61,main,Mereoleona,0000,0000,0000,,Oh?
+Dialogue: 0,0:13:23.95,0:13:26.74,main,Yami,0000,0000,0000,,Guess we're finally on equal ground.
+Dialogue: 0,0:13:26.74,0:13:29.95,main,Mereoleona,0000,0000,0000,,Equal ground? What are you babbling about?
+Dialogue: 0,0:13:29.95,0:13:33.04,main,Yami,0000,0000,0000,,I'm just saying we're in \Nthe same position now!
+Dialogue: 0,0:13:34.00,0:13:37.52,main,Mereoleona,0000,0000,0000,,You're a babe who just learned \Nhow to walk! Know your place!
+Dialogue: 0,0:13:39.53,0:13:42.40,italics,Yami,0000,0000,0000,,I've gotta do something \Nabout that superhuman punch.
+Dialogue: 0,0:13:49.37,0:13:52.76,main,Asta,0000,0000,0000,,Just like when I borrowed \NNoelle's mana last time...
+Dialogue: 0,0:13:53.00,0:13:56.77,main,Asta,0000,0000,0000,,I need to infuse the Demon-Dweller \NSword with my anti-magic!
+Dialogue: 0,0:13:57.55,0:14:02.77,main,Gaja,0000,0000,0000,,Now, as you wish, I will \Nshow you my true strength.
+Dialogue: 0,0:14:04.69,0:14:07.49,italics,Yami,0000,0000,0000,,I just need to keep increasing \Nmy speed with Mana Zone,
+Dialogue: 0,0:14:07.49,0:14:10.12,italics,Yami,0000,0000,0000,,and not give her a chance to use magic!
+Dialogue: 0,0:14:11.53,0:14:16.25,main,Mereoleona,0000,0000,0000,,I see. Looks like you can \Nuse Mana Zone somewhat now.
+Dialogue: 0,0:14:18.72,0:14:21.17,main,Mereoleona,0000,0000,0000,,I guess there's no reason for \Nme to hold back any longer.
+Dialogue: 0,0:14:21.17,0:14:25.51,main,Yami,0000,0000,0000,,You actually thought you were \Nholding back? Seriously?
+Dialogue: 0,0:14:25.80,0:14:28.04,main,Mereoleona,0000,0000,0000,,I'll now thank you for \Nshowing me a good time.
+Dialogue: 0,0:14:28.04,0:14:30.01,main,Mereoleona,0000,0000,0000,,Try not to die from it.
+Dialogue: 0,0:14:42.99,0:14:44.76,italics,Yami,0000,0000,0000,,Can I actually stop all of that?
+Dialogue: 0,0:14:44.76,0:14:46.78,italics,Yami,0000,0000,0000,,Well, I'm gonna have to!
+Dialogue: 0,0:14:51.07,0:14:52.91,main,Asta,0000,0000,0000,,Don't doubt that you can do this!
+Dialogue: 0,0:14:53.55,0:14:55.16,main,Asta,0000,0000,0000,,You're just gonna have to!
+Dialogue: 0,0:14:55.43,0:14:59.38,main,Asta/Yami,0000,0000,0000,,Right here, right now... \NI'm gonna surpass my limits!
+Dialogue: 0,0:14:59.38,0:15:02.04,main,Yami,0000,0000,0000,,Mana Zone: Dark Magic: Black Hole!
+Dialogue: 0,0:15:06.22,0:15:07.05,italics,Yami,0000,0000,0000,,This is...
+Dialogue: 0,0:15:11.19,0:15:13.60,italics,Mereoleona,0000,0000,0000,,Is he nullifying my mana?
+Dialogue: 0,0:15:13.60,0:15:17.35,italics,Yami,0000,0000,0000,,Dark Magic: Dark Cloaked Lightless Slash!
+Dialogue: 0,0:15:23.44,0:15:25.38,italics,Asta,0000,0000,0000,,There!
+Dialogue: 0,0:15:32.78,0:15:34.16,main,Gaja,0000,0000,0000,,Well done.
+Dialogue: 0,0:15:36.40,0:15:39.66,main,Asta,0000,0000,0000,,Heck yeah! I got a hit in!
+Dialogue: 0,0:15:41.93,0:15:43.70,main,Mereoleona,0000,0000,0000,,Things are finally getting interesting!
+Dialogue: 0,0:15:44.33,0:15:47.88,main,Mereoleona,0000,0000,0000,,I'll turn you into ash and \Nenjoy a nice, long bath!
+Dialogue: 0,0:15:47.88,0:15:50.09,main,Yami,0000,0000,0000,,Nah, I got the gist of it, so I'm gonna go.
+Dialogue: 0,0:15:50.43,0:15:52.97,main,Mereoleona,0000,0000,0000,,What? Are you scared?
+Dialogue: 0,0:15:52.97,0:15:55.19,main,Yami,0000,0000,0000,,Anyway, see ya.
+Dialogue: 0,0:15:59.91,0:16:02.39,main,Mereoleona,0000,0000,0000,,Well, that's no fun.
+Dialogue: 0,0:16:07.85,0:16:10.58,main,Gaja,0000,0000,0000,,If you'll now begin your reports. Potrof?
+Dialogue: 0,0:16:11.26,0:16:16.13,main,Potrof,0000,0000,0000,,Rill and Charmy are getting the \Nhang of using the Mana Method.
+Dialogue: 0,0:16:16.84,0:16:18.91,main,Potrof,0000,0000,0000,,They're geniuses, to be honest.
+Dialogue: 0,0:16:19.16,0:16:23.14,main,Potrof,0000,0000,0000,,The best thing I can do is \Nhelp bring out their potential
+Dialogue: 0,0:16:23.14,0:16:25.17,main,Potrof,0000,0000,0000,,and prepare their meals.
+Dialogue: 0,0:16:25.65,0:16:29.80,main,Sarado,0000,0000,0000,,Huh... Charlotte and Mimosa are amazing, too.
+Dialogue: 0,0:16:29.80,0:16:33.47,main,Sarado,0000,0000,0000,,They're fighting like, "kaboom," \Nand getting better like, "fabam"!
+Dialogue: 0,0:16:33.47,0:16:35.64,main,Undine,0000,0000,0000,,If we're talking about \Nhow much they've grown,
+Dialogue: 0,0:16:35.64,0:16:38.77,main,Undine,0000,0000,0000,,I'd say Noelle and Nero have grown the most.
+Dialogue: 0,0:16:38.77,0:16:41.38,main,Undine,0000,0000,0000,,Of course, they are being trained by the
+Dialogue: 0,0:16:41.38,0:16:43.91,main,Undine,0000,0000,0000,,Queen of the Heart Kingdom \Nand the Water Spirit,
+Dialogue: 0,0:16:43.91,0:16:46.06,main,Undine,0000,0000,0000,,so of course they're going to get stronger.
+Dialogue: 0,0:16:47.61,0:16:49.07,main,Floga,0000,0000,0000,,Looks like you're proud of your students.
+Dialogue: 0,0:16:50.17,0:16:53.11,main,Loropechika,0000,0000,0000,,Smurik, how is Finral doing?
+Dialogue: 0,0:16:53.54,0:16:56.76,main,Smurik,0000,0000,0000,,For the time being, let the wind guide us
+Dialogue: 0,0:16:57.28,0:16:59.94,main,Smurik,0000,0000,0000,,and help us nurture the storm within him.
+Dialogue: 0,0:17:00.89,0:17:03.33,main,Sarado,0000,0000,0000,,You can never just get to the point, can you?
+Dialogue: 0,0:17:03.85,0:17:05.10,main,Smurik,0000,0000,0000,,Did you say something?
+Dialogue: 0,0:17:05.81,0:17:08.12,main,Smurik,0000,0000,0000,,I couldn't hear you over \Nthe whispers of the wind.
+Dialogue: 0,0:17:08.12,0:17:09.75,main,Potrof,0000,0000,0000,,N-Now, now...
+Dialogue: 0,0:17:10.04,0:17:12.17,main,Gaja,0000,0000,0000,,Floga, how about you?
+Dialogue: 0,0:17:12.51,0:17:16.98,main,Floga,0000,0000,0000,,It appears that Leo is \Ndoubting his own strength.
+Dialogue: 0,0:17:18.23,0:17:21.51,flashback,Floga,0000,0000,0000,,Why not concentrate on your strengths?
+Dialogue: 0,0:17:22.18,0:17:24.68,flashback,Leo,0000,0000,0000,,My... strengths?
+Dialogue: 0,0:17:25.35,0:17:31.17,flashback,Floga,0000,0000,0000,,You may not be the most talented, \Nbut you're patient and don't give up.
+Dialogue: 0,0:17:31.17,0:17:34.13,flashback,Floga,0000,0000,0000,,Your technique is getting \Nmore powerful every day.
+Dialogue: 0,0:17:34.98,0:17:37.74,flashback,Floga,0000,0000,0000,,You have the strength to endure.
+Dialogue: 0,0:17:37.74,0:17:39.93,flashback,Floga,0000,0000,0000,,You're you, remember, Leo?
+Dialogue: 0,0:17:41.24,0:17:44.04,flashback,Leo,0000,0000,0000,,The strength... to endure?
+Dialogue: 0,0:17:44.49,0:17:48.60,main,Floga,0000,0000,0000,,I want to draw out potential \Nthat he hasn't realized yet.
+Dialogue: 0,0:17:49.33,0:17:50.42,main,Floga,0000,0000,0000,,That's my idea.
+Dialogue: 0,0:17:50.77,0:17:53.65,main,Loropechika,0000,0000,0000,,Yes, I'm counting on you.
+Dialogue: 0,0:17:53.65,0:17:54.88,main,Undine,0000,0000,0000,,How's Asta doing?
+Dialogue: 0,0:17:55.40,0:17:59.63,main,Gaja,0000,0000,0000,,Since he wields anti-magic, he is \Nour trump card against the devil.
+Dialogue: 0,0:18:00.41,0:18:04.38,main,Gaja,0000,0000,0000,,It appears as though he's becoming \Nstronger in his own way.
+Dialogue: 0,0:18:06.18,0:18:08.68,main,Loropechika,0000,0000,0000,,We don't have much more time.
+Dialogue: 0,0:18:09.85,0:18:11.90,main,Loropechika,0000,0000,0000,,Please focus everything \Nyou have on this training.
+Dialogue: 0,0:18:12.15,0:18:13.04,main,All,0000,0000,0000,,Yes, Your Majesty.
+Dialogue: 0,0:18:14.32,0:18:18.69,main,Loropechika,0000,0000,0000,,Let us defeat the Spade \NKingdom and the devil.
+Dialogue: 0,0:18:20.47,0:18:23.95,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3\fad(755,1)}Spade Kingdom Garrison
+Dialogue: 0,0:18:31.34,0:18:32.90,main,Ralph,0000,0000,0000,,There are so many of them.
+Dialogue: 0,0:18:35.92,0:18:41.50,main,Ralph,0000,0000,0000,,Their preparations for the invasion are almost \Ncomplete. We don't have much more time.
+Dialogue: 0,0:18:42.27,0:18:43.30,main,Resistance A,0000,0000,0000,,That's...
+Dialogue: 0,0:18:46.81,0:18:52.81,main,Soldier A,0000,0000,0000,,Rejoice! You will contribute to \Nthe prosperity of the Spade Kingdom!
+Dialogue: 0,0:18:53.10,0:18:54.75,main,Kid,0000,0000,0000,,Hey, where are we going?
+Dialogue: 0,0:18:54.75,0:18:56.03,main,Person,0000,0000,0000,,Shh! Quiet!
+Dialogue: 0,0:18:57.50,0:18:59.99,main,Soldier,0000,0000,0000,,Come on, now! Get up!
+Dialogue: 0,0:19:01.13,0:19:02.57,main,Resistance A,0000,0000,0000,,We can't go out there right now, Ralph.
+Dialogue: 0,0:19:03.51,0:19:04.73,main,Ralph,0000,0000,0000,,I know.
+Dialogue: 0,0:19:08.11,0:19:12.51,main,Ralph,0000,0000,0000,,If we can get through that strong \Nmagic region, and even one of us
+Dialogue: 0,0:19:12.93,0:19:15.99,main,Ralph,0000,0000,0000,,can reach the Clover Kingdom...
+Dialogue: 0,0:19:17.16,0:19:19.55,main,Ralph,0000,0000,0000,,That's the little hope we have left.
+Dialogue: 0,0:19:20.48,0:19:23.14,main,Ralph,0000,0000,0000,,We'll just have to hang on to that!
+Dialogue: 0,0:19:23.48,0:19:24.28,main,Ralph,0000,0000,0000,,Let's go!
+Dialogue: 0,0:19:29.49,0:19:32.73,main,Soldier A,0000,0000,0000,,Hello, foolish rebels.
+Dialogue: 0,0:19:33.61,0:19:37.02,main,Soldier A,0000,0000,0000,,Your friend told us all about you...
+Dialogue: 0,0:19:37.02,0:19:40.10,main,Soldier A,0000,0000,0000,,in exchange for their \Nprecious daughter's life.
+Dialogue: 0,0:19:41.87,0:19:42.99,main,Ralph,0000,0000,0000,,Let's make a break for it!
+Dialogue: 0,0:19:45.29,0:19:49.77,main,Soldier,0000,0000,0000,,I'll move up the ranks if \NI bring back your head!
+Dialogue: 0,0:19:53.05,0:19:54.93,main,Soldier,0000,0000,0000,,It's that simple.
+Dialogue: 0,0:19:56.38,0:19:57.27,main,Guy,0000,0000,0000,,Ralph?!
+Dialogue: 0,0:20:01.26,0:20:02.26,main,Guy,0000,0000,0000,,Ralph!
+Dialogue: 0,0:20:02.64,0:20:03.94,main,Ralph,0000,0000,0000,,What are you—
+Dialogue: 0,0:20:03.94,0:20:06.46,main,Guy,0000,0000,0000,,We leave you with our mana.
+Dialogue: 0,0:20:06.46,0:20:07.92,main,Guy,0000,0000,0000,,Please, Ralph...
+Dialogue: 0,0:20:07.92,0:20:10.32,main,Guy,0000,0000,0000,,For him...
+Dialogue: 0,0:20:10.32,0:20:13.26,main,Guy,0000,0000,0000,,You must follow in your father's footsteps...
+Dialogue: 0,0:20:15.65,0:20:17.40,main,Soldier,0000,0000,0000,,You're not getting away!
+Dialogue: 0,0:20:17.40,0:20:18.59,main,Guy,0000,0000,0000,,Go!
+Dialogue: 0,0:20:25.41,0:20:27.07,italics,Ralph,0000,0000,0000,,I promise I'll get there!
+Dialogue: 0,0:20:27.88,0:20:29.54,italics,Ralph,0000,0000,0000,,I'll get to them...
+Dialogue: 0,0:20:30.90,0:20:32.87,italics,Ralph,0000,0000,0000,,Just beyond this cliff \Nis a strong magic region.
+Dialogue: 0,0:20:33.46,0:20:35.16,italics,Ralph,0000,0000,0000,,Will I be able to get through?
+Dialogue: 0,0:20:36.41,0:20:37.22,italics,Ralph,0000,0000,0000,,No...
+Dialogue: 0,0:20:37.83,0:20:40.18,italics,Ralph,0000,0000,0000,,I can't let their sacrifice go to waste.
+Dialogue: 0,0:20:40.90,0:20:42.93,italics,Ralph,0000,0000,0000,,I am my father's son!
+Dialogue: 0,0:20:42.93,0:20:44.05,italics,Ralph,0000,0000,0000,,I will see this through!
+Dialogue: 0,0:20:45.09,0:20:45.89,main,Soldier,0000,0000,0000,,There he is!
+Dialogue: 0,0:20:45.89,0:20:46.92,main,Soldier,0000,0000,0000,,Get him!
+Dialogue: 0,0:20:48.97,0:20:51.61,italics,Ralph,0000,0000,0000,,I cannot be defeated here.
+Dialogue: 0,0:21:07.77,0:21:09.28,main,Ralph,0000,0000,0000,,Lord Yuno!
+Dialogue: 0,0:21:09.83,0:21:11.11,main,Soldier,0000,0000,0000,,Did we do it?
+Dialogue: 0,0:21:11.11,0:21:12.51,main,Soldier,0000,0000,0000,,I'm not sure.
+Dialogue: 0,0:21:12.51,0:21:17.58,main,Soldier,0000,0000,0000,,But even if he's still alive, \Nthat's a strong magic region.
+Dialogue: 0,0:21:17.58,0:21:20.42,main,Soldier,0000,0000,0000,,It won't be long before he perishes.
+Dialogue: 0,0:21:20.42,0:21:21.82,main,Soldier,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:21.82,0:21:24.62,main,Soldier,0000,0000,0000,,Foolish Resistance. Serves them right.
+Dialogue: 0,0:21:25.53,0:21:26.67,main,Soldier,0000,0000,0000,,Let's head back.
+Dialogue: 0,0:21:26.67,0:21:28.83,main,Soldier,0000,0000,0000,,We're too close to the strong magic region.
+Dialogue: 0,0:21:29.51,0:21:32.54,main,Soldier,0000,0000,0000,,Who knows what will happen \Nif we hang around too long?
+Dialogue: 0,0:21:32.54,0:21:33.45,main,Soldier,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:34.18,0:21:37.19,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3}Spade Castle
+Dialogue: 0,0:21:37.60,0:21:42.07,main,Dante,0000,0000,0000,,The son of the former commander of \Nthe Mage Defense Force's 1st Division?
+Dialogue: 0,0:21:42.07,0:21:45.70,main,Guy,0000,0000,0000,,Yes. According to what another \None of the rebel scum told us,
+Dialogue: 0,0:21:45.70,0:21:48.55,main,Guy,0000,0000,0000,,apparently his name is Ralph.
+Dialogue: 0,0:21:48.55,0:21:49.90,main,Guy,0000,0000,0000,,His name appears in—
+Dialogue: 0,0:21:49.90,0:21:50.88,main,Dante,0000,0000,0000,,It doesn't matter.
+Dialogue: 0,0:21:53.93,0:22:00.78,main,Dante,0000,0000,0000,,A single fly isn't going to \Nbring any harm to our plans.
+Dialogue: 0,0:23:41.37,0:23:45.79,main,Jack,0000,0000,0000,,Who am I, you ask? I guess I wouldn't\Nmind telling you a little about me.
+Dialogue: 0,0:23:45.79,0:23:50.17,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0},\N Page 157: "Five-Leaf Clover."
+Dialogue: 0,0:23:47.07,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 157\N\N{\fs18}Five-Leaf Clover
+Dialogue: 0,0:23:50.62,0:23:53.67,main,Some,0000,0000,0000,,Within the clover's fifth leaf resides a devil.

@@ -1,0 +1,391 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.53,0:00:07.07,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:07.69,0:00:09.65,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:09.65,0:00:12.95,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:13.50,0:00:15.61,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:16.41,0:00:18.99,italics,Nar,0000,0000,0000,,With guts and hard work, \Nhe made it into the Magic Knights,
+Dialogue: 0,0:00:18.99,0:00:21.81,italics,Nar,0000,0000,0000,,and he never gave up, \Ndespite how much he got hurt.
+Dialogue: 0,0:00:21.81,0:00:24.66,italics,Nar,0000,0000,0000,,He continues to diligently aim for the top!
+Dialogue: 0,0:00:26.23,0:00:27.79,italics,Nar,0000,0000,0000,,Even if you are a peasant,
+Dialogue: 0,0:00:27.79,0:00:29.63,italics,Nar,0000,0000,0000,,or even if you're poor...
+Dialogue: 0,0:00:30.01,0:00:32.38,italics,Nar,0000,0000,0000,,Anyone in this world can still shine!
+Dialogue: 0,0:00:32.90,0:00:34.80,italics,Nar,0000,0000,0000,,He's working hard to prove that,
+Dialogue: 0,0:00:35.29,0:00:37.89,italics,Nar,0000,0000,0000,,and to become the Wizard King!
+Dialogue: 0,0:00:42.01,0:00:45.39,main,Marx,0000,0000,0000,,I've been informed that the recovery \Nefforts in even the hardest-hit
+Dialogue: 0,0:00:45.39,0:00:47.52,main,Marx,0000,0000,0000,,parts of the Forsaken Realm are now underway.
+Dialogue: 0,0:00:47.81,0:00:51.31,main,Marx,0000,0000,0000,,Things are finally looking brighter as a whole.
+Dialogue: 0,0:00:51.81,0:00:56.70,main,Julius,0000,0000,0000,,Yes. And to make this peace an eternal \None rather than a fleeting one,
+Dialogue: 0,0:00:56.70,0:00:59.46,main,Julius,0000,0000,0000,,we must remain strong.
+Dialogue: 0,0:01:00.53,0:01:01.95,main,Marx,0000,0000,0000,,It's nearly time.
+Dialogue: 0,0:01:02.53,0:01:05.89,main,Marx,0000,0000,0000,,You have the captains' meeting as well \Nas a special decoration ceremony.
+Dialogue: 0,0:01:05.89,0:01:07.54,main,Marx,0000,0000,0000,,You're going to have a busy day.
+Dialogue: 0,0:01:08.75,0:01:09.96,main,Julius,0000,0000,0000,,Indeed.
+Dialogue: 0,0:02:30.39,0:02:35.21,Ep Title,Sign,0000,0000,0000,,{\fs22\move(320,80,320,75)\t(1,4650,\fs24)\fad(1000,1)}The Chosen Ones
+Dialogue: 0,0:02:42.39,0:02:46.81,main,Marx,0000,0000,0000,,Our topic today is who will participate\N in the Heart Kingdom's training.
+Dialogue: 0,0:02:47.25,0:02:50.31,main,Julius,0000,0000,0000,,Our promise with the Heart Kingdom's \Nqueen... In other words,
+Dialogue: 0,0:02:50.31,0:02:53.81,main,Julius,0000,0000,0000,,the battle with the Spade Kingdom, \Nis drawing nearer as we speak.
+Dialogue: 0,0:02:54.22,0:02:57.82,main,Julius,0000,0000,0000,,I know that every squad is \Nworking hard to get stronger,
+Dialogue: 0,0:02:57.82,0:03:00.89,main,Julius,0000,0000,0000,,but we just received word \Nfrom the Heart Kingdom that
+Dialogue: 0,0:03:00.89,0:03:02.64,main,Julius,0000,0000,0000,,preparations for training are done.
+Dialogue: 0,0:03:02.64,0:03:04.66,main,Julius,0000,0000,0000,,Our training is finally in its final stage.
+Dialogue: 0,0:03:04.66,0:03:07.61,main,Julius,0000,0000,0000,,There are five Spirit Guardians \Nwho will help us train,
+Dialogue: 0,0:03:08.36,0:03:12.01,main,Julius,0000,0000,0000,,and there is a limited number \Nthat each of them can train.
+Dialogue: 0,0:03:12.01,0:03:16.67,main,Julius,0000,0000,0000,,So I'd like all of you to nominate \Nmembers of your squad.
+Dialogue: 0,0:03:17.11,0:03:20.19,main,Julius,0000,0000,0000,,Now, who would like to get us started?
+Dialogue: 0,0:03:21.44,0:03:24.06,main,Yami,0000,0000,0000,,From my squad, I'm choosing Asta and Nero,
+Dialogue: 0,0:03:24.06,0:03:27.21,main,Yami,0000,0000,0000,,though they were already \Nchosen by the Heart Kingdom.
+Dialogue: 0,0:03:27.76,0:03:29.73,main,Julius,0000,0000,0000,,Asta, who uses anti-magic,
+Dialogue: 0,0:03:29.73,0:03:34.23,main,Julius,0000,0000,0000,,and Nero, who uses forbidden magic, \Nare already at the arcane stage.
+Dialogue: 0,0:03:34.64,0:03:38.06,main,Julius,0000,0000,0000,,We know from our previous \Nbattle that their powers will be
+Dialogue: 0,0:03:38.06,0:03:39.99,main,Julius,0000,0000,0000,,our trump card in defeating the devil.
+Dialogue: 0,0:03:40.35,0:03:44.49,main,Julius,0000,0000,0000,,I hope they can make those powers \Ntheir own even more through training.
+Dialogue: 0,0:03:44.98,0:03:48.79,main,Yami,0000,0000,0000,,I'm also going to be sending Finral, \NLuck, and Noelle from my squad.
+Dialogue: 0,0:03:50.39,0:03:53.39,main,Dorothy,0000,0000,0000,,What's this? Are you worried?
+Dialogue: 0,0:03:53.39,0:03:56.04,main,Dorothy,0000,0000,0000,,No matter how tough you act, you're such \Na softie when it comes to your sister.
+Dialogue: 0,0:03:56.53,0:04:01.05,main,Yami,0000,0000,0000,,Apparently Luck and Noelle both \Npair well with their magic.
+Dialogue: 0,0:04:01.32,0:04:04.61,main,Julius,0000,0000,0000,,Well, the Heart Kingdom does have a \NSpirit Guardian who controls lightning,
+Dialogue: 0,0:04:04.61,0:04:07.74,main,Julius,0000,0000,0000,,and their queen controls \Nthe Water Spirit, Undine.
+Dialogue: 0,0:04:07.74,0:04:10.86,main,Julius,0000,0000,0000,,Since Luck controls lightning magic \Nand Noelle controls water magic,
+Dialogue: 0,0:04:10.86,0:04:11.81,main,Julius,0000,0000,0000,,it should be perfect.
+Dialogue: 0,0:04:12.18,0:04:15.98,main,Yami,0000,0000,0000,,And I'm not surprised that Luck is super \Nexcited, since he's always rarin' to go,
+Dialogue: 0,0:04:16.34,0:04:19.65,main,Yami,0000,0000,0000,,but even Noelle's super motivated right now.
+Dialogue: 0,0:04:19.88,0:04:24.28,italics,Dorothy,0000,0000,0000,,Well, they are up against Megicula, \Nwho killed their mother.
+Dialogue: 0,0:04:24.51,0:04:26.24,main,Yami,0000,0000,0000,,And as for Finral...
+Dialogue: 0,0:04:26.71,0:04:28.16,main,Yami,0000,0000,0000,,Well, he's handy to have around.
+Dialogue: 0,0:04:28.43,0:04:31.52,main,Julius,0000,0000,0000,,If a reliable supporter \Nlike him is able to level up,
+Dialogue: 0,0:04:31.52,0:04:33.66,main,Julius,0000,0000,0000,,our strength as a whole should rise.
+Dialogue: 0,0:04:33.92,0:04:37.08,main,Julius,0000,0000,0000,,He may also provide hints \Nto a new way of fighting.
+Dialogue: 0,0:04:37.08,0:04:38.88,main,Yami,0000,0000,0000,,Yeah, that's what I'm talking about.
+Dialogue: 0,0:04:39.33,0:04:41.37,main,Marx,0000,0000,0000,,So from the Black Bulls, we have
+Dialogue: 0,0:04:41.37,0:04:46.03,main,Marx,0000,0000,0000,,Asta, Nero, Noelle Silva, \NLuck Voltia, and Finral Roulacase,
+Dialogue: 0,0:04:46.03,0:04:47.00,main,Marx,0000,0000,0000,,making five members.
+Dialogue: 0,0:04:47.69,0:04:49.26,main,Marx,0000,0000,0000,,That's quite a few.
+Dialogue: 0,0:04:49.26,0:04:52.21,main,Yami,0000,0000,0000,,Nothing wrong with having \Nso many guys with potential.
+Dialogue: 0,0:04:52.21,0:04:53.77,main,Yami,0000,0000,0000,,They're who I'm gonna go with.
+Dialogue: 0,0:04:54.28,0:04:58.77,main,William,0000,0000,0000,,I nominate Mimosa Vermillion \Nfrom the Golden Dawn.
+Dialogue: 0,0:04:59.35,0:05:00.72,main,William,0000,0000,0000,,We're up against the devil-possessed.
+Dialogue: 0,0:05:01.37,0:05:04.34,main,William,0000,0000,0000,,I'm sure we will face some \Ncruel, ruthless battles.
+Dialogue: 0,0:05:05.01,0:05:09.03,main,William,0000,0000,0000,,The cornerstone of these battles \Nwill be recovery mages.
+Dialogue: 0,0:05:09.63,0:05:13.29,main,William,0000,0000,0000,,She is a royal who also possesses \Nsubstantial natural talent,
+Dialogue: 0,0:05:13.29,0:05:17.54,main,William,0000,0000,0000,,and stretching her potential \Nis sure to benefit our kingdom.
+Dialogue: 0,0:05:17.54,0:05:21.25,main,Julius,0000,0000,0000,,I see. Is Mimosa your only nominee?
+Dialogue: 0,0:05:21.25,0:05:24.55,main,Julius,0000,0000,0000,,I hear that the Wind Spirit Guardian \Nwill also be training our nominees.
+Dialogue: 0,0:05:24.85,0:05:26.84,main,William,0000,0000,0000,,Yuno declined.
+Dialogue: 0,0:05:27.37,0:05:29.58,main,William,0000,0000,0000,,I assume he has his reasons.
+Dialogue: 0,0:05:31.50,0:05:33.93,main,Marx,0000,0000,0000,,Please nominate Magic Knights \Nfrom other squads, too.
+Dialogue: 0,0:05:34.26,0:05:38.27,main,Fuegoleon,0000,0000,0000,,I nominate Leopold Vermillion \Nfrom the Crimson Lion Kings.
+Dialogue: 0,0:05:38.99,0:05:43.99,main,Fuegoleon,0000,0000,0000,,Leo's ambition is high, and he \Nasked our older sister, Mereoleona,
+Dialogue: 0,0:05:43.99,0:05:47.15,main,Fuegoleon,0000,0000,0000,,to train him at the volcano \Nin the strong magic region.
+Dialogue: 0,0:05:47.58,0:05:49.78,main,Yami,0000,0000,0000,,I can clearly imagine what kind \Nof hell that must've been.
+Dialogue: 0,0:05:50.11,0:05:53.44,main,Fuegoleon,0000,0000,0000,,No one can beat Leopold's hard \Nwork and ambition in my squad,
+Dialogue: 0,0:05:53.44,0:05:55.04,main,Fuegoleon,0000,0000,0000,,but there is hesitation in him.
+Dialogue: 0,0:05:55.56,0:05:58.81,main,Fuegoleon,0000,0000,0000,,I am hoping he can light a new flame \Nby training in another kingdom
+Dialogue: 0,0:05:58.81,0:06:01.04,main,Fuegoleon,0000,0000,0000,,and burn away his hesitation.
+Dialogue: 0,0:06:01.75,0:06:03.52,main,Fuegoleon,0000,0000,0000,,Once he is able to do that,
+Dialogue: 0,0:06:03.52,0:06:07.02,main,Fuegoleon,0000,0000,0000,,he will be essential in the \Nbattle against the Spade Kingdom,
+Dialogue: 0,0:06:07.02,0:06:10.55,main,Fuegoleon,0000,0000,0000,,but he will also become a true lion king \Ncapable of protecting this kingdom!
+Dialogue: 0,0:06:10.90,0:06:12.36,main,Julius,0000,0000,0000,,I see.
+Dialogue: 0,0:06:12.36,0:06:15.21,main,Julius,0000,0000,0000,,I look forward to seeing how he grows.
+Dialogue: 0,0:06:15.69,0:06:17.31,main,Marx,0000,0000,0000,,What about the other squads?
+Dialogue: 0,0:06:19.34,0:06:22.32,main,Julius,0000,0000,0000,,Anyone from the Blue Rose Knights?
+Dialogue: 0,0:06:23.58,0:06:26.42,main,Charlotte,0000,0000,0000,,I'd like to confirm something first.
+Dialogue: 0,0:06:26.42,0:06:29.41,main,Charlotte,0000,0000,0000,,Is it possible for a captain to participate?
+Dialogue: 0,0:06:29.64,0:06:30.95,main,Julius,0000,0000,0000,,I see no problem with it.
+Dialogue: 0,0:06:31.30,0:06:35.54,main,Julius,0000,0000,0000,,I personally think someone who was possessed by an elf, such as yourself,
+Dialogue: 0,0:06:35.54,0:06:38.41,main,Julius,0000,0000,0000,,could produce some interesting results.
+Dialogue: 0,0:06:40.33,0:06:45.17,italics,Charlotte,0000,0000,0000,,The feeling of the mana from when my body \Nwas possessed by an elf still remains.
+Dialogue: 0,0:06:45.56,0:06:49.17,italics,Charlotte,0000,0000,0000,,That red rose mana was far superior to mine.
+Dialogue: 0,0:06:49.63,0:06:54.01,italics,Charlotte,0000,0000,0000,,I cannot be picky in how I become stronger \Nfor the battle against the devil.
+Dialogue: 0,0:06:54.01,0:06:56.88,italics,Charlotte,0000,0000,0000,,I need to experience something \Nsimilar again, no matter what!
+Dialogue: 0,0:06:58.09,0:07:01.94,italics,Charlotte,0000,0000,0000,,Wait, no! That's not what \NI meant by "experience"!
+Dialogue: 0,0:07:01.94,0:07:02.48,main,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:07:02.79,0:07:07.06,main,Marx,0000,0000,0000,,So the only nominee from the \NBlue Rose Knights is the captain?
+Dialogue: 0,0:07:07.52,0:07:08.32,main,Charlotte,0000,0000,0000,,Yes.
+Dialogue: 0,0:07:08.57,0:07:10.04,main,Julius,0000,0000,0000,,Any others?
+Dialogue: 0,0:07:10.61,0:07:15.45,main,Kaiser,0000,0000,0000,,This is a rather hard decision, but I \Nbelieve younger candidates are favorable.
+Dialogue: 0,0:07:15.72,0:07:19.93,main,Nozel,0000,0000,0000,,I agree. And I am very aware \Nof how to train myself.
+Dialogue: 0,0:07:19.93,0:07:23.64,main,Jack,0000,0000,0000,,I don't mind going if I can \Nslice up the Heart Kingdom.
+Dialogue: 0,0:07:24.05,0:07:25.71,main,Yami,0000,0000,0000,,Yeah, no. You're not going.
+Dialogue: 0,0:07:25.95,0:07:28.56,main,Julius,0000,0000,0000,,This training will probably be grueling.
+Dialogue: 0,0:07:28.56,0:07:32.79,main,Julius,0000,0000,0000,,But there will be knowledge and new \Ndiscoveries they won't find here,
+Dialogue: 0,0:07:32.79,0:07:35.43,main,Julius,0000,0000,0000,,and a new world may open up to those who go.
+Dialogue: 0,0:07:35.43,0:07:37.64,main,Julius,0000,0000,0000,,I'd like you all to use that to your advantage.
+Dialogue: 0,0:07:38.07,0:07:40.89,main,Ril,0000,0000,0000,,My... My own...
+Dialogue: 0,0:07:41.94,0:07:44.77,flashback,Wolf,0000,0000,0000,,They're all my food!
+Dialogue: 0,0:07:46.74,0:07:49.93,main,Julius,0000,0000,0000,,I'd like you to train hard every \Nday and grow ever vigilant.
+Dialogue: 0,0:07:50.45,0:07:51.47,main,Ril,0000,0000,0000,,Training...
+Dialogue: 0,0:07:52.16,0:07:53.99,main,Ril,0000,0000,0000,,Training means protein...
+Dialogue: 0,0:07:54.30,0:07:56.74,flashback,Charmy,0000,0000,0000,,This is for the protein!
+Dialogue: 0,0:07:56.74,0:08:01.47,main,Julius,0000,0000,0000,,You all have wonderful potential, \Nso I'd like to see you grow.
+Dialogue: 0,0:08:01.47,0:08:03.61,main,Ril,0000,0000,0000,,Growing bigger...
+Dialogue: 0,0:08:03.61,0:08:05.99,flashback,Charmy,0000,0000,0000,,This is for the fat!
+Dialogue: 0,0:08:07.40,0:08:08.46,flashback,Charmy,0000,0000,0000,,La!
+Dialogue: 0,0:08:08.46,0:08:09.55,flashback,Charmy,0000,0000,0000,,This is for the vitamins!
+Dialogue: 0,0:08:09.55,0:08:10.80,flashback,Charmy,0000,0000,0000,,This is for the fiber!
+Dialogue: 0,0:08:11.04,0:08:12.63,flashback,Charmy,0000,0000,0000,,This is for the collagen!
+Dialogue: 0,0:08:14.36,0:08:17.51,main,Ril,0000,0000,0000,,Me, me, me, me, me, me, me!
+Dialogue: 0,0:08:17.84,0:08:20.32,main,Julius,0000,0000,0000,,Goodness, aren't you full of energy?
+Dialogue: 0,0:08:20.32,0:08:22.51,main,Yami,0000,0000,0000,,What got into you all of a sudden?
+Dialogue: 0,0:08:22.51,0:08:25.77,main,Rill,0000,0000,0000,,I nominate myself from the Aqua Deer!
+Dialogue: 0,0:08:26.60,0:08:28.28,italics,Rill,0000,0000,0000,,I'm going to train, become stronger,
+Dialogue: 0,0:08:28.28,0:08:31.28,italics,Rill,0000,0000,0000,,and become a man that nice lady will notice!
+Dialogue: 0,0:08:31.28,0:08:36.78,main,Julius,0000,0000,0000,,I think we actually have enough now,\N but is there anyone else?
+Dialogue: 0,0:08:37.05,0:08:39.19,main,Nozel,0000,0000,0000,,The Silver Eagles will do everything they can
+Dialogue: 0,0:08:39.19,0:08:44.16,main,Nozel,0000,0000,0000,,to bolster their skills so that they\N can face the Spade Kingdom.
+Dialogue: 0,0:08:44.51,0:08:45.67,main,Kaiser,0000,0000,0000,,As will my squad.
+Dialogue: 0,0:08:45.67,0:08:47.79,main,Jack,0000,0000,0000,,We're also doing things our own way!
+Dialogue: 0,0:08:48.78,0:08:52.17,main,Marx,0000,0000,0000,,Then do we agree on the nominees mentioned?
+Dialogue: 0,0:08:52.53,0:08:53.84,main,All,0000,0000,0000,,Aye.
+Dialogue: 0,0:08:54.16,0:08:57.67,main,Julius,0000,0000,0000,,Good. I look forward to seeing \Nthe fruits of your labor.
+Dialogue: 0,0:08:57.67,0:08:58.60,main,All,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:08:58.87,0:09:02.47,main,Marx,0000,0000,0000,,This concludes the Magic \NKnights Squad Captains' meeting.
+Dialogue: 0,0:09:03.26,0:09:06.06,main,Yami,0000,0000,0000,,Whew, we're finally done.
+Dialogue: 0,0:09:06.65,0:09:07.51,main,Yami,0000,0000,0000,,See ya.
+Dialogue: 0,0:09:10.36,0:09:12.57,main,Kaiser,0000,0000,0000,,And where do you think you're going?
+Dialogue: 0,0:09:12.57,0:09:15.40,main,Kaiser,0000,0000,0000,,The special decoration ceremony \Nis just about to start.
+Dialogue: 0,0:09:15.88,0:09:18.32,main,Yami,0000,0000,0000,,Seriously? I have to go to that?
+Dialogue: 0,0:09:18.89,0:09:21.58,main,Yami,0000,0000,0000,,But I've got my wheels parked outside.
+Dialogue: 0,0:09:21.84,0:09:24.25,main,Yami,0000,0000,0000,,It's not like anyone from \Nmy squad got picked.
+Dialogue: 0,0:09:24.25,0:09:28.02,main,Nozel,0000,0000,0000,,We were told that every captain should \Nbe in attendance for this ceremony.
+Dialogue: 0,0:09:28.02,0:09:29.64,main,Yami,0000,0000,0000,,What? Why?
+Dialogue: 0,0:09:30.12,0:09:32.48,main,Marx,0000,0000,0000,,Well, you see...
+Dialogue: 0,0:09:33.02,0:09:36.05,main,Marx,0000,0000,0000,,The king will be participating this time.
+Dialogue: 0,0:09:36.65,0:09:38.05,main,Yami,0000,0000,0000,,Seriously?
+Dialogue: 0,0:09:49.81,0:09:52.66,italics,Sekke,0000,0000,0000,,Bah-ha... All the captains are here.
+Dialogue: 0,0:09:52.66,0:09:54.74,italics,Sekke,0000,0000,0000,,They're so intense-ha.
+Dialogue: 0,0:09:54.74,0:10:01.37,italics,King,0000,0000,0000,,So they've made all the captains attend \Nbecause I am present. Excellent.
+Dialogue: 0,0:10:01.76,0:10:06.37,italics,Owen,0000,0000,0000,,Seriously, this is too close. \NHe's going to find out pretty soon.
+Dialogue: 0,0:10:07.02,0:10:08.17,italics,Sekke,0000,0000,0000,,Captain Jack!
+Dialogue: 0,0:10:11.49,0:10:12.43,italics,Sekke,0000,0000,0000,,Please...
+Dialogue: 0,0:10:12.97,0:10:14.36,italics,Sekke,0000,0000,0000,,bring me back...
+Dialogue: 0,0:10:14.36,0:10:16.00,italics,Sekke,0000,0000,0000,,to the squad.
+Dialogue: 0,0:10:17.89,0:10:19.09,main,Yami,0000,0000,0000,,The hell's his problem?
+Dialogue: 0,0:10:19.09,0:10:20.78,main,Jack,0000,0000,0000,,Talk about annoying.
+Dialogue: 0,0:10:21.18,0:10:23.23,main,Jack,0000,0000,0000,,How about I slice you open?!
+Dialogue: 0,0:10:24.43,0:10:26.28,main,Marx,0000,0000,0000,,It looks like everyone's here.
+Dialogue: 0,0:10:26.88,0:10:28.48,main,King,0000,0000,0000,,Let us begin.
+Dialogue: 0,0:10:30.84,0:10:36.50,main,Marx,0000,0000,0000,,We will now begin our special decoration \Nceremony for the Magic Knights
+Dialogue: 0,0:10:36.50,0:10:38.85,main,Marx,0000,0000,0000,,who fought bravely against \Nthe Eye of the Midnight Sun.
+Dialogue: 0,0:10:40.03,0:10:42.56,main,Marx,0000,0000,0000,,Because the Wizard King's throat \Nis not completely healed,
+Dialogue: 0,0:10:42.56,0:10:44.93,main,Marx,0000,0000,0000,,I will be conducting this ceremony.
+Dialogue: 0,0:10:44.93,0:10:46.24,main,Marx,0000,0000,0000,,First...
+Dialogue: 0,0:10:46.81,0:10:50.77,main,Marx,0000,0000,0000,,With 21 stars acquired, we have \NSol Marron from the Blue Rose Knights.
+Dialogue: 0,0:10:51.40,0:10:54.00,main,Marx,0000,0000,0000,,You have been promoted to \N5th Class Senior Magic Knight.
+Dialogue: 0,0:10:54.73,0:10:56.96,main,Marx,0000,0000,0000,,Thanks to your calm and brave decisions,
+Dialogue: 0,0:10:56.96,0:10:59.71,main,Marx,0000,0000,0000,,you got the gravely injured \NWizard King to a safe place.
+Dialogue: 0,0:11:00.35,0:11:04.05,main,Marx,0000,0000,0000,,Please continue using that judgment \Nand drive in the battlefield.
+Dialogue: 0,0:11:05.47,0:11:09.34,main,Kaiser,0000,0000,0000,,Oho! Impressive. She moved \Nup three ranks at once.
+Dialogue: 0,0:11:09.34,0:11:14.98,main,Fuegoleon,0000,0000,0000,,She saved the Wizard King's life. \NThis promotion seems quite fitting.
+Dialogue: 0,0:11:15.82,0:11:18.57,italics,Sol,0000,0000,0000,,I wasn't actually calm at all back then.
+Dialogue: 0,0:11:18.57,0:11:23.24,italics,Sol,0000,0000,0000,,Not to mention, the guy who saved Sis \Nwas the Captain of the Black Bulls.
+Dialogue: 0,0:11:23.90,0:11:27.63,italics,Sol,0000,0000,0000,,Next time, I'm gonna protect Sis \Nwithout the help of any man!
+Dialogue: 0,0:11:29.42,0:11:34.07,main,Yami,0000,0000,0000,,Hey, uh... one of yours \Nseems to be glaring at me.
+Dialogue: 0,0:11:34.07,0:11:35.09,main,Charlotte,0000,0000,0000,,Is that my problem?
+Dialogue: 0,0:11:35.48,0:11:37.32,italics,Charlotte,0000,0000,0000,,She's staring at Yami?
+Dialogue: 0,0:11:38.21,0:11:42.25,italics,Charlotte,0000,0000,0000,,Wait, no, Sol! Don't tell \Nme you like Yami, too!
+Dialogue: 0,0:11:44.24,0:11:46.51,italics,Sol,0000,0000,0000,,Sis is staring at me passionately!
+Dialogue: 0,0:11:46.51,0:11:48.97,italics,Sol,0000,0000,0000,,I'll do my best to live \Nup to your expectations!
+Dialogue: 0,0:11:49.64,0:11:51.45,main,Marx,0000,0000,0000,,With 23 stars acquired,
+Dialogue: 0,0:11:52.14,0:11:54.95,main,Marx,0000,0000,0000,,we have Mimosa Vermillion \Nfrom the Golden Dawn.
+Dialogue: 0,0:11:55.67,0:11:58.32,main,Marx,0000,0000,0000,,You have been promoted to \N2nd Class Intermediate Magic Knight.
+Dialogue: 0,0:11:59.29,0:12:01.38,main,Marx,0000,0000,0000,,In the battle at the Shadow Palace,
+Dialogue: 0,0:12:01.38,0:12:06.66,main,Marx,0000,0000,0000,,you showed humanity and effectively \Ndid your job as a recovery mage.
+Dialogue: 0,0:12:06.66,0:12:10.07,main,Marx,0000,0000,0000,,We look forward to you saving \Nmany more lives in the future.
+Dialogue: 0,0:12:11.25,0:12:17.13,main,Dorothy,0000,0000,0000,,I think people realize how important \Nrecovery magic is because of Mimosa.
+Dialogue: 0,0:12:17.13,0:12:20.91,italics,Mimosa,0000,0000,0000,,I will live up to this honor that \NI just received and do my best
+Dialogue: 0,0:12:20.91,0:12:22.63,italics,Mimosa,0000,0000,0000,,in the battle against the Spade Kingdom.
+Dialogue: 0,0:12:23.09,0:12:24.89,main,Marx,0000,0000,0000,,With 18 stars acquired,
+Dialogue: 0,0:12:25.22,0:12:28.11,main,Marx,0000,0000,0000,,we have Leopold Vermillion \Nfrom the Crimson Lion Kings.
+Dialogue: 0,0:12:28.56,0:12:31.64,main,Marx,0000,0000,0000,,You have been promoted to \N4th Class Senior Magic Knight.
+Dialogue: 0,0:12:32.07,0:12:34.10,main,Marx,0000,0000,0000,,When the previous and \Nnew captains were absent,
+Dialogue: 0,0:12:34.10,0:12:37.59,main,Marx,0000,0000,0000,,you inspired the other squad members and \Ndid everything in your power to stop
+Dialogue: 0,0:12:37.59,0:12:39.86,main,Marx,0000,0000,0000,,your vice captain, who had\N been possessed by an elf.
+Dialogue: 0,0:12:39.86,0:12:42.89,main,Marx,0000,0000,0000,,Please continue to use your character to \Nraise everyone's morale on the battlefield
+Dialogue: 0,0:12:42.89,0:12:44.61,main,Marx,0000,0000,0000,,and lead us to victory.
+Dialogue: 0,0:12:46.82,0:12:50.33,main,Kaiser,0000,0000,0000,,So Leopold has also gone up three ranks.
+Dialogue: 0,0:12:56.55,0:12:58.21,main,Leo,0000,0000,0000,,I would like to decline!
+Dialogue: 0,0:13:01.88,0:13:05.38,main,Leo,0000,0000,0000,,Back then, if my brother hadn't shown up,
+Dialogue: 0,0:13:05.38,0:13:07.32,main,Leo,0000,0000,0000,,my whole squad would have been annihilated.
+Dialogue: 0,0:13:07.80,0:13:11.47,main,Leo,0000,0000,0000,,I did everything in my power, \Nbut I was completely powerless.
+Dialogue: 0,0:13:11.47,0:13:15.81,main,Leo,0000,0000,0000,,Everyone tried to protect me, \Neven if it cost them their lives.
+Dialogue: 0,0:13:16.80,0:13:17.73,main,Leo,0000,0000,0000,,I'm just...
+Dialogue: 0,0:13:18.68,0:13:22.48,main,Leo,0000,0000,0000,,I'm just a weakling, and I do \Nnot deserve this recognition!
+Dialogue: 0,0:13:24.74,0:13:25.93,main,Fuegoleon,0000,0000,0000,,You fool!
+Dialogue: 0,0:13:27.21,0:13:30.78,main,Fuegoleon,0000,0000,0000,,Do you not understand why everyone \Ntried so hard to protect you?
+Dialogue: 0,0:13:31.35,0:13:33.09,main,Fuegoleon,0000,0000,0000,,Is it not because they \Nwere moved by your bravery,
+Dialogue: 0,0:13:33.09,0:13:36.29,main,Fuegoleon,0000,0000,0000,,and because they saw hope \Nin your very existence?
+Dialogue: 0,0:13:36.72,0:13:40.30,main,Fuegoleon,0000,0000,0000,,They entrusted you with the future \Nof the Crimson Lion Kings.
+Dialogue: 0,0:13:40.71,0:13:42.11,main,Fuegoleon,0000,0000,0000,,This award includes
+Dialogue: 0,0:13:42.11,0:13:45.80,main,Fuegoleon,0000,0000,0000,,the very determination, resolve, \Nand hope of the Crimson Lion Kings!
+Dialogue: 0,0:13:46.55,0:13:48.13,italics,Leo,0000,0000,0000,,Resolve and hope?
+Dialogue: 0,0:13:56.31,0:13:59.84,main,Leo,0000,0000,0000,,I, Leopold Vermillion, \Nwill live up to this recognition,
+Dialogue: 0,0:13:59.84,0:14:01.92,main,Leo,0000,0000,0000,,do everything I can to protect \Nmy squad from any enemy,
+Dialogue: 0,0:14:01.92,0:14:04.90,main,Leo,0000,0000,0000,,and become a Lion King who \Ncan lead everyone to victory!
+Dialogue: 0,0:14:14.30,0:14:16.48,main,Marx,0000,0000,0000,,Yuno from the Golden Dawn.
+Dialogue: 0,0:14:16.48,0:14:17.41,main,Yuno,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:14:18.50,0:14:21.13,main,Marx,0000,0000,0000,,You have earned 77 stars.
+Dialogue: 0,0:14:22.54,0:14:24.26,main,Rill,0000,0000,0000,,Holy wow!
+Dialogue: 0,0:14:24.26,0:14:29.93,main,Rill,0000,0000,0000,,Wait, how many stars did the \NAqua Deer have last time?
+Dialogue: 0,0:14:30.48,0:14:32.43,main,Marx,0000,0000,0000,,Yuno of the Golden Dawn,
+Dialogue: 0,0:14:33.20,0:14:36.02,main,Marx,0000,0000,0000,,you have been promoted to \N1st Class Senior Magic Knight.
+Dialogue: 0,0:14:37.80,0:14:38.89,main,King,0000,0000,0000,,What?!
+Dialogue: 0,0:14:38.89,0:14:39.95,main,Sekke,0000,0000,0000,,Bah-ha?!
+Dialogue: 0,0:14:39.95,0:14:43.60,italics,King,0000,0000,0000,,A 1st Class Senior Magic Knight?!\N This peasant?!
+Dialogue: 0,0:14:44.65,0:14:46.42,main,Marx,0000,0000,0000,,With your tremendous amount of mana,
+Dialogue: 0,0:14:46.42,0:14:49.57,main,Marx,0000,0000,0000,,you were able to deal a fatal blow to \Nthe devil, who was the root of all this evil.
+Dialogue: 0,0:14:50.02,0:14:51.95,main,Marx,0000,0000,0000,,We look forward to great things from you.
+Dialogue: 0,0:14:52.63,0:14:53.70,main,Yuno,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:14:56.38,0:14:59.73,italics,Mimosa,0000,0000,0000,,He's now the same rank as \Nour vice captain, Langris.
+Dialogue: 0,0:14:59.73,0:15:03.76,italics,Mimosa,0000,0000,0000,,He suddenly jumped to the rank right \Nunder the Magic Knights Squad Captains.
+Dialogue: 0,0:15:04.39,0:15:07.69,main,Bell,0000,0000,0000,,I don't really get it, but you did good, right?
+Dialogue: 0,0:15:07.69,0:15:09.43,main,Bell,0000,0000,0000,,Way to go, Yuno!
+Dialogue: 0,0:15:09.43,0:15:11.30,main,Bell,0000,0000,0000,,To celebrate, let's go on a dat—
+Dialogue: 0,0:15:13.13,0:15:15.39,italics,Yuno,0000,0000,0000,,1st Class Senior Magic Knight...
+Dialogue: 0,0:15:16.52,0:15:18.14,italics,Yuno,0000,0000,0000,,I guess I got a little closer.
+Dialogue: 0,0:15:18.80,0:15:20.12,main,Marx,0000,0000,0000,,These four members...
+Dialogue: 0,0:15:20.69,0:15:22.19,main,King,0000,0000,0000,,Hold it!
+Dialogue: 0,0:15:24.44,0:15:27.48,main,Yami,0000,0000,0000,,Well, this definitely sounds like \Nit's gonna be a pain in the ass.
+Dialogue: 0,0:15:27.48,0:15:30.62,main,Charlotte,0000,0000,0000,,Silence, Yami. Despite how \Nhe is, he's still our king.
+Dialogue: 0,0:15:30.62,0:15:32.86,main,Dorothy,0000,0000,0000,,You just lowkey dragged said king.
+Dialogue: 0,0:15:32.86,0:15:37.45,main,King,0000,0000,0000,,The one who shined the brightest in \Nthis battle hasn't been recognized!
+Dialogue: 0,0:15:38.50,0:15:42.55,main,King,0000,0000,0000,,The hero who protected the most \Nimportant person in this kingdom!
+Dialogue: 0,0:15:44.35,0:15:47.20,main,King,0000,0000,0000,,Him! Sekke Bronzazza!
+Dialogue: 0,0:15:47.20,0:15:48.44,main,Sekke,0000,0000,0000,,Bah-ha?!
+Dialogue: 0,0:15:49.80,0:15:54.66,main,King,0000,0000,0000,,Not only did all of you leave me,\N your king, unattended,
+Dialogue: 0,0:15:54.66,0:15:58.37,main,King,0000,0000,0000,,but some of you fools had \Nthe nerve to attack me!
+Dialogue: 0,0:15:58.37,0:16:00.33,main,Jack,0000,0000,0000,,Really?
+Dialogue: 0,0:16:00.33,0:16:01.31,main,Yami,0000,0000,0000,,Who knows?
+Dialogue: 0,0:16:01.80,0:16:05.81,main,King,0000,0000,0000,,Sekke is the true hero! \NThe epitome of Magic Knights!
+Dialogue: 0,0:16:06.52,0:16:13.53,main,King,0000,0000,0000,,During that fierce battle, he dodged \Nthe enemy's attacks and came to me!
+Dialogue: 0,0:16:13.53,0:16:18.74,main,King,0000,0000,0000,,There's no doubt that he deserves the \Nmost recognition out of anyone here!
+Dialogue: 0,0:16:18.74,0:16:21.45,sign_19264_241___Lies__,Sign,0000,0000,0000,,{\blur3}* Some facts may have been skewed.
+Dialogue: 0,0:16:22.96,0:16:25.78,italics,Sekke,0000,0000,0000,,I-I just happened to show up-ha...
+Dialogue: 0,0:16:26.29,0:16:29.04,main,King,0000,0000,0000,,With my authority as king, I give Sekke...
+Dialogue: 0,0:16:31.62,0:16:35.14,main,King,0000,0000,0000,,the title of 1st Class Senior Magic Knight!
+Dialogue: 0,0:16:37.07,0:16:40.58,italics,Sekke,0000,0000,0000,,F-First Class Senior Magic Knight?!
+Dialogue: 0,0:16:40.58,0:16:42.60,italics,Sekke,0000,0000,0000,,What the bah-ha?!
+Dialogue: 0,0:16:42.60,0:16:45.68,italics,King,0000,0000,0000,,If that peasant gets to be a \N1st Class Senior Magic Knight,
+Dialogue: 0,0:16:45.68,0:16:48.57,italics,King,0000,0000,0000,,I'm going to promote Sekke \Nto that rank, too!
+Dialogue: 0,0:16:48.95,0:16:51.82,main,Sekke,0000,0000,0000,,Bah-ha... Bah-ha... Bah-ha?!
+Dialogue: 0,0:16:52.59,0:16:54.62,italics,Sekke,0000,0000,0000,,Th-This is, uh...
+Dialogue: 0,0:16:54.62,0:16:59.08,italics,Sekke,0000,0000,0000,,Their disapproval is super obvious-ha!\N I'm gonna get killed, bah-ha!
+Dialogue: 0,0:16:59.58,0:17:03.29,main,Sekke,0000,0000,0000,,I-I have just been promoted to \N1st Class Senior Magic Knight!
+Dialogue: 0,0:17:03.29,0:17:08.18,main,Sekke,0000,0000,0000,,I, Sekke Bronzazza, \Nwill fight any enemy, win,
+Dialogue: 0,0:17:08.18,0:17:13.36,main,Sekke,0000,0000,0000,,and take pride in protecting \Nthe Clover Kingdom, bah-ha!
+Dialogue: 0,0:17:13.36,0:17:15.86,italics,Sekke,0000,0000,0000,,So please spare my life.
+Dialogue: 0,0:17:18.54,0:17:20.86,main,Marx,0000,0000,0000,,W-Will that be all, Your Majesty?
+Dialogue: 0,0:17:21.27,0:17:26.69,main,King,0000,0000,0000,,Indeed! All of you should follow Sekke's \Nexample and remember to prioritize me!
+Dialogue: 0,0:17:27.28,0:17:28.38,main,King,0000,0000,0000,,Do you understand?!
+Dialogue: 0,0:17:29.53,0:17:32.19,italics,Sekke,0000,0000,0000,,I-I've been saved.
+Dialogue: 0,0:17:36.03,0:17:37.55,main,Marx,0000,0000,0000,,As I was saying,
+Dialogue: 0,0:17:38.14,0:17:39.80,main,Marx,0000,0000,0000,,other than the present five,
+Dialogue: 0,0:17:39.80,0:17:45.14,main,Marx,0000,0000,0000,,we will be promoting everyone who \Nparticipated in this battle one rank.
+Dialogue: 0,0:17:46.46,0:17:50.50,italics,Nozel,0000,0000,0000,,I see. So that's why they \Nhad all captains attend.
+Dialogue: 0,0:17:50.50,0:17:55.26,italics,Dorothy,0000,0000,0000,,They wouldn't usually have us all show \Nup just because the king is here.
+Dialogue: 0,0:17:55.75,0:17:59.00,italics,William,0000,0000,0000,,Such care for the squad members \Ncoming from the Wizard King...
+Dialogue: 0,0:17:59.00,0:18:00.01,italics,William,0000,0000,0000,,I thank you.
+Dialogue: 0,0:18:00.40,0:18:04.02,italics,Fuegoleon,0000,0000,0000,,All of the Magic Knights who risked their \Nlives in this battle will be rewarded.
+Dialogue: 0,0:18:04.63,0:18:07.77,main,Marx,0000,0000,0000,,If the current fuss over the Magic \NParliament trial hadn't been going on,
+Dialogue: 0,0:18:08.11,0:18:10.59,main,Marx,0000,0000,0000,,there were squads that would've \Nseen many promotions.
+Dialogue: 0,0:18:12.69,0:18:15.21,main,Marx,0000,0000,0000,,Though we will not be able \Nto promote them at this time,
+Dialogue: 0,0:18:15.21,0:18:17.72,main,Marx,0000,0000,0000,,we have decided to give \Nthem special recognition.
+Dialogue: 0,0:18:18.54,0:18:21.22,main,Marx,0000,0000,0000,,Captain of the Black Bulls, Yami Sukehiro.
+Dialogue: 0,0:18:21.72,0:18:23.70,main,Yami,0000,0000,0000,,What? I get something?
+Dialogue: 0,0:18:26.35,0:18:28.21,main,Marx,0000,0000,0000,,Please keep the problems to a minimum,
+Dialogue: 0,0:18:28.21,0:18:30.71,main,Marx,0000,0000,0000,,and continue to show results \Nwith your teamwork.
+Dialogue: 0,0:18:34.07,0:18:36.26,main,Yami,0000,0000,0000,,What? I don't get money?
+Dialogue: 0,0:18:36.67,0:18:38.51,main,Yami,0000,0000,0000,,Well, thanks anyway.
+Dialogue: 0,0:18:38.89,0:18:42.51,main,Marx,0000,0000,0000,,This concludes the \Nspecial decoration ceremony.
+Dialogue: 0,0:18:43.00,0:18:46.71,main,Marx,0000,0000,0000,,Lastly, I would like to read a \Nmessage from the Wizard King.
+Dialogue: 0,0:18:48.75,0:18:52.70,main,Marx,0000,0000,0000,,"Our kingdom is slowly recovering from \Nthe attack by the Eye of the Midnight Sun,
+Dialogue: 0,0:18:52.70,0:18:55.87,main,Marx,0000,0000,0000,,but the threat of the Spade Kingdom \Nis just around the corner.
+Dialogue: 0,0:18:56.44,0:19:00.78,italics,Julius,0000,0000,0000,,I expect nothing but the best from \Nthose who have just been promoted.
+Dialogue: 0,0:19:01.81,0:19:06.04,italics,Julius,0000,0000,0000,,I hope that those who did not receive \Nnew titles will continue to train hard,
+Dialogue: 0,0:19:06.58,0:19:08.85,italics,Julius,0000,0000,0000,,come together as Magic Knights,
+Dialogue: 0,0:19:08.85,0:19:11.88,italics,Julius,0000,0000,0000,,and protect this kingdom and its people."
+Dialogue: 0,0:19:13.23,0:19:14.54,main,All,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:19:16.06,0:19:18.07,main,Finral,0000,0000,0000,,We're back!
+Dialogue: 0,0:19:25.02,0:19:26.81,main,Luck,0000,0000,0000,,Come and get me!
+Dialogue: 0,0:19:26.81,0:19:29.80,main,Magna,0000,0000,0000,,Damn it! Quit running away!
+Dialogue: 0,0:19:30.62,0:19:33.90,main,Luck,0000,0000,0000,,Looks like you can't keep up with me at all!
+Dialogue: 0,0:19:34.84,0:19:38.21,main,Asta,0000,0000,0000,,Hey! Welcome back, Captain Yami and Finral!
+Dialogue: 0,0:19:39.55,0:19:41.20,main,Yami,0000,0000,0000,,Damn, you're noisy.
+Dialogue: 0,0:19:41.20,0:19:43.25,main,Yami,0000,0000,0000,,Go train outside.
+Dialogue: 0,0:19:43.25,0:19:44.28,main,Yami,0000,0000,0000,,Hey, Luck!
+Dialogue: 0,0:19:44.89,0:19:45.72,main,Luck,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:45.72,0:19:46.83,main,Magna,0000,0000,0000,,You're mine!
+Dialogue: 0,0:19:47.28,0:19:49.33,main,Yami,0000,0000,0000,,You're going to the Heart Kingdom.
+Dialogue: 0,0:19:49.59,0:19:50.74,main,Luck,0000,0000,0000,,Really?!
+Dialogue: 0,0:19:51.92,0:19:53.83,main,Asta,0000,0000,0000,,So it's finally been decided?!
+Dialogue: 0,0:19:54.08,0:19:56.27,main,Yami,0000,0000,0000,,From our squad, we've got you and Nero,
+Dialogue: 0,0:19:56.27,0:19:58.41,main,Yami,0000,0000,0000,,then Finral, Luck, and Noelle.
+Dialogue: 0,0:19:58.41,0:20:00.05,main,Asta,0000,0000,0000,,Finral, too?!
+Dialogue: 0,0:20:00.05,0:20:01.86,main,Finral,0000,0000,0000,,Yeah...
+Dialogue: 0,0:20:02.17,0:20:05.18,main,Luck,0000,0000,0000,,I get to go all-out in the Heart Kingdom!
+Dialogue: 0,0:20:05.18,0:20:07.45,main,Yami,0000,0000,0000,,Sure. Go crazy, kid.
+Dialogue: 0,0:20:08.31,0:20:09.18,main,Magna,0000,0000,0000,,Please...
+Dialogue: 0,0:20:10.40,0:20:12.02,main,Magna,0000,0000,0000,,Please let me go, too!
+Dialogue: 0,0:20:13.47,0:20:16.44,main,Magna,0000,0000,0000,,I can't just sit here if he's gonna go!
+Dialogue: 0,0:20:17.16,0:20:20.49,main,Magna,0000,0000,0000,,I'll get even stronger than him!
+Dialogue: 0,0:20:21.28,0:20:23.66,main,Yami,0000,0000,0000,,Look, this was already decided \Nat the captains' meeting.
+Dialogue: 0,0:20:23.66,0:20:24.95,main,Yami,0000,0000,0000,,Sorry.
+Dialogue: 0,0:20:27.78,0:20:30.58,main,Magna,0000,0000,0000,,Please! Let me go!
+Dialogue: 0,0:20:31.02,0:20:33.70,main,Magna,0000,0000,0000,,He's always running ahead of me.
+Dialogue: 0,0:20:33.70,0:20:39.17,main,Magna,0000,0000,0000,,But I'm a true man, \Nand I can't be left behind again!
+Dialogue: 0,0:20:39.17,0:20:42.09,main,Magna,0000,0000,0000,,Even if you tell me not \Nto go, I'm going to go!
+Dialogue: 0,0:20:43.25,0:20:46.75,main,Yami,0000,0000,0000,,With your mana, you're not gonna be able \Nto keep up unless you're prepared to die.
+Dialogue: 0,0:20:48.89,0:20:49.89,main,Yami,0000,0000,0000,,You up to that?
+Dialogue: 0,0:20:50.53,0:20:51.60,main,Magna,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:20:52.24,0:20:54.79,main,Magna,0000,0000,0000,,Who the hell cares about \Nhow much mana you have?!
+Dialogue: 0,0:20:54.79,0:20:57.11,main,Magna,0000,0000,0000,,I'll surpass the limits of a peasant!
+Dialogue: 0,0:20:58.14,0:21:02.12,main,Yami,0000,0000,0000,,Fine. I'll try asking Julius.
+Dialogue: 0,0:21:04.10,0:21:05.61,main,Yami,0000,0000,0000,,Just remember this.
+Dialogue: 0,0:21:05.94,0:21:08.98,main,Yami,0000,0000,0000,,What's important here isn't where you train.
+Dialogue: 0,0:21:08.98,0:21:10.52,main,Yami,0000,0000,0000,,It's {\i1}how{\i0} you train.
+Dialogue: 0,0:21:10.94,0:21:12.24,main,Yami,0000,0000,0000,,Got it?
+Dialogue: 0,0:21:12.24,0:21:13.04,main,Magna,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:21:14.18,0:21:16.00,main,Asta,0000,0000,0000,,You did it, Magna!
+Dialogue: 0,0:21:16.33,0:21:18.95,main,Luck,0000,0000,0000,,Yeah, it wouldn't be fun if \NI just kept getting stronger.
+Dialogue: 0,0:21:18.95,0:21:22.10,main,Magna,0000,0000,0000,,Yeah! You bet your ass I'm gonna catch up!
+Dialogue: 0,0:21:23.66,0:21:28.19,main,Asta,0000,0000,0000,,In that case, Finral, Magna, and Luck!
+Dialogue: 0,0:21:28.19,0:21:31.68,main,Asta,0000,0000,0000,,Let's all do our best training \Nin the Heart Kingdom!
+Dialogue: 0,0:21:31.96,0:21:33.65,main,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:21:39.71,0:21:42.36,main,Bell,0000,0000,0000,,Look at you, climbing up \Nthat ladder all at once.
+Dialogue: 0,0:21:42.81,0:21:44.61,main,Bell,0000,0000,0000,,You're just so cool!
+Dialogue: 0,0:21:45.55,0:21:49.26,main,Bell,0000,0000,0000,,I guess you'll become the \NWizard King in no time!
+Dialogue: 0,0:21:50.12,0:21:53.24,main,Yuno,0000,0000,0000,,You can't be serious. It's not that easy.
+Dialogue: 0,0:21:54.01,0:21:56.05,main,Yuno,0000,0000,0000,,But someday...
+Dialogue: 0,0:21:59.56,0:22:02.09,main,Yuno,0000,0000,0000,,Someday, for sure...
+Dialogue: 0,0:23:39.90,0:23:44.69,main,Yuno,0000,0000,0000,,I'm going to follow my own path \Nto become the Wizard King.
+Dialogue: 0,0:23:44.69,0:23:49.51,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 154:\N"Vice Captain Langris Vaude."
+Dialogue: 0,0:23:45.69,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 154\N\N{\fs18} Vice Captain Langris Vaude
+Dialogue: 0,0:23:49.96,0:23:53.32,main,Yuno,0000,0000,0000,,If you're going to come at me, \Nyou can't hold back, or you'll get hurt.

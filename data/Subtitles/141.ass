@@ -1,0 +1,411 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00E678C2,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0075,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+ 
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.37,0:00:06.96,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:07.57,0:00:09.56,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:09.56,0:00:12.95,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:13.44,0:00:15.61,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:16.36,0:00:18.97,italics,Nar,0000,0000,0000,,With guts and hard work, \Nhe made it into the Magic Knights,
+Dialogue: 0,0:00:18.97,0:00:21.79,italics,Nar,0000,0000,0000,,and he never gave up, \Ndespite how much he got hurt.
+Dialogue: 0,0:00:21.79,0:00:24.57,italics,Nar,0000,0000,0000,,He continues to diligently aim for the top!
+Dialogue: 0,0:00:26.14,0:00:27.80,italics,Nar,0000,0000,0000,,Even if you are a peasant,
+Dialogue: 0,0:00:27.80,0:00:29.63,italics,Nar,0000,0000,0000,,or even if you're poor...
+Dialogue: 0,0:00:29.94,0:00:32.38,italics,Nar,0000,0000,0000,,Anyone in this world can still shine!
+Dialogue: 0,0:00:32.76,0:00:34.80,italics,Nar,0000,0000,0000,,He's working hard to prove that,
+Dialogue: 0,0:00:35.23,0:00:37.75,italics,Nar,0000,0000,0000,,and to become the Wizard King!
+Dialogue: 0,0:00:40.90,0:00:43.92,flashback,Asta,0000,0000,0000,,Yuno, we're family, right?
+Dialogue: 0,0:00:43.92,0:00:45.23,flashback,Yuno,0000,0000,0000,,Yeah.
+Dialogue: 0,0:00:45.23,0:00:47.29,flashback,Asta,0000,0000,0000,,But we're not related by blood.
+Dialogue: 0,0:00:47.29,0:00:48.23,flashback,Yuno,0000,0000,0000,,Yeah...
+Dialogue: 0,0:00:48.23,0:00:52.00,flashback,Asta,0000,0000,0000,,But we're closer than anyone who's \Nrelated by blood, aren't we?
+Dialogue: 0,0:00:52.41,0:00:54.11,flashback,Yuno,0000,0000,0000,,What brought all this on?
+Dialogue: 0,0:00:54.40,0:00:55.57,flashback,Asta,0000,0000,0000,,What I'm saying...
+Dialogue: 0,0:00:55.78,0:00:58.49,flashback,Asta,0000,0000,0000,,is that we don't have any blood relatives,
+Dialogue: 0,0:00:58.96,0:01:00.66,flashback,Asta,0000,0000,0000,,but all of the friends we've met,
+Dialogue: 0,0:01:01.31,0:01:04.27,flashback,Asta,0000,0000,0000,,and all of the friends we'll meet someday,
+Dialogue: 0,0:01:04.27,0:01:06.33,flashback,Asta,0000,0000,0000,,are people we should treasure as family.
+Dialogue: 0,0:01:07.05,0:01:07.85,flashback,Yuno,0000,0000,0000,,Yeah.
+Dialogue: 0,0:02:32.56,0:02:37.21,Ep Title,Sign,0000,0000,0000,,{\fs22\move(315,115,315,110)\t(1,4650,\fs24)\fad(667,1)}The Golden Family
+Dialogue: 0,0:02:42.28,0:02:45.76,sign_19264_241___Lies__,Sign,0000,0000,0000,,{\blur3\fad(757,1)}Golden Dawn Headquarters
+Dialogue: 0,0:02:50.98,0:02:54.31,main,Hamon,0000,0000,0000,,Ah, are you here to deliver \Nyour reports, as well?
+Dialogue: 0,0:02:54.31,0:02:56.86,main,Klaus,0000,0000,0000,,Yes. We just returned from Kiten.
+Dialogue: 0,0:02:56.90,0:03:02.38,sign_4242_31_Member_of_the_Go,Sign,0000,0000,0000,,{\blur3\fad(735,782)}Member of the Golden Dawn\N{\fs31}Shiren Tium
+Dialogue: 0,0:02:56.90,0:03:02.38,sign_4242_32_Member_of_the_Go,Sign,0000,0000,0000,,{\blur3\fad(735,782)}Member of the Golden Dawn\N{\fs31}Hamon Caseus
+Dialogue: 0,0:02:57.13,0:02:59.26,top,Hamon,0000,0000,0000,,Ah, yes. Kiten is famous for
+Dialogue: 0,0:02:59.26,0:03:03.87,top,Hamon,0000,0000,0000,,being a gourmet town, due to the \NDiamond Kingdom's influence there.
+Dialogue: 0,0:03:03.87,0:03:08.62,sign_4409_34_Member_of_the_Go,Sign,0000,0000,0000,,{\fad(772,1)\blur3}Member of the Golden Dawn\N{\fs31}David Slower
+Dialogue: 0,0:03:03.87,0:03:08.62,sign_4409_35_Member_of_the_Go,Sign,0000,0000,0000,,{\fad(772,1)\blur3}Member of the Golden Dawn\N{\fs31}Letoile Becquerel
+Dialogue: 0,0:03:04.20,0:03:08.62,top,David,0000,0000,0000,,For real? I wish I could've gone there \Ninstead of patrolling the royal capital.
+Dialogue: 0,0:03:08.66,0:03:11.87,sign_8772_80_Father_Nathan,Sign,0000,0000,0000,,{\blur3\fad(737,1)}Member of the Golden Dawn\N{\fs31}Alecdora Sandler
+Dialogue: 0,0:03:08.87,0:03:10.91,top,Letoile,0000,0000,0000,,This isn't a game, David.
+Dialogue: 0,0:03:14.92,0:03:17.60,main,Letoile,0000,0000,0000,,Yuno, aren't you tired from \Nthese back-to-back missions?
+Dialogue: 0,0:03:17.60,0:03:18.55,main,Yuno,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:03:20.06,0:03:23.10,main,Hamon,0000,0000,0000,,Getting enough calories is \Nimportant at times like this.
+Dialogue: 0,0:03:23.10,0:03:24.74,main,Hamon,0000,0000,0000,,Would you like one?
+Dialogue: 0,0:03:24.74,0:03:26.10,main,Yuno,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:03:26.57,0:03:28.97,italics,Mimosa,0000,0000,0000,,This conversation's going nowhere.
+Dialogue: 0,0:03:29.27,0:03:31.68,italics,Alecdora,0000,0000,0000,,There's that insolent attitude of his again.
+Dialogue: 0,0:03:31.68,0:03:33.65,italics,Alecdora,0000,0000,0000,,After insisting he was \Ngoing to be the Wizard King,
+Dialogue: 0,0:03:33.65,0:03:35.94,italics,Alecdora,0000,0000,0000,,he earned more merit during the \NEye of the Midnight Sun conflict,
+Dialogue: 0,0:03:35.94,0:03:37.82,italics,Alecdora,0000,0000,0000,,and now he's grown even more impudent.
+Dialogue: 0,0:03:38.57,0:03:43.70,italics,Alecdora,0000,0000,0000,,If only I hadn't been possessed by an elf, \NI could've helped Lord Vangeance!
+Dialogue: 0,0:03:44.34,0:03:47.13,italics,Alecdora,0000,0000,0000,,You were just lucky! That's it!
+Dialogue: 0,0:03:47.85,0:03:50.29,main,Letoile,0000,0000,0000,,The captain is waiting. Let's go.
+Dialogue: 0,0:03:50.29,0:03:51.62,main,David,0000,0000,0000,,Sure.
+Dialogue: 0,0:03:51.85,0:03:55.38,main,Klaus,0000,0000,0000,,Yuno, why not try to be a bit friendlier?
+Dialogue: 0,0:03:55.38,0:03:57.23,main,Yuno,0000,0000,0000,,What? I am, though.
+Dialogue: 0,0:03:57.23,0:03:58.69,italics,Klaus,0000,0000,0000,,He doesn't even realize it.
+Dialogue: 0,0:03:58.69,0:04:05.64,main,Klaus,0000,0000,0000,,I know... Why not try to smile more when \Nspeaking, or throw in a joke here and there?
+Dialogue: 0,0:04:06.60,0:04:08.23,main,Klaus,0000,0000,0000,,I know I'm the one who just suggested it,
+Dialogue: 0,0:04:08.23,0:04:10.21,main,Klaus,0000,0000,0000,,but I can't even picture you doing that myself.
+Dialogue: 0,0:04:10.21,0:04:11.17,main,Klaus,0000,0000,0000,,I apologize.
+Dialogue: 0,0:04:11.17,0:04:12.15,main,Yuno,0000,0000,0000,,Sure.
+Dialogue: 0,0:04:12.89,0:04:15.01,main,Mimosa,0000,0000,0000,,Looks like we have a long road ahead of us.
+Dialogue: 0,0:04:15.01,0:04:16.30,main,Klaus,0000,0000,0000,,Indeed.
+Dialogue: 0,0:04:16.30,0:04:18.81,main,Bell,0000,0000,0000,,But that cool side of Yuno \Nis what makes him so amazing!
+Dialogue: 0,0:04:20.55,0:04:22.90,main,William,0000,0000,0000,,Thank you all for your reports.
+Dialogue: 0,0:04:22.90,0:04:25.67,main,William,0000,0000,0000,,Klaus, Mimosa, Yuno...
+Dialogue: 0,0:04:25.67,0:04:29.27,top,William,0000,0000,0000,,We've received thanks yet again \Nfrom the people of Kiten.
+Dialogue: 0,0:04:25.93,0:04:31.37,sign_6376_65_Captain_of_the_G,Sign,0000,0000,0000,,{\fad(753,725)\blur3}Captain of the Golden Dawn\N{\fs26}William Vangeance
+Dialogue: 0,0:04:25.93,0:04:31.41,sign_6376_66_Vice_Captain_of_,Sign,0000,0000,0000,,{\fad(753,725)\blur3}Vice Captain of the Golden Dawn\N{\fs26}Langris Vaude
+Dialogue: 0,0:04:29.27,0:04:31.41,top,William,0000,0000,0000,,It looks like you did well.
+Dialogue: 0,0:04:31.41,0:04:32.44,main,Klaus,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:04:32.44,0:04:34.33,main,Mimosa,0000,0000,0000,,You honor us with those words.
+Dialogue: 0,0:04:36.28,0:04:39.13,main,William,0000,0000,0000,,Now, I realize that you've just come back,
+Dialogue: 0,0:04:39.13,0:04:40.96,main,William,0000,0000,0000,,but I have another mission for you.
+Dialogue: 0,0:04:41.37,0:04:44.17,main,William,0000,0000,0000,,It seems a herd of wild boars \Nhas come down from the mountains
+Dialogue: 0,0:04:44.17,0:04:46.28,main,William,0000,0000,0000,,to Saussy Village, putting it in danger.
+Dialogue: 0,0:04:46.70,0:04:51.06,main,William,0000,0000,0000,,I'd like to send another squad there, \Nbut everyone else is already out.
+Dialogue: 0,0:04:51.27,0:04:55.48,main,Alecdora,0000,0000,0000,,Allow me to handle it! I can \Nhandle wild boars on my own!
+Dialogue: 0,0:04:55.77,0:04:57.92,main,Langris,0000,0000,0000,,If they were regular wild boars, perhaps.
+Dialogue: 0,0:04:57.92,0:04:59.20,main,Langris,0000,0000,0000,,According to reports,
+Dialogue: 0,0:04:59.20,0:05:02.44,main,Langris,0000,0000,0000,,the wild boars near Saussy Village are \Nmagical beasts covered in flames.
+Dialogue: 0,0:05:03.09,0:05:04.84,main,William,0000,0000,0000,,The villagers are anxious.
+Dialogue: 0,0:05:05.41,0:05:10.30,main,William,0000,0000,0000,,I'd like all of you to go there as a \Nsquad and take care of the situation.
+Dialogue: 0,0:05:10.83,0:05:12.93,main,William,0000,0000,0000,,I will have Alecdora lead this mission.
+Dialogue: 0,0:05:12.93,0:05:13.62,main,Alecdora,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:05:13.86,0:05:16.19,main,William,0000,0000,0000,,I'm counting on all of you.
+Dialogue: 0,0:05:16.19,0:05:17.00,main,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:05:17.82,0:05:19.42,italics,Alecdora,0000,0000,0000,,I don't care who or what we're up against!
+Dialogue: 0,0:05:19.42,0:05:22.42,sign_7659_88_Saussy_Village,Sign,0000,0000,0000,,{\blur3}Saussy Village
+Dialogue: 0,0:05:19.89,0:05:22.42,italicstop,Alecdora,0000,0000,0000,,I will earn more merit than you!
+Dialogue: 0,0:05:23.14,0:05:26.93,main,Mayor,0000,0000,0000,,T-To think that the Golden Dawn \Nwould come to our rescue.
+Dialogue: 0,0:05:27.26,0:05:29.28,main,Lu,0000,0000,0000,,I guess it's not the Black Bulls...
+Dialogue: 0,0:05:29.28,0:05:31.93,main,Nick,0000,0000,0000,,Yeah. I was hoping to see Asta again.
+Dialogue: 0,0:05:32.53,0:05:34.11,main,Yuno,0000,0000,0000,,You know Asta?
+Dialogue: 0,0:05:34.11,0:05:34.93,main,Nick,0000,0000,0000,,Yeah!
+Dialogue: 0,0:05:35.39,0:05:39.94,main,Nick,0000,0000,0000,,Asta, Noelle, and Magna protected \Nthis village from the bad guys!
+Dialogue: 0,0:05:40.31,0:05:43.01,main,Letoile,0000,0000,0000,,Come to think of it, \NSaussy Village was the place
+Dialogue: 0,0:05:43.01,0:05:45.94,main,Letoile,0000,0000,0000,,where the Eye of the \NMidnight Sun was first sighted.
+Dialogue: 0,0:05:46.24,0:05:50.45,main,Lu,0000,0000,0000,,But did you know? The Black Bulls \Nbeat up some wild boars, too!
+Dialogue: 0,0:05:50.74,0:05:54.25,main,David,0000,0000,0000,,Oh? Then why don't we make a little bet?
+Dialogue: 0,0:05:54.25,0:05:57.87,main,David,0000,0000,0000,,Let's see who can beat up more wild \Nboars: the Golden Dawn or the Black—
+Dialogue: 0,0:05:57.87,0:05:59.08,main,Letoile,0000,0000,0000,,David.
+Dialogue: 0,0:05:59.41,0:06:03.36,main,Alecdora,0000,0000,0000,,We've heard the boars are covered \Nin flames and very dangerous.
+Dialogue: 0,0:06:03.36,0:06:07.25,main,Mayor,0000,0000,0000,,Yes, and they've grown even \Nmore violent than last time.
+Dialogue: 0,0:06:07.25,0:06:09.47,main,Mayor,0000,0000,0000,,We just don't know what to do anymore.
+Dialogue: 0,0:06:18.90,0:06:20.95,main,David,0000,0000,0000,,Yikes, what's that?
+Dialogue: 0,0:06:20.95,0:06:23.81,main,Mimosa,0000,0000,0000,,I sense a powerful mana from them \Nthat's unique to magical beasts.
+Dialogue: 0,0:06:23.81,0:06:26.17,main,Klaus,0000,0000,0000,,The villagers stand no chance against them.
+Dialogue: 0,0:06:26.17,0:06:28.82,main,Alecdora,0000,0000,0000,,Shiren, get us a closer look.
+Dialogue: 0,0:06:28.82,0:06:29.86,main,Shiren,0000,0000,0000,,As you wish.
+Dialogue: 0,0:06:30.19,0:06:34.37,main,Shiren,0000,0000,0000,,Stone Creation Magic: Stone Model of the World.
+Dialogue: 0,0:06:35.18,0:06:38.39,main,Alecdora,0000,0000,0000,,We'll split up and take care of those \Nthings before they harm the villagers.
+Dialogue: 0,0:06:38.39,0:06:39.26,main,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:06:39.26,0:06:40.50,main,Yuno,0000,0000,0000,,Please wait.
+Dialogue: 0,0:06:40.83,0:06:44.18,main,Yuno,0000,0000,0000,,If we don't find out what \Ncaused them to grow violent,
+Dialogue: 0,0:06:44.18,0:06:45.72,main,Yuno,0000,0000,0000,,the same thing will happen again.
+Dialogue: 0,0:06:46.67,0:06:48.82,main,Hamon,0000,0000,0000,,He does bring up a fair point.
+Dialogue: 0,0:06:48.82,0:06:50.73,main,Alecdora,0000,0000,0000,,Know your place, Yuno!
+Dialogue: 0,0:06:50.73,0:06:55.10,main,Alecdora,0000,0000,0000,,It is I that Lord Vangeance put \Nin charge of this mission, not you.
+Dialogue: 0,0:06:55.10,0:06:56.69,main,Yuno,0000,0000,0000,,If merely defeating them would suffice,
+Dialogue: 0,0:06:56.69,0:06:58.52,main,Yuno,0000,0000,0000,,the Black Bulls would be capable of that, too.
+Dialogue: 0,0:06:58.52,0:06:59.98,main,Alecdora,0000,0000,0000,,Why, you...
+Dialogue: 0,0:06:59.98,0:07:01.62,main,Mimosa,0000,0000,0000,,Y-Yuno...
+Dialogue: 0,0:07:01.62,0:07:05.34,main,Alecdora,0000,0000,0000,,If you feel that strongly \Nabout it, then prove it!
+Dialogue: 0,0:07:05.93,0:07:08.18,main,Alecdora,0000,0000,0000,,The rest of us will wipe out the boars!
+Dialogue: 0,0:07:08.18,0:07:08.98,main,Letoile,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:07:08.98,0:07:10.13,main,David,0000,0000,0000,,Roger!
+Dialogue: 0,0:07:10.13,0:07:12.47,main,Hamon,0000,0000,0000,,Let us make a grand entrance.
+Dialogue: 0,0:07:13.85,0:07:16.31,main,Klaus,0000,0000,0000,,So what do you plan on doing?
+Dialogue: 0,0:07:16.31,0:07:17.97,main,Yuno,0000,0000,0000,,There's something I want to find.
+Dialogue: 0,0:07:17.97,0:07:19.02,main,Yuno,0000,0000,0000,,Mimosa...
+Dialogue: 0,0:07:19.02,0:07:20.06,main,Mimosa,0000,0000,0000,,Y-Yes?
+Dialogue: 0,0:07:25.12,0:07:28.67,main,Alecdora,0000,0000,0000,,Sand Magic: Suppressing Sand Mass!
+Dialogue: 0,0:07:33.81,0:07:37.22,main,Hamon,0000,0000,0000,,I am quite curious as to \Nhow these creatures taste.
+Dialogue: 0,0:07:46.86,0:07:50.12,main,David,0000,0000,0000,,Dice Magic: Gambler's Fallacy.
+Dialogue: 0,0:07:52.22,0:07:54.03,main,David,0000,0000,0000,,A one, eh? Too bad.
+Dialogue: 0,0:07:55.66,0:07:59.12,main,David,0000,0000,0000,,I guess this is enough for you guys, though.
+Dialogue: 0,0:07:59.12,0:08:03.12,main,Yuno,0000,0000,0000,,Wind Magic: Crescent Moon Sickle!
+Dialogue: 0,0:08:03.56,0:08:05.97,main,Klaus,0000,0000,0000,,Steel Magic: Blazing Spiral Lance!
+Dialogue: 0,0:08:13.27,0:08:16.64,main,Mimosa,0000,0000,0000,,There's an area just ahead where\Nmana is highly concentrated.
+Dialogue: 0,0:08:17.00,0:08:18.09,main,Yuno,0000,0000,0000,,Let's go.
+Dialogue: 0,0:08:18.09,0:08:19.26,main,Klaus,0000,0000,0000,,Right.
+Dialogue: 0,0:08:28.65,0:08:31.31,main,Mimosa,0000,0000,0000,,It looks like that fruit is \Nwhat's causing all this.
+Dialogue: 0,0:08:31.31,0:08:34.40,main,Klaus,0000,0000,0000,,I see. No wonder they've turned violent.
+Dialogue: 0,0:08:34.84,0:08:38.23,main,Yuno,0000,0000,0000,,We'll have to get rid of all \Nthe trees that bear this fruit.
+Dialogue: 0,0:08:38.23,0:08:41.09,main,Klaus,0000,0000,0000,,All right. You and I will take \Ncare of the trees in this area.
+Dialogue: 0,0:08:41.54,0:08:44.95,main,Klaus,0000,0000,0000,,Mimosa, try to find out if there are \Nany trees with the fruit around here.
+Dialogue: 0,0:08:44.95,0:08:46.03,main,Mimosa,0000,0000,0000,,Of course.
+Dialogue: 0,0:08:46.03,0:08:48.92,italics,Mimosa,0000,0000,0000,,I was worried about what \Nmight happen earlier, but...
+Dialogue: 0,0:08:49.21,0:08:50.69,italics,Klaus,0000,0000,0000,,If it's to protect the people,
+Dialogue: 0,0:08:50.69,0:08:52.92,italics,Klaus,0000,0000,0000,,he's willing to defy his superiors \Nto do what he needs to do.
+Dialogue: 0,0:08:53.69,0:08:56.49,italics,Klaus,0000,0000,0000,,I doubt he even realizes \Nhe showed any defiance.
+Dialogue: 0,0:08:58.90,0:09:03.18,main,Mayor,0000,0000,0000,,Thank you so much, \Nknights of the Golden Dawn!
+Dialogue: 0,0:09:03.44,0:09:08.19,main,Villager A,0000,0000,0000,,I can't believe you even tracked down \Nthe reason these things went berserk!
+Dialogue: 0,0:09:08.19,0:09:12.44,main,Mayor,0000,0000,0000,,Now we probably won't need \Nto trouble you again!
+Dialogue: 0,0:09:12.72,0:09:15.07,main,Alecdora,0000,0000,0000,,I'm glad to hear that.
+Dialogue: 0,0:09:16.12,0:09:19.20,italics,Alecdora,0000,0000,0000,,You think you got one up on me, do you?!
+Dialogue: 0,0:09:19.78,0:09:21.41,main,Klaus,0000,0000,0000,,What in the world are those collars?
+Dialogue: 0,0:09:22.56,0:09:23.86,main,Mimosa,0000,0000,0000,,Aren't they adorable?
+Dialogue: 0,0:09:23.86,0:09:28.17,main,Mimosa,0000,0000,0000,,Apparently they decided to keep the \Nboars that have now calmed down.
+Dialogue: 0,0:09:28.40,0:09:30.16,main,Nick,0000,0000,0000,,Tell Asta, will ya?
+Dialogue: 0,0:09:30.16,0:09:32.88,main,Nick,0000,0000,0000,,I want him to know I'm training \Nreal hard with my magic!
+Dialogue: 0,0:09:33.15,0:09:38.22,main,Nick,0000,0000,0000,,I'm gonna become a Magic Knight, \Nso he has to become the Wizard King!
+Dialogue: 0,0:09:40.28,0:09:42.21,main,Yuno,0000,0000,0000,,Okay. I'll be sure to tell him.
+Dialogue: 0,0:09:43.38,0:09:46.74,main,Yuno,0000,0000,0000,,But it's not Asta who's going to \Nbecome the Wizard King. It's me.
+Dialogue: 0,0:09:46.74,0:09:48.56,main,Nick,0000,0000,0000,,Wait, really?
+Dialogue: 0,0:09:50.31,0:09:52.49,main,William,0000,0000,0000,,Well done, everyone.
+Dialogue: 0,0:09:52.49,0:09:55.57,main,William,0000,0000,0000,,Now the villagers won't have \Nto live in fear anymore.
+Dialogue: 0,0:09:55.99,0:09:59.37,main,William,0000,0000,0000,,I'd like you to be able to relax now,\N but I have an urgent mission.
+Dialogue: 0,0:09:59.90,0:10:03.36,main,William,0000,0000,0000,,A newly-appeared dungeon has \Nbeen occupied by someone.
+Dialogue: 0,0:10:04.60,0:10:07.52,main,Langris,0000,0000,0000,,It is located near the \NDiamond Kingdom's border.
+Dialogue: 0,0:10:07.52,0:10:08.96,main,Langris,0000,0000,0000,,It's near Kiten.
+Dialogue: 0,0:10:10.67,0:10:14.77,main,Langris,0000,0000,0000,,There are reports that people have \Nseen Spade soldiers fighting in this area.
+Dialogue: 0,0:10:14.77,0:10:17.63,main,Langris,0000,0000,0000,,We can't deny that the Spade \NKingdom may be involved.
+Dialogue: 0,0:10:18.20,0:10:20.43,main,William,0000,0000,0000,,This is an emergency,
+Dialogue: 0,0:10:20.43,0:10:24.26,main,William,0000,0000,0000,,but as long as the chaos continues \Nin the kingdom, I cannot make a move.
+Dialogue: 0,0:10:24.88,0:10:28.53,main,William,0000,0000,0000,,Langris, I'd like you to take the lead if you can.
+Dialogue: 0,0:10:29.21,0:10:35.17,main,Langris,0000,0000,0000,,I'd love to, but my wounds have yet to heal.
+Dialogue: 0,0:10:35.17,0:10:38.03,main,Langris,0000,0000,0000,,Why not let someone else handle it?
+Dialogue: 0,0:10:38.03,0:10:40.87,main,William,0000,0000,0000,,I see. If you insist.
+Dialogue: 0,0:10:40.87,0:10:43.49,main,William,0000,0000,0000,,Alecdora, I ask that you \Ntake the lead once again.
+Dialogue: 0,0:10:43.49,0:10:44.49,main,Alecdora,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:10:44.49,0:10:46.68,italics,Alecdora,0000,0000,0000,,This time I'll prove once and for all
+Dialogue: 0,0:10:46.68,0:10:50.79,italics,Alecdora,0000,0000,0000,,that I am the one more useful \Nto Lord Vangeance!
+Dialogue: 0,0:10:52.44,0:10:54.62,main,Langris,0000,0000,0000,,Are you sure Alecdora was the right choice?
+Dialogue: 0,0:10:54.62,0:10:55.99,main,William,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:10:56.53,0:11:01.30,main,Langris,0000,0000,0000,,I was just thinking there's another \Ncandidate who may be more qualified.
+Dialogue: 0,0:11:01.30,0:11:02.30,main,William,0000,0000,0000,,And who might that be?
+Dialogue: 0,0:11:02.57,0:11:05.67,main,Langris,0000,0000,0000,,I heard that he was able to \Nwrangle countless Magic Knights
+Dialogue: 0,0:11:05.67,0:11:07.93,main,Langris,0000,0000,0000,,from around the kingdom in \Nmere moments during the battle
+Dialogue: 0,0:11:07.93,0:11:09.72,main,Langris,0000,0000,0000,,with the Eye of the Midnight Sun.
+Dialogue: 0,0:11:09.72,0:11:12.31,main,Langris,0000,0000,0000,,He also has plenty of talent \Nand the skill to lead.
+Dialogue: 0,0:11:12.60,0:11:15.78,main,Langris,0000,0000,0000,,Though he is rather impertinent and annoying.
+Dialogue: 0,0:11:15.78,0:11:17.32,main,Langris,0000,0000,0000,,Wh-What is it, sir?
+Dialogue: 0,0:11:17.32,0:11:21.07,main,William,0000,0000,0000,,You've changed. Of course, \NI mean that in a good way.
+Dialogue: 0,0:11:21.07,0:11:25.41,main,Langris,0000,0000,0000,,I-I'm just thinking of the best way\Nto ensure the mission succeeds.
+Dialogue: 0,0:11:26.10,0:11:27.83,main,William,0000,0000,0000,,You see, Langris,
+Dialogue: 0,0:11:29.06,0:11:31.25,main,William,0000,0000,0000,,I want Alecdora to change, too.
+Dialogue: 0,0:11:32.04,0:11:33.52,main,William,0000,0000,0000,,Like you have.
+Dialogue: 0,0:11:46.47,0:11:49.68,main,Hamon,0000,0000,0000,,Ah, it appears as though we \Nhave some bandits on our hands.
+Dialogue: 0,0:11:49.68,0:11:52.73,main,Letoile,0000,0000,0000,,It's probably in our favor that \Nthey aren't from the Spade Kingdom.
+Dialogue: 0,0:11:52.73,0:11:55.17,main,David,0000,0000,0000,,Want me to go take care of them real quick?
+Dialogue: 0,0:11:55.17,0:11:56.48,main,Alecdora,0000,0000,0000,,Leave it to me.
+Dialogue: 0,0:11:57.48,0:12:00.43,main,Alecdora,0000,0000,0000,,Sand Binding Magic: Sand Box!
+Dialogue: 0,0:12:05.45,0:12:06.91,main,David,0000,0000,0000,,Well done!
+Dialogue: 0,0:12:06.91,0:12:09.24,main,Alecdora,0000,0000,0000,,Mimosa, show us the inside of the dungeon.
+Dialogue: 0,0:12:09.52,0:12:10.41,main,Mimosa,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:12:11.38,0:12:13.75,main,Mimosa,0000,0000,0000,,This is most likely where the treasure room is.
+Dialogue: 0,0:12:13.75,0:12:16.19,main,Mimosa,0000,0000,0000,,There are two paths leading to it.
+Dialogue: 0,0:12:16.19,0:12:19.42,main,Letoile,0000,0000,0000,,So we come in from either the front or the top.
+Dialogue: 0,0:12:19.73,0:12:21.17,main,Alecdora,0000,0000,0000,,We'll split up into two teams.
+Dialogue: 0,0:12:21.66,0:12:25.25,main,Alecdora,0000,0000,0000,,Shiren, Hamon, Letoile, \Nand I will go from the front.
+Dialogue: 0,0:12:25.25,0:12:27.93,main,Alecdora,0000,0000,0000,,Klaus, Mimosa, David, and...
+Dialogue: 0,0:12:28.89,0:12:31.10,main,Alecdora,0000,0000,0000,,Yuno. You'll go from the top.
+Dialogue: 0,0:12:31.51,0:12:32.73,main,Yuno,0000,0000,0000,,Understood.
+Dialogue: 0,0:12:37.10,0:12:38.33,main,Bandit A,0000,0000,0000,,Magic Knights?!
+Dialogue: 0,0:12:38.97,0:12:40.61,main,Bandit B,0000,0000,0000,,What the hell are the lookouts doing?
+Dialogue: 0,0:12:41.20,0:12:43.53,italics,Yuno,0000,0000,0000,,Wind Magic: Crescent Moon Sickle!
+Dialogue: 0,0:12:43.75,0:12:44.93,main,Bandit C,0000,0000,0000,,I don't think so!
+Dialogue: 0,0:12:48.27,0:12:50.24,main,Klaus,0000,0000,0000,,He stopped Yuno's spell?!
+Dialogue: 0,0:12:50.24,0:12:51.91,main,Bandit C,0000,0000,0000,,I'm not done yet!
+Dialogue: 0,0:12:52.79,0:12:55.62,main,Klaus,0000,0000,0000,,Steel Creation Magic: Full Metal Fortress!
+Dialogue: 0,0:12:56.42,0:13:00.46,main,David,0000,0000,0000,,They sure have some decent \Nmagic for a bunch of bandits.
+Dialogue: 0,0:13:02.05,0:13:04.11,main,Mimosa,0000,0000,0000,,Those are magic items.
+Dialogue: 0,0:13:04.11,0:13:06.67,main,Yuno,0000,0000,0000,,They must be enhancing their mana with them.
+Dialogue: 0,0:13:06.67,0:13:07.75,main,Yuno,0000,0000,0000,,But...
+Dialogue: 0,0:13:07.75,0:13:10.92,main,Yuno,0000,0000,0000,,Wind Creation Magic: Wind Blade Shower!
+Dialogue: 0,0:13:12.62,0:13:15.09,main,Yuno,0000,0000,0000,,That won't be enough to stop us.
+Dialogue: 0,0:13:18.26,0:13:19.94,main,Bandit D,0000,0000,0000,,We'll hold them off here!
+Dialogue: 0,0:13:19.94,0:13:21.65,main,Bandit E,0000,0000,0000,,Take this!
+Dialogue: 0,0:13:22.39,0:13:25.82,main,Shiren,0000,0000,0000,,Stone Creation Magic: Pursuing Crushed Rock!
+Dialogue: 0,0:13:25.82,0:13:26.82,main,Bandit D,0000,0000,0000,,What?!
+Dialogue: 0,0:13:29.38,0:13:32.58,main,Bandit E,0000,0000,0000,,The treasures in this dungeon belong to us!
+Dialogue: 0,0:13:33.80,0:13:38.57,main,Hamon,0000,0000,0000,,I must say, there's nothing \Nbeautiful about being a bandit.
+Dialogue: 0,0:13:38.57,0:13:41.49,main,Hamon,0000,0000,0000,,Glass Creation Magic: Verre Épée!
+Dialogue: 0,0:13:42.41,0:13:43.21,main,Alecdora,0000,0000,0000,,Letoile!
+Dialogue: 0,0:13:43.21,0:13:44.79,main,Bandit F,0000,0000,0000,,Die!
+Dialogue: 0,0:13:44.79,0:13:46.35,main,Letoile,0000,0000,0000,,Willful Compass!
+Dialogue: 0,0:13:51.26,0:13:54.06,italics,Alecdora,0000,0000,0000,,How dare you use wind magic in front of me?!
+Dialogue: 0,0:13:54.33,0:13:57.19,italics,Alecdora,0000,0000,0000,,Sand Magic: Sand-Armored Guard!
+Dialogue: 0,0:14:00.18,0:14:03.05,italics,Alecdora,0000,0000,0000,,I will not shy away from fighting these bandits!
+Dialogue: 0,0:14:03.05,0:14:05.61,italics,Alecdora,0000,0000,0000,,I will get back all of those magic items!
+Dialogue: 0,0:14:15.72,0:14:17.47,main,Hamon,0000,0000,0000,,It appears we arrived at the same time.
+Dialogue: 0,0:14:17.47,0:14:20.92,main,David,0000,0000,0000,,Boo! I was hoping I could get \Nyou to treat me to something.
+Dialogue: 0,0:14:23.61,0:14:26.20,main,Gewalt,0000,0000,0000,,What? You're here already?
+Dialogue: 0,0:14:26.98,0:14:31.72,main,Gewalt,0000,0000,0000,,I guess peasant bandits aren't \Neven useful for stalling.
+Dialogue: 0,0:14:32.01,0:14:34.83,main,Gewalt,0000,0000,0000,,I even let them borrow some magic items.
+Dialogue: 0,0:14:35.85,0:14:40.52,main,Gewalt,0000,0000,0000,,Though they're just trash \Ncompared to what I have.
+Dialogue: 0,0:14:42.33,0:14:46.03,main,Letoile,0000,0000,0000,,Then I'm assuming you're \Naware that you're also trash.
+Dialogue: 0,0:14:46.03,0:14:51.28,main,Gewalt,0000,0000,0000,,That's not a nice thing to say \Nto a former senior Magic Knight,
+Dialogue: 0,0:14:51.28,0:14:53.32,main,Gewalt,0000,0000,0000,,you wannabe Magic Knights.
+Dialogue: 0,0:14:53.32,0:14:54.95,main,Alecdora,0000,0000,0000,,You have no chance of winning!
+Dialogue: 0,0:14:55.51,0:14:57.60,main,Alecdora,0000,0000,0000,,It'd be in your interest to cooperate.
+Dialogue: 0,0:14:57.60,0:14:59.92,main,Gewalt,0000,0000,0000,,I have to wonder about that.
+Dialogue: 0,0:15:02.43,0:15:05.79,main,Alecdora,0000,0000,0000,,Sand Binding Magic: Sand-Armored Heavy Guard!
+Dialogue: 0,0:15:05.79,0:15:08.44,main,Gewalt,0000,0000,0000,,Oh? Sand magic, eh?
+Dialogue: 0,0:15:10.76,0:15:14.93,main,Gewalt,0000,0000,0000,,A perfect match for my black earth magic.
+Dialogue: 0,0:15:15.22,0:15:18.68,main,Gewalt,0000,0000,0000,,Black Earth Creation Magic: Sludge Erosion!
+Dialogue: 0,0:15:23.31,0:15:24.90,main,Mimosa,0000,0000,0000,,Alecdora!
+Dialogue: 0,0:15:25.18,0:15:28.40,main,Mimosa,0000,0000,0000,,Plant Recovery Magic: \NDream-Healing Flower Cradle!
+Dialogue: 0,0:15:28.74,0:15:30.92,main,Gewalt,0000,0000,0000,,Guess you're tougher than you look.
+Dialogue: 0,0:15:30.92,0:15:33.74,main,Gewalt,0000,0000,0000,,Looks like you're down one now, though.
+Dialogue: 0,0:15:34.95,0:15:37.01,main,Hamon,0000,0000,0000,,Well, this is rather troublesome.
+Dialogue: 0,0:15:37.01,0:15:39.66,main,Hamon,0000,0000,0000,,Someone with enough talent \Nto become a Magic Knight
+Dialogue: 0,0:15:39.66,0:15:42.29,main,Hamon,0000,0000,0000,,has a magic item that increases his mana.
+Dialogue: 0,0:15:42.29,0:15:44.10,main,Klaus,0000,0000,0000,,But there's only one of him.
+Dialogue: 0,0:15:44.10,0:15:45.75,main,Klaus,0000,0000,0000,,We still have the advantage.
+Dialogue: 0,0:15:46.11,0:15:48.47,main,Klaus,0000,0000,0000,,I'm sure he's aware of that, too.
+Dialogue: 0,0:15:49.32,0:15:52.57,italics,Klaus,0000,0000,0000,,That confidence... Is he hiding something?
+Dialogue: 0,0:15:52.57,0:15:55.05,main,David,0000,0000,0000,,Well, no use thinking about it.
+Dialogue: 0,0:15:55.05,0:15:59.69,main,Hamon,0000,0000,0000,,Regardless of what our enemy may do, \Nwe shall strike back beautifully.
+Dialogue: 0,0:16:00.49,0:16:03.95,main,Hamon,0000,0000,0000,,Glass Creation Magic: Verre Fleur!
+Dialogue: 0,0:16:03.95,0:16:05.27,main,,0000,0000,0000,,Whoa, now!
+Dialogue: 0,0:16:05.27,0:16:08.36,main,,0000,0000,0000,,Steel Creation Magic: Fierce Spiral Lance!
+Dialogue: 0,0:16:08.36,0:16:12.24,main,Gewalt,0000,0000,0000,,Come on, now. Is this all you \Nnew Magic Knights can do?
+Dialogue: 0,0:16:14.07,0:16:16.83,italics,Letoile,0000,0000,0000,,Compass Magic: Willful Compass!
+Dialogue: 0,0:16:18.91,0:16:22.24,main,Gewalt,0000,0000,0000,,Huh... Well, that magic's interesting.
+Dialogue: 0,0:16:22.24,0:16:24.25,main,David,0000,0000,0000,,This is even more interesting!
+Dialogue: 0,0:16:24.70,0:16:27.25,main,David,0000,0000,0000,,Dice Magic: Gambler's Fallacy!
+Dialogue: 0,0:16:28.51,0:16:30.98,main,David,0000,0000,0000,,Looks like my luck's turning around.
+Dialogue: 0,0:16:30.98,0:16:33.55,main,David,0000,0000,0000,,But your luck ends right here.
+Dialogue: 0,0:16:35.55,0:16:36.55,main,David,0000,0000,0000,,What?!
+Dialogue: 0,0:16:40.23,0:16:43.89,main,Gewalt,0000,0000,0000,,This is the biggest prize in this dungeon.
+Dialogue: 0,0:16:43.89,0:16:48.73,main,Gewalt,0000,0000,0000,,No matter how powerful a \Nspell is, it sucks it right up.
+Dialogue: 0,0:16:48.95,0:16:50.32,main,Letoile,0000,0000,0000,,What?!
+Dialogue: 0,0:16:50.58,0:16:51.41,main,Yuno,0000,0000,0000,,Bell...
+Dialogue: 0,0:16:51.41,0:16:54.03,main,Bell,0000,0000,0000,,Yes, sir! Guess it's finally my turn.
+Dialogue: 0,0:16:54.03,0:16:56.96,main,Yuno,0000,0000,0000,,Wind Magic: Swift White Bow!
+Dialogue: 0,0:16:58.41,0:17:01.21,main,Gewalt,0000,0000,0000,,That goes for spirit magic, too.
+Dialogue: 0,0:17:02.87,0:17:05.67,main,Gewalt,0000,0000,0000,,That just felt like a gentle breeze to me.
+Dialogue: 0,0:17:07.17,0:17:09.17,main,Bell,0000,0000,0000,,Ugh! What is that stupid thing?!
+Dialogue: 0,0:17:09.54,0:17:13.92,main,Gewalt,0000,0000,0000,,So what will you do now? I think \Nyou understand what's going on here.
+Dialogue: 0,0:17:14.18,0:17:16.28,main,Yuno,0000,0000,0000,,Yeah, it's crystal clear.
+Dialogue: 0,0:17:16.28,0:17:20.73,main,Yuno,0000,0000,0000,,That's the best you've got as a mage, \Ndespite having help from magic items.
+Dialogue: 0,0:17:22.52,0:17:25.92,main,Yuno,0000,0000,0000,,You're no match for the Golden Dawn.
+Dialogue: 0,0:17:25.92,0:17:29.70,main,Yuno,0000,0000,0000,,I think hunting wild boars would be \Nmore enjoyable than fighting you.
+Dialogue: 0,0:17:31.37,0:17:35.40,main,Gewalt,0000,0000,0000,,If you're trying to piss me off, \Nit's not gonna work, you stupid brat.
+Dialogue: 0,0:17:36.49,0:17:38.48,main,David,0000,0000,0000,,You look pretty mad to me.
+Dialogue: 0,0:17:38.48,0:17:40.20,main,Letoile,0000,0000,0000,,It's just as Yuno said.
+Dialogue: 0,0:17:40.20,0:17:43.66,main,Letoile,0000,0000,0000,,We're not going to lose to a sad man \Nwho has to rely on magic items.
+Dialogue: 0,0:17:44.01,0:17:47.75,main,Klaus,0000,0000,0000,,We'd bring shame to the \NGolden Dawn if we backed down now.
+Dialogue: 0,0:17:48.02,0:17:50.84,main,Hamon,0000,0000,0000,,Now, let us have a beautiful battle.
+Dialogue: 0,0:17:52.66,0:17:56.59,main,Gewalt,0000,0000,0000,,I'll suck up all of your mana, just as you asked!
+Dialogue: 0,0:18:01.43,0:18:02.89,main,David,0000,0000,0000,,We're not done yet!
+Dialogue: 0,0:18:07.75,0:18:10.69,main,Gewalt,0000,0000,0000,,You guys don't know when to give up, do you?
+Dialogue: 0,0:18:12.40,0:18:14.55,main,Mimosa,0000,0000,0000,,You shouldn't move yet, Alecdora.
+Dialogue: 0,0:18:14.55,0:18:16.86,main,Alecdora,0000,0000,0000,,I'm fine now, Mimosa.
+Dialogue: 0,0:18:16.86,0:18:19.24,main,Alecdora,0000,0000,0000,,More importantly, please support Shiren.
+Dialogue: 0,0:18:19.56,0:18:21.86,main,Shiren,0000,0000,0000,,Find a spot with faint mana.
+Dialogue: 0,0:18:21.86,0:18:24.24,main,Shiren,0000,0000,0000,,I will look for weak spots in the cave.
+Dialogue: 0,0:18:24.53,0:18:25.58,main,Mimosa,0000,0000,0000,,Right.
+Dialogue: 0,0:18:26.33,0:18:28.92,main,Yuno,0000,0000,0000,,Wind Magic: Tornado Fang!
+Dialogue: 0,0:18:31.31,0:18:32.79,main,Gewalt,0000,0000,0000,,How long are you gonna keep this up?
+Dialogue: 0,0:18:34.30,0:18:36.17,italics,Gewalt,0000,0000,0000,,Impossible... He's...
+Dialogue: 0,0:18:36.17,0:18:39.05,italics,Gewalt,0000,0000,0000,,Damn it. Guess you aren't dead yet.
+Dialogue: 0,0:18:39.38,0:18:41.42,main,Klaus,0000,0000,0000,,I'll end it with this strike!
+Dialogue: 0,0:18:41.42,0:18:44.14,main,Klaus,0000,0000,0000,,Steel Magic: Blazing Spiral Lance!
+Dialogue: 0,0:18:44.49,0:18:47.06,main,David,0000,0000,0000,,Dice Magic: Gambler's Fallacy!
+Dialogue: 0,0:18:47.57,0:18:50.56,main,David,0000,0000,0000,,I think this'll be enough.
+Dialogue: 0,0:18:50.56,0:18:53.17,main,Gewalt,0000,0000,0000,,All right, fine! Let's find out what'll come first:
+Dialogue: 0,0:18:53.17,0:18:57.54,main,Gewalt,0000,0000,0000,,my magic items breaking or \Nyou running out of mana!
+Dialogue: 0,0:18:57.54,0:18:59.20,main,Yuno,0000,0000,0000,,We're not aiming for you.
+Dialogue: 0,0:18:59.20,0:19:01.95,main,Letoile,0000,0000,0000,,Compass Magic: Willful Compass!
+Dialogue: 0,0:19:07.25,0:19:10.50,italics,Gewalt,0000,0000,0000,,A pitfall? This is what they were after?
+Dialogue: 0,0:19:12.50,0:19:15.71,main,Bell,0000,0000,0000,,Ugh, you sure don't know how \Nto treat spirits properly.
+Dialogue: 0,0:19:17.40,0:19:20.75,main,Gewalt,0000,0000,0000,,I still have this!
+Dialogue: 0,0:19:21.62,0:19:23.93,main,Alecdora,0000,0000,0000,,This is the end of the line for you.
+Dialogue: 0,0:19:23.93,0:19:29.39,main,Gewalt,0000,0000,0000,,I told you! I have the obvious \Nadvantage against your magic!
+Dialogue: 0,0:19:38.12,0:19:39.69,main,Yuno,0000,0000,0000,,And I'm sure I told you, too...
+Dialogue: 0,0:19:46.58,0:19:50.46,main,Yuno,0000,0000,0000,,that you're no match for the Golden Dawn.
+Dialogue: 0,0:19:54.16,0:19:56.96,main,William,0000,0000,0000,,Thank you for leading the group, Alecdora.
+Dialogue: 0,0:19:57.43,0:20:02.44,main,Alecdora,0000,0000,0000,,I became unable to fight at one point \Nin our battle against the bandits.
+Dialogue: 0,0:20:02.96,0:20:06.22,main,Alecdora,0000,0000,0000,,This mission was only successful \Nbecause of the others.
+Dialogue: 0,0:20:07.57,0:20:08.93,main,William,0000,0000,0000,,Is that so, Yuno?
+Dialogue: 0,0:20:09.46,0:20:11.78,main,Yuno,0000,0000,0000,,Alecdora's orders were meticulous.
+Dialogue: 0,0:20:12.66,0:20:14.71,main,Alecdora,0000,0000,0000,,Why are you defending me?
+Dialogue: 0,0:20:15.86,0:20:17.44,main,Yuno,0000,0000,0000,,I'm only speaking the truth.
+Dialogue: 0,0:20:17.77,0:20:19.48,main,Alecdora,0000,0000,0000,,Then allow me to say this, too.
+Dialogue: 0,0:20:20.02,0:20:23.21,main,Alecdora,0000,0000,0000,,There were many members of the \NGolden Dawn who looked down on you
+Dialogue: 0,0:20:23.21,0:20:24.34,main,Alecdora,0000,0000,0000,,for being a peasant.
+Dialogue: 0,0:20:24.34,0:20:27.45,main,Alecdora,0000,0000,0000,,They despised you and were \Njealous of your powers.
+Dialogue: 0,0:20:27.45,0:20:29.45,main,Alecdora,0000,0000,0000,,That includes myself, too.
+Dialogue: 0,0:20:30.11,0:20:34.17,main,Alecdora,0000,0000,0000,,Why in the world would you have \Nto defend the likes of them?
+Dialogue: 0,0:20:34.17,0:20:35.58,main,Yuno,0000,0000,0000,,Because they're my comrades.
+Dialogue: 0,0:20:36.19,0:20:39.36,main,Yuno,0000,0000,0000,,I don't need a reason to know that my \Ncomrades are important to me.
+Dialogue: 0,0:20:40.55,0:20:45.79,main,Klaus,0000,0000,0000,,I also looked down on peasants \Njust because of their status.
+Dialogue: 0,0:20:45.79,0:20:49.72,main,Klaus,0000,0000,0000,,But after being rescued by \Na peasant with no magic,
+Dialogue: 0,0:20:49.72,0:20:51.43,main,Klaus,0000,0000,0000,,I decided to reconsider some things.
+Dialogue: 0,0:20:51.43,0:20:53.41,main,Yuno,0000,0000,0000,,Please don't compare me to {\i1}him{\i0}.
+Dialogue: 0,0:20:53.41,0:20:54.48,main,Mimosa,0000,0000,0000,,Y-Yuno!
+Dialogue: 0,0:20:54.73,0:20:56.00,main,Alecdora,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:20:56.71,0:20:59.12,main,Yuno,0000,0000,0000,,I don't know why you're apologizing.
+Dialogue: 0,0:20:59.12,0:21:01.88,main,Alecdora,0000,0000,0000,,I'm sure you really don't.
+Dialogue: 0,0:21:01.88,0:21:04.49,main,Alecdora,0000,0000,0000,,But I won't be satisfied if I don't say it.
+Dialogue: 0,0:21:05.28,0:21:08.58,main,Alecdora,0000,0000,0000,,Just so you know, I still haven't \Nacknowledged you, though.
+Dialogue: 0,0:21:16.20,0:21:18.09,main,Alecdora,0000,0000,0000,,Are you here to report to Lord Vangeance?
+Dialogue: 0,0:21:18.09,0:21:19.07,main,Yuno,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:19.07,0:21:22.59,main,Hamon,0000,0000,0000,,Then let's all go get something \Nto eat after we're done reporting.
+Dialogue: 0,0:21:23.75,0:21:26.47,italics,Klaus,0000,0000,0000,,This is the perfect opportunity for \NYuno to bond with the others!
+Dialogue: 0,0:21:26.47,0:21:27.87,main,Klaus,0000,0000,0000,,Yes, we'd be happy to!
+Dialogue: 0,0:21:27.87,0:21:28.95,main,Klaus,0000,0000,0000,,Yuno, wait!
+Dialogue: 0,0:21:28.95,0:21:29.91,main,Shiren,0000,0000,0000,,Yuno...
+Dialogue: 0,0:21:30.39,0:21:34.48,main,Hamon,0000,0000,0000,,We're also inviting you... rather, \Nthis invitation was specifically for you, Yuno.
+Dialogue: 0,0:21:34.48,0:21:36.24,main,Yuno,0000,0000,0000,,Huh? No, I...
+Dialogue: 0,0:21:36.24,0:21:39.98,main,Letoile,0000,0000,0000,,Hamon knows a number of places around \Nthe royal capital that serve delicious food.
+Dialogue: 0,0:21:39.98,0:21:43.86,main,David,0000,0000,0000,,Let's just invite the whole \Ngang and have a blast!
+Dialogue: 0,0:21:44.72,0:21:47.62,flashbackitalics,Asta,0000,0000,0000,,We don't have any blood relatives,
+Dialogue: 0,0:21:47.62,0:21:49.92,flashbackitalics,Asta,0000,0000,0000,,but all of the friends we've met,
+Dialogue: 0,0:21:49.92,0:21:51.84,flashbackitalics,Asta,0000,0000,0000,,and all of the friends we'll meet someday,
+Dialogue: 0,0:21:51.84,0:21:54.20,flashbackitalics,Asta,0000,0000,0000,,are people we should treasure as family.
+Dialogue: 0,0:21:54.87,0:21:56.86,main,Mimosa,0000,0000,0000,,What do you think, Yuno?
+Dialogue: 0,0:21:58.22,0:21:59.96,main,Klaus,0000,0000,0000,,Yuno, are you embarrassed?
+Dialogue: 0,0:21:59.96,0:22:01.11,main,Yuno,0000,0000,0000,,I am not.
+Dialogue: 0,0:22:01.11,0:22:02.25,main,Mimosa,0000,0000,0000,,You are, though.
+Dialogue: 0,0:22:02.25,0:22:03.22,main,Yuno,0000,0000,0000,,I am not.
+Dialogue: 0,0:22:03.22,0:22:04.94,main,Bell,0000,0000,0000,,Ooh, let me see!
+Dialogue: 0,0:22:04.94,0:22:06.15,main,Yuno,0000,0000,0000,,Absolutely not!
+Dialogue: 0,0:23:40.02,0:23:43.79,main,Asta,0000,0000,0000,,In order to fight against the threats \Nof the Spade Kingdom and the devil,
+Dialogue: 0,0:23:43.79,0:23:45.48,main,Asta,0000,0000,0000,,we're going to get even stronger!
+Dialogue: 0,0:23:45.48,0:23:49.86,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, \NPage 142: "Those Remaining."
+Dialogue: 0,0:23:46.69,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 142\N\N{\fs18} Those Remaining
+Dialogue: 0,0:23:49.86,0:23:51.16,main,Asta,0000,0000,0000,,Who the heck are you guys?
+Dialogue: 0,0:23:51.16,0:23:53.18,main,Asta,0000,0000,0000,,Those who wish the devil to perish?

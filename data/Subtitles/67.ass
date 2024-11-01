@@ -1,0 +1,391 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0040,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+ 
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+
+Dialogue: 0,0:00:02.71,0:00:06.80,italics,nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.08,0:00:15.30,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.55,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:31.13,0:00:32.73,italics,Nar,0000,0000,0000,,And currently...
+Dialogue: 0,0:00:35.80,0:00:40.17,main,Asta,0000,0000,0000,,Now that my arms are better, I need \Nto make up for all the time I've lost!
+Dialogue: 0,0:00:40.17,0:00:44.66,italics,Nar,0000,0000,0000,,It appeared as though peaceful days \Nhad returned to the Black Bulls.
+Dialogue: 0,0:00:44.66,0:00:48.51,main,Magna,0000,0000,0000,,Man, there haven't been any \Nincidents lately. It's so boring.
+Dialogue: 0,0:00:48.51,0:00:50.84,main,Vanessa,0000,0000,0000,,It's so peaceful!
+Dialogue: 0,0:00:52.88,0:00:57.26,italics,Nar,0000,0000,0000,,But a single mage destroyed it all.
+Dialogue: 0,0:00:53.82,0:00:57.26,sign_1383_10_Raging_Bull,Sign,0000,0000,0000,,Raging Bull
+Dialogue: 0,0:00:57.57,0:01:00.14,main,Asta,0000,0000,0000,,One potato! Two potato! Three potato, four!
+Dialogue: 0,0:00:58.16,0:01:00.14,main,Yami,0000,0000,0000,,All right, all eyes up here.
+Dialogue: 0,0:01:02.99,0:01:06.35,italics,Nar,0000,0000,0000,,He was called the Captain of the Black Bulls,
+Dialogue: 0,0:01:07.16,0:01:09.60,italics,Nar,0000,0000,0000,,and for some reason,\Nhe was wearing a happi coat.
+Dialogue: 0,0:01:14.49,0:01:16.86,main,Yami,0000,0000,0000,,So, yeah, there's a festival happening.
+Dialogue: 0,0:01:17.37,0:01:19.03,main,Both,0000,0000,0000,,A festival?
+Dialogue: 0,0:01:40.59,0:01:44.39,Ep Title,Sign,0000,0000,0000,,{\fad(187,1)}A Fun Festival Double Date
+Dialogue: 0,0:02:49.47,0:02:50.87,main,Asta,0000,0000,0000,,Captain Yami!
+Dialogue: 0,0:02:51.37,0:02:53.37,main,Asta,0000,0000,0000,,What's this festival all about?!
+Dialogue: 0,0:02:53.84,0:02:57.37,main,Magna,0000,0000,0000,,To put it simply, it's a \Nfriggin' awesome festival!
+Dialogue: 0,0:02:57.37,0:02:58.24,main,Magna,0000,0000,0000,,Understand now?
+Dialogue: 0,0:02:58.24,0:02:59.21,main,Asta,0000,0000,0000,,I see!
+Dialogue: 0,0:02:59.60,0:03:01.95,main,Asta,0000,0000,0000,,Or not at all!
+Dialogue: 0,0:03:01.95,0:03:03.30,main,Noelle,0000,0000,0000,,That was a bit too simple.
+Dialogue: 0,0:03:03.93,0:03:07.67,main,Noelle,0000,0000,0000,,Finral, explain this festival in more detail.
+Dialogue: 0,0:03:07.67,0:03:09.18,main,Finral,0000,0000,0000,,Huh? U-Uh, sure...
+Dialogue: 0,0:03:09.70,0:03:11.56,italics,Finral,0000,0000,0000,,But I have seniority...
+Dialogue: 0,0:03:11.56,0:03:14.44,main,Finral,0000,0000,0000,,As you all know, the Wizard King awards stars
+Dialogue: 0,0:03:14.44,0:03:16.65,main,Finral,0000,0000,0000,,to Magic Knights Squads to\Nrecognize their achievements.
+Dialogue: 0,0:03:16.65,0:03:21.07,main,Finral,0000,0000,0000,,All of the squads compete to \Nsee who can get the most stars.
+Dialogue: 0,0:03:21.53,0:03:23.94,main,Finral,0000,0000,0000,,Then they announce the number \Nof stars won in a year
+Dialogue: 0,0:03:23.94,0:03:27.36,main,Finral,0000,0000,0000,,and determine the top squad for that \Nyear. That's what this festival is.
+Dialogue: 0,0:03:27.36,0:03:30.19,main,Asta,0000,0000,0000,,Heck yeah! Let's shoot for number one!
+Dialogue: 0,0:03:30.19,0:03:32.59,main,Noelle,0000,0000,0000,,Considering how much trouble \Nour squad causes each year,
+Dialogue: 0,0:03:32.59,0:03:34.88,main,Noelle,0000,0000,0000,,I'm sure we're always fighting for last place.
+Dialogue: 0,0:03:34.88,0:03:36.08,main,Yami,0000,0000,0000,,Nope!
+Dialogue: 0,0:03:36.33,0:03:42.15,sign_5280_37_Last_Year_s_Star,Sign,0000,0000,0000,,Last Year's Star Numbers\N\N1: Golden Dawn 96\N2: Crimson Lion Kings 93\N3: Silver Eagles 88\N4: Purple Orcas 74\N5: Blue Rose Knights 72\N6: Green Praying Mantises 65\N7: Aqua Deer 53\N8: Coral Peacocks 51\N9: Black Bulls -50
+Dialogue: 0,0:03:37.81,0:03:39.77,main,Yami,0000,0000,0000,,We're dead last, without contest.
+Dialogue: 0,0:03:39.77,0:03:41.95,main,Yami,0000,0000,0000,,I mean, we're the only squad in the negative.
+Dialogue: 0,0:03:41.95,0:03:45.09,main,Asta,0000,0000,0000,,What?! We're causing way \Ntoo much trouble, then!
+Dialogue: 0,0:03:45.09,0:03:48.24,main,Finral,0000,0000,0000,,Also, this festival is held \Nin full view of the public,
+Dialogue: 0,0:03:48.24,0:03:51.97,main,Finral,0000,0000,0000,,and is the biggest, most-loved \Nfestival of the year.
+Dialogue: 0,0:03:52.34,0:03:53.23,main,Yami,0000,0000,0000,,And it's called...
+Dialogue: 0,0:03:53.23,0:03:53.98,sign_5685_45_The,Sign,0000,0000,0000,,The
+Dialogue: 0,0:03:53.31,0:03:53.98,sign_5685_44_Raging_Bull,Sign,0000,0000,0000,,Raging\N Bull
+Dialogue: 0,0:03:53.98,0:03:54.73,sign_5685_45_The,Sign,0000,0000,0000,,Star
+Dialogue: 0,0:03:54.73,0:03:55.48,sign_5685_45_The,Sign,0000,0000,0000,,Festival
+Dialogue: 0,0:03:55.48,0:03:57.36,sign_5739_50_Festival_,Sign,0000,0000,0000,,Festival
+Dialogue: 0,0:03:56.04,0:03:57.36,main,Yami,0000,0000,0000,,...the Star Festival!
+Dialogue: 0,0:03:57.36,0:03:58.77,sign_5784_49_The_Star_Festiva,Sign,0000,0000,0000,,{\fad(1063,1)}The Star Festival
+Dialogue: 0,0:03:57.36,0:03:58.77,sign_5784_51_Festival_,Sign,0000,0000,0000,,Festival
+Dialogue: 0,0:03:59.87,0:04:01.48,main,Magna,0000,0000,0000,,Whoo! Mister Yami!
+Dialogue: 0,0:04:01.48,0:04:05.07,main,Yami,0000,0000,0000,,He's really into this! \NCaptain Yami is surprisingly into this!
+Dialogue: 0,0:04:05.07,0:04:08.70,main,Yami,0000,0000,0000,,Right. I can never get into this \Nstupid festival, but let's go.
+Dialogue: 0,0:04:08.70,0:04:10.27,main,Noelle,0000,0000,0000,,Yet you're dressed like that?
+Dialogue: 0,0:04:10.27,0:04:11.99,main,Magna,0000,0000,0000,,I'll go with you, Mister Yami!
+Dialogue: 0,0:04:12.37,0:04:17.43,main,All,0000,0000,0000,,Festival! Festival! Festival! Festival!
+Dialogue: 0,0:04:12.37,0:04:17.43,top,Finral,0000,0000,0000,,Girls! Girls! Girls! Girls!
+Dialogue: 0,0:04:17.43,0:04:19.75,main,Asta,0000,0000,0000,,Oh, sorry to interrupt, but Finral...
+Dialogue: 0,0:04:17.43,0:04:20.59,top,Finral,0000,0000,0000,,Girls! Girls! Girls... hm?
+Dialogue: 0,0:04:20.96,0:04:24.30,main,Asta,0000,0000,0000,,There are some people \NI'd like you to bring with us.
+Dialogue: 0,0:04:41.92,0:04:44.59,main,Asta,0000,0000,0000,,This is awesome!
+Dialogue: 0,0:04:45.64,0:04:48.89,main,Yami,0000,0000,0000,,All right! Go live it up, you dumbasses!
+Dialogue: 0,0:04:46.59,0:04:51.49,sign_6964_64_Raging_Bull,Sign,0000,0000,0000,,Raging Bull
+Dialogue: 0,0:04:46.59,0:04:51.49,sign_6964_65_Festival,Sign,0000,0000,0000,,Festival
+Dialogue: 0,0:04:48.89,0:04:51.49,main,Yami,0000,0000,0000,,There's still time before \Nthey announce the rankings!
+Dialogue: 0,0:04:51.85,0:04:54.25,main,Vanessa,0000,0000,0000,,Woohoo! I'm drinking tonight!
+Dialogue: 0,0:04:54.25,0:04:56.25,main,Charmy,0000,0000,0000,,La! Noms!
+Dialogue: 0,0:04:56.57,0:04:58.85,main,Magna,0000,0000,0000,,I'm gonna go get some food, too.
+Dialogue: 0,0:04:59.37,0:05:01.92,main,Gauche,0000,0000,0000,,I wonder what I should get for Marie.
+Dialogue: 0,0:05:01.92,0:05:04.89,main,Luck,0000,0000,0000,,I wonder if there's anyone strong around.
+Dialogue: 0,0:05:09.40,0:05:10.76,main,Kid,0000,0000,0000,,Hey...
+Dialogue: 0,0:05:10.76,0:05:13.56,main,Kid,0000,0000,0000,,Where'd you buy that funny-looking mask?
+Dialogue: 0,0:05:13.99,0:05:15.21,main,Gordon,0000,0000,0000,,This is my face.
+Dialogue: 0,0:05:16.40,0:05:18.06,main,Mom,0000,0000,0000,,Stop that!
+Dialogue: 0,0:05:19.71,0:05:22.05,main,Asta,0000,0000,0000,,I'm super excited!
+Dialogue: 0,0:05:22.05,0:05:25.86,main,Asta,0000,0000,0000,,I wish I could show this \Nto everyone back in Hage!
+Dialogue: 0,0:05:26.87,0:05:29.32,main,Noelle,0000,0000,0000,,Don't get so excited that \Nyou end up getting lost.
+Dialogue: 0,0:05:29.88,0:05:33.91,main,Noelle,0000,0000,0000,,W-Well, I guess I'd better \Ngo around with you.
+Dialogue: 0,0:05:33.91,0:05:35.13,main,Kiato,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:35.13,0:05:36.72,main,Asta,0000,0000,0000,,Oh, there they are!
+Dialogue: 0,0:05:38.37,0:05:41.17,main,Noelle,0000,0000,0000,,Kahono! Kiato!
+Dialogue: 0,0:05:42.81,0:05:44.05,main,Noelle,0000,0000,0000,,I've missed you guys!
+Dialogue: 0,0:05:44.45,0:05:47.12,main,Kiato,0000,0000,0000,,Asta! You're looking great!
+Dialogue: 0,0:05:47.12,0:05:48.33,main,Asta,0000,0000,0000,,Yeah!
+Dialogue: 0,0:05:48.81,0:05:50.69,main,Noelle,0000,0000,0000,,What brings you here, though?
+Dialogue: 0,0:05:50.69,0:05:53.53,main,Asta,0000,0000,0000,,I had Finral bring them over.
+Dialogue: 0,0:05:53.53,0:05:56.81,main,Finral,0000,0000,0000,,Always happy to help out one \Nof my adorable juniors.
+Dialogue: 0,0:05:57.15,0:06:01.03,main,Finral,0000,0000,0000,,Now, if you'll excuse me, I've got \Nsome ka{\i1}yute{\i0} girls waiting for me.
+Dialogue: 0,0:06:01.03,0:06:02.84,main,Finral,0000,0000,0000,,Flirty, flirty, flirt!
+Dialogue: 0,0:06:02.84,0:06:05.76,main,Kiato,0000,0000,0000,,So this is what a festival\N in a surface city is like!
+Dialogue: 0,0:06:05.76,0:06:07.53,main,Kiato,0000,0000,0000,,It's amazing!
+Dialogue: 0,0:06:09.79,0:06:13.20,italics,Kiato,0000,0000,0000,,I'm already grateful enough that you \Nguys saved the Underwater Temple
+Dialogue: 0,0:06:13.56,0:06:16.68,italics,Kiato,0000,0000,0000,,from those terrifying \NEye of the Midnight Sun guys.
+Dialogue: 0,0:06:17.96,0:06:20.16,italics,Kiato,0000,0000,0000,,Thanks for inviting us, Asta.
+Dialogue: 0,0:06:20.16,0:06:22.96,italics,Kiato,0000,0000,0000,,And there's my beautiful goddess!
+Dialogue: 0,0:06:25.79,0:06:28.81,main,Kiato,0000,0000,0000,,Kahono, you still can't talk,\Nso don't get too excited.
+Dialogue: 0,0:06:33.11,0:06:36.08,italics,Kiato,0000,0000,0000,,I'm sure Kahono really wants to sing.
+Dialogue: 0,0:06:37.64,0:06:38.60,italics,Kiato,0000,0000,0000,,And I...
+Dialogue: 0,0:06:40.64,0:06:43.64,main,Asta,0000,0000,0000,,Kiato, did you bring your leg?
+Dialogue: 0,0:06:43.64,0:06:45.48,main,Kiato,0000,0000,0000,,Huh? Yeah...
+Dialogue: 0,0:06:45.81,0:06:49.10,main,Kiato,0000,0000,0000,,We preserved it with water \Nmagic. Why do you ask?
+Dialogue: 0,0:06:49.10,0:06:49.90,main,Asta,0000,0000,0000,,Good.
+Dialogue: 0,0:06:50.40,0:06:52.05,main,Asta,0000,0000,0000,,In that case...
+Dialogue: 0,0:07:08.77,0:07:09.67,main,Kiato,0000,0000,0000,,My leg!
+Dialogue: 0,0:07:10.08,0:07:13.05,main,Asta,0000,0000,0000,,Awesome! We got secret witch \Nspells from the Queen of Witches,
+Dialogue: 0,0:07:13.05,0:07:15.34,main,Asta,0000,0000,0000,,and that was one of her healing spells!
+Dialogue: 0,0:07:17.09,0:07:18.14,main,Kiato,0000,0000,0000,,This is amazing!
+Dialogue: 0,0:07:20.32,0:07:23.89,main,Kiato,0000,0000,0000,,I can dance! Just like before!
+Dialogue: 0,0:07:26.55,0:07:28.45,main,Kahono,0000,0000,0000,,No...elle?
+Dialogue: 0,0:07:29.52,0:07:31.65,main,Kahono,0000,0000,0000,,My voice... I can talk!
+Dialogue: 0,0:07:33.21,0:07:35.66,main,Kahono,0000,0000,0000,,I... can....
+Dialogue: 0,0:07:36.99,0:07:38.20,main,Kahono,0000,0000,0000,,sing again!
+Dialogue: 0,0:07:38.20,0:07:39.89,main,Kahono,0000,0000,0000,,Noelle!
+Dialogue: 0,0:07:41.33,0:07:43.02,main,Kahono,0000,0000,0000,,Thank you!
+Dialogue: 0,0:07:43.02,0:07:44.13,main,Noelle,0000,0000,0000,,Kahono!
+Dialogue: 0,0:07:43.02,0:07:45.16,main,Kahono,0000,0000,0000,,Thank you so much, Noelle!
+Dialogue: 0,0:07:44.13,0:07:46.42,main,Noelle,0000,0000,0000,,I'm so happy for you!
+Dialogue: 0,0:07:48.16,0:07:50.45,main,Kiato,0000,0000,0000,,Thank you so much, Asta!
+Dialogue: 0,0:07:50.45,0:07:51.67,main,Asta,0000,0000,0000,,S-Sure...
+Dialogue: 0,0:08:11.40,0:08:15.92,italics,Kahono,0000,0000,0000,,Everyone can hear my song again...\NThank you so much!
+Dialogue: 0,0:08:22.95,0:08:24.62,main,Lady,0000,0000,0000,,That was so pretty!
+Dialogue: 0,0:08:24.62,0:08:25.87,main,Guy,0000,0000,0000,,What a magnificent voice!
+Dialogue: 0,0:08:26.92,0:08:30.22,main,Kiato,0000,0000,0000,,I guess now we can strive to be idols again!
+Dialogue: 0,0:08:30.22,0:08:33.59,main,Kahono,0000,0000,0000,,Yeah! I'm gonna get even better,\Nand then get filthy rich!
+Dialogue: 0,0:08:34.79,0:08:36.44,main,Asta,0000,0000,0000,,O-Oh, right...
+Dialogue: 0,0:08:36.44,0:08:37.97,main,Noelle,0000,0000,0000,,That's her main goal.
+Dialogue: 0,0:08:37.97,0:08:40.93,main,Kiato,0000,0000,0000,,Kahono's way more responsible than I am.
+Dialogue: 0,0:08:40.93,0:08:42.82,main,Kahono,0000,0000,0000,,Money's important!
+Dialogue: 0,0:08:42.82,0:08:45.99,main,Kahono,0000,0000,0000,,Hey, this festival only \Nhappens once a year, right?
+Dialogue: 0,0:08:45.99,0:08:47.98,main,Kahono,0000,0000,0000,,Let's have a total blast!
+Dialogue: 0,0:08:47.98,0:08:49.22,main,Both,0000,0000,0000,,Yeah!
+Dialogue: 0,0:08:49.22,0:08:52.92,italics,Kiato,0000,0000,0000,,Your heart is mine, my beautiful goddess.
+Dialogue: 0,0:08:56.08,0:08:57.36,main,Magna,0000,0000,0000,,Shrimpsta!
+Dialogue: 0,0:08:58.67,0:09:01.77,main,Asta,0000,0000,0000,,Magna! What's that giant thing?
+Dialogue: 0,0:09:01.77,0:09:05.59,main,Magna,0000,0000,0000,,What else? It's a cannon to shoot fireworks!
+Dialogue: 0,0:09:05.59,0:09:07.18,main,Asta,0000,0000,0000,,Fireworks?!
+Dialogue: 0,0:09:07.18,0:09:11.43,main,Magna,0000,0000,0000,,I'm gonna be shootin' them off once the \Nsun goes down, so you better help me!
+Dialogue: 0,0:09:11.43,0:09:12.31,main,Asta,0000,0000,0000,,Heck yeah!
+Dialogue: 0,0:09:12.31,0:09:16.63,main,Asta,0000,0000,0000,,Oh, but I'm about to go enjoy \Nthe festival with them.
+Dialogue: 0,0:09:16.63,0:09:19.47,main,Magna,0000,0000,0000,,What? You aren't going \Nto listen to your senior?
+Dialogue: 0,0:09:20.47,0:09:24.14,main,Magna,0000,0000,0000,,There're two guys... and two girls.
+Dialogue: 0,0:09:24.68,0:09:29.18,main,Magna,0000,0000,0000,,H-Hey... Are you guys going\N on a d-double date?
+Dialogue: 0,0:09:29.18,0:09:29.98,main,Noelle,0000,0000,0000,,Double?!
+Dialogue: 0,0:09:30.67,0:09:33.06,main,Magna,0000,0000,0000,,Not bad, Shrimpsta.
+Dialogue: 0,0:09:33.06,0:09:36.43,main,Asta,0000,0000,0000,,Uh, what's this double whatever thing?
+Dialogue: 0,0:09:36.43,0:09:38.74,main,Magna,0000,0000,0000,,Huh? A double date's—
+Dialogue: 0,0:09:40.16,0:09:44.24,main,Noelle,0000,0000,0000,,Th-That's not it at all! \NWh-Wh-Wh-Wh-What are you talking about?!
+Dialogue: 0,0:09:44.81,0:09:47.66,italics,Kiato,0000,0000,0000,,I certainly won't complain about \Na date with my beautiful goddess.
+Dialogue: 0,0:09:49.12,0:09:52.64,italics,Kahono,0000,0000,0000,,Jeez... I see you still have \Na problem with being honest.
+Dialogue: 0,0:09:52.64,0:09:54.00,italics,Kahono,0000,0000,0000,,That means I'll just have to...
+Dialogue: 0,0:09:54.36,0:09:55.64,main,Kahono,0000,0000,0000,,Oh, come on!
+Dialogue: 0,0:09:55.64,0:09:59.34,main,Kahono,0000,0000,0000,,It's been forever since we've seen \Neach other, so let's all have a blast!
+Dialogue: 0,0:09:59.34,0:10:02.85,main,Kahono,0000,0000,0000,,I know! Let's actually make it a double date!
+Dialogue: 0,0:10:02.85,0:10:04.35,main,Both,0000,0000,0000,,What?!
+Dialogue: 0,0:10:04.72,0:10:07.93,italics,Asta,0000,0000,0000,,What the heck's about to happen here?!
+Dialogue: 0,0:10:14.73,0:10:17.65,main,Kahono,0000,0000,0000,,Okay! Let the double date begin!
+Dialogue: 0,0:10:17.65,0:10:21.91,italics,Noelle,0000,0000,0000,,A d-double date? That's w-way too bold!
+Dialogue: 0,0:10:22.80,0:10:27.87,italics,Noelle,0000,0000,0000,,For Kahono to bring this up... \NDoes that mean she likes Asta?
+Dialogue: 0,0:10:27.87,0:10:31.37,italics,Kiato,0000,0000,0000,,Kahono... She's doing this to bring \Nme and my goddess together.
+Dialogue: 0,0:10:32.32,0:10:35.46,italics,Kiato,0000,0000,0000,,Well done, little sister! \NYour big bro's gonna do his best!
+Dialogue: 0,0:10:35.46,0:10:38.34,italics,Kahono,0000,0000,0000,,What the heck's a double date?!
+Dialogue: 0,0:10:38.34,0:10:39.60,main,Asta,0000,0000,0000,,Whoa!
+Dialogue: 0,0:10:39.60,0:10:43.01,main,Kahono,0000,0000,0000,,Come on, Asta. Let's go have some fun!
+Dialogue: 0,0:10:43.01,0:10:46.10,main,Asta,0000,0000,0000,,Ah, so a double date means having fun!
+Dialogue: 0,0:10:48.27,0:10:52.21,italics,Noelle,0000,0000,0000,,S-So I was right?! Goodness, she l-linked \Narms with him right in front of me!
+Dialogue: 0,0:10:55.07,0:10:56.65,main,Kiato,0000,0000,0000,,Shall we dance as we go?
+Dialogue: 0,0:10:57.84,0:10:59.19,italics,Kahono,0000,0000,0000,,Yup. She's panicking.
+Dialogue: 0,0:10:59.70,0:11:04.46,italics,Kahono,0000,0000,0000,,Noelle, if you don't do something, \NI'm going to enjoy this festival with Asta.
+Dialogue: 0,0:11:04.46,0:11:08.20,italics,Kahono,0000,0000,0000,,If you don't fight and win, \Nyour wish won't come true!
+Dialogue: 0,0:11:10.07,0:11:12.85,main,Asta,0000,0000,0000,,So good! Yum!
+Dialogue: 0,0:11:15.16,0:11:18.12,main,Kiato,0000,0000,0000,,Could you write "my beloved goddess"\N in mayonnaise for me?
+Dialogue: 0,0:11:18.12,0:11:19.17,main,Guy,0000,0000,0000,,"My beefy glasses"?
+Dialogue: 0,0:11:19.61,0:11:22.01,main,Kiato,0000,0000,0000,,No, "my beloved goddess."
+Dialogue: 0,0:11:24.23,0:11:26.39,main,Asta,0000,0000,0000,,I can't shoot!
+Dialogue: 0,0:11:26.39,0:11:29.40,main,Guy,0000,0000,0000,,Sir, you've got to use your magical power.
+Dialogue: 0,0:11:29.40,0:11:30.68,main,Kahono,0000,0000,0000,,In that case...
+Dialogue: 0,0:11:31.79,0:11:33.01,main,Kahono,0000,0000,0000,,Use some of mine.
+Dialogue: 0,0:11:33.64,0:11:34.44,main,Asta,0000,0000,0000,,Thanks!
+Dialogue: 0,0:11:36.40,0:11:38.76,main,Guy,0000,0000,0000,,Hey! What're you doing, miss?!
+Dialogue: 0,0:11:37.01,0:11:40.17,top,Noelle,0000,0000,0000,,Ugh! What's your deal?!
+Dialogue: 0,0:11:39.24,0:11:42.49,main,Kiato,0000,0000,0000,,I found this lovely mask that'd \Nbe perfect for you, my goddess!
+Dialogue: 0,0:11:43.52,0:11:47.25,main,Kahono,0000,0000,0000,,Woohoo! I got a prize in the magic gun game!
+Dialogue: 0,0:11:48.11,0:11:49.66,main,Asta,0000,0000,0000,,You're awesome, Kahono!
+Dialogue: 0,0:11:50.00,0:11:53.33,main,Asta,0000,0000,0000,,I got some smaller balls \Nas a consolation prize!
+Dialogue: 0,0:11:53.75,0:11:56.61,italics,Noelle,0000,0000,0000,,Those two seem like a good match.
+Dialogue: 0,0:11:57.43,0:12:01.59,italics,Noelle,0000,0000,0000,,Wh-Why do I have to care \Nabout something like that?!
+Dialogue: 0,0:12:02.08,0:12:05.51,main,Kiato,0000,0000,0000,,My beautiful goddess, a crêpe for thee!
+Dialogue: 0,0:12:05.96,0:12:09.93,italics,Kahono,0000,0000,0000,,Ugh, why aren't you even trying, Noelle?
+Dialogue: 0,0:12:09.93,0:12:13.14,italics,Kahono,0000,0000,0000,,At this rate, I'm just getting \Nin the way of your crush.
+Dialogue: 0,0:12:13.14,0:12:16.23,italics,Kahono,0000,0000,0000,,I guess I'll just have to change things up.
+Dialogue: 0,0:12:16.23,0:12:18.40,italics,Kahono,0000,0000,0000,,I know the perfect spot.
+Dialogue: 0,0:12:22.82,0:12:25.19,main,Asta,0000,0000,0000,,Hey, Noelle. What's this place?
+Dialogue: 0,0:12:25.19,0:12:27.98,main,Noelle,0000,0000,0000,,I-It's a haunted house, duh!
+Dialogue: 0,0:12:27.98,0:12:29.14,main,Asta,0000,0000,0000,,What's that?
+Dialogue: 0,0:12:29.14,0:12:32.45,main,Noelle,0000,0000,0000,,Huh?! You seriously don't \Nknow anything, do you?
+Dialogue: 0,0:12:32.87,0:12:35.25,main,Asta,0000,0000,0000,,They didn't have these things at \Nthe festivals in Hage Village.
+Dialogue: 0,0:12:36.68,0:12:41.53,italics,kahono,0000,0000,0000,,Places like this are well-known for being \Nextra scary and bringing couples super close!
+Dialogue: 0,0:12:41.53,0:12:44.21,italics,kahono,0000,0000,0000,,Otherwise known as the couple \Nestablishment factory!
+Dialogue: 0,0:12:44.21,0:12:47.64,italics,Kahono,0000,0000,0000,,At this rate, I'm just going \Nto have to force them together!
+Dialogue: 0,0:12:48.07,0:12:50.91,main,Kiato,0000,0000,0000,,K-Kahono, don't leave my side!
+Dialogue: 0,0:12:50.91,0:12:53.39,main,Kiato,0000,0000,0000,,I can't let my goddess see me like this!
+Dialogue: 0,0:12:53.39,0:12:58.36,italics,Kahono,0000,0000,0000,,Come out, ghosts... Or should \NI say, cupids of love!
+Dialogue: 0,0:12:59.71,0:13:02.90,main,Sekke,0000,0000,0000,,Bah-ha! Let's go over this one more time.
+Dialogue: 0,0:13:03.34,0:13:08.28,main,Sekke,0000,0000,0000,,You'll scare the customers, \Nand then I appear!
+Dialogue: 0,0:13:08.28,0:13:11.91,main,Sekke,0000,0000,0000,,Bah-ha... Miss, are you all right?
+Dialogue: 0,0:13:12.47,0:13:14.41,main,Sekke girl,0000,0000,0000,,My, what a brave gentleman!
+Dialogue: 0,0:13:14.41,0:13:17.44,main,Sekke,0000,0000,0000,,Indeed! I'm the bravest!
+Dialogue: 0,0:13:17.44,0:13:20.17,top,Sekke,0000,0000,0000,,I {\i1}am{\i0} the most powerful of \Nthe Magic Knights, after all!
+Dialogue: 0,0:13:18.44,0:13:20.17,sign_19236_211__Lies_,Sign,0000,0000,0000,,< Lies >
+Dialogue: 0,0:13:20.65,0:13:21.81,top,Sekke,0000,0000,0000,,Just between you and me,
+Dialogue: 0,0:13:21.81,0:13:25.42,top,Sekke,0000,0000,0000,,I'm confirmed as the next captain \Nof the Green Praying Mantises!
+Dialogue: 0,0:13:23.44,0:13:25.42,sign_19356_214___Lies__,Sign,0000,0000,0000,,< Lies >
+Dialogue: 0,0:13:25.81,0:13:29.68,top,Sekke,0000,0000,0000,,But I've fallen head over bah-ha for you!
+Dialogue: 0,0:13:28.15,0:13:29.68,sign_19236_211__Lies_,Sign,0000,0000,0000,,Complete Nonsense
+Dialogue: 0,0:13:30.19,0:13:32.93,main,Sekke,0000,0000,0000,,Let us enjoy this night together.
+Dialogue: 0,0:13:33.92,0:13:34.81,main,Sekke girl,0000,0000,0000,,Yes!
+Dialogue: 0,0:13:34.81,0:13:39.43,main,Sekke,0000,0000,0000,,And that's how I'm going to \Nget the girl! Easy peasy.
+Dialogue: 0,0:13:40.97,0:13:42.06,italics,Both,0000,0000,0000,,Yeah, for you.
+Dialogue: 0,0:13:43.59,0:13:46.82,main,Sekke,0000,0000,0000,,And here they come. Give it your all!
+Dialogue: 0,0:13:48.01,0:13:50.42,main,Asta,0000,0000,0000,,So when are these ghosts coming out?
+Dialogue: 0,0:13:50.42,0:13:52.12,main,Noelle,0000,0000,0000,,H-How am I supposed to know?
+Dialogue: 0,0:13:55.41,0:13:57.33,main,Phati,0000,0000,0000,,Phati!
+Dialogue: 0,0:13:57.73,0:13:59.42,main,Aphro,0000,0000,0000,,Aphro!
+Dialogue: 0,0:14:01.48,0:14:02.42,main,Both,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:06.04,0:14:08.93,italics,Kahono,0000,0000,0000,,There we go. They're scared.
+Dialogue: 0,0:14:08.93,0:14:12.64,italics,Kahono,0000,0000,0000,,Asta and Noelle should be clinging to \Neach other for dear life right about now.
+Dialogue: 0,0:14:13.04,0:14:14.22,main,Phati,0000,0000,0000,,Phati!
+Dialogue: 0,0:14:14.22,0:14:15.68,italics,kahono,0000,0000,0000,,Or not?!
+Dialogue: 0,0:14:17.21,0:14:20.68,main,Noelle,0000,0000,0000,,Get lost! You stupid insect ghosts!
+Dialogue: 0,0:14:21.39,0:14:24.73,main,Asta,0000,0000,0000,,You guys had the nerve to attack \Nthe royal capital again?!
+Dialogue: 0,0:14:27.59,0:14:30.55,main,Sekke,0000,0000,0000,,Bah-ha?! Th-They're...
+Dialogue: 0,0:14:30.55,0:14:33.95,main,Aphro,0000,0000,0000,,Save me!
+Dialogue: 0,0:14:35.03,0:14:38.00,main,Sekke,0000,0000,0000,,Don't come over here! Hey! Look closer!
+Dialogue: 0,0:14:39.83,0:14:41.33,main,Sekke,0000,0000,0000,,It's me!
+Dialogue: 0,0:14:41.33,0:14:44.33,main,Asta,0000,0000,0000,,You must be the boss!
+Dialogue: 0,0:14:44.64,0:14:45.84,main,Sekke,0000,0000,0000,,Bah-ha?!
+Dialogue: 0,0:14:56.00,0:14:59.51,main,Asta,0000,0000,0000,,Oh, so they were all fake.
+Dialogue: 0,0:14:59.51,0:15:03.23,main,Noelle,0000,0000,0000,,Of course they were! We got \Nkicked out because of you.
+Dialogue: 0,0:15:03.83,0:15:06.19,main,Asta,0000,0000,0000,,You flew off the handle too, you know.
+Dialogue: 0,0:15:06.19,0:15:08.19,main,Noelle,0000,0000,0000,,Y-You're just imagining things.
+Dialogue: 0,0:15:08.19,0:15:10.02,main,Kiato,0000,0000,0000,,I-I was so scared...
+Dialogue: 0,0:15:11.08,0:15:15.27,italics,Kahono,0000,0000,0000,,Another failure! Noelle has to \Nwork harder, but Asta's too dense!
+Dialogue: 0,0:15:15.27,0:15:17.70,italics,Kahono,0000,0000,0000,,I wonder how he really feels about Noelle.
+Dialogue: 0,0:15:18.64,0:15:19.79,main,Kahono,0000,0000,0000,,Hey, Asta.
+Dialogue: 0,0:15:21.05,0:15:23.83,main,Kahono,0000,0000,0000,,What does Noelle mean to you?
+Dialogue: 0,0:15:24.18,0:15:25.22,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:25.22,0:15:30.07,main,Asta,0000,0000,0000,,What does she mean to me? Hmm... Let's see...
+Dialogue: 0,0:15:31.77,0:15:34.79,main,Emma,0000,0000,0000,,Mommy!
+Dialogue: 0,0:15:34.79,0:15:35.91,main,Passerby,0000,0000,0000,,Is she lost?
+Dialogue: 0,0:15:35.91,0:15:37.71,main,Passerby,0000,0000,0000,,Where the heck are her parents?
+Dialogue: 0,0:15:38.19,0:15:39.94,main,Asta,0000,0000,0000,,Hey, you oka—
+Dialogue: 0,0:15:39.94,0:15:41.23,main,Passerby 2,0000,0000,0000,,Look at her shabby clothes.
+Dialogue: 0,0:15:41.23,0:15:43.69,main,Passerby 3,0000,0000,0000,,What an eyesore.
+Dialogue: 0,0:15:44.80,0:15:47.41,main,Passerby 4,0000,0000,0000,,I wonder if her parents are peasants \Nwho came here to find work.
+Dialogue: 0,0:15:47.41,0:15:50.69,main,Passerby 5,0000,0000,0000,,What a noisy brat. Peasants can't \Neven raise their kids properly.
+Dialogue: 0,0:15:50.69,0:15:55.20,main,Passerby 6,0000,0000,0000,,How dare those lousy peasants \Nspoil the Star Festival for us?
+Dialogue: 0,0:15:57.32,0:16:00.90,flashback,Lily,0000,0000,0000,,Only those who possess strong magical \Npowers can live in the realms above us.
+Dialogue: 0,0:16:00.90,0:16:03.58,flashback,Lily,0000,0000,0000,,There's prejudice against \Nthose who lack magical powers.
+Dialogue: 0,0:16:03.58,0:16:05.95,flashback,Lily,0000,0000,0000,,Even though we're all human.
+Dialogue: 0,0:16:05.95,0:16:07.23,flashback,Asta,0000,0000,0000,,Huh...
+Dialogue: 0,0:16:10.03,0:16:10.93,main,Asta,0000,0000,0000,,Hey!
+Dialogue: 0,0:16:14.56,0:16:17.43,main,Noelle,0000,0000,0000,,What's the matter? Why are you crying?
+Dialogue: 0,0:16:21.22,0:16:24.51,main,Noelle,0000,0000,0000,,Hey! I can't help you \Nif you just keep crying!
+Dialogue: 0,0:16:24.51,0:16:25.79,main,Noelle,0000,0000,0000,,Get a hold of yourself!
+Dialogue: 0,0:16:28.01,0:16:29.73,main,Noelle,0000,0000,0000,,H-Hey...
+Dialogue: 0,0:16:31.18,0:16:32.44,main,Asta,0000,0000,0000,,I know!
+Dialogue: 0,0:16:34.55,0:16:37.03,main,Asta,0000,0000,0000,,Hey, lookie over here!
+Dialogue: 0,0:16:37.03,0:16:40.45,main,Asta,0000,0000,0000,,Hup! Hup! Hup! Hup!
+Dialogue: 0,0:16:44.12,0:16:45.60,main,Kahono,0000,0000,0000,,I got you...
+Dialogue: 0,0:16:46.60,0:16:52.09,main,Kahono,0000,0000,0000,,Asta the Superman can do anything!
+Dialogue: 0,0:16:52.56,0:16:55.75,main,Kahono,0000,0000,0000,,He's tiny, but his voice sure is huge!
+Dialogue: 0,0:16:55.75,0:16:58.76,main,Kahono,0000,0000,0000,,He's dumb, but he's bursting with muscles!
+Dialogue: 0,0:16:58.76,0:17:04.61,main,Kahono,0000,0000,0000,,He can't use magic, but he \Ncan slash through any spell!
+Dialogue: 0,0:17:01.63,0:17:03.27,top,Asta,0000,0000,0000,,Are you making fun of me?!
+Dialogue: 0,0:17:04.61,0:17:09.61,main,Kahono,0000,0000,0000,,He can't use magic,\Nbut there's nothing he can't do!
+Dialogue: 0,0:17:10.55,0:17:15.71,main,Kahono,0000,0000,0000,,Superman, Superman, Superman Asta!
+Dialogue: 0,0:17:19.59,0:17:25.66,main,Kahono,0000,0000,0000,,Asta the Superman can do anything!
+Dialogue: 0,0:17:30.11,0:17:32.04,main,Kahono,0000,0000,0000,,Bursting with muscles!
+Dialogue: 0,0:17:33.09,0:17:37.59,main,Kahono,0000,0000,0000,,Slashes through any spell!
+Dialogue: 0,0:17:34.62,0:17:35.88,main,Kahono,0000,0000,0000,,Ta-da!
+Dialogue: 0,0:17:39.11,0:17:42.56,main,Kahono,0000,0000,0000,,There's nothing he can't do!
+Dialogue: 0,0:17:43.55,0:17:48.77,main,Kahono,0000,0000,0000,,Superman, Superman, Superman Asta!
+Dialogue: 0,0:17:51.76,0:17:53.69,main,Emma,0000,0000,0000,,Wow...
+Dialogue: 0,0:17:53.69,0:17:58.45,italics,Kiato,0000,0000,0000,,My goddess, behold this dance,\N which I offer to you!
+Dialogue: 0,0:17:58.45,0:18:01.20,main,Noelle,0000,0000,0000,,So, tell me your name.
+Dialogue: 0,0:18:01.20,0:18:02.32,main,Emma,0000,0000,0000,,Emma.
+Dialogue: 0,0:18:02.95,0:18:09.30,main,Noelle,0000,0000,0000,,Kahono, could you use your song magic to \Nbroadcast this girl's name to her parents?
+Dialogue: 0,0:18:09.30,0:18:11.83,main,Kahono,0000,0000,0000,,Oh, yeah! Leave it to me!
+Dialogue: 0,0:18:13.53,0:18:17.56,main,Kahono,0000,0000,0000,,Emma!
+Dialogue: 0,0:18:19.09,0:18:21.39,main,Mom,0000,0000,0000,,How can I ever thank you?
+Dialogue: 0,0:18:21.39,0:18:24.45,main,Asta,0000,0000,0000,,I'm glad your mom showed up.
+Dialogue: 0,0:18:24.45,0:18:26.68,main,Emma,0000,0000,0000,,Thank you, everyone.
+Dialogue: 0,0:18:27.30,0:18:33.21,main,Mom,0000,0000,0000,,Didn't I tell you to stay put? \NI'm here to work, remember?
+Dialogue: 0,0:18:33.21,0:18:37.47,main,Emma,0000,0000,0000,,I'm sorry. The festival seemed so fun...
+Dialogue: 0,0:18:38.00,0:18:41.11,main,Mom,0000,0000,0000,,Thank you so much.
+Dialogue: 0,0:18:43.04,0:18:45.67,main,Mom,0000,0000,0000,,Those ornaments... You're royalty?!
+Dialogue: 0,0:18:45.67,0:18:46.83,main,Mom,0000,0000,0000,,From the House of Silva?
+Dialogue: 0,0:18:47.19,0:18:49.71,main,Mom,0000,0000,0000,,I-I'm so terribly sorry!
+Dialogue: 0,0:18:49.71,0:18:53.17,main,Mom,0000,0000,0000,,My daughter didn't offend \Nyou in any way, did she?!
+Dialogue: 0,0:18:53.88,0:18:56.04,main,Guy,0000,0000,0000,,Sh-She's royalty?
+Dialogue: 0,0:18:56.04,0:18:58.63,main,Guy 2,0000,0000,0000,,She has silver hair... She must \Nbelong to the House of Silva!
+Dialogue: 0,0:18:58.63,0:19:01.51,main,Guy 3,0000,0000,0000,,It's rude enough for any \Npeasant to even speak to her!
+Dialogue: 0,0:19:02.29,0:19:04.89,main,Noelle,0000,0000,0000,,Yes, I am royalty.
+Dialogue: 0,0:19:04.89,0:19:08.02,main,Noelle,0000,0000,0000,,We're said to have the best \Nmagic in this kingdom.
+Dialogue: 0,0:19:08.41,0:19:11.77,main,Noelle,0000,0000,0000,,And that's exactly why we should \Nextend a helping hand to everyone.
+Dialogue: 0,0:19:12.27,0:19:14.31,main,Noelle,0000,0000,0000,,Being arrogant because \Nyou think you're better
+Dialogue: 0,0:19:14.31,0:19:16.11,main,Noelle,0000,0000,0000,,than everyone else and \Nlooking down on others...
+Dialogue: 0,0:19:16.11,0:19:19.68,main,Noelle,0000,0000,0000,,Only those with shallow hearts do that!
+Dialogue: 0,0:19:21.48,0:19:24.16,main,Noelle,0000,0000,0000,,You can enjoy the festival too, Emma.
+Dialogue: 0,0:19:25.95,0:19:29.16,main,Noelle,0000,0000,0000,,It doesn't matter if you're a royal, \Nan aristocrat, a commoner, or a peasant!
+Dialogue: 0,0:19:29.16,0:19:31.79,main,Noelle,0000,0000,0000,,Everyone should have fun together!
+Dialogue: 0,0:19:36.32,0:19:38.30,main,Emma,0000,0000,0000,,You're so cool, miss!
+Dialogue: 0,0:19:40.47,0:19:43.55,flashback,Kahono,0000,0000,0000,,What does Noelle mean to you?
+Dialogue: 0,0:19:44.25,0:19:46.12,main,Asta,0000,0000,0000,,Well...
+Dialogue: 0,0:19:49.60,0:19:51.36,main,Asta,0000,0000,0000,,I guess...
+Dialogue: 0,0:19:51.36,0:19:53.23,main,Asta,0000,0000,0000,,I like Noelle quite a bit.
+Dialogue: 0,0:19:55.84,0:19:57.58,main,Magna,0000,0000,0000,,Take that!
+Dialogue: 0,0:19:57.58,0:20:00.08,main,Magna,0000,0000,0000,,Whoo! Fireworks!
+Dialogue: 0,0:20:03.12,0:20:04.81,main,Asta,0000,0000,0000,,Huh? What's wrong?
+Dialogue: 0,0:20:04.81,0:20:06.24,italics,Kahono,0000,0000,0000,,Finally!
+Dialogue: 0,0:20:06.24,0:20:09.79,italics,Kahono,0000,0000,0000,,Come on, Noelle! \NTell him how you really feel!
+Dialogue: 0,0:20:10.10,0:20:11.50,main,Noelle,0000,0000,0000,,Where...
+Dialogue: 0,0:20:11.84,0:20:13.64,main,Noelle,0000,0000,0000,,Where the heck did that come from?!
+Dialogue: 0,0:20:13.64,0:20:15.79,main,Noelle,0000,0000,0000,,Have you lost your mind?!
+Dialogue: 0,0:20:17.42,0:20:20.31,main,Asta,0000,0000,0000,,What the heck?!
+Dialogue: 0,0:20:20.99,0:20:23.28,main,Asta,0000,0000,0000,,That's hot!
+Dialogue: 0,0:20:23.78,0:20:25.11,main,Guy,0000,0000,0000,,Whoa...
+Dialogue: 0,0:20:25.11,0:20:26.64,main,Guy 2,0000,0000,0000,,That's royalty for you.
+Dialogue: 0,0:20:26.64,0:20:28.22,main,Guy 3,0000,0000,0000,,Is he okay?
+Dialogue: 0,0:20:28.72,0:20:30.23,main,Kahono,0000,0000,0000,,Yeesh...
+Dialogue: 0,0:20:30.23,0:20:34.52,main,Kiato,0000,0000,0000,,Asta, did you fly off in\N consideration for my feelings?
+Dialogue: 0,0:20:38.48,0:20:42.07,main,Kahono,0000,0000,0000,,Jeez... He's so dense, and she just \Ncan't be honest with herself.
+Dialogue: 0,0:20:46.57,0:20:48.31,main,Lady,0000,0000,0000,,What was that?
+Dialogue: 0,0:20:48.31,0:20:51.69,main,Asta,0000,0000,0000,,I-I thought I was going to die...
+Dialogue: 0,0:20:52.20,0:20:54.62,sign_30116_337_Festival,Sign,0000,0000,0000,,Festival
+Dialogue: 0,0:20:56.72,0:21:00.34,main,Jack,0000,0000,0000,,I've wanted to settle the score \Nwith you for a long time.
+Dialogue: 0,0:21:04.67,0:21:06.26,main,Asta,0000,0000,0000,,Wh-What's going on?
+Dialogue: 0,0:22:41.02,0:22:45.48,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:41.92,0:22:45.04,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:44.98,0:22:48.99,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Hitman
+Dialogue: 0,0:22:46.12,0:22:47.20,main,Gauche,0000,0000,0000,,Hitman.
+Dialogue: 0,0:22:51.53,0:22:55.41,italics,Gauche,0000,0000,0000,,My angel... No, my client, Marie...
+Dialogue: 0,0:22:56.40,0:23:00.50,italics,Gauche,0000,0000,0000,,As you requested, your big brother \Nis going to end that man's life.
+Dialogue: 0,0:23:00.92,0:23:03.32,italics,Gauche,0000,0000,0000,,The target is that doll.
+Dialogue: 0,0:23:02.56,0:23:05.46,top,Doll,0000,0000,0000,,We are hoomans.
+Dialogue: 0,0:23:06.13,0:23:09.68,italics,Gauche,0000,0000,0000,,Marie likes that thing a lot lately. \NI'm going to bring it down.
+Dialogue: 0,0:23:09.68,0:23:11.68,italics,Gauche,0000,0000,0000,,With all my magical powers!
+Dialogue: 0,0:23:12.27,0:23:13.49,main,Gauche,0000,0000,0000,,Mirror Magic...
+Dialogue: 0,0:23:14.79,0:23:17.26,main,Gauche,0000,0000,0000,,Real Double! And then...
+Dialogue: 0,0:23:17.90,0:23:19.77,main,Gauche,0000,0000,0000,,Reflect Refrain!
+Dialogue: 0,0:23:20.08,0:23:22.92,main,Doll,0000,0000,0000,,Hoomans... Hoomans...
+Dialogue: 0,0:23:22.92,0:23:24.81,main,Gauche,0000,0000,0000,,Wha— We missed!
+Dialogue: 0,0:23:22.92,0:23:24.81,top,Doll,0000,0000,0000,,Hoomans...
+Dialogue: 0,0:23:25.16,0:23:30.35,main,Guy,0000,0000,0000,,Oh, this really short, buff \Nkid broke that gun earlier.
+Dialogue: 0,0:23:30.88,0:23:32.81,main,Gauche,0000,0000,0000,,He's going to die!
+Dialogue: 0,0:23:35.68,0:23:39.49,main,Noelle,0000,0000,0000,,I went on a d-date with you, so \Nyou'd better be grateful, Stupidsta!
+Dialogue: 0,0:23:39.49,0:23:43.59,main,Noelle,0000,0000,0000,,Wait, who said it was a date?! I'm a royal!
+Dialogue: 0,0:23:43.59,0:23:47.72,main,Noelle,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 68: \N"Battle to the Death?! Yami VS Jack."
+Dialogue: 0,0:23:44.33,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 68\N\N{\fs18} Battle to the Death?! Yami VS Jack
+Dialogue: 0,0:23:47.72,0:23:49.88,main,Noelle,0000,0000,0000,,Uh, what are you doing, Captain?

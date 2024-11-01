@@ -1,0 +1,372 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00E678C2,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.45,0:00:07.06,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:07.68,0:00:09.67,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:09.67,0:00:12.95,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:13.52,0:00:15.61,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:16.40,0:00:19.04,italics,Nar,0000,0000,0000,,With guts and hard work, \Nhe made it into the Magic Knights,
+Dialogue: 0,0:00:19.04,0:00:21.86,italics,Nar,0000,0000,0000,,and he never gave up, \Ndespite how much he got hurt.
+Dialogue: 0,0:00:21.86,0:00:24.65,italics,Nar,0000,0000,0000,,He continues to diligently aim for the top!
+Dialogue: 0,0:00:26.22,0:00:27.79,italics,Nar,0000,0000,0000,,Even if you are a peasant,
+Dialogue: 0,0:00:27.79,0:00:29.63,italics,Nar,0000,0000,0000,,or even if you're poor...
+Dialogue: 0,0:00:30.04,0:00:32.37,italics,Nar,0000,0000,0000,,Anyone in this world can still shine!
+Dialogue: 0,0:00:32.89,0:00:34.80,italics,Nar,0000,0000,0000,,He's working hard to prove that,
+Dialogue: 0,0:00:35.29,0:00:37.92,italics,Nar,0000,0000,0000,,and to become the Wizard King!
+Dialogue: 0,0:00:46.98,0:00:49.90,main,Asta,0000,0000,0000,,We can finally train in the Heart Kingdom!
+Dialogue: 0,0:00:52.74,0:00:56.11,italics,Finral,0000,0000,0000,,Now that I've sworn I'd be worthy of \Nbeing the head of the House of Vaude
+Dialogue: 0,0:00:56.11,0:00:57.66,italics,Finral,0000,0000,0000,,and of Miss Finnes,
+Dialogue: 0,0:00:57.66,0:01:00.26,italics,Finral,0000,0000,0000,,If I don't become stronger now,\N it'll all be a lie.
+Dialogue: 0,0:01:00.97,0:01:04.31,main,Luck,0000,0000,0000,,So the Spirit Guardians won't break \Neven if I go all-out, right?
+Dialogue: 0,0:01:04.31,0:01:05.69,main,Luck,0000,0000,0000,,I can't wait!
+Dialogue: 0,0:01:05.69,0:01:08.42,main,Magna,0000,0000,0000,,Hell yeah! I'm definitely gonna get stronger!
+Dialogue: 0,0:01:08.42,0:01:12.20,main,Luck,0000,0000,0000,,Well, you can get stronger, but I'm \Nstill gonna get even stronger than you!
+Dialogue: 0,0:01:12.20,0:01:13.38,main,Magna,0000,0000,0000,,The hell'd you say?!
+Dialogue: 0,0:01:14.19,0:01:18.34,italics,Noelle,0000,0000,0000,,To avenge my mother... \NTo destroy the devil Megicula...
+Dialogue: 0,0:01:18.34,0:01:20.82,main,Noelle,0000,0000,0000,,I'm going to become stronger!
+Dialogue: 0,0:02:44.58,0:02:49.23,Ep Title,Sign,0000,0000,0000,,{\fs22\move(320,70,320,60)\t(1,4650,\fs24)\fad(1000,1)}The 5 Spirit Guardians
+Dialogue: 0,0:02:55.25,0:02:57.74,main,Asta,0000,0000,0000,,Guys, you're already here?
+Dialogue: 0,0:02:57.74,0:02:59.11,main,Mimosa,0000,0000,0000,,Asta!
+Dialogue: 0,0:02:59.38,0:03:01.86,main,Leopold,0000,0000,0000,,I've been waiting for you, my rival!
+Dialogue: 0,0:03:02.29,0:03:05.91,italics,Charlotte,0000,0000,0000,,Training in another kingdom... \NYami should've come, too.
+Dialogue: 0,0:03:06.19,0:03:09.71,main,Mimosa,0000,0000,0000,,Asta, Yuno gave me a message for you.
+Dialogue: 0,0:03:09.71,0:03:10.92,main,Asta,0000,0000,0000,,Oh? What'd he say?
+Dialogue: 0,0:03:10.92,0:03:14.92,main,Mimosa,0000,0000,0000,,Just simply, "I'm going to become \Nstronger with the Golden Dawn."
+Dialogue: 0,0:03:15.27,0:03:19.12,main,Noelle,0000,0000,0000,,What's that supposed to mean? He'd obviously \Nget stronger if he trained over here.
+Dialogue: 0,0:03:19.12,0:03:22.06,main,Asta,0000,0000,0000,,Nah, he'd get stronger \Nno matter where he was.
+Dialogue: 0,0:03:22.06,0:03:23.68,main,Asta,0000,0000,0000,,I can't lose!
+Dialogue: 0,0:03:24.22,0:03:25.80,main,Gaja,0000,0000,0000,,It appears that you're all here.
+Dialogue: 0,0:03:25.80,0:03:28.72,main,Mimosa,0000,0000,0000,,Yes. Thank you for having us, Gaja.
+Dialogue: 0,0:03:28.72,0:03:30.94,main,Gaja,0000,0000,0000,,Then allow me to lead you in.
+Dialogue: 0,0:03:32.00,0:03:35.69,main,Loropechika,0000,0000,0000,,There are many of you I am \Nmeeting for the first time.
+Dialogue: 0,0:03:36.03,0:03:38.19,main,Loropechika,0000,0000,0000,,Welcome to the Heart Kingdom.
+Dialogue: 0,0:03:38.70,0:03:43.75,main,Loropechika,0000,0000,0000,,Normally, I would be holding a \Nfeast to welcome all of you here,
+Dialogue: 0,0:03:43.75,0:03:48.79,main,,0000,0000,0000,,and it pains me deeply that \Nthis is the best I can do,
+Dialogue: 0,0:03:48.79,0:03:50.70,main,Loropechika,0000,0000,0000,,but considering the circumstances...
+Dialogue: 0,0:03:52.06,0:03:53.50,main,Loropechika,0000,0000,0000,,Is something the matter?
+Dialogue: 0,0:03:53.50,0:03:58.59,main,Mimosa,0000,0000,0000,,I do beg your pardon for bringing \Nthis up, but the one on your lap...
+Dialogue: 0,0:03:59.56,0:04:01.34,main,Loropechika,0000,0000,0000,,It's Charmy.
+Dialogue: 0,0:04:01.34,0:04:05.82,main,Noelle,0000,0000,0000,,Yeah, that much is obvious. \NBut what's she doing here?
+Dialogue: 0,0:04:05.82,0:04:08.33,main,Charmy,0000,0000,0000,,Wherever there are delicious noms,\N I shall also be there!
+Dialogue: 0,0:04:08.33,0:04:09.77,main,Magna,0000,0000,0000,,What the hell?
+Dialogue: 0,0:04:09.77,0:04:12.72,main,Charlotte,0000,0000,0000,,Honestly, this is the problem \Nwith the Black Bulls.
+Dialogue: 0,0:04:12.72,0:04:16.77,main,Mimosa,0000,0000,0000,,But it does appear that \NQueen Loropechika is okay with it.
+Dialogue: 0,0:04:17.00,0:04:20.17,main,Leopold,0000,0000,0000,,If the queen is allowing it, \Nthere shouldn't be a problem.
+Dialogue: 0,0:04:20.17,0:04:23.28,main,Rill,0000,0000,0000,,It seems the queen here is very generous.
+Dialogue: 0,0:04:23.49,0:04:26.28,main,Noelle,0000,0000,0000,,Is this actually what you'd call generous?
+Dialogue: 0,0:04:26.28,0:04:30.38,main,Loropechika,0000,0000,0000,,It's a pleasure to have you all here,\Ncitizens of the Clover Kingdom.
+Dialogue: 0,0:04:30.38,0:04:32.84,main,Charlotte,0000,0000,0000,,We'll be in your care for a while.
+Dialogue: 0,0:04:32.84,0:04:34.54,main,Leopold,0000,0000,0000,,We thank you for your kindness!
+Dialogue: 0,0:04:34.91,0:04:38.54,main,Loropechika,0000,0000,0000,,Then let us go into a bit more \Ndetail about your training.
+Dialogue: 0,0:04:39.11,0:04:41.08,main,Gaja,0000,0000,0000,,First, the Spade Kingdom has
+Dialogue: 0,0:04:41.08,0:04:44.73,main,Gaja,0000,0000,0000,,already taken control of most of \Nthe bases in the Diamond Kingdom,
+Dialogue: 0,0:04:44.73,0:04:47.67,main,Gaja,0000,0000,0000,,and their invasion has halted for the moment.
+Dialogue: 0,0:04:48.05,0:04:51.13,main,Gaja,0000,0000,0000,,Which means that our kingdom, as well as
+Dialogue: 0,0:04:51.13,0:04:53.81,main,Gaja,0000,0000,0000,,the Clover Kingdom, \Nmay be targeted at any time.
+Dialogue: 0,0:04:54.16,0:04:55.83,main,Gaja,0000,0000,0000,,And because of that,
+Dialogue: 0,0:04:55.83,0:05:00.52,main,Gaja,0000,0000,0000,,all of you will be undergoing rigorous \Ntraining to ensure rapid growth.
+Dialogue: 0,0:05:00.73,0:05:02.15,main,Leopold,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:05:02.37,0:05:07.16,main,Charlotte,0000,0000,0000,,We also wish to become more \Npowerful as soon as possible.
+Dialogue: 0,0:05:07.69,0:05:11.60,main,Gaja,0000,0000,0000,,I will now introduce the Spirit Guardians\N who will be mentoring you.
+Dialogue: 0,0:05:14.16,0:05:18.17,sign_8772_80_Father_Nathan,Sign,0000,0000,0000,,{\blur3\fad(779,1)}The Spirit Guardian of Earth\N{\fs30}Sarado
+Dialogue: 0,0:05:14.46,0:05:16.73,top,Gaja,0000,0000,0000,,The Spirit Guardian of Earth, Sarado.
+Dialogue: 0,0:05:16.73,0:05:17.83,italicstop,Sarado,0000,0000,0000,,Pleased to meet you!
+Dialogue: 0,0:05:18.17,0:05:20.73,top,Gaja,0000,0000,0000,,The Spirit Guardian of Plants, Potrof.
+Dialogue: 0,0:05:18.17,0:05:22.17,sign_8772_80_Father_Nathan,Sign,0000,0000,0000,,{\blur3}The Spirit Guardian of Plants\N{\fs30}Potrof
+Dialogue: 0,0:05:20.73,0:05:22.17,italicstop,Potrof,0000,0000,0000,,Let us learn together!
+Dialogue: 0,0:05:22.17,0:05:26.18,sign_8772_80_Father_Nathan,Sign,0000,0000,0000,,{\blur3}The Spirit Guardian of Fire\N{\fs30}Floga
+Dialogue: 0,0:05:22.41,0:05:24.71,top,Gaja,0000,0000,0000,,The Spirit Guardian of Fire, Floga.
+Dialogue: 0,0:05:24.71,0:05:26.18,italicstop,Floga,0000,0000,0000,,I have high hopes for you!
+Dialogue: 0,0:05:26.18,0:05:29.80,sign_8772_80_Father_Nathan,Sign,0000,0000,0000,,{\blur3}The Spirit Guardian of Wind\N{\fs30}Smurik
+Dialogue: 0,0:05:26.39,0:05:28.85,top,Gaja,0000,0000,0000,,The Spirit Guardian of Wind, Smurik.
+Dialogue: 0,0:05:30.16,0:05:32.52,main,Magna,0000,0000,0000,,Hey, they seem pretty intense.
+Dialogue: 0,0:05:32.52,0:05:35.39,main,Luck,0000,0000,0000,,This seems fun! Who do I get to fight first?!
+Dialogue: 0,0:05:35.78,0:05:40.77,main,Gaja,0000,0000,0000,,Mimosa and Charlotte, please \Ntrain with Sarado first.
+Dialogue: 0,0:05:40.99,0:05:42.14,main,Mimosa,0000,0000,0000,,Understood.
+Dialogue: 0,0:05:42.14,0:05:42.94,main,Charlotte,0000,0000,0000,,Very well.
+Dialogue: 0,0:05:43.17,0:05:44.82,italics,Sarado,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:05:45.15,0:05:48.02,main,Gaja,0000,0000,0000,,Finral, please learn from Smurik.
+Dialogue: 0,0:05:48.02,0:05:48.82,main,Finral,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:05:49.82,0:05:52.92,main,Gaja,0000,0000,0000,,Rill, Potrof shall be your mentor.
+Dialogue: 0,0:05:52.92,0:05:54.40,main,Rill,0000,0000,0000,,Yeah, sure thing!
+Dialogue: 0,0:05:54.40,0:05:55.83,italics,Potrof,0000,0000,0000,,I'll be waiting for you in the forest!
+Dialogue: 0,0:05:56.40,0:06:00.25,main,Gaja,0000,0000,0000,,Leopold and Magna will be under Floga's care.
+Dialogue: 0,0:06:00.47,0:06:02.63,main,Leopold,0000,0000,0000,,I hope you'll train me to the fullest!
+Dialogue: 0,0:06:04.66,0:06:07.00,italics,Floga,0000,0000,0000,,You both seem really determined!
+Dialogue: 0,0:06:07.00,0:06:08.76,italics,Floga,0000,0000,0000,,I can't wait to meet you in person!
+Dialogue: 0,0:06:09.29,0:06:11.22,main,Gaja,0000,0000,0000,,Luck, I will be training you myself.
+Dialogue: 0,0:06:11.47,0:06:14.81,main,Luck,0000,0000,0000,,As long as we get to put our lives \Non the line, I don't care who it is.
+Dialogue: 0,0:06:15.40,0:06:18.77,main,Asta,0000,0000,0000,,What about me? Who's gonna be training me?
+Dialogue: 0,0:06:19.02,0:06:21.55,main,Gaja,0000,0000,0000,,You do not have any mana whatsoever.
+Dialogue: 0,0:06:21.55,0:06:25.70,main,Gaja,0000,0000,0000,,We may be Spirit Guardians, but we \Ncannot make mana grow from nothing.
+Dialogue: 0,0:06:25.70,0:06:29.44,main,Asta,0000,0000,0000,,Huh?! Then why the heck did I come here?!
+Dialogue: 0,0:06:29.44,0:06:31.06,main,Gaja,0000,0000,0000,,But you are one of the mages
+Dialogue: 0,0:06:31.06,0:06:34.54,main,Gaja,0000,0000,0000,,at the arcane stage, who could\N possibly defeat the devil.
+Dialogue: 0,0:06:34.89,0:06:39.10,main,Gaja,0000,0000,0000,,I would like you to spar with me \Nso I can gauge your strength.
+Dialogue: 0,0:06:39.10,0:06:41.54,main,Gaja,0000,0000,0000,,We will figure out the details after that.
+Dialogue: 0,0:06:41.54,0:06:43.54,main,Asta,0000,0000,0000,,Spar with you? Okay, got it!
+Dialogue: 0,0:06:43.54,0:06:46.42,main,Gaja,0000,0000,0000,,As for the other mage at \Nthe arcane stage, Nero...
+Dialogue: 0,0:06:46.70,0:06:48.79,main,Loropechika,0000,0000,0000,,I will be training her myself.
+Dialogue: 0,0:06:49.68,0:06:52.18,main,Charlotte,0000,0000,0000,,The queen will be training Nero personally?
+Dialogue: 0,0:06:52.78,0:06:54.84,main,Loropechika,0000,0000,0000,,I look forward to working with you, Nero.
+Dialogue: 0,0:06:55.29,0:06:58.73,main,Loropechika,0000,0000,0000,,And as for Noelle, \NUndine and I will be training you.
+Dialogue: 0,0:06:58.73,0:06:59.94,main,Undine,0000,0000,0000,,Let's do our best.
+Dialogue: 0,0:07:00.36,0:07:02.33,main,Noelle,0000,0000,0000,,Yes, all right.
+Dialogue: 0,0:07:02.33,0:07:05.22,main,Gaja,0000,0000,0000,,This covers the assignments for the training.
+Dialogue: 0,0:07:05.22,0:07:06.36,main,Magna,0000,0000,0000,,Hang on a second!
+Dialogue: 0,0:07:06.61,0:07:08.47,main,Asta,0000,0000,0000,,What is it, Magna?
+Dialogue: 0,0:07:09.07,0:07:15.95,main,Magna,0000,0000,0000,,Is there any way I can continue going \Nat it with Luck and train under you?
+Dialogue: 0,0:07:17.27,0:07:18.45,main,Gaja,0000,0000,0000,,Very well.
+Dialogue: 0,0:07:18.45,0:07:19.85,main,Magna,0000,0000,0000,,Hell yeah!
+Dialogue: 0,0:07:19.85,0:07:23.34,main,Luck,0000,0000,0000,,Aw, sure. But do you think you'll \Nbe able to keep up with me?
+Dialogue: 0,0:07:23.34,0:07:24.46,main,Magna,0000,0000,0000,,Of course I can!
+Dialogue: 0,0:07:24.71,0:07:30.43,main,Gaja,0000,0000,0000,,The rest of you, as well, are not bound \Npermanently to the assignments I have chosen.
+Dialogue: 0,0:07:30.97,0:07:35.86,main,Gaja,0000,0000,0000,,Once your mana grows a bit, please move \Non to a different Spirit Guardian.
+Dialogue: 0,0:07:35.86,0:07:38.47,main,Gaja,0000,0000,0000,,That will help you learn as much as possible.
+Dialogue: 0,0:07:38.93,0:07:43.48,main,Loropechika,0000,0000,0000,,Now then, everyone, I look forward to \Nworking with all of you for a while.
+Dialogue: 0,0:07:43.74,0:07:44.72,main,All,0000,0000,0000,,Right!
+Dialogue: 0,0:07:53.28,0:07:58.04,main,Asta,0000,0000,0000,,Magna uses flame magic, \Nand Luck uses lightning magic.
+Dialogue: 0,0:07:58.83,0:08:03.81,main,Asta,0000,0000,0000,,If natural magic attributes work better \Nwith the Heart Kingdom's techniques,
+Dialogue: 0,0:08:03.81,0:08:06.42,main,Asta,0000,0000,0000,,then these two are perfect, aren't they?
+Dialogue: 0,0:08:06.69,0:08:08.75,main,Gaja,0000,0000,0000,,Essentially, yes.
+Dialogue: 0,0:08:09.04,0:08:13.51,main,Gaja,0000,0000,0000,,First, I will show you how to make \Nmana words with natural mana.
+Dialogue: 0,0:08:16.91,0:08:18.26,main,Magna,0000,0000,0000,,The hell is that?!
+Dialogue: 0,0:08:18.26,0:08:21.15,main,Gaja,0000,0000,0000,,Without this, you cannot \Ncreate this technique.
+Dialogue: 0,0:08:21.52,0:08:24.09,main,Gaja,0000,0000,0000,,By creating a technique using mana words,
+Dialogue: 0,0:08:24.09,0:08:27.57,main,Gaja,0000,0000,0000,,you can add simple orders to spells.
+Dialogue: 0,0:08:27.57,0:08:28.52,main,Gaja,0000,0000,0000,,For example...
+Dialogue: 0,0:08:30.17,0:08:31.74,main,Gaja,0000,0000,0000,,Please dodge.
+Dialogue: 0,0:08:32.44,0:08:33.74,main,Asta,0000,0000,0000,,Like this?
+Dialogue: 0,0:08:38.96,0:08:41.89,main,Gaja,0000,0000,0000,,Just like that, it means \Nwe are able to give it
+Dialogue: 0,0:08:41.89,0:08:44.71,main,Gaja,0000,0000,0000,,orders like "chase him" or "become bigger."
+Dialogue: 0,0:08:44.96,0:08:46.33,main,Asta,0000,0000,0000,,That's awesome!
+Dialogue: 0,0:08:46.33,0:08:47.44,main,Luck,0000,0000,0000,,Huh...
+Dialogue: 0,0:08:47.44,0:08:49.25,main,Magna,0000,0000,0000,,All right! Let's do this!
+Dialogue: 0,0:08:49.76,0:08:52.26,main,Sarado,0000,0000,0000,,Plants grow from the earth.
+Dialogue: 0,0:08:52.53,0:08:55.76,main,Sarado,0000,0000,0000,,In order to strengthen plant magic,\N you start with the earth.
+Dialogue: 0,0:08:55.76,0:08:59.11,main,Mimosa,0000,0000,0000,,I somewhat understand what you're saying...
+Dialogue: 0,0:08:59.11,0:09:01.56,main,Charlotte,0000,0000,0000,,So you're telling us to understand the earth.
+Dialogue: 0,0:09:01.56,0:09:05.18,main,Sarado,0000,0000,0000,,It's probably quicker to show \Nyou than try to explain it.
+Dialogue: 0,0:09:20.85,0:09:23.79,main,Charlotte,0000,0000,0000,,So this is the Heart Kingdom's technique.
+Dialogue: 0,0:09:24.33,0:09:26.17,main,Sarado,0000,0000,0000,,Though our magic attributes are different,
+Dialogue: 0,0:09:26.17,0:09:29.03,main,Sarado,0000,0000,0000,,we're in the same boat when it \Ncomes to understanding nature.
+Dialogue: 0,0:09:29.03,0:09:33.67,main,Sarado,0000,0000,0000,,If you can master this, your magic \Nwill instantly power up!
+Dialogue: 0,0:09:34.08,0:09:39.77,main,Charlotte,0000,0000,0000,,That's rather surprising. One of my \Nsubordinates uses similar magic,
+Dialogue: 0,0:09:39.77,0:09:41.93,main,Charlotte,0000,0000,0000,,but yours is much faster and more powerful.
+Dialogue: 0,0:09:42.49,0:09:46.33,main,Sarado,0000,0000,0000,,From the looks of it, you all \Njust rely on your own mana,
+Dialogue: 0,0:09:46.33,0:09:49.21,main,Sarado,0000,0000,0000,,and can't use natural mana at all.
+Dialogue: 0,0:09:49.21,0:09:51.77,main,Mimosa,0000,0000,0000,,So you're telling us to become able to do that.
+Dialogue: 0,0:09:52.15,0:09:53.44,main,Charlotte,0000,0000,0000,,And how do we do that?
+Dialogue: 0,0:09:53.89,0:09:59.95,main,Sarado,0000,0000,0000,,You just gather it, like "swoosh," from \Na {\i1}huge{\i0} area, and bam, you're all set.
+Dialogue: 0,0:10:00.84,0:10:03.95,main,Mimosa,0000,0000,0000,,Um, could you be more specific, please?
+Dialogue: 0,0:10:04.35,0:10:06.67,main,Sarado,0000,0000,0000,,You just sense mana, like, "ding, ding, ding."
+Dialogue: 0,0:10:06.67,0:10:09.70,main,Sarado,0000,0000,0000,,Once you feel it, you've just \Ngotta go whoosh and swoosh.
+Dialogue: 0,0:10:09.70,0:10:12.00,main,Sarado,0000,0000,0000,,Then we can talk about technique.
+Dialogue: 0,0:10:12.28,0:10:14.60,main,Both,0000,0000,0000,,That's far too vague...
+Dialogue: 0,0:10:20.48,0:10:22.55,italics,Finral,0000,0000,0000,,He seems a bit different.
+Dialogue: 0,0:10:24.43,0:10:26.59,main,Smurik,0000,0000,0000,,The wind that comes down \Nfrom the mountains,
+Dialogue: 0,0:10:26.59,0:10:28.47,main,Smurik,0000,0000,0000,,the wind that rises from the ocean...
+Dialogue: 0,0:10:28.47,0:10:31.17,main,Smurik,0000,0000,0000,,All the wind passes through this valley.
+Dialogue: 0,0:10:31.17,0:10:34.48,main,Finral,0000,0000,0000,,I see. So that's why the \Nwind is so strong here.
+Dialogue: 0,0:10:34.96,0:10:40.48,main,Smurik,0000,0000,0000,,I was looking forward to the arrival \Nof the boy chosen by the Wind Spirit.
+Dialogue: 0,0:10:40.48,0:10:43.42,main,Finral,0000,0000,0000,,Oh, you mean Asta's rival.
+Dialogue: 0,0:10:43.42,0:10:48.51,main,Smurik,0000,0000,0000,,But you came to me instead. I'm sure \Nthere must be a deep meaning behind that.
+Dialogue: 0,0:10:48.92,0:10:52.29,main,Finral,0000,0000,0000,,I mean, I think Gaja decided that, but...
+Dialogue: 0,0:11:00.37,0:11:02.01,main,Smurik,0000,0000,0000,,Now, what will you do?
+Dialogue: 0,0:11:10.81,0:11:12.15,main,Finral,0000,0000,0000,,Is this training?
+Dialogue: 0,0:11:12.62,0:11:14.90,main,Finral,0000,0000,0000,,Has our training already begun?
+Dialogue: 0,0:11:14.90,0:11:21.24,main,Smurik,0000,0000,0000,,Whether this is training or not, the wind \Nthat blows between us does not change.
+Dialogue: 0,0:11:21.24,0:11:22.16,main,Smurik,0000,0000,0000,,Isn't that right?
+Dialogue: 0,0:11:22.64,0:11:26.95,italics,Finral,0000,0000,0000,,I can't seem to figure this \Nguy out. Is he really okay?
+Dialogue: 0,0:11:27.66,0:11:30.93,main,Smurik,0000,0000,0000,,Spatial magic's main purpose \Nis to support your friends.
+Dialogue: 0,0:11:31.44,0:11:33.57,main,Smurik,0000,0000,0000,,Isn't that what you think?
+Dialogue: 0,0:11:33.57,0:11:34.92,main,Finral,0000,0000,0000,,Yes... and?
+Dialogue: 0,0:11:35.45,0:11:39.92,main,Smurik,0000,0000,0000,,Then if someone targets you, do you \Njust expect your friends to save you?
+Dialogue: 0,0:11:40.19,0:11:42.38,main,Smurik,0000,0000,0000,,Does that truly make you a supporter?
+Dialogue: 0,0:11:43.26,0:11:45.86,main,Smurik,0000,0000,0000,,What you must do is not \Nnecessarily just one thing.
+Dialogue: 0,0:11:46.51,0:11:47.89,main,Finral,0000,0000,0000,,Crap!
+Dialogue: 0,0:11:51.67,0:11:53.40,main,Smurik,0000,0000,0000,,Well, what now?
+Dialogue: 0,0:11:54.32,0:11:55.36,main,Finral,0000,0000,0000,,Please continue!
+Dialogue: 0,0:11:56.04,0:11:59.28,main,Smurik,0000,0000,0000,,Very well. Anywhere the wind blows.
+Dialogue: 0,0:12:02.01,0:12:04.53,main,Floga,0000,0000,0000,,What a beautiful day! \NA perfect day for training.
+Dialogue: 0,0:12:04.81,0:12:07.22,main,Leopold,0000,0000,0000,,I look forward to working with you, Floga!
+Dialogue: 0,0:12:07.71,0:12:10.78,main,Floga,0000,0000,0000,,First, let's see your magic.
+Dialogue: 0,0:12:11.29,0:12:13.04,main,Floga,0000,0000,0000,,About 80% of your power is enough.
+Dialogue: 0,0:12:14.54,0:12:18.30,main,Leopold,0000,0000,0000,,Flame Magic: Spiral Flames!
+Dialogue: 0,0:12:19.22,0:12:23.63,main,Floga,0000,0000,0000,,Nice. If this is what you can do at 80%, \Nyou've got a fair bit of potential.
+Dialogue: 0,0:12:23.63,0:12:27.31,main,Leopold,0000,0000,0000,,No, this is nowhere near enough.
+Dialogue: 0,0:12:27.31,0:12:30.74,main,Leopold,0000,0000,0000,,I must learn much more \Nand become even stronger.
+Dialogue: 0,0:12:30.74,0:12:33.31,main,Leopold,0000,0000,0000,,I don't want this chance to go to waste.
+Dialogue: 0,0:12:33.31,0:12:34.57,main,Floga,0000,0000,0000,,Agreed.
+Dialogue: 0,0:12:34.57,0:12:37.26,main,Leopold,0000,0000,0000,,I realize I may come off \Nas rude when I say this,
+Dialogue: 0,0:12:37.26,0:12:39.49,main,Leopold,0000,0000,0000,,but I'd like to see your powers.
+Dialogue: 0,0:12:39.49,0:12:40.32,main,Floga,0000,0000,0000,,Mine?
+Dialogue: 0,0:12:40.64,0:12:44.57,main,Leopold,0000,0000,0000,,I want to see with my own eyes \Nwhether I can learn anything from you.
+Dialogue: 0,0:12:44.80,0:12:47.82,main,Floga,0000,0000,0000,,Ah, so that's what you mean. \NWell, in that case...
+Dialogue: 0,0:12:57.81,0:12:59.87,main,Floga,0000,0000,0000,,I think that about does it.
+Dialogue: 0,0:13:00.81,0:13:04.15,main,Leopold,0000,0000,0000,,I apologize for doubting your strength.
+Dialogue: 0,0:13:04.15,0:13:05.90,main,Floga,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:13:06.74,0:13:10.81,italics,Leopold,0000,0000,0000,,It was so intense... I want to \Nmake that intensity my own!
+Dialogue: 0,0:13:11.33,0:13:13.62,main,Floga,0000,0000,0000,,Your potential is far greater than mine.
+Dialogue: 0,0:13:13.62,0:13:17.00,main,Floga,0000,0000,0000,,Once you learn how to use natural mana,
+Dialogue: 0,0:13:17.00,0:13:20.32,main,Floga,0000,0000,0000,,it won't be that difficult \Nfor you to do what I just did.
+Dialogue: 0,0:13:22.14,0:13:23.49,main,Floga,0000,0000,0000,,You're on the right track.
+Dialogue: 0,0:13:23.49,0:13:27.16,main,Floga,0000,0000,0000,,But it's not easy getting \Nfull control of natural mana.
+Dialogue: 0,0:13:27.38,0:13:30.41,main,Leopold,0000,0000,0000,,I look forward to working with you, Floga!
+Dialogue: 0,0:13:35.70,0:13:38.29,main,Asta,0000,0000,0000,,You've gotta push harder, Magna!
+Dialogue: 0,0:13:42.25,0:13:45.33,main,Gaja,0000,0000,0000,,Your magic is far too weak, after all.
+Dialogue: 0,0:13:45.33,0:13:46.47,main,Magna,0000,0000,0000,,What?!
+Dialogue: 0,0:13:46.47,0:13:48.69,main,Gaja,0000,0000,0000,,You're around the fifth stage.
+Dialogue: 0,0:13:48.69,0:13:53.47,main,Gaja,0000,0000,0000,,To use these techniques in battle, \Nyou need to be third stage or higher.
+Dialogue: 0,0:13:55.18,0:13:57.31,main,Luck,0000,0000,0000,,What the heck is this? It's super fun!
+Dialogue: 0,0:13:57.78,0:14:00.56,main,Gaja,0000,0000,0000,,It appears that he has a knack for this.
+Dialogue: 0,0:14:04.99,0:14:07.74,main,Luck,0000,0000,0000,,Guess I'm just gonna get \Nstronger on my own, then.
+Dialogue: 0,0:14:08.13,0:14:09.38,main,Asta,0000,0000,0000,,Magna...
+Dialogue: 0,0:14:09.38,0:14:10.97,main,Luck,0000,0000,0000,,Just leave him alone, Asta.
+Dialogue: 0,0:14:11.96,0:14:15.00,main,Luck,0000,0000,0000,,If he can't get any stronger,
+Dialogue: 0,0:14:15.00,0:14:17.71,main,Luck,0000,0000,0000,,it just means that's all he's worth.
+Dialogue: 0,0:14:19.24,0:14:20.77,main,Gaja,0000,0000,0000,,Sorry to keep you waiting.
+Dialogue: 0,0:14:21.56,0:14:25.92,main,Gaja,0000,0000,0000,,As I stated earlier, I'm going \Nto measure your strength.
+Dialogue: 0,0:14:26.31,0:14:28.43,main,Gaja,0000,0000,0000,,Please come at me with everything you have.
+Dialogue: 0,0:14:29.32,0:14:32.68,italics,Asta,0000,0000,0000,,I get to fight someone who's almost \Non a par with the Wizard King!
+Dialogue: 0,0:14:35.87,0:14:37.55,main,Asta,0000,0000,0000,,Let's have a good match!
+Dialogue: 0,0:14:43.02,0:14:44.86,main,Potrof,0000,0000,0000,,I think this is a good spot.
+Dialogue: 0,0:14:44.86,0:14:47.07,main,Rill,0000,0000,0000,,So what are we going to do for training?
+Dialogue: 0,0:14:47.07,0:14:49.24,main,Potrof,0000,0000,0000,,We're going to bask in the natural mana.
+Dialogue: 0,0:14:49.24,0:14:51.23,main,Potrof,0000,0000,0000,,Plants and animals...
+Dialogue: 0,0:14:51.23,0:14:57.20,main,Potrof,0000,0000,0000,,The earth, water, wind, sunlight... \NThis place is rich with life,
+Dialogue: 0,0:14:57.20,0:14:59.12,main,Potrof,0000,0000,0000,,so it's also overflowing with mana.
+Dialogue: 0,0:14:59.12,0:15:02.63,main,Rill,0000,0000,0000,,Now that you mention it, \NI think I can feel that.
+Dialogue: 0,0:15:02.96,0:15:05.30,main,Potrof,0000,0000,0000,,And don't ever forget that feeling.
+Dialogue: 0,0:15:05.30,0:15:08.05,main,Potrof,0000,0000,0000,,You need mana words to create the \Ntechniques we use in the Heart Kingdom.
+Dialogue: 0,0:15:08.74,0:15:11.72,main,Potrof,0000,0000,0000,,You'll be able to use mana words as you please
+Dialogue: 0,0:15:11.72,0:15:13.80,main,Potrof,0000,0000,0000,,once you become one with natural mana.
+Dialogue: 0,0:15:19.53,0:15:21.06,main,Rill,0000,0000,0000,,Wow!
+Dialogue: 0,0:15:21.06,0:15:23.06,main,Rill,0000,0000,0000,,I can feel something welling up inside me
+Dialogue: 0,0:15:23.06,0:15:26.28,main,Rill,0000,0000,0000,,after seeing you use your magic like this.
+Dialogue: 0,0:15:26.28,0:15:30.61,main,Potrof,0000,0000,0000,,Then why not try using mana \Nwords as your heart desires?
+Dialogue: 0,0:15:30.61,0:15:33.56,main,Potrof,0000,0000,0000,,It probably won't go perfectly as \Nplanned at first, but that's fine.
+Dialogue: 0,0:15:34.57,0:15:35.72,main,Rill,0000,0000,0000,,All right.
+Dialogue: 0,0:15:40.93,0:15:43.83,main,Potrof,0000,0000,0000,,Er, that's not quite right. \NYou need to use mana words—
+Dialogue: 0,0:15:43.83,0:15:46.43,main,Rill,0000,0000,0000,,I feel the need to create \Nwelling up within me!
+Dialogue: 0,0:15:46.43,0:15:52.39,main,Potrof,0000,0000,0000,,Uh... I see that you're an excellent painter,\N so why not try writing mana words?
+Dialogue: 0,0:15:52.39,0:15:54.93,main,Potrof,0000,0000,0000,,Mana words... like this.
+Dialogue: 0,0:15:55.42,0:15:56.31,main,Rill,0000,0000,0000,,Like this?
+Dialogue: 0,0:15:59.37,0:16:00.43,main,Rill,0000,0000,0000,,My painting!
+Dialogue: 0,0:16:00.43,0:16:01.70,main,Potrof,0000,0000,0000,,Unbelievable.
+Dialogue: 0,0:16:01.70,0:16:04.11,main,Potrof,0000,0000,0000,,You were able to write that many mana \Nwords after seeing them just once...
+Dialogue: 0,0:16:04.11,0:16:05.95,main,Potrof,0000,0000,0000,,Rill, keep that up.
+Dialogue: 0,0:16:06.75,0:16:08.44,main,Potrof,0000,0000,0000,,No, don't go painting again!
+Dialogue: 0,0:16:08.68,0:16:14.22,main,Rill,0000,0000,0000,,Thanks for your help. I think this painting \Nis going to be even better for it.
+Dialogue: 0,0:16:14.22,0:16:15.95,main,Potrof,0000,0000,0000,,Oh, for crying out loud!
+Dialogue: 0,0:16:20.08,0:16:23.14,main,Rill,0000,0000,0000,,Hey, you're from the Black Bulls...
+Dialogue: 0,0:16:23.14,0:16:28.61,main,Potrof,0000,0000,0000,,Aren't you Queen Loropechika's pet...\N er, I mean, guest?
+Dialogue: 0,0:16:28.61,0:16:30.71,main,Potrof,0000,0000,0000,,Weren't you enjoying a \Nmeal back at the palace?
+Dialogue: 0,0:16:30.92,0:16:37.35,main,Charmy,0000,0000,0000,,Well, I ate all the food there, \Nso I came here in search for new foods, la.
+Dialogue: 0,0:16:37.35,0:16:40.68,main,Potrof,0000,0000,0000,,You're telling me you've depleted \Nall of the palace's reserves?
+Dialogue: 0,0:16:40.68,0:16:41.96,main,Charmy,0000,0000,0000,,Yup.
+Dialogue: 0,0:16:41.96,0:16:44.46,main,Potrof,0000,0000,0000,,Well, since you came all the \Nway to the Heart Kingdom,
+Dialogue: 0,0:16:44.46,0:16:47.36,main,Potrof,0000,0000,0000,,why not learn the Heart Kingdom's techniques?
+Dialogue: 0,0:16:48.05,0:16:52.32,main,Charmy,0000,0000,0000,,Well, right now, I just want to eat \Nas many delicious noms as I can.
+Dialogue: 0,0:16:52.32,0:16:55.70,main,Potrof,0000,0000,0000,,Oh, don't be like that. See, look.\N These are mana words.
+Dialogue: 0,0:16:56.25,0:16:58.45,main,Potrof,0000,0000,0000,,They're really convenient to be able to use.
+Dialogue: 0,0:17:07.46,0:17:10.48,main,Potrof,0000,0000,0000,,Ah! Looks like we have \Nanother genius on our hands!
+Dialogue: 0,0:17:10.48,0:17:13.25,main,Potrof,0000,0000,0000,,But it's not complete just yet.
+Dialogue: 0,0:17:13.25,0:17:16.33,main,Potrof,0000,0000,0000,,Listen well. You use mana \Nwords and natural mana to...
+Dialogue: 0,0:17:16.33,0:17:20.23,main,Charmy,0000,0000,0000,,I think there's even more delicious \Nfruit further in the forest.
+Dialogue: 0,0:17:20.23,0:17:21.78,main,Rill,0000,0000,0000,,If we go further into the forest,
+Dialogue: 0,0:17:21.78,0:17:25.69,main,Rill,0000,0000,0000,,I'm sure I'll find some scenery \Nthat'll spark my inspiration!
+Dialogue: 0,0:17:25.69,0:17:29.69,main,Potrof,0000,0000,0000,,I'm begging you two, please listen to me.
+Dialogue: 0,0:17:32.49,0:17:36.03,main,Noelle,0000,0000,0000,,Now, let's have you train us,\N Loropechika and Undine.
+Dialogue: 0,0:17:36.03,0:17:40.95,main,Loropechika,0000,0000,0000,,Of course. But first, \NI have a request for you two.
+Dialogue: 0,0:17:41.77,0:17:44.41,main,Loropechika,0000,0000,0000,,Please save me.
+Dialogue: 0,0:17:44.97,0:17:48.19,main,Loropechika,0000,0000,0000,,As things stand, this curse will kill me.
+Dialogue: 0,0:17:48.19,0:17:49.24,main,Loropechika,0000,0000,0000,,Before that happens...
+Dialogue: 0,0:17:49.90,0:17:53.40,main,Noelle,0000,0000,0000,,We know. We'll defeat the \Ndevil before that happens.
+Dialogue: 0,0:17:53.40,0:17:55.26,main,Noelle,0000,0000,0000,,That's why we're all here to train.
+Dialogue: 0,0:17:55.26,0:17:58.76,main,Loropechika,0000,0000,0000,,The four of us here will strike \Ndown the devil Megicula.
+Dialogue: 0,0:18:00.33,0:18:03.02,main,Noelle,0000,0000,0000,,Could you explain what you mean?
+Dialogue: 0,0:18:03.02,0:18:05.92,main,Loropechika,0000,0000,0000,,Of course, we will need \Neveryone else's help in order
+Dialogue: 0,0:18:05.92,0:18:08.99,main,Loropechika,0000,0000,0000,,to stop the invasion from the Spade Kingdom.
+Dialogue: 0,0:18:10.24,0:18:15.86,main,Loropechika,0000,0000,0000,,But Megicula... The one that \NMegicula possesses, the mage Vanica...
+Dialogue: 0,0:18:16.29,0:18:17.79,main,Loropechika,0000,0000,0000,,We don't stand a chance
+Dialogue: 0,0:18:17.79,0:18:23.39,main,Loropechika,0000,0000,0000,,against that one unless Undine and I, \Nas well as the two of you, join forces.
+Dialogue: 0,0:18:25.08,0:18:30.79,main,Noelle,0000,0000,0000,,And you know how this Vanica fights. \NThat's why you're saying that.
+Dialogue: 0,0:18:31.01,0:18:37.35,main,Undine,0000,0000,0000,,My duty is to fight alongside \NLoropechika, as well as protect her.
+Dialogue: 0,0:18:37.35,0:18:40.80,main,Undine,0000,0000,0000,,But the two of us were no match for Vanica.
+Dialogue: 0,0:18:41.57,0:18:46.45,main,Undine,0000,0000,0000,,It's my fault that Loropechika has to \Ndeal with the fear of impending death.
+Dialogue: 0,0:18:47.15,0:18:50.64,main,Loropechika,0000,0000,0000,,No, it's not your fault, Undine.
+Dialogue: 0,0:18:50.64,0:18:54.81,main,Loropechika,0000,0000,0000,,Those possessed by the devil cannot \Nbe defeated by ordinary means.
+Dialogue: 0,0:18:55.36,0:18:57.41,main,Noelle,0000,0000,0000,,So you're saying if you have \NNero and me with you,
+Dialogue: 0,0:18:57.41,0:19:00.82,main,Noelle,0000,0000,0000,,we'll be able to win using\N unconventional means.
+Dialogue: 0,0:19:01.55,0:19:03.97,main,Loropechika,0000,0000,0000,,We can't be certain just yet.
+Dialogue: 0,0:19:03.97,0:19:07.70,main,Loropechika,0000,0000,0000,,But I've come to the conclusion that \Nif the four of us work together,
+Dialogue: 0,0:19:07.70,0:19:10.58,main,Loropechika,0000,0000,0000,,we may come closest to that result.
+Dialogue: 0,0:19:10.92,0:19:16.09,main,Undine,0000,0000,0000,,Please... help us so that \Nwe can save Loropechika.
+Dialogue: 0,0:19:16.41,0:19:19.08,main,Loropechika,0000,0000,0000,,Nero's arcane stage...
+Dialogue: 0,0:19:19.08,0:19:21.97,main,Loropechika,0000,0000,0000,,Noelle's combative spirit \Nand fighting style...
+Dialogue: 0,0:19:23.57,0:19:27.90,main,Loropechika,0000,0000,0000,,If you two grow along with Undine and me,
+Dialogue: 0,0:19:27.90,0:19:32.27,main,Loropechika,0000,0000,0000,,we should be able to defeat Vanica, \Nas well as Megicula, who possesses her.
+Dialogue: 0,0:19:33.11,0:19:35.14,main,Noelle,0000,0000,0000,,I'll believe you.
+Dialogue: 0,0:19:35.14,0:19:37.47,main,Noelle,0000,0000,0000,,Nero, you're doing this, too.
+Dialogue: 0,0:19:38.51,0:19:39.61,main,Undine,0000,0000,0000,,Thank you.
+Dialogue: 0,0:19:39.61,0:19:40.87,main,Noelle,0000,0000,0000,,You don't need to thank us.
+Dialogue: 0,0:19:41.30,0:19:45.80,main,Noelle,0000,0000,0000,,I have my own reasons for wanting to \Ndefeat Megicula with my own hands.
+Dialogue: 0,0:19:46.85,0:19:49.62,main,Loropechika,0000,0000,0000,,Very well. Then let us begin.
+Dialogue: 0,0:19:52.50,0:19:54.96,main,Noelle,0000,0000,0000,,All right! Come at me from wherever!
+Dialogue: 0,0:20:07.30,0:20:08.85,main,Smurik,0000,0000,0000,,You've got the right idea.
+Dialogue: 0,0:20:09.41,0:20:13.60,main,Smurik,0000,0000,0000,,But if you can't figure out your \Nopponent's powers, there's no point.
+Dialogue: 0,0:20:13.96,0:20:17.61,italics,Finral,0000,0000,0000,,This isn't good. At this rate, \NI won't be able to support my friends!
+Dialogue: 0,0:20:24.98,0:20:28.79,main,Sarado,0000,0000,0000,,Keep zooming at me! \NKeep using those mana words!
+Dialogue: 0,0:20:28.79,0:20:30.70,main,Sarado,0000,0000,0000,,Then you'll eventually get the hang of it!
+Dialogue: 0,0:20:44.43,0:20:46.84,main,Asta,0000,0000,0000,,This time, I'll get you!
+Dialogue: 0,0:20:53.92,0:20:57.04,main,Gaja,0000,0000,0000,,The power to nullify magic is unrivaled.
+Dialogue: 0,0:20:57.04,0:21:00.40,main,Gaja,0000,0000,0000,,But your vision is so narrow that you can't \Nuse your powers to their full potential.
+Dialogue: 0,0:21:00.40,0:21:02.40,main,Asta,0000,0000,0000,,Not yet!
+Dialogue: 0,0:21:10.16,0:21:13.27,main,Gaja,0000,0000,0000,,Solely relying on how tough \Nyou are in your fighting style
+Dialogue: 0,0:21:13.27,0:21:15.92,main,Gaja,0000,0000,0000,,will not keep working forever.
+Dialogue: 0,0:21:17.36,0:21:19.36,main,Gaja,0000,0000,0000,,To use those powers to their full potential,
+Dialogue: 0,0:21:19.36,0:21:23.38,main,Gaja,0000,0000,0000,,it's only logical that you use \Nthem to back up your friends.
+Dialogue: 0,0:21:23.38,0:21:24.92,main,Asta,0000,0000,0000,,Please let me try again!
+Dialogue: 0,0:21:25.73,0:21:28.93,main,Gaja,0000,0000,0000,,I guess you won't be satisfied with that.
+Dialogue: 0,0:21:34.76,0:21:37.94,italics,Finral,0000,0000,0000,,Yeah, they're working me \Nto the bone from day one.
+Dialogue: 0,0:21:38.29,0:21:40.45,italics,Finral,0000,0000,0000,,Not just me. All of us!
+Dialogue: 0,0:21:40.45,0:21:42.94,main,Yami,0000,0000,0000,,So, are you seeing any progress?
+Dialogue: 0,0:21:44.01,0:21:48.43,italics,Finral,0000,0000,0000,,It looks like everyone else has already \Nlearned the Heart Kingdom's techniques,
+Dialogue: 0,0:21:48.43,0:21:52.45,italics,Finral,0000,0000,0000,,so I think it's unlikely that we won't get \Nstronger if we keep this up every day.
+Dialogue: 0,0:21:52.45,0:21:55.23,main,Yami,0000,0000,0000,,Oh? Well, keep up the good work.
+Dialogue: 0,0:21:55.23,0:21:56.04,italics,Finral,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:21:57.39,0:22:00.71,main,Yami,0000,0000,0000,,Looks like they're all trying \Nto surpass their limits.
+Dialogue: 0,0:22:01.73,0:22:04.21,main,Yami,0000,0000,0000,,So I guess I need to work a bit harder, too.
+Dialogue: 0,0:23:39.98,0:23:45.13,main,Yami,0000,0000,0000,,Everyone's gone out training, so the \NBlack Bulls' hideout is super quiet.
+Dialogue: 0,0:23:45.13,0:23:49.53,main,Yami,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, \NPage 156: "Awakening Powers."
+Dialogue: 0,0:23:46.11,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 156\N\N{\fs18}Awakening Powers
+Dialogue: 0,0:23:49.53,0:23:51.43,main,Yami,0000,0000,0000,,Guess I should push harder, too.
+Dialogue: 0,0:23:51.43,0:23:53.43,main,,0000,0000,0000,,And no, I don't mean in the bathroom.

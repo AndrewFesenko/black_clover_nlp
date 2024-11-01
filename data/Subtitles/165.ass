@@ -1,0 +1,311 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H000400D6,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.41,0:00:07.79,italics,Nar,0000,0000,0000,,And in the clover's fifth leaf resides...
+Dialogue: 0,0:00:07.79,0:00:09.41,italics,Nar,0000,0000,0000,,a devil.
+Dialogue: 0,0:00:10.09,0:00:12.34,italics,Nar,0000,0000,0000,,What Asta, who was born without magic,
+Dialogue: 0,0:00:12.34,0:00:14.72,italics,Nar,0000,0000,0000,,gained from the five-leaf grimoire was
+Dialogue: 0,0:00:14.72,0:00:18.73,italics,Nar,0000,0000,0000,,the power of anti-magic, \Nwhich nullifies any magic.
+Dialogue: 0,0:00:20.00,0:00:23.92,italics,Nar,0000,0000,0000,,Meanwhile, the Dark Triad \Nof the Spade Kingdom
+Dialogue: 0,0:00:23.92,0:00:26.80,italics,Nar,0000,0000,0000,,also possessed the powers of \Nthe devils from the underworld,
+Dialogue: 0,0:00:26.80,0:00:29.68,italics,Nar,0000,0000,0000,,and began invading the other kingdoms.
+Dialogue: 0,0:00:30.70,0:00:33.77,italics,Nar,0000,0000,0000,,Asta continued to fight \Nwhile believing in himself,
+Dialogue: 0,0:00:34.41,0:00:38.30,italics,Nar,0000,0000,0000,,along with his friends... \Nto protect this world!
+Dialogue: 0,0:00:45.16,0:00:48.66,main,Dante,0000,0000,0000,,The thing that connects this \Nworld with the underworld is...
+Dialogue: 0,0:00:49.13,0:00:52.51,main,Dante,0000,0000,0000,,a magic channel called the Tree of Qliphoth.
+Dialogue: 0,0:00:53.24,0:00:57.50,italics,Nar,0000,0000,0000,,Dante said that creating the Tree of Qliphoth
+Dialogue: 0,0:00:57.50,0:01:00.18,italics,Nar,0000,0000,0000,,required world tree magic and dark magic.
+Dialogue: 0,0:01:00.94,0:01:04.85,main,Yami,0000,0000,0000,,Guess I'm gonna have to \Ntake you out here and now!
+Dialogue: 0,0:01:05.39,0:01:07.50,italics,Nar,0000,0000,0000,,Meanwhile, in the Heart Kingdom,
+Dialogue: 0,0:01:07.50,0:01:11.38,italics,Nar,0000,0000,0000,,the battle against Vanica's \NDark Disciples continued.
+Dialogue: 0,0:01:12.04,0:01:14.55,main,Luck,0000,0000,0000,,True Lightning Magic: Ceranos!
+Dialogue: 0,0:01:15.57,0:01:19.08,italics,Nar,0000,0000,0000,,First, Luck defeated Svenkin,\N who uses skin magic.
+Dialogue: 0,0:01:19.43,0:01:20.81,italics,Nar,0000,0000,0000,,And next...
+Dialogue: 0,0:01:20.81,0:01:24.21,main,Charmy,0000,0000,0000,,Food Magic: Glutton's Banquet.
+Dialogue: 0,0:01:28.51,0:01:31.57,main,Wolf,0000,0000,0000,,I'll just... help myself!
+Dialogue: 0,0:01:33.61,0:01:37.64,italics,Nar,0000,0000,0000,,Charmy powered up her food magic\N with the Mana Method
+Dialogue: 0,0:01:37.64,0:01:40.37,italics,Nar,0000,0000,0000,,and brought down Halbet, who used hair magic.
+Dialogue: 0,0:01:40.82,0:01:45.29,main,Charmy,0000,0000,0000,,True beauty and strength come \Nfrom a well-balanced diet!
+Dialogue: 0,0:01:45.53,0:01:49.00,main,Sivoir,0000,0000,0000,,What is this giant array?
+Dialogue: 0,0:01:49.00,0:01:52.96,main,Leo,0000,0000,0000,,I endured and took my time making it.
+Dialogue: 0,0:01:53.42,0:01:55.52,main,Leo,0000,0000,0000,,True Flame Magic:
+Dialogue: 0,0:01:56.42,0:01:59.16,main,Leo,0000,0000,0000,,Crimson Eruption!
+Dialogue: 0,0:01:59.60,0:02:03.95,italics,Nar,0000,0000,0000,,Leopold, who had obtained true flame \Nmagic through the Mana Method,
+Dialogue: 0,0:02:03.95,0:02:06.64,italics,Nar,0000,0000,0000,,defeated Sivoir, who used eye magic.
+Dialogue: 0,0:02:06.64,0:02:09.81,main,Leo,0000,0000,0000,,If you aren't prepared to get hurt,
+Dialogue: 0,0:02:09.81,0:02:14.82,main,Leo,0000,0000,0000,,stay off the battlefield!
+Dialogue: 0,0:02:15.34,0:02:19.74,italics,Nar,0000,0000,0000,,The Spirit Guardian Gaja took care \Nof Hischer, who used nail magic.
+Dialogue: 0,0:02:20.05,0:02:23.62,main,Gaja,0000,0000,0000,,You won't have your way, Dark Disciple!
+Dialogue: 0,0:02:28.29,0:02:31.22,main,Mimosa,0000,0000,0000,,Plant Magic: Magic Cannon Flower!
+Dialogue: 0,0:02:31.75,0:02:34.46,main,Mimosa,0000,0000,0000,,You're disgusting!
+Dialogue: 0,0:02:34.71,0:02:38.65,italics,Nar,0000,0000,0000,,Robero, who used tongue magic, \Nappeared before Queen Loropechika,
+Dialogue: 0,0:02:38.65,0:02:40.87,italics,Nar,0000,0000,0000,,and fell at the hands of Mimosa, but...
+Dialogue: 0,0:02:40.87,0:02:42.18,main,Vanica,0000,0000,0000,,Yoo-hoo!
+Dialogue: 0,0:02:43.61,0:02:47.19,main,Vanica,0000,0000,0000,,My widdle Loropechika!
+Dialogue: 0,0:02:57.60,0:03:00.39,main,Guard A,0000,0000,0000,,Man, I'm bored.
+Dialogue: 0,0:03:00.39,0:03:04.78,main,Guard a,0000,0000,0000,,The three members of the Dark Triad \Nare also out right now, aren't they?
+Dialogue: 0,0:03:04.78,0:03:07.73,main,Guard B,0000,0000,0000,,Yeah. By the way, did you hear?
+Dialogue: 0,0:03:07.73,0:03:12.29,main,Guard B,0000,0000,0000,,There might be a spy from \Nthe Clover Kingdom here.
+Dialogue: 0,0:03:13.74,0:03:17.80,main,Guard A,0000,0000,0000,,Oh, please! No one would be that stupid.
+Dialogue: 0,0:03:18.79,0:03:19.83,main,Guard B,0000,0000,0000,,Guess you're right.
+Dialogue: 0,0:03:31.98,0:03:32.96,main,Guy,0000,0000,0000,,You there.
+Dialogue: 0,0:03:34.14,0:03:36.52,main,Guy,0000,0000,0000,,What are you doing in Lord Dante's room?
+Dialogue: 0,0:03:37.07,0:03:40.32,main,Guy,0000,0000,0000,,Ah, you must be the spy.
+Dialogue: 0,0:03:40.55,0:03:42.91,main,Guy,0000,0000,0000,,Let's have a nice, long chat.
+Dialogue: 0,0:03:48.67,0:03:49.72,main,Guy,0000,0000,0000,,They disappeared?
+Dialogue: 0,0:03:51.52,0:03:52.48,main,Guy,0000,0000,0000,,Where did...
+Dialogue: 0,0:05:35.91,0:05:39.19,Ep Title,Sign,0000,0000,0000,,{\t(1,1134,\c&H0900AD&)}Water Crusade
+Dialogue: 0,0:05:54.50,0:05:56.61,main,Vanica,0000,0000,0000,,My widdle Loropechika!
+Dialogue: 0,0:05:56.61,0:06:00.96,main,Vanica,0000,0000,0000,,You grunts next to her don't \Nneed to be so guarded, either.
+Dialogue: 0,0:06:01.38,0:06:05.36,main,Vanica,0000,0000,0000,,I only cursed you last time \Nbecause Megicula asked me to,
+Dialogue: 0,0:06:05.36,0:06:08.15,main,Vanica,0000,0000,0000,,but we're going to have so much fun today!
+Dialogue: 0,0:06:09.01,0:06:12.50,italics,Noelle,0000,0000,0000,,She's the devil-possessed \Nwho hosts Megicula...
+Dialogue: 0,0:06:12.50,0:06:14.93,italics,Noelle,0000,0000,0000,,Vanica of the Dark Triad.
+Dialogue: 0,0:06:16.02,0:06:18.30,italics,Noelle,0000,0000,0000,,The one who killed my mother!
+Dialogue: 0,0:06:19.61,0:06:22.94,main,Loro,0000,0000,0000,,Why did you attack the Heart Kingdom \Nif I'm the one you're after?
+Dialogue: 0,0:06:23.38,0:06:26.67,main,Loro,0000,0000,0000,,Why did you target the places\N where my people were?
+Dialogue: 0,0:06:27.93,0:06:29.66,main,Vanica,0000,0000,0000,,Well, I thought if I did that,
+Dialogue: 0,0:06:29.66,0:06:32.83,main,Vanica,0000,0000,0000,,you'd be even more willing to fight me!
+Dialogue: 0,0:06:35.26,0:06:36.66,italics,Noelle,0000,0000,0000,,How dare she?!
+Dialogue: 0,0:06:37.26,0:06:39.78,main,Noelle,0000,0000,0000,,We've defeated all of your minions!
+Dialogue: 0,0:06:39.78,0:06:42.50,main,Noelle,0000,0000,0000,,You're the only one left! I hope \Nyou're prepared to deal with us!
+Dialogue: 0,0:06:42.50,0:06:43.67,main,Vanica,0000,0000,0000,,What?
+Dialogue: 0,0:06:43.67,0:06:45.74,main,Vanica,0000,0000,0000,,You've defeated them all, you say?
+Dialogue: 0,0:06:51.94,0:06:55.68,main,Robero,0000,0000,0000,,Man, that felt great.
+Dialogue: 0,0:06:56.93,0:07:00.94,italics,Mimosa,0000,0000,0000,,No... He should've been \Nrendered unconscious.
+Dialogue: 0,0:07:01.21,0:07:05.09,main,Robero,0000,0000,0000,,Ah, Lady Vanica, I am so grateful.
+Dialogue: 0,0:07:05.09,0:07:08.07,main,Robero,0000,0000,0000,,Thanks to you, I was able \Nto feel good so many ti—
+Dialogue: 0,0:07:12.32,0:07:14.22,main,Vanica,0000,0000,0000,,Could you shut up?
+Dialogue: 0,0:07:14.22,0:07:18.76,main,Vanica,0000,0000,0000,,Hurry up and take care of all the pests \Nwho aren't my widdle Loropechika.
+Dialogue: 0,0:07:31.00,0:07:36.14,main,Robero,0000,0000,0000,,Lady Vanica, please, stomp on me some more.
+Dialogue: 0,0:07:36.37,0:07:39.63,main,Vanica,0000,0000,0000,,You see? Thanks to the curse I put on them,
+Dialogue: 0,0:07:39.63,0:07:42.52,main,Vanica,0000,0000,0000,,they just won't die, no matter\N how many times you kill them!
+Dialogue: 0,0:07:49.50,0:07:51.45,main,Hischer,0000,0000,0000,,Where do you think you're going?
+Dialogue: 0,0:07:51.95,0:07:53.36,main,Gaja,0000,0000,0000,,What?
+Dialogue: 0,0:07:54.43,0:08:01.50,top,Hischer,0000,0000,0000,,We've only just begun trampling \Nthis kingdom. Long live Lady Vanica!
+Dialogue: 0,0:07:56.76,0:08:01.50,sign_8772_80_Father_Nathan,Sign,0000,0000,0000,,{\blur3\fad(1008,1)}Dark Disciple\N{\fs30}Hischer Ongg
+Dialogue: 0,0:08:03.05,0:08:04.75,italics,Loro,0000,0000,0000,,All the other enemies...
+Dialogue: 0,0:08:07.51,0:08:09.73,main,Svenkin,0000,0000,0000,,Behold the power of love!
+Dialogue: 0,0:08:09.73,0:08:13.26,main,Svenkin,0000,0000,0000,,All hail Lady Vanica!
+Dialogue: 0,0:08:13.88,0:08:19.43,main,Sivoir,0000,0000,0000,,How dare you... How dare you \Ninflict pain and injury on me?!
+Dialogue: 0,0:08:19.43,0:08:23.08,main,Sivior,0000,0000,0000,,I was chosen by Lady Vanica!
+Dialogue: 0,0:08:23.82,0:08:30.19,main,Halbet,0000,0000,0000,,How dare you put someone as beautiful \Nas me through something so disgraceful?!
+Dialogue: 0,0:08:30.61,0:08:36.70,main,Halbet,0000,0000,0000,,I'll wreck everything with the eternal \Nbeauty that Lady Vanica gave me!
+Dialogue: 0,0:08:37.29,0:08:40.54,main,Vanica,0000,0000,0000,,Looks like they're all still yapping.
+Dialogue: 0,0:08:43.62,0:08:45.83,main,All,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:08:46.44,0:08:49.90,main,Gaja,0000,0000,0000,,I told you, you will not have your way.
+Dialogue: 0,0:08:50.42,0:08:55.84,main,Vanica,0000,0000,0000,,But if you don't defeat me, they're just\N going to keep coming back to life...
+Dialogue: 0,0:08:56.12,0:08:59.51,main,Vanica,0000,0000,0000,,Until they exterminate every \Nlast person in this kingdom.
+Dialogue: 0,0:09:02.27,0:09:06.52,main,Vanica,0000,0000,0000,,Do you feel like playing with \Nme now, my widdle Loropechika?
+Dialogue: 0,0:09:09.08,0:09:11.07,main,Undine,0000,0000,0000,,Let's go, Loropechika.
+Dialogue: 0,0:09:11.07,0:09:12.03,main,Loro,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:12.26,0:09:14.37,main,Mimosa,0000,0000,0000,,Noelle! Let us fight, too!
+Dialogue: 0,0:09:14.37,0:09:15.53,main,Noelle,0000,0000,0000,,Right!
+Dialogue: 0,0:09:16.28,0:09:19.92,main,Noelle,0000,0000,0000,,Water Creation Magic: Valkyrie Armor!
+Dialogue: 0,0:09:20.73,0:09:22.41,main,All,0000,0000,0000,,We will defeat you!
+Dialogue: 0,0:09:22.77,0:09:25.55,italics,Noelle,0000,0000,0000,,Water Creation Magic: Sea Dragon's Roar!
+Dialogue: 0,0:09:26.16,0:09:28.92,italics,Vanica,0000,0000,0000,,Blood Magic: Red Beast.
+Dialogue: 0,0:09:33.40,0:09:36.17,main,Vanica,0000,0000,0000,,What was that snake \Nsupposed to be? An attack?
+Dialogue: 0,0:09:40.98,0:09:45.14,main,Robero,0000,0000,0000,,Don't worry. I'll play with you girlies.
+Dialogue: 0,0:09:52.17,0:09:56.66,main,Mimosa,0000,0000,0000,,I snuck some magic-controlling \Nweed seeds into that last attack.
+Dialogue: 0,0:09:57.36,0:09:59.35,main,Robero,0000,0000,0000,,I can't move...
+Dialogue: 0,0:09:59.35,0:10:02.91,main,Robero,0000,0000,0000,,But neither can you!
+Dialogue: 0,0:10:02.91,0:10:04.19,main,Noelle,0000,0000,0000,,Mimosa!
+Dialogue: 0,0:10:04.19,0:10:08.26,main,Mimosa,0000,0000,0000,,Leave this frog to me. You two \Ntake care of that devil-possessed!
+Dialogue: 0,0:10:20.17,0:10:23.85,main,Robero,0000,0000,0000,,Both of your magic powers \Nare the best, Lady Vanica!
+Dialogue: 0,0:10:24.57,0:10:26.74,main,Noelle,0000,0000,0000,,Blood magic and curse-warding magic...
+Dialogue: 0,0:10:26.74,0:10:29.44,main,Noelle,0000,0000,0000,,Just like Loropechika said, she's...
+Dialogue: 0,0:10:33.23,0:10:34.94,flashback,Noelle,0000,0000,0000,,Uh, Loropechika?
+Dialogue: 0,0:10:34.94,0:10:36.22,flashback,Noelle,0000,0000,0000,,Loropechika!
+Dialogue: 0,0:10:36.22,0:10:38.34,flashback,Noelle,0000,0000,0000,,Ah! Yesh?!
+Dialogue: 0,0:10:39.46,0:10:43.73,flashback,Loropechika,0000,0000,0000,,S-Sorry, I was checking something.
+Dialogue: 0,0:10:43.73,0:10:47.41,flashback,Noelle,0000,0000,0000,,Checking something? It looked \Nlike you were just spacing out.
+Dialogue: 0,0:10:47.85,0:10:49.38,flashback,Noelle,0000,0000,0000,,More importantly, the Spade Kingdom...
+Dialogue: 0,0:10:49.38,0:10:51.29,flashback,Loro,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:10:52.29,0:10:56.85,flashback,Loro,0000,0000,0000,,Each member of the Dark Triad uses\Ntwo different magical attributes.
+Dialogue: 0,0:10:56.85,0:10:59.30,flashback,Loro,0000,0000,0000,,Their own, and the one their devil has.
+Dialogue: 0,0:11:01.33,0:11:03.11,flashback,Loro,0000,0000,0000,,Vanica and Megicula...
+Dialogue: 0,0:11:03.11,0:11:08.07,flashback,Loro,0000,0000,0000,,I've fought them once before, so I will \Ncome up with a strategy against them.
+Dialogue: 0,0:11:09.06,0:11:11.03,flashbackitalics,Loro,0000,0000,0000,,Let us train toward that.
+Dialogue: 0,0:11:12.63,0:11:14.52,main,Vanica,0000,0000,0000,,Excellent, my widdle Loropechika!
+Dialogue: 0,0:11:15.49,0:11:19.32,main,Vanica,0000,0000,0000,,I wonder if Dante and Zenon \Nare also having fun right now.
+Dialogue: 0,0:11:19.59,0:11:22.81,main,Vanica,0000,0000,0000,,But I definitely get to have the most fun!
+Dialogue: 0,0:11:22.81,0:11:26.33,main,Vanica,0000,0000,0000,,It's widdle Loropechika, \Nand I get to kill her if I want!
+Dialogue: 0,0:11:26.76,0:11:30.89,main,Undine,0000,0000,0000,,Loropechika has me. That won't be happening.
+Dialogue: 0,0:11:35.25,0:11:38.92,main,Vanica,0000,0000,0000,,World tree magic and dark \Nmagic sound fun and all...
+Dialogue: 0,0:11:38.92,0:11:43.39,main,Vanica,0000,0000,0000,,But having to drag them back \Nsounds like such a pain!
+Dialogue: 0,0:11:44.89,0:11:46.76,italics,Noelle,0000,0000,0000,,Dark magic?
+Dialogue: 0,0:11:47.39,0:11:49.52,main,Noelle,0000,0000,0000,,What do you mean, drag them back?
+Dialogue: 0,0:11:49.52,0:11:52.14,main,Noelle,0000,0000,0000,,What are the other two members \Nof the Dark Triad doing?
+Dialogue: 0,0:11:52.14,0:11:56.40,main,Vanica,0000,0000,0000,,What? Why should I have to tell you?
+Dialogue: 0,0:12:00.96,0:12:04.41,italics,Loro,0000,0000,0000,,World tree magic... Dark magic...
+Dialogue: 0,0:12:06.25,0:12:09.66,italics,Nar,0000,0000,0000,,The Queen of the Heart Kingdom \Ninherits the previous queens' powers,
+Dialogue: 0,0:12:09.66,0:12:13.29,italics,Nar,0000,0000,0000,,which includes their knowledge and experiences.
+Dialogue: 0,0:12:13.29,0:12:16.06,italics,Nar,0000,0000,0000,,This is where that colossal \Namount of information
+Dialogue: 0,0:12:16.06,0:12:19.21,italics,Nar,0000,0000,0000,,gets realized in Loropechika's mind.
+Dialogue: 0,0:12:19.90,0:12:24.20,italics,Nar,0000,0000,0000,,This place is why she is called \Nthe "All-Knowing Priestess."
+Dialogue: 0,0:12:39.50,0:12:41.69,main,Loro,0000,0000,0000,,That's... awful.
+Dialogue: 0,0:12:42.23,0:12:43.32,main,Noelle,0000,0000,0000,,Loropechika!
+Dialogue: 0,0:12:44.01,0:12:45.25,main,Loro,0000,0000,0000,,They're...
+Dialogue: 0,0:12:46.09,0:12:48.84,main,Loro,0000,0000,0000,,If we let the Dark Triad have their way,
+Dialogue: 0,0:12:50.05,0:12:54.48,main,Loro,0000,0000,0000,,the door connecting the underworld where \Nthe devils live to this world will open,
+Dialogue: 0,0:12:54.48,0:12:57.68,main,Loro,0000,0000,0000,,killing more than 90% of \Nthe people on this continent,
+Dialogue: 0,0:12:57.68,0:12:59.71,main,Loro,0000,0000,0000,,and the world will cease to be!
+Dialogue: 0,0:13:00.19,0:13:01.32,main,Noelle,0000,0000,0000,,What?!
+Dialogue: 0,0:13:23.53,0:13:25.70,main,Loro,0000,0000,0000,,That's... awful.
+Dialogue: 0,0:13:26.25,0:13:27.32,main,Noelle,0000,0000,0000,,Loropechika!
+Dialogue: 0,0:13:28.01,0:13:29.29,main,Loro,0000,0000,0000,,They're...
+Dialogue: 0,0:13:30.05,0:13:32.80,main,Loro,0000,0000,0000,,If we let the Dark Triad have their way,
+Dialogue: 0,0:13:33.93,0:13:38.39,main,Loro,0000,0000,0000,,the door connecting the underworld where \Nthe devils live to this world will open,
+Dialogue: 0,0:13:38.39,0:13:41.59,main,Loro,0000,0000,0000,,killing more than 90% of \Nthe people on this continent,
+Dialogue: 0,0:13:41.59,0:13:43.71,main,Loro,0000,0000,0000,,and the world will cease to be!
+Dialogue: 0,0:13:44.19,0:13:45.34,main,Noelle,0000,0000,0000,,What?!
+Dialogue: 0,0:13:49.71,0:13:51.74,main,Loro,0000,0000,0000,,How could you do something so awful?
+Dialogue: 0,0:13:52.36,0:13:54.22,main,Loro,0000,0000,0000,,People are going to die, too!
+Dialogue: 0,0:13:54.45,0:13:59.05,main,Vanica,0000,0000,0000,,I want my blood to seethe with all of the \Nblood of the strong people left behind!
+Dialogue: 0,0:13:59.05,0:14:02.23,main,Vanica,0000,0000,0000,,I have no interest in the \Nweak who're going to die.
+Dialogue: 0,0:14:03.45,0:14:06.86,main,Vanica,0000,0000,0000,,But who cares about the future? \NLet's enjoy the pres—
+Dialogue: 0,0:14:06.86,0:14:11.30,main,Loro,0000,0000,0000,,Indeed, we cannot let \Nthese people roam free!
+Dialogue: 0,0:14:14.14,0:14:17.37,main,Loro,0000,0000,0000,,That's why we will defeat \Nyou right here and now!
+Dialogue: 0,0:14:19.93,0:14:23.38,italics,Loro,0000,0000,0000,,The fate of the world is in our hands.
+Dialogue: 0,0:14:24.25,0:14:26.38,italics,Loro,0000,0000,0000,,Mana Zone plus Mana Method...
+Dialogue: 0,0:14:26.83,0:14:28.13,italics,Loro,0000,0000,0000,,Water Spirit Magic...
+Dialogue: 0,0:14:32.65,0:14:34.41,italics,Loro,0000,0000,0000,,Ludic Sanctuary!
+Dialogue: 0,0:14:39.39,0:14:43.40,main,Loro,0000,0000,0000,,This water cuts the power \Nof your blood magic in half
+Dialogue: 0,0:14:43.40,0:14:47.15,main,Loro,0000,0000,0000,,and powers up Noelle's magic!
+Dialogue: 0,0:14:49.91,0:14:52.45,flashback,Noelle,0000,0000,0000,,Harder! Even harder!
+Dialogue: 0,0:14:54.94,0:14:56.16,flashback,Noelle,0000,0000,0000,,What...
+Dialogue: 0,0:14:56.42,0:15:00.17,flashback,Loro,0000,0000,0000,,The lighter your armor, the more \Nyou can become one with the water!
+Dialogue: 0,0:15:07.61,0:15:12.69,flashback,Loro,0000,0000,0000,,That will also assist you in becoming \None with the water and moving faster!
+Dialogue: 0,0:15:20.29,0:15:23.12,italics,Noelle,0000,0000,0000,,Valkyrie Armor ~ Mermaid Form!
+Dialogue: 0,0:15:24.62,0:15:29.19,main,Noelle,0000,0000,0000,,I won't let you have your way any longer!
+Dialogue: 0,0:15:36.67,0:15:37.95,main,Vanica,0000,0000,0000,,Nice!
+Dialogue: 0,0:15:38.43,0:15:41.96,main,Vanica,0000,0000,0000,,Aw, there was someone who could \Nteam up with widdle Loropechika.
+Dialogue: 0,0:15:41.96,0:15:44.25,main,vanica,0000,0000,0000,,This is going to be even more fun, then!
+Dialogue: 0,0:15:46.44,0:15:48.96,main,Vanica,0000,0000,0000,,Don't croak too fast, okay?
+Dialogue: 0,0:15:50.94,0:15:53.97,main,Vanica,0000,0000,0000,,Devil Power: 50%!
+Dialogue: 0,0:15:56.13,0:15:58.58,italics,Loro,0000,0000,0000,,She has this much power even \Nwhen it's difficult for blood
+Dialogue: 0,0:15:58.58,0:16:00.14,italics,Loro,0000,0000,0000,,to harden within my magic.
+Dialogue: 0,0:16:00.14,0:16:03.07,italics,Loro,0000,0000,0000,,As I expected... a normal attack \Nwon't be enough to defeat her!
+Dialogue: 0,0:16:03.07,0:16:03.98,main,Loro,0000,0000,0000,,Noelle!
+Dialogue: 0,0:16:16.49,0:16:19.45,main,Vanica,0000,0000,0000,,Nice! I'm getting even more fired up!
+Dialogue: 0,0:16:19.74,0:16:22.21,main,Vanica,0000,0000,0000,,51%!
+Dialogue: 0,0:16:24.97,0:16:28.71,italics,Noelle,0000,0000,0000,,She only went up one percent, \Nand her power is insanely stronger!
+Dialogue: 0,0:16:29.46,0:16:32.72,main,Noelle,0000,0000,0000,,I guess you only think about \Nsatisfying your desires.
+Dialogue: 0,0:16:33.80,0:16:36.29,main,Vanica,0000,0000,0000,,52%!
+Dialogue: 0,0:16:36.29,0:16:38.56,main,Noelle,0000,0000,0000,,Is that how you killed my mother...
+Dialogue: 0,0:16:38.56,0:16:41.73,main,Noelle,0000,0000,0000,,Acier Silva of the Clover Kingdom?!
+Dialogue: 0,0:16:42.33,0:16:44.48,main,Vanica,0000,0000,0000,,53%!
+Dialogue: 0,0:16:44.78,0:16:50.98,main,Vanica,0000,0000,0000,,Who's that? I have no interest in the past,\N so let's just enjoy this moment!
+Dialogue: 0,0:16:56.99,0:17:01.33,main,Robero,0000,0000,0000,,Just give up and let me lick you.
+Dialogue: 0,0:17:01.33,0:17:05.00,main,Robero,0000,0000,0000,,We're never going to die because \Nof Lady Vanica's magic.
+Dialogue: 0,0:17:05.84,0:17:11.02,main,Mimosa,0000,0000,0000,,We trained really hard so we \Nwouldn't lose to the likes of you!
+Dialogue: 0,0:17:11.02,0:17:12.62,italics,Mimosa,0000,0000,0000,,Not just for the world...
+Dialogue: 0,0:17:13.60,0:17:16.52,italics,Noelle,0000,0000,0000,,Or to avenge my mother...
+Dialogue: 0,0:17:28.32,0:17:31.17,flashback,Mimosa,0000,0000,0000,,You're truly magnificent, Loropechika.
+Dialogue: 0,0:17:31.17,0:17:34.09,flashback,Mimosa,0000,0000,0000,,We've gotten so much stronger.
+Dialogue: 0,0:17:34.09,0:17:37.41,flashback,Noelle,0000,0000,0000,,Y-Yes. I guess maybe you had \Nsomething to do with that.
+Dialogue: 0,0:17:37.41,0:17:41.37,flashback,Undine,0000,0000,0000,,But of course! Loropechika is amazing!
+Dialogue: 0,0:17:41.37,0:17:44.41,flashback,Loropechika,0000,0000,0000,,Oh, no. I'm not that... I'm just...
+Dialogue: 0,0:17:44.88,0:17:47.42,flashback,Noelle,0000,0000,0000,,Just so you know, humility is\N going to sound fake right now.
+Dialogue: 0,0:17:48.35,0:17:54.42,flashback,Loropechika,0000,0000,0000,,My mana and magic are both passed \Ndown from all the other queens.
+Dialogue: 0,0:17:54.42,0:17:57.62,flashback,Undine,0000,0000,0000,,Well, your mana is amazing to begin with.
+Dialogue: 0,0:17:57.62,0:18:00.14,flashback,Undine,0000,0000,0000,,It can't be inherited just by anyone.
+Dialogue: 0,0:18:00.14,0:18:02.70,flashback,Loro,0000,0000,0000,,Since I'm so clumsy and silly,
+Dialogue: 0,0:18:02.70,0:18:07.85,flashback,Loro,0000,0000,0000,,I wonder if I'm worthy of being \Nthe Queen of the Heart Kingdom.
+Dialogue: 0,0:18:09.05,0:18:12.94,flashback,Loro,0000,0000,0000,,When I previously fought against Vanica,\N who is possessed by Megicula,
+Dialogue: 0,0:18:12.94,0:18:14.11,flashback,Loro,0000,0000,0000,,I was frightened.
+Dialogue: 0,0:18:14.81,0:18:17.57,flashback,Loro,0000,0000,0000,,And because of that, I was cursed.
+Dialogue: 0,0:18:19.24,0:18:21.07,flashback,Loro,0000,0000,0000,,I am unfit to be the queen.
+Dialogue: 0,0:18:24.18,0:18:30.28,flashback,Loro,0000,0000,0000,,When I'm before you, I forget about \Nmy status as queen, and I can be honest.
+Dialogue: 0,0:18:30.28,0:18:31.08,flashback,Loro,0000,0000,0000,,I wonder why.
+Dialogue: 0,0:18:33.13,0:18:37.59,flashback,Loro,0000,0000,0000,,Saying this probably makes me even \Nmore unfit to be queen, but...
+Dialogue: 0,0:18:39.00,0:18:40.09,flashback,Loro,0000,0000,0000,,I'm...
+Dialogue: 0,0:18:41.76,0:18:43.67,flashback,Loro,0000,0000,0000,,so afraid of dying.
+Dialogue: 0,0:18:43.67,0:18:45.10,flashback,Loro,0000,0000,0000,,I don't want to die!
+Dialogue: 0,0:18:45.84,0:18:49.89,flashback,Loro,0000,0000,0000,,I have so much to think about \Nas the queen of this kingdom!
+Dialogue: 0,0:18:50.40,0:18:52.86,flashback,Loro,0000,0000,0000,,But I... I...
+Dialogue: 0,0:18:53.85,0:18:58.87,flashback,Loro,0000,0000,0000,,Oh, I'm sorry. A queen shouldn't \Ncry so much in front of others.
+Dialogue: 0,0:18:58.87,0:19:01.11,flashback,Noelle,0000,0000,0000,,Seriously, what are you even talking about?
+Dialogue: 0,0:19:06.80,0:19:08.86,flashback,Noelle,0000,0000,0000,,It's totally fine if you cry.
+Dialogue: 0,0:19:08.86,0:19:10.58,flashback,Noelle,0000,0000,0000,,Especially in front of friends.
+Dialogue: 0,0:19:10.58,0:19:11.50,flashback,Mimosa,0000,0000,0000,,Exactly.
+Dialogue: 0,0:19:16.99,0:19:19.63,flashback,Loro,0000,0000,0000,,Noelle... Mimosa...
+Dialogue: 0,0:19:23.53,0:19:25.71,flashback,Noelle,0000,0000,0000,,How in the world did you just trip?!
+Dialogue: 0,0:19:29.66,0:19:31.23,main,Mimosa,0000,0000,0000,,We...
+Dialogue: 0,0:19:31.23,0:19:33.31,main,Mimosa,0000,0000,0000,,are going to win, no matter what!
+Dialogue: 0,0:19:33.82,0:19:35.27,italics,Mimosa,0000,0000,0000,,For our truly kind...
+Dialogue: 0,0:19:36.01,0:19:37.61,italics,Noelle,0000,0000,0000,,...friend!
+Dialogue: 0,0:19:37.98,0:19:39.86,main,Vanica,0000,0000,0000,,65%!
+Dialogue: 0,0:19:39.86,0:19:44.57,main,Vanica,0000,0000,0000,,66%! 67%!
+Dialogue: 0,0:19:45.33,0:19:48.61,main,Vanica,0000,0000,0000,,Nice! Okay, here I go! I'm gonna do it!
+Dialogue: 0,0:19:49.27,0:19:52.26,main,Vanica,0000,0000,0000,,I'm going to give it my all!
+Dialogue: 0,0:19:54.09,0:19:56.63,main,Vanica,0000,0000,0000,,70%!
+Dialogue: 0,0:19:57.20,0:19:58.17,main,Loro,0000,0000,0000,,Noelle!
+Dialogue: 0,0:19:59.93,0:20:02.01,italics,Noelle,0000,0000,0000,,That's what we were waiting for!
+Dialogue: 0,0:20:02.96,0:20:06.76,flashback,Loro,0000,0000,0000,,We'll have Vanica use all of the \Ndevil's power she can right now.
+Dialogue: 0,0:20:07.01,0:20:09.53,flashback,Loro,0000,0000,0000,,We'll have her increase how much \Nblood she sheds from her blood magic
+Dialogue: 0,0:20:09.53,0:20:11.11,flashback,Loro,0000,0000,0000,,and make her use up her mana.
+Dialogue: 0,0:20:11.74,0:20:15.60,flashback,Loro,0000,0000,0000,,That way, she will use the devil's power.
+Dialogue: 0,0:20:15.60,0:20:19.29,flashback,Loro,0000,0000,0000,,We should be able to go \Nhead-to-head with her.
+Dialogue: 0,0:20:19.29,0:20:22.30,flashback,Loro,0000,0000,0000,,And when she uses up all of \Nthe devil's power that she can,
+Dialogue: 0,0:20:22.30,0:20:23.53,flashback,Loro,0000,0000,0000,,we'll use our trump card.
+Dialogue: 0,0:20:24.16,0:20:26.90,flashback,Loro,0000,0000,0000,,That will be you, \Nour mage of the arcane stage...
+Dialogue: 0,0:20:28.24,0:20:30.29,main,Noelle,0000,0000,0000,,Nero!
+Dialogue: 0,0:20:37.23,0:20:39.30,flashbackitalics,Loro,0000,0000,0000,,Nero's arcane stage...
+Dialogue: 0,0:20:40.15,0:20:42.87,flashbackitalics,Loro,0000,0000,0000,,Noelle's combative spirit \Nand fighting style...
+Dialogue: 0,0:20:43.79,0:20:48.09,flashback,Loro,0000,0000,0000,,If you two grow along with Undine and me,
+Dialogue: 0,0:20:48.09,0:20:52.68,flashback,Loro,0000,0000,0000,,we should be able to defeat Vanica, \Nas well as Megicula, who possesses her.
+Dialogue: 0,0:20:55.33,0:20:57.53,flashback,Noelle,0000,0000,0000,,Nero, you're doing this, too.
+Dialogue: 0,0:20:59.44,0:21:03.19,main,Nero,0000,0000,0000,,I'm going to seal that devil's \Npower you're so proud of!
+Dialogue: 0,0:21:04.27,0:21:08.46,main,Nero,0000,0000,0000,,Mana Method: Sealing Magic ~ Eternal Prison!
+Dialogue: 0,0:21:13.21,0:21:17.81,italics,Nero,0000,0000,0000,,I won't let scum like you take \Nthe world or Loropechika!
+Dialogue: 0,0:22:50.01,0:22:54.51,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:50.89,0:22:53.46,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:54.01,0:22:58.02,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}What the Queen of the \NHeart Kingdom Inherited
+Dialogue: 0,0:22:54.91,0:22:58.02,main,Loro,0000,0000,0000,,What the Queen of the \NHeart Kingdom Inherited.
+Dialogue: 0,0:22:59.53,0:23:02.93,italics,Nar,0000,0000,0000,,The Queen of the Heart Kingdom \Ninherits the previous queens' powers,
+Dialogue: 0,0:23:02.93,0:23:06.56,italics,Nar,0000,0000,0000,,which includes their knowledge and experiences.
+Dialogue: 0,0:23:06.56,0:23:09.30,italics,Nar,0000,0000,0000,,This is where that colossal \Namount of information
+Dialogue: 0,0:23:09.30,0:23:12.52,italics,Nar,0000,0000,0000,,gets realized in Loropechika's mind.
+Dialogue: 0,0:23:15.19,0:23:16.54,main,Loro,0000,0000,0000,,This isn't it.
+Dialogue: 0,0:23:17.85,0:23:19.04,main,Loro,0000,0000,0000,,This isn't it, either.
+Dialogue: 0,0:23:20.08,0:23:21.79,main,Loro,0000,0000,0000,,It's not this, either.
+Dialogue: 0,0:23:22.07,0:23:23.97,main,Loro,0000,0000,0000,,Or this. Or this.
+Dialogue: 0,0:23:23.97,0:23:25.80,main,Loro,0000,0000,0000,,Ugh, dang it!
+Dialogue: 0,0:23:26.17,0:23:28.67,main,Loro,0000,0000,0000,,Why were all the previous \NQueens of the Heart Kingdom
+Dialogue: 0,0:23:28.67,0:23:33.12,main,Loro,0000,0000,0000,,unable to sort anything in order?!
+Dialogue: 0,0:23:33.66,0:23:35.23,main,Undine,0000,0000,0000,,That goes for you, too.
+Dialogue: 0,0:23:35.23,0:23:36.65,main,Undine,0000,0000,0000,,Sniffle, sniffle...
+Dialogue: 0,0:23:39.85,0:23:42.90,main,Noelle,0000,0000,0000,,No matter how powerful the enemy is... \NNo matter how cornered we are,
+Dialogue: 0,0:23:42.90,0:23:46.69,main,Noelle,0000,0000,0000,,we'll never give up. \NWe'll continue to surpass our limits.
+Dialogue: 0,0:23:46.69,0:23:48.28,main,Noelle,0000,0000,0000,,That's what the Black Bulls do.
+Dialogue: 0,0:23:48.68,0:23:53.57,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, \NPage 166: "Captain: Yami Sukehiro."
+Dialogue: 0,0:23:49.78,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 166\N\N{\fs18} Captain: Yami Sukehiro

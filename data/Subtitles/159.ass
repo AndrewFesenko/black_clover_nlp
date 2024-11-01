@@ -1,0 +1,382 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H000400D6,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.45,0:00:07.82,italics,Nar,0000,0000,0000,,And in the clover's fifth leaf resides...
+Dialogue: 0,0:00:07.82,0:00:09.28,italics,Nar,0000,0000,0000,,a devil.
+Dialogue: 0,0:00:10.17,0:00:12.33,italics,Nar,0000,0000,0000,,What Asta, who was born without magic,
+Dialogue: 0,0:00:12.33,0:00:14.75,italics,Nar,0000,0000,0000,,gained from the five-leaf grimoire was
+Dialogue: 0,0:00:14.75,0:00:18.68,italics,Nar,0000,0000,0000,,the power of anti-magic, \Nwhich nullifies any magic.
+Dialogue: 0,0:00:19.77,0:00:23.66,italics,Nar,0000,0000,0000,,Meanwhile, the Dark Triad \Nof the Spade Kingdom
+Dialogue: 0,0:00:23.66,0:00:26.54,italics,Nar,0000,0000,0000,,also possessed the powers of \Nthe devils from the underworld,
+Dialogue: 0,0:00:26.54,0:00:29.54,italics,Nar,0000,0000,0000,,and began invading the other kingdoms.
+Dialogue: 0,0:00:30.05,0:00:33.05,italics,Nar,0000,0000,0000,,Asta continued to fight \Nwhile believing in himself,
+Dialogue: 0,0:00:34.17,0:00:38.30,italics,Nar,0000,0000,0000,,along with his friends... \Nto protect this world!
+Dialogue: 0,0:00:43.54,0:00:48.19,italics,Nar,0000,0000,0000,,At last, the battle against the devil \Nand the Spade Kingdom began.
+Dialogue: 0,0:00:48.65,0:00:52.23,italics,Nar,0000,0000,0000,,Asta and the others spent six months \Ntraining in the Heart Kingdom.
+Dialogue: 0,0:00:52.23,0:00:54.70,italics,Nar,0000,0000,0000,,They then rescued some citizens\N of the Spade Kingdom
+Dialogue: 0,0:00:54.70,0:00:56.99,italics,Nar,0000,0000,0000,,and succeeded in taking\N over one of their bases.
+Dialogue: 0,0:00:58.95,0:01:02.95,italics,Nar,0000,0000,0000,,Meanwhile, back in Hage Village,\Nwhere Asta and Yuno grew up,
+Dialogue: 0,0:01:02.95,0:01:06.21,italics,Nar,0000,0000,0000,,the wheels of fate were beginning to turn.
+Dialogue: 0,0:01:06.97,0:01:08.21,main,Lily,0000,0000,0000,,O-Oh, no!
+Dialogue: 0,0:01:09.90,0:01:12.06,main,Ralph,0000,0000,0000,,Lord Yuno...
+Dialogue: 0,0:02:33.90,0:02:37.17,Ep Title,Sign,0000,0000,0000,,{\t(1,1134,\c&H0900AD&)}Quiet Lakes and Forest Shadows
+Dialogue: 0,0:02:54.11,0:02:55.39,main,Father,0000,0000,0000,,Where are Nash and the others?
+Dialogue: 0,0:02:56.23,0:02:58.12,main,Lily,0000,0000,0000,,I sent them off to school.
+Dialogue: 0,0:02:58.12,0:03:01.82,main,Lily,0000,0000,0000,,I'm sure this would make \Nsome of the kids nervous.
+Dialogue: 0,0:03:01.82,0:03:03.13,main,Father,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:03.13,0:03:04.28,main,Father,0000,0000,0000,,How is he doing?
+Dialogue: 0,0:03:04.66,0:03:06.57,main,Lily,0000,0000,0000,,He's still asleep.
+Dialogue: 0,0:03:06.57,0:03:10.29,main,Lily,0000,0000,0000,,I used a recovery spell,\N but his wounds are deep.
+Dialogue: 0,0:03:11.64,0:03:14.39,main,Father,0000,0000,0000,,Maybe he ran into some bandits in the forest.
+Dialogue: 0,0:03:14.39,0:03:18.35,main,Father,0000,0000,0000,,Depending on the situation, we may \Nhave to contact the Magic Knights.
+Dialogue: 0,0:03:18.35,0:03:19.30,main,Lily,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:19.85,0:03:22.37,main,Lily,0000,0000,0000,,Who could he be?
+Dialogue: 0,0:03:24.97,0:03:27.56,main,Loropechika,0000,0000,0000,,Good work, everyone.
+Dialogue: 0,0:03:28.81,0:03:32.39,main,Loropechika,0000,0000,0000,,Thanks to you, we were able to make \None of the Spade Kingdom's bases,
+Dialogue: 0,0:03:32.68,0:03:34.90,main,Loropechika,0000,0000,0000,,the town of Tolon, our own.
+Dialogue: 0,0:03:35.44,0:03:38.87,main,Loropechika,0000,0000,0000,,I hear that all the citizens of the \NSpade Kingdom who were captured
+Dialogue: 0,0:03:38.87,0:03:41.18,main,Loropechika,0000,0000,0000,,in the mobile fortress are recovering.
+Dialogue: 0,0:03:41.18,0:03:42.66,main,Loropechika,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:03:43.19,0:03:46.03,main,Leopold,0000,0000,0000,,Are you sure you wanted us to come back?
+Dialogue: 0,0:03:46.03,0:03:48.91,main,Leopold,0000,0000,0000,,You could've just had your \Nforces proceed from there.
+Dialogue: 0,0:03:48.91,0:03:53.75,main,Luck,0000,0000,0000,,Stage two guys weren't enough. \NI wanna fight someone stronger.
+Dialogue: 0,0:03:53.98,0:03:58.37,main,Noelle,0000,0000,0000,,We're dealing with devils here. \NWe can't just go barging into the unknown.
+Dialogue: 0,0:03:58.37,0:04:00.49,main,Noelle,0000,0000,0000,,We have to rest and recover.
+Dialogue: 0,0:04:00.96,0:04:04.09,main,Mimosa,0000,0000,0000,,Will the town be all right \Nin terms of its defense?
+Dialogue: 0,0:04:04.35,0:04:07.42,main,Loropechika,0000,0000,0000,,You can leave that to us.
+Dialogue: 0,0:04:07.42,0:04:12.60,main,Undine,0000,0000,0000,,I asked Noelle to take one of \Nmy clones to the town of Tolon.
+Dialogue: 0,0:04:13.46,0:04:19.11,main,Undine,0000,0000,0000,,Through that clone, I've set up the same \Nbarrier there that the Heart Kingdom has.
+Dialogue: 0,0:04:19.79,0:04:22.90,main,Loropechika,0000,0000,0000,,Because I have the devil's curse within me,
+Dialogue: 0,0:04:22.90,0:04:26.12,main,Loropechika,0000,0000,0000,,I can sense the devil's magic immediately.
+Dialogue: 0,0:04:27.03,0:04:31.95,main,Loropechika,0000,0000,0000,,Let's continue to gain more territory and \Ncorner the devil in the Spade Kingdom.
+Dialogue: 0,0:04:31.95,0:04:33.08,main,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:04:33.83,0:04:39.34,italics,Noelle,0000,0000,0000,,Honestly... You sure are making that \Nsound much easier than it's going to be.
+Dialogue: 0,0:04:39.58,0:04:44.59,top,Loropechika,0000,0000,0000,,That's all for today. \NPlease keep up the good work.
+Dialogue: 0,0:04:40.48,0:04:44.59,italics,Noelle,0000,0000,0000,,But with Loropechika's powers, \Nwe might just be able to do it.
+Dialogue: 0,0:04:45.92,0:04:47.63,italics,Noelle,0000,0000,0000,,This queen is insane.
+Dialogue: 0,0:04:49.15,0:04:50.85,main,Luck,0000,0000,0000,,I still haven't had enough yet.
+Dialogue: 0,0:04:50.85,0:04:53.32,main,Luck,0000,0000,0000,,Hey, Gaja. Play with me again today.
+Dialogue: 0,0:04:53.32,0:04:58.01,main,Leopold,0000,0000,0000,,The Spirit Guardian of Fire who trained me, \NFloga, is extremely powerful,
+Dialogue: 0,0:04:58.01,0:05:00.28,main,Leopold,0000,0000,0000,,but I'd love to know how \Npowerful you are, too.
+Dialogue: 0,0:05:00.28,0:05:02.07,main,Leopold,0000,0000,0000,,I'd also love to spar with you.
+Dialogue: 0,0:05:02.07,0:05:04.99,main,Asta,0000,0000,0000,,Ooh! Me, too!
+Dialogue: 0,0:05:05.36,0:05:09.49,main,Gaja,0000,0000,0000,,All of you just returned from battle,\N so please get some rest.
+Dialogue: 0,0:05:09.49,0:05:13.32,main,Asta,0000,0000,0000,,No, I'm totally fine! \NYou don't need to worry about me!
+Dialogue: 0,0:05:14.05,0:05:16.95,main,Luck,0000,0000,0000,,Then let's have a bloodbath together!
+Dialogue: 0,0:05:18.02,0:05:19.38,main,Leopold,0000,0000,0000,,I'm getting fired up!
+Dialogue: 0,0:05:19.38,0:05:22.80,main,Loropechika,0000,0000,0000,,Ooh, this sounds like fun. \NI'd like to join in, too.
+Dialogue: 0,0:05:22.80,0:05:26.73,main,Undine,0000,0000,0000,,You know you can't do that, \NLoropechika! What are you saying?!
+Dialogue: 0,0:05:28.17,0:05:29.23,main,Loropechika,0000,0000,0000,,I'm fi—
+Dialogue: 0,0:05:32.41,0:05:34.31,main,Undine,0000,0000,0000,,Loropechika!
+Dialogue: 0,0:05:34.58,0:05:36.65,main,Mimosa,0000,0000,0000,,Everyone seems well.
+Dialogue: 0,0:05:36.65,0:05:38.53,main,Noelle,0000,0000,0000,,Honestly, they're all so stupid.
+Dialogue: 0,0:05:38.96,0:05:42.57,main,Noelle,0000,0000,0000,,I got all dirty in the strong magic region,\N so I'm going to take a bath.
+Dialogue: 0,0:05:43.94,0:05:46.00,main,Mimosa,0000,0000,0000,,I shall join you, Noelle.
+Dialogue: 0,0:05:46.89,0:05:48.84,main,Undine,0000,0000,0000,,You're going too, Loropechika.
+Dialogue: 0,0:05:48.84,0:05:52.66,main,Undine,0000,0000,0000,,You're a queen, so you need to enjoy \Nan elegant bath, not a bloodbath.
+Dialogue: 0,0:05:52.66,0:05:53.77,main,Loropechika,0000,0000,0000,,All right...
+Dialogue: 0,0:05:53.77,0:05:57.81,main,Loropechika,0000,0000,0000,,Oh, I just happen to know \Nthe best place for a bath.
+Dialogue: 0,0:05:58.37,0:06:00.20,italics,Finral,0000,0000,0000,,The cuties from the Clover Kingdom are
+Dialogue: 0,0:06:00.20,0:06:03.30,italics,Finral,0000,0000,0000,,going to take a bath with the beautiful \Nqueen of the Heart Kingdom...
+Dialogue: 0,0:06:03.30,0:06:04.70,italics,Finral,0000,0000,0000,,No, don't, Finral!
+Dialogue: 0,0:06:04.70,0:06:07.36,italics,Finral,0000,0000,0000,,Don't you dare get excited over any \Nwoman other than Miss Finnes!
+Dialogue: 0,0:06:07.36,0:06:08.80,italics,Finral,0000,0000,0000,,Resist!
+Dialogue: 0,0:06:09.26,0:06:12.43,main,Noelle,0000,0000,0000,,Finral, make up any weird \Nfantasies and I'll kill you.
+Dialogue: 0,0:06:12.43,0:06:16.10,main,Finral,0000,0000,0000,,Noelle! I'm doing everything \NI can to resist right now!
+Dialogue: 0,0:06:16.10,0:06:18.10,main,Female guard A,0000,0000,0000,,Th-There's trouble!
+Dialogue: 0,0:06:18.10,0:06:20.12,main,Female Guard A,0000,0000,0000,,In the Polnfrume Forest...
+Dialogue: 0,0:06:20.81,0:06:22.61,main,Female Guard A,0000,0000,0000,,A wild Charmy has appeared!
+Dialogue: 0,0:06:24.47,0:06:27.95,main,Female Guard A,0000,0000,0000,,If we don't do something, \Nshe'll eat up all the fruits in the forest!
+Dialogue: 0,0:06:28.76,0:06:30.00,main,Finral,0000,0000,0000,,Again?
+Dialogue: 0,0:06:30.00,0:06:31.07,main,Leopold,0000,0000,0000,,Wait, again?
+Dialogue: 0,0:06:31.07,0:06:33.93,main,Asta,0000,0000,0000,,Well, you see, it appears Miz Charmy really took
+Dialogue: 0,0:06:33.93,0:06:37.58,main,Asta,0000,0000,0000,,a liking to the food in the Heart Kingdom.
+Dialogue: 0,0:06:37.82,0:06:40.68,main,Finral,0000,0000,0000,,And she's been causing trouble everywhere.
+Dialogue: 0,0:06:41.25,0:06:43.89,main,Finral,0000,0000,0000,,In one of the forests, she took \Nover a group of monkeys
+Dialogue: 0,0:06:42.17,0:06:44.42,flashbacktop,Charmy,0000,0000,0000,,La...
+Dialogue: 0,0:06:43.89,0:06:45.80,main,Finral,0000,0000,0000,,and had them bring her bananas.
+Dialogue: 0,0:06:46.44,0:06:50.55,main,Finral,0000,0000,0000,,And in another forest, she fought \Na bear over some super rare apples.
+Dialogue: 0,0:06:47.83,0:06:49.45,flashbacktop,Charmy,0000,0000,0000,,La...
+Dialogue: 0,0:06:51.26,0:06:54.84,main,Loropechika,0000,0000,0000,,Well, the fruits in the Heart \NKingdom are indeed delicious.
+Dialogue: 0,0:06:55.84,0:06:57.27,main,Mimosa,0000,0000,0000,,It must be the pure water here.
+Dialogue: 0,0:06:57.59,0:07:01.24,main,Finral,0000,0000,0000,,Good grief. We should go fetch her \Nbefore she causes any more trouble.
+Dialogue: 0,0:07:01.24,0:07:05.86,main,Asta,0000,0000,0000,,I'll go! I'm sure you're pretty tired \Nfrom moving all those people around,
+Dialogue: 0,0:07:06.26,0:07:08.46,main,Asta,0000,0000,0000,,so you should get some rest, Finral.
+Dialogue: 0,0:07:08.46,0:07:11.72,main,Finral,0000,0000,0000,,I think you moved around \Nway more than I did, Asta.
+Dialogue: 0,0:07:11.72,0:07:14.45,main,Asta,0000,0000,0000,,But I don't use any magic, so I'm fine!
+Dialogue: 0,0:07:14.88,0:07:18.08,main,Finral,0000,0000,0000,,I'm talking about your stamina, actually...
+Dialogue: 0,0:07:18.08,0:07:19.96,main,Finral,0000,0000,0000,,Well, good luck.
+Dialogue: 0,0:07:19.96,0:07:21.86,main,Loropechika,0000,0000,0000,,We're counting on you.
+Dialogue: 0,0:07:21.86,0:07:22.88,main,Asta,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:07:23.35,0:07:24.31,main,Asta,0000,0000,0000,,Demon-Slayer!
+Dialogue: 0,0:07:29.69,0:07:32.20,italics,Asta,0000,0000,0000,,I'm going to control my anti-magic...
+Dialogue: 0,0:07:33.77,0:07:34.74,italics,Asta,0000,0000,0000,,and fly!
+Dialogue: 0,0:07:44.09,0:07:47.40,main,Finral,0000,0000,0000,,The kid without magic who \Ncouldn't fly on a broom...
+Dialogue: 0,0:07:48.16,0:07:50.78,main,Finral,0000,0000,0000,,He's turned into an impressive guy.
+Dialogue: 0,0:07:59.37,0:08:00.72,main,Mimosa,0000,0000,0000,,How lovely.
+Dialogue: 0,0:08:01.60,0:08:04.67,main,Loropechika,0000,0000,0000,,This is a secret spring that's been \Npassed down through the generations
+Dialogue: 0,0:08:04.67,0:08:06.96,main,Loropechika,0000,0000,0000,,of the royal family of the Heart Kingdom.
+Dialogue: 0,0:08:06.96,0:08:11.16,main,Mimosa,0000,0000,0000,,Oh, my. I'm so honored that \Nyou've brought us here.
+Dialogue: 0,0:08:13.83,0:08:16.08,main,Noelle,0000,0000,0000,,I sense some very pure mana.
+Dialogue: 0,0:08:16.08,0:08:21.06,main,Undine,0000,0000,0000,,Elmora Lake has some of the finest \Nwater in all of the Heart Kingdom.
+Dialogue: 0,0:08:21.52,0:08:26.06,main,Undine,0000,0000,0000,,If you bathe in these waters, \Nyour skin will be nice and smooth.
+Dialogue: 0,0:08:26.35,0:08:27.49,main,Noelle,0000,0000,0000,,Let's go in.
+Dialogue: 0,0:08:27.49,0:08:28.57,main,Mimosa,0000,0000,0000,,Indeed.
+Dialogue: 0,0:08:32.92,0:08:34.78,main,Noelle,0000,0000,0000,,Finally, I feel so much better.
+Dialogue: 0,0:08:34.78,0:08:37.40,main,Mimosa,0000,0000,0000,,It's so nice and cold.
+Dialogue: 0,0:08:39.91,0:08:42.76,main,Loropechika,0000,0000,0000,,Oops! I forgot to take these off.
+Dialogue: 0,0:08:43.23,0:08:45.44,main,Undine,0000,0000,0000,,Oh, Loropechika...
+Dialogue: 0,0:08:45.98,0:08:49.59,main,Undine,0000,0000,0000,,By the way, I've been meaning \Nto ask you girls this for a while...
+Dialogue: 0,0:08:50.97,0:08:53.17,main,Undine,0000,0000,0000,,Which one of you is dating Asta?
+Dialogue: 0,0:08:53.17,0:08:54.13,main,Both,0000,0000,0000,,What?!
+Dialogue: 0,0:08:54.53,0:08:57.84,main,Loropechika,0000,0000,0000,,Ooh, are we talking about relationships? \NI'd love to know myself!
+Dialogue: 0,0:08:59.73,0:09:02.18,main,Noelle,0000,0000,0000,,W-We're not dating him!
+Dialogue: 0,0:09:02.61,0:09:07.43,main,Mimosa,0000,0000,0000,,A-Asta is a very lovely gentleman \Nwho's very kind and reliable,
+Dialogue: 0,0:09:07.43,0:09:10.20,main,Mimosa,0000,0000,0000,,but now is not the time for that.
+Dialogue: 0,0:09:10.66,0:09:14.04,main,Loropechika,0000,0000,0000,,Then how about when the battle \Nwith the Spade Kingdom ends?
+Dialogue: 0,0:09:14.04,0:09:14.95,main,Mimosa,0000,0000,0000,,What?
+Dialogue: 0,0:09:15.27,0:09:18.22,main,Undine,0000,0000,0000,,Well, you obviously don't seem to mind.
+Dialogue: 0,0:09:18.22,0:09:22.33,main,Undine,0000,0000,0000,,Oh, but the one who always \Nseems to be with him is Nero.
+Dialogue: 0,0:09:22.56,0:09:25.72,main,Loropechika,0000,0000,0000,,Is that because you two are dating?!
+Dialogue: 0,0:09:29.26,0:09:31.75,main,Nero,0000,0000,0000,,His head is nice to perch on.
+Dialogue: 0,0:09:32.08,0:09:33.54,main,Undine,0000,0000,0000,,Is that all it is?
+Dialogue: 0,0:09:33.54,0:09:34.84,main,Nero,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:34.84,0:09:37.86,main,Loropechika,0000,0000,0000,,So you're only interested \Nin the top of his head.
+Dialogue: 0,0:09:39.21,0:09:41.43,main,Mimosa,0000,0000,0000,,I-I see.
+Dialogue: 0,0:09:41.81,0:09:43.67,italics,Noelle,0000,0000,0000,,Nero's saying that now,
+Dialogue: 0,0:09:43.67,0:09:47.93,italics,Noelle,0000,0000,0000,,but what if they become closer as\N they spend more time together?
+Dialogue: 0,0:09:47.93,0:09:49.79,main,Undine,0000,0000,0000,,So what about you, Noelle?
+Dialogue: 0,0:09:50.51,0:09:53.44,main,Noelle,0000,0000,0000,,I'd never date S-S-S-Stupidsta!
+Dialogue: 0,0:09:53.75,0:09:56.13,main,Loropechika,0000,0000,0000,,Oh, I see.
+Dialogue: 0,0:09:56.13,0:09:57.71,main,Undine,0000,0000,0000,,I see.
+Dialogue: 0,0:09:57.71,0:10:00.45,main,Noelle,0000,0000,0000,,Wh-What about you, Loropechika?
+Dialogue: 0,0:10:00.93,0:10:05.20,main,Mimosa,0000,0000,0000,,Y-Yes. Are you seeing Gaja?
+Dialogue: 0,0:10:05.20,0:10:10.21,main,Loropechika,0000,0000,0000,,Huh? Me and Gaja? Yeah, no.
+Dialogue: 0,0:10:10.21,0:10:12.95,main,Noelle,0000,0000,0000,,Really? But you're always together.
+Dialogue: 0,0:10:12.95,0:10:14.64,main,Mimosa,0000,0000,0000,,You'd make a lovely couple.
+Dialogue: 0,0:10:14.64,0:10:18.22,main,Loropechika,0000,0000,0000,,That'll never happen. \NI'm sure Gaja feels the same.
+Dialogue: 0,0:10:18.56,0:10:23.72,italics,Undine,0000,0000,0000,,Poor Gaja. I'd never tell him that, though.
+Dialogue: 0,0:10:31.17,0:10:32.31,main,Luck,0000,0000,0000,,This is fun!
+Dialogue: 0,0:10:32.31,0:10:34.90,main,Leopold,0000,0000,0000,,No wonder you're the leader \Nof the Spirit Guardians.
+Dialogue: 0,0:10:34.90,0:10:36.69,main,Leopold,0000,0000,0000,,Your strength knows no bounds.
+Dialogue: 0,0:10:37.04,0:10:40.46,main,Gaja,0000,0000,0000,,Because you both managed to \Ngrow so surprisingly quickly,
+Dialogue: 0,0:10:40.46,0:10:42.70,main,Gaja,0000,0000,0000,,this is excellent training for me, too.
+Dialogue: 0,0:10:44.48,0:10:48.00,italics,Gaja,0000,0000,0000,,I must also become stronger, just like them.
+Dialogue: 0,0:10:48.38,0:10:52.14,italics,Gaja,0000,0000,0000,,I will protect the Heart Kingdom, \Neven if it costs my life.
+Dialogue: 0,0:10:52.91,0:10:57.01,main,Loropechika,0000,0000,0000,,I'm so happy that everyone from \Nthe Clover Kingdom is so nice.
+Dialogue: 0,0:10:57.35,0:11:01.39,main,Loropechika,0000,0000,0000,,I didn't know what I would do if you \Nall turned out to be scary people.
+Dialogue: 0,0:11:01.39,0:11:03.46,main,Noelle,0000,0000,0000,,That's our line.
+Dialogue: 0,0:11:03.46,0:11:07.38,main,Noelle,0000,0000,0000,,I know it was to check our magic stages, \Nbut you just suddenly attacked us.
+Dialogue: 0,0:11:08.03,0:11:09.18,main,Loropechika,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:11:09.40,0:11:12.78,main,Mimosa,0000,0000,0000,,We're very grateful that the \NQueen of the Heart Kingdom
+Dialogue: 0,0:11:12.78,0:11:16.43,main,Mimosa,0000,0000,0000,,is someone as lovely as you, Loropechika.
+Dialogue: 0,0:11:16.95,0:11:18.44,main,Loropechika,0000,0000,0000,,Mimosa...
+Dialogue: 0,0:11:18.89,0:11:23.24,main,Mimosa,0000,0000,0000,,And everyone in the Heart Kingdom \Nhas been so kind to us.
+Dialogue: 0,0:11:23.24,0:11:24.37,main,Nero,0000,0000,0000,,Yes.
+Dialogue: 0,0:11:24.37,0:11:26.92,main,Noelle,0000,0000,0000,,Well, we're all going to \Nface the devil together.
+Dialogue: 0,0:11:26.92,0:11:29.09,main,Noelle,0000,0000,0000,,I'm glad you're someone we can trust.
+Dialogue: 0,0:11:29.09,0:11:32.71,main,Noelle,0000,0000,0000,,Th-Though it's a shame you're so clumsy.
+Dialogue: 0,0:11:33.45,0:11:34.75,main,Nero,0000,0000,0000,,Hey.
+Dialogue: 0,0:11:35.77,0:11:37.52,main,Loropechika,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:11:37.52,0:11:41.64,main,Lorpechika,0000,0000,0000,,Despite appearances, I am trying \Nmy best to be a proper queen
+Dialogue: 0,0:11:41.64,0:11:44.76,main,Lorpechika,0000,0000,0000,,in front of the citizens \Nof the Heart Kingdom.
+Dialogue: 0,0:11:44.76,0:11:46.62,main,Loropechika,0000,0000,0000,,Though I'm not good at it.
+Dialogue: 0,0:11:46.62,0:11:51.77,main,Loropechika,0000,0000,0000,,So I'm happy to have some friends \NI can be so honest with.
+Dialogue: 0,0:11:52.36,0:11:55.27,main,Loropechika,0000,0000,0000,,I'm so happy we became friends.
+Dialogue: 0,0:11:56.86,0:11:58.61,main,Undine,0000,0000,0000,,You're so cute, Loropechika.
+Dialogue: 0,0:11:58.86,0:12:03.13,main,Noelle,0000,0000,0000,,Oh, come on. Now you're making me blush.
+Dialogue: 0,0:12:03.13,0:12:06.46,main,Mimosa,0000,0000,0000,,We feel the same as you, Loropechika.
+Dialogue: 0,0:12:17.63,0:12:20.58,main,Asta,0000,0000,0000,,It's so great flying through the sky!
+Dialogue: 0,0:12:20.58,0:12:22.15,main,Asta,0000,0000,0000,,The passing breeze!
+Dialogue: 0,0:12:22.15,0:12:24.30,main,Asta,0000,0000,0000,,The sweet, fruity scent!
+Dialogue: 0,0:12:24.55,0:12:26.68,main,Asta,0000,0000,0000,,Hm? Sweet scent?
+Dialogue: 0,0:12:27.39,0:12:28.59,main,Asta,0000,0000,0000,,She must be there!
+Dialogue: 0,0:12:30.14,0:12:31.93,main,Asta,0000,0000,0000,,Miz Charmy!
+Dialogue: 0,0:12:32.97,0:12:34.64,main,Charmy,0000,0000,0000,,Hey, Asta.
+Dialogue: 0,0:12:34.64,0:12:36.69,main,Charmy,0000,0000,0000,,Want some noms?
+Dialogue: 0,0:12:37.25,0:12:39.68,main,Asta,0000,0000,0000,,Holy crap, she gained weight!
+Dialogue: 0,0:12:39.68,0:12:41.86,main,Asta,0000,0000,0000,,Just how much did you eat?!
+Dialogue: 0,0:12:41.86,0:12:46.57,main,Charmy,0000,0000,0000,,It's all because the fruit in the \NHeart Kingdom is so nummy.
+Dialogue: 0,0:12:46.57,0:12:49.87,main,Asta,0000,0000,0000,,You shouldn't eat any more, Miz Charmy!
+Dialogue: 0,0:12:50.08,0:12:53.37,main,Charmy,0000,0000,0000,,La? You tryin' to stop me, Asta?
+Dialogue: 0,0:12:53.37,0:12:56.86,main,Asta,0000,0000,0000,,Well, yeah! You've obviously \Neaten too much—
+Dialogue: 0,0:12:56.86,0:12:58.34,main,Charmy,0000,0000,0000,,Listen up, Asta.
+Dialogue: 0,0:12:58.34,0:13:00.88,main,Charmy,0000,0000,0000,,We don't eat to live.
+Dialogue: 0,0:13:01.09,0:13:03.60,main,Charmy,0000,0000,0000,,We live to eat!
+Dialogue: 0,0:13:03.60,0:13:04.88,main,Asta,0000,0000,0000,,What?!
+Dialogue: 0,0:13:05.25,0:13:06.84,main,Charmy,0000,0000,0000,,So...
+Dialogue: 0,0:13:06.84,0:13:12.16,main,Charmy,0000,0000,0000,,People who get in the way of good eatin' \Nwill get run over by sheep and die.
+Dialogue: 0,0:13:12.16,0:13:13.27,main,Asta,0000,0000,0000,,Uh, what?
+Dialogue: 0,0:13:13.27,0:13:15.23,main,Asta,0000,0000,0000,,Miz Charmy?!
+Dialogue: 0,0:13:20.26,0:13:21.73,main,Villager A,0000,0000,0000,,What's going on?
+Dialogue: 0,0:13:21.73,0:13:23.37,main,Villager B,0000,0000,0000,,Hey, that's...
+Dialogue: 0,0:13:31.56,0:13:32.95,main,Villager B,0000,0000,0000,,That's Charmy's sheep!
+Dialogue: 0,0:13:32.95,0:13:35.33,main,Villager B,0000,0000,0000,,Charmy's out of control!
+Dialogue: 0,0:13:39.15,0:13:40.65,main,Potorof,0000,0000,0000,,Charmy...
+Dialogue: 0,0:13:41.25,0:13:44.21,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\fad(988,1)\blur3}Golden Dawn Headquarters
+Dialogue: 0,0:13:44.43,0:13:46.45,main,Knight A,0000,0000,0000,,Vice Captain, do you have a moment?
+Dialogue: 0,0:13:47.05,0:13:48.51,main,Yuno,0000,0000,0000,,I'm about to go on a mission.
+Dialogue: 0,0:13:49.30,0:13:50.26,main,Yuno,0000,0000,0000,,Is this urgent?
+Dialogue: 0,0:13:50.26,0:13:53.19,main,Knight A,0000,0000,0000,,Well... we've received a message \Nfrom a church in Hage Village,
+Dialogue: 0,0:13:53.19,0:13:54.47,main,Knight A,0000,0000,0000,,out in the boonies.
+Dialogue: 0,0:13:57.52,0:13:58.67,main,Yuno,0000,0000,0000,,Tell me at once.
+Dialogue: 0,0:14:12.70,0:14:14.11,main,Villager B,0000,0000,0000,,That's Charmy's sheep!
+Dialogue: 0,0:14:14.11,0:14:16.44,main,Villager B,0000,0000,0000,,Charmy's gone wild!
+Dialogue: 0,0:14:17.66,0:14:20.65,main,Villager C,0000,0000,0000,,Cotton! It's using cotton to gather food!
+Dialogue: 0,0:14:20.65,0:14:22.04,main,Villager D,0000,0000,0000,,It's headed this way!
+Dialogue: 0,0:14:24.79,0:14:29.09,main,Villager A,0000,0000,0000,,She's attacking with all \Nthe hungry forest animals!
+Dialogue: 0,0:14:29.09,0:14:33.05,main,Villager B,0000,0000,0000,,At this rate, all of the food in the \Nforest is going to be gobbled up!
+Dialogue: 0,0:14:34.22,0:14:35.27,main,Potrof,0000,0000,0000,,I...
+Dialogue: 0,0:14:36.12,0:14:40.10,main,Potrof,0000,0000,0000,,I may have created a monster.
+Dialogue: 0,0:14:41.41,0:14:45.86,flashback,Charmy,0000,0000,0000,,The Mana Method basically makes recipes... \Nand the dishes they create are magic!
+Dialogue: 0,0:14:46.47,0:14:50.36,flashback,Charmy,0000,0000,0000,,That means I must eat in order\Nto learn the Mana Method, la!
+Dialogue: 0,0:14:50.67,0:14:55.33,main,Potrof,0000,0000,0000,,I didn't really understand her logic, \Nbut I decided to support her.
+Dialogue: 0,0:14:55.87,0:14:58.67,main,Potrof,0000,0000,0000,,Charmy is a genius Magic Knight.
+Dialogue: 0,0:14:58.67,0:15:03.71,main,Potrof,0000,0000,0000,,The best thing I could do for her would \Nbe to make her talent shine even more.
+Dialogue: 0,0:15:04.18,0:15:08.13,main,Potrof,0000,0000,0000,,But she fell in love with all \Nthe food in the Heart Kingdom,
+Dialogue: 0,0:15:08.13,0:15:12.22,main,Potrof,0000,0000,0000,,and she ended up at the top \Nof the forest's food chain.
+Dialogue: 0,0:15:12.82,0:15:15.51,main,Potrof,0000,0000,0000,,It's my duty to stop her!
+Dialogue: 0,0:15:18.57,0:15:21.85,main,Potrof,0000,0000,0000,,Plant Magic: Evergreen Vida Valtoria.
+Dialogue: 0,0:15:25.48,0:15:28.36,main,Potrof,0000,0000,0000,,I can't stop it! They're just \Ngoing through. In that case...
+Dialogue: 0,0:15:32.15,0:15:33.01,main,Villager C,0000,0000,0000,,Wow!
+Dialogue: 0,0:15:33.01,0:15:35.11,main,Villager D,0000,0000,0000,,Way to go, Sir Potrof!
+Dialogue: 0,0:15:42.30,0:15:44.38,main,Villager A,0000,0000,0000,,W-We're finished!
+Dialogue: 0,0:15:44.65,0:15:46.30,main,Potrof,0000,0000,0000,,Oh, dear.
+Dialogue: 0,0:15:49.38,0:15:52.68,main,Asta,0000,0000,0000,,I thought I was going to suffocate!
+Dialogue: 0,0:15:53.15,0:15:54.84,main,Potrof,0000,0000,0000,,Are you all right, Asta?
+Dialogue: 0,0:15:56.22,0:15:58.85,main,Asta,0000,0000,0000,,Potrof! Thank you!
+Dialogue: 0,0:15:58.85,0:16:02.68,main,Potrof,0000,0000,0000,,At this rate, everyone's dinners \Nare going to be stolen, too!
+Dialogue: 0,0:16:02.68,0:16:04.85,main,Potrof,0000,0000,0000,,Will you help me out, Asta?
+Dialogue: 0,0:16:05.18,0:16:06.94,main,Asta,0000,0000,0000,,Right back at you!
+Dialogue: 0,0:16:08.65,0:16:11.15,main,Charmy,0000,0000,0000,,Fruits are truly the best.
+Dialogue: 0,0:16:11.15,0:16:17.67,main,Charmy,0000,0000,0000,,They're delicious, healthy, and mostly water,\Nso you never gain weight.
+Dialogue: 0,0:16:20.16,0:16:23.50,main,Charmy,0000,0000,0000,,So you still haven't given up, Master.
+Dialogue: 0,0:16:23.75,0:16:30.26,main,Charmy,0000,0000,0000,,But once the flames of my hunger have \Nbeen lit, not even you can stop them!
+Dialogue: 0,0:16:30.26,0:16:32.76,main,Asta,0000,0000,0000,,Then I'll just have to \Nstop you once and for all!
+Dialogue: 0,0:16:32.76,0:16:33.86,main,Charmy,0000,0000,0000,,La?
+Dialogue: 0,0:16:37.65,0:16:38.81,main,Asta,0000,0000,0000,,All right!
+Dialogue: 0,0:16:40.06,0:16:41.36,main,Asta,0000,0000,0000,,What?!
+Dialogue: 0,0:16:46.73,0:16:48.86,main,Asta,0000,0000,0000,,That's not fair!
+Dialogue: 0,0:16:49.16,0:16:52.86,main,Asta,0000,0000,0000,,Then I'll just have to cut it\Nsomewhere that can't be avoided!
+Dialogue: 0,0:16:53.21,0:16:54.86,main,Asta,0000,0000,0000,,'Scuse me for a bit!
+Dialogue: 0,0:16:57.87,0:17:01.49,main,Asta,0000,0000,0000,,What the heck?! I keep cutting,\N but there's no end!
+Dialogue: 0,0:17:01.91,0:17:03.54,main,Asta,0000,0000,0000,,Oh, crap!
+Dialogue: 0,0:17:04.97,0:17:07.29,main,Potrof,0000,0000,0000,,Even Asta doesn't stand a chance...
+Dialogue: 0,0:17:07.85,0:17:11.50,main,Potrof,0000,0000,0000,,Does this mean all we can do is \Nwatch as she devours everything?
+Dialogue: 0,0:17:11.50,0:17:14.51,main,Rill,0000,0000,0000,,Leave this to me, Potrof!
+Dialogue: 0,0:17:14.51,0:17:15.72,main,Potrof,0000,0000,0000,,Rill!
+Dialogue: 0,0:17:17.48,0:17:21.43,italics,Rill,0000,0000,0000,,Charmy... we trained together.
+Dialogue: 0,0:17:21.43,0:17:26.60,italics,Rill,0000,0000,0000,,As your friend, I cannot allow \Nyour rampage to continue!
+Dialogue: 0,0:17:26.60,0:17:30.61,italics,Rill,0000,0000,0000,,Picture Magic: Invasion of Heat-Infused Ice!
+Dialogue: 0,0:17:40.44,0:17:42.20,main,Asta,0000,0000,0000,,You saved me, Rill!
+Dialogue: 0,0:17:42.41,0:17:45.16,main,Asta,0000,0000,0000,,I see! We can attack it if it's frozen!
+Dialogue: 0,0:17:45.16,0:17:46.66,main,Rill,0000,0000,0000,,Let's go, Asta!
+Dialogue: 0,0:17:46.66,0:17:47.50,main,Asta,0000,0000,0000,,Yeah!
+Dialogue: 0,0:17:54.09,0:17:56.59,main,Charmy,0000,0000,0000,,La!
+Dialogue: 0,0:17:57.68,0:17:59.48,main,Villager B,0000,0000,0000,,They defeated the Charmy!
+Dialogue: 0,0:17:59.48,0:18:00.60,main,Villager C,0000,0000,0000,,Thank you!
+Dialogue: 0,0:18:00.90,0:18:05.87,main,Potrof,0000,0000,0000,,Goodness, my students caused a mess... \NThough I am happy with how much they've grown.
+Dialogue: 0,0:18:05.87,0:18:08.35,main,Charmy,0000,0000,0000,,La...
+Dialogue: 0,0:18:08.35,0:18:11.86,main,Rill,0000,0000,0000,,Charmy, overeating is bad for you.
+Dialogue: 0,0:18:11.86,0:18:16.14,main,Charmy,0000,0000,0000,,Sorry. It's just that the Heart Kingdom's\N fruits are so yummy
+Dialogue: 0,0:18:16.14,0:18:17.66,main,Charmy,0000,0000,0000,,that I couldn't help myself.
+Dialogue: 0,0:18:17.66,0:18:19.86,main,Asta,0000,0000,0000,,You totally saved me back there, Rill.
+Dialogue: 0,0:18:19.86,0:18:23.03,main,Asta,0000,0000,0000,,You got even more insane than before!
+Dialogue: 0,0:18:23.03,0:18:26.61,main,Rill,0000,0000,0000,,Well, training in the Heart Kingdom\N has been super fun.
+Dialogue: 0,0:18:27.19,0:18:29.66,main,Rill,0000,0000,0000,,And whenever I think of a certain someone,
+Dialogue: 0,0:18:29.66,0:18:32.70,main,Rill,0000,0000,0000,,my inspiration and need \Nto create just won't stop.
+Dialogue: 0,0:18:32.70,0:18:33.63,main,Asta,0000,0000,0000,,A certain someone?
+Dialogue: 0,0:18:33.99,0:18:37.88,main,Rill,0000,0000,0000,,The goddess who saved me when \NI was possessed by the elf.
+Dialogue: 0,0:18:38.20,0:18:41.39,main,Rill,0000,0000,0000,,She's my soulmate!
+Dialogue: 0,0:18:41.67,0:18:47.64,main,Rill,0000,0000,0000,,I want to become a powerful man worthy \Nof her... and a powerful captain.
+Dialogue: 0,0:18:48.16,0:18:49.77,main,Asta,0000,0000,0000,,That goddess...
+Dialogue: 0,0:18:55.28,0:18:57.78,main,Asta,0000,0000,0000,,is totally Miz Charmy, Rill!
+Dialogue: 0,0:18:57.78,0:18:58.73,main,Rill,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:00.80,0:19:05.51,main,Rill,0000,0000,0000,,What are you talking about, Asta? \NThey're totally different. She wasn't this fat.
+Dialogue: 0,0:19:05.51,0:19:08.21,main,Asta,0000,0000,0000,,Yeah, I know that, but...
+Dialogue: 0,0:19:08.21,0:19:12.14,main,Charmy,0000,0000,0000,,And what are you talking about, Rill?\N I'm not that fat.
+Dialogue: 0,0:19:12.14,0:19:14.79,main,Charmy,0000,0000,0000,,I'm pleasantly plump. \NObviously, the most popular body type.
+Dialogue: 0,0:19:14.79,0:19:19.73,main,Asta,0000,0000,0000,,You're still eating! Can't you \Ndo anything besides eat?!
+Dialogue: 0,0:19:19.73,0:19:24.55,main,Charmy,0000,0000,0000,,How rude, Asta! Of course I think of \Nsomething besides eating sometimes.
+Dialogue: 0,0:19:25.02,0:19:27.06,italics,Charmy,0000,0000,0000,,Something besides eating...
+Dialogue: 0,0:19:27.06,0:19:30.06,italics,Charmy,0000,0000,0000,,I wonder how Yuno is doing.
+Dialogue: 0,0:19:34.97,0:19:36.94,italics,Yuno,0000,0000,0000,,We're almost to Hage Village.
+Dialogue: 0,0:19:36.94,0:19:39.50,main,Bell,0000,0000,0000,,This place is always so dull.
+Dialogue: 0,0:19:39.50,0:19:44.24,main,Bell,0000,0000,0000,,We're finally alone, but it \Ndoesn't feel like a date at all.
+Dialogue: 0,0:19:44.45,0:19:46.90,main,Bell,0000,0000,0000,,I don't know what they need to tell you,
+Dialogue: 0,0:19:46.90,0:19:49.25,main,Bell,0000,0000,0000,,but we're finally going on a date afterward.
+Dialogue: 0,0:19:49.52,0:19:50.83,main,Bell,0000,0000,0000,,Yuno, are you listening?
+Dialogue: 0,0:19:50.83,0:19:52.75,main,Bell,0000,0000,0000,,Hey, Yuno!
+Dialogue: 0,0:19:53.14,0:19:54.45,main,Yuno,0000,0000,0000,,Bell, shut up.
+Dialogue: 0,0:19:55.73,0:19:56.78,main,Lily,0000,0000,0000,,Yuno!
+Dialogue: 0,0:19:58.37,0:19:59.32,main,Yuno,0000,0000,0000,,Sister.
+Dialogue: 0,0:19:59.32,0:20:02.26,main,Lily,0000,0000,0000,,Welcome home. Sorry, I know you must be busy.
+Dialogue: 0,0:20:02.53,0:20:05.47,main,Bell,0000,0000,0000,,Yeah! Yuno's super busy!
+Dialogue: 0,0:20:05.47,0:20:07.76,main,Yuno,0000,0000,0000,,I'm fine. Did something happen?
+Dialogue: 0,0:20:08.04,0:20:11.18,main,Lily,0000,0000,0000,,Well... why don't you come in first?
+Dialogue: 0,0:20:20.65,0:20:22.90,main,Ralph,0000,0000,0000,,You're the spitting image of Lord Ciel.
+Dialogue: 0,0:20:23.24,0:20:26.41,main,Ralph,0000,0000,0000,,And that necklace... There's no doubt about it!
+Dialogue: 0,0:20:27.21,0:20:28.81,main,Bell,0000,0000,0000,,Who the heck is this old guy?
+Dialogue: 0,0:20:28.81,0:20:31.91,main,Lily,0000,0000,0000,,Apparently, he's from the Spade Kingdom.
+Dialogue: 0,0:20:33.18,0:20:35.42,main,Bell,0000,0000,0000,,Guess we need to kick his butt, then!
+Dialogue: 0,0:20:35.81,0:20:37.67,main,Ralph,0000,0000,0000,,I am not your enemy!
+Dialogue: 0,0:20:39.49,0:20:42.92,main,Ralph,0000,0000,0000,,The Spade Kingdom was originally \Na peaceful kingdom.
+Dialogue: 0,0:20:44.09,0:20:45.76,main,Ralph,0000,0000,0000,,Despite how bitterly cold it got,
+Dialogue: 0,0:20:45.76,0:20:50.18,main,Ralph,0000,0000,0000,,the people lived happily under the \Nrule of the House of Grinberryall...
+Dialogue: 0,0:20:51.67,0:20:55.88,main,Ralph,0000,0000,0000,,until the Dark Triad appeared, \Nexiled the Grinberryalls,
+Dialogue: 0,0:20:55.88,0:20:58.44,main,Ralph,0000,0000,0000,,and ruled over the people with fear.
+Dialogue: 0,0:20:59.67,0:21:00.61,main,Ralph,0000,0000,0000,,Lord Yuno...
+Dialogue: 0,0:21:01.61,0:21:06.45,main,Ralph,0000,0000,0000,,You are our hope. You belong \Nto the House of Grinberryall.
+Dialogue: 0,0:21:07.00,0:21:08.24,main,Ralph,0000,0000,0000,,Meaning...
+Dialogue: 0,0:21:08.75,0:21:11.19,main,Ralph,0000,0000,0000,,You are the Prince of the Spade Kingdom!
+Dialogue: 0,0:22:44.05,0:22:48.55,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:44.76,0:22:47.45,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:48.05,0:22:52.05,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}The Ultimate Canvas
+Dialogue: 0,0:22:48.87,0:22:50.84,main,Rill,0000,0000,0000,,The Ultimate Canvas.
+Dialogue: 0,0:22:52.33,0:22:55.06,Default,Rill,0000,0000,0000,,I just can't draw her enough!
+Dialogue: 0,0:22:55.28,0:22:58.06,main,Rill,0000,0000,0000,,Ah, my goddess!
+Dialogue: 0,0:22:55.28,0:23:01.73,top,Charmy,0000,0000,0000,,Munchy, munchy, munchy, \Nmunchy, munchy, munchy...
+Dialogue: 0,0:22:58.50,0:23:01.73,main,Asta,0000,0000,0000,,Rill, you don't want to draw \Nthis version of Miz Charmy?
+Dialogue: 0,0:23:02.26,0:23:06.23,main,Rill,0000,0000,0000,,I'm too busy trying to get every detail \Nof the goddess's beauty perfect right now.
+Dialogue: 0,0:23:07.69,0:23:11.79,main,Rill,0000,0000,0000,,This canvas is so soft and smooth. \NIt's as though I'm painting on a cloud!
+Dialogue: 0,0:23:11.79,0:23:14.74,main,Rill,0000,0000,0000,,This may just become my ultimate masterpiece!
+Dialogue: 0,0:23:14.74,0:23:16.33,main,Asta,0000,0000,0000,,R-Rill, that's—
+Dialogue: 0,0:23:16.64,0:23:20.01,main,Rill,0000,0000,0000,,And done! My ideal goddess has descended!
+Dialogue: 0,0:23:20.42,0:23:21.54,main,Rill,0000,0000,0000,,Wait a minute...
+Dialogue: 0,0:23:21.54,0:23:24.17,main,Asta,0000,0000,0000,,Just how wrapped up were you in your work?!
+Dialogue: 0,0:23:24.48,0:23:29.51,main,Rill,0000,0000,0000,,Ack, please don't eat any more, Charmy! \NYou're going to stretch my goddess out!
+Dialogue: 0,0:23:29.51,0:23:34.18,main,Charmy,0000,0000,0000,,La? Rill, those who get in \Nthe way of others' meals...
+Dialogue: 0,0:23:34.18,0:23:38.69,main,Asta,0000,0000,0000,,Please! No more, Miz Charmy!
+Dialogue: 0,0:23:40.30,0:23:41.70,main,Yuno,0000,0000,0000,,You can't be serious.
+Dialogue: 0,0:23:41.70,0:23:45.08,main,Yuno,0000,0000,0000,,You can't be serious about me being \Nthe Prince of the Spade Kingdom.
+Dialogue: 0,0:23:45.08,0:23:46.40,main,Ralph,0000,0000,0000,,But I am serious.
+Dialogue: 0,0:23:46.83,0:23:51.38,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 160: \N"The Messenger from the Spade Kingdom."
+Dialogue: 0,0:23:48.32,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 160\N\N{\fs18} The Messenger From the Spade Kingdom
+Dialogue: 0,0:23:51.87,0:23:53.11,main,Ralph,0000,0000,0000,,I'm serious.

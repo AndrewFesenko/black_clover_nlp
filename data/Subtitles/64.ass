@@ -1,0 +1,290 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0080,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,0030,0030,0018,1
+Style: sign_11079_109_Golden_Dawn_Vice,Times New Roman,20,&H00F7FBFA,&H000000FF,&H001D1C1B,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0110,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:02.77,0:00:07.08,italics,nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.06,0:00:15.30,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.43,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:30.56,0:00:34.00,main,Queen,0000,0000,0000,,Show me who you really are!
+Dialogue: 0,0:00:50.67,0:00:53.21,main,Asta,0000,0000,0000,,Never giving up...
+Dialogue: 0,0:00:53.75,0:00:55.92,main,Asta,0000,0000,0000,,is my magic!
+Dialogue: 0,0:00:56.67,0:01:00.95,italics,Nar,0000,0000,0000,,The Queen of Witches released Asta's \Nlimiter suppressing his anti-magic
+Dialogue: 0,0:01:00.95,0:01:03.10,italics,Nar,0000,0000,0000,,and awakened his full powers.
+Dialogue: 0,0:01:03.79,0:01:05.39,italics,astar,0000,0000,0000,,What is this?
+Dialogue: 0,0:01:05.39,0:01:08.60,italics,Asta,0000,0000,0000,,It feels like I'm in a cold lake.
+Dialogue: 0,0:01:08.60,0:01:10.48,italics,Asta,0000,0000,0000,,It feels cool...
+Dialogue: 0,0:01:10.98,0:01:13.90,italics,Asta,0000,0000,0000,,My mind is unbelievably clear.
+Dialogue: 0,0:01:14.66,0:01:16.43,italics,Asta,0000,0000,0000,,And I can feel...
+Dialogue: 0,0:01:16.99,0:01:18.65,italics,Asta,0000,0000,0000,,the power overflowing!
+Dialogue: 0,0:01:22.16,0:01:25.67,main,Queen,0000,0000,0000,,I assumed that you might be one of their kin,
+Dialogue: 0,0:01:25.67,0:01:27.25,main,Queen,0000,0000,0000,,but apparently I was wrong.
+Dialogue: 0,0:01:27.25,0:01:32.46,main,Queen,0000,0000,0000,,A sudden mutation kept \Nmana from dwelling in you.
+Dialogue: 0,0:01:32.46,0:01:34.50,main,Queen,0000,0000,0000,,You're merely defective.
+Dialogue: 0,0:01:35.35,0:01:39.05,main,Queen,0000,0000,0000,,But because of that,\Nyou are able to wield that sword.
+Dialogue: 0,0:01:39.05,0:01:43.05,main,Queen,0000,0000,0000,,You aren't special. Not in the slightest.
+Dialogue: 0,0:01:43.64,0:01:46.93,main,Queen,0000,0000,0000,,But that's exactly what makes you special.
+Dialogue: 0,0:01:47.81,0:01:49.81,main,Asta,0000,0000,0000,,Black Meteorite!
+Dialogue: 0,0:01:52.95,0:01:56.28,italics,Nar,0000,0000,0000,,Asta was able to defeat Ladros, \Nthanks to this newly awakened power,
+Dialogue: 0,0:01:56.28,0:01:58.42,italics,Nar,0000,0000,0000,,and Ladros turned over a new leaf.
+Dialogue: 0,0:01:58.42,0:01:59.61,italics,Nar,0000,0000,0000,,However...
+Dialogue: 0,0:01:59.61,0:02:03.83,main,Queen,0000,0000,0000,,Controlling blood. That is my magic.
+Dialogue: 0,0:02:04.20,0:02:09.54,main,Queen,0000,0000,0000,,From now on, you'll spend your life \Nin my employ, working as my blade.
+Dialogue: 0,0:02:09.54,0:02:15.04,italics,Nar,0000,0000,0000,,The Queen of Witches was after \NAsta's anti-magic all along.
+Dialogue: 0,0:02:15.91,0:02:18.30,italics,Nar,0000,0000,0000,,She then took control of Asta...
+Dialogue: 0,0:02:18.30,0:02:20.55,main,Queen,0000,0000,0000,,Now, for your first task...
+Dialogue: 0,0:02:20.55,0:02:25.01,main,Queen,0000,0000,0000,,I shall force you to kill everyone \Nhere with your own two hands.
+Dialogue: 0,0:02:39.44,0:02:42.86,Ep Title,Sign,0000,0000,0000,,{\fad(1023,1)}The Red Thread of Fate
+Dialogue: 0,0:04:04.72,0:04:06.66,main,Noelle,0000,0000,0000,,No... way...
+Dialogue: 0,0:04:08.66,0:04:10.71,main,Vanessa,0000,0000,0000,,Asta, stop!
+Dialogue: 0,0:04:11.70,0:04:12.66,main,Fanzell,0000,0000,0000,,Asta!
+Dialogue: 0,0:04:14.67,0:04:17.67,main,Queen,0000,0000,0000,,Now, then... Which one of you shall I kill first?
+Dialogue: 0,0:04:18.12,0:04:19.67,main,Queen,0000,0000,0000,,I know.
+Dialogue: 0,0:04:20.56,0:04:23.43,main,Queen,0000,0000,0000,,I'll start with you, little royal.
+Dialogue: 0,0:04:24.07,0:04:24.99,main,queen,0000,0000,0000,,Go.
+Dialogue: 0,0:04:31.43,0:04:33.15,main,Vanessa,0000,0000,0000,,Stop!
+Dialogue: 0,0:04:33.15,0:04:34.87,main,Fanzell,0000,0000,0000,,No! Wake up!
+Dialogue: 0,0:04:34.87,0:04:36.44,main,Fanzell,0000,0000,0000,,Snap out of it, Asta!
+Dialogue: 0,0:04:40.32,0:04:42.98,main,Fanzell,0000,0000,0000,,It's no use. He can't hear us.
+Dialogue: 0,0:04:42.98,0:04:46.86,main,Noelle,0000,0000,0000,,Asta, stop! Don't you recognize me?
+Dialogue: 0,0:04:49.25,0:04:51.37,main,Queen,0000,0000,0000,,It must be fate...
+Dialogue: 0,0:04:51.37,0:04:56.87,main,Queen,0000,0000,0000,,To think that a royal of the \NClover Kingdom shall die by his sword.
+Dialogue: 0,0:05:02.53,0:05:03.88,main,Vanessa,0000,0000,0000,,Asta...
+Dialogue: 0,0:05:09.76,0:05:11.14,main,Noelle,0000,0000,0000,,Asta...
+Dialogue: 0,0:05:12.21,0:05:13.97,main,Vanessa,0000,0000,0000,,Wake up!
+Dialogue: 0,0:05:14.67,0:05:16.23,main,Noelle,0000,0000,0000,,Asta...
+Dialogue: 0,0:05:16.58,0:05:18.48,main,Queen,0000,0000,0000,,This is farewell.
+Dialogue: 0,0:05:22.15,0:05:23.61,main,Vanessa,0000,0000,0000,,No!
+Dialogue: 0,0:05:23.61,0:05:25.11,main,Fanzell,0000,0000,0000,,Asta, don't!
+Dialogue: 0,0:05:25.49,0:05:26.44,main,Queen,0000,0000,0000,,Do it.
+Dialogue: 0,0:05:46.21,0:05:49.43,main,Queen,0000,0000,0000,,This boy... He's unconscious, and yet...
+Dialogue: 0,0:05:49.84,0:05:50.72,main,Vanessa,0000,0000,0000,,Asta...
+Dialogue: 0,0:05:51.34,0:05:54.72,main,Fanzell,0000,0000,0000,,So he's not completely under her control.
+Dialogue: 0,0:05:57.87,0:05:59.27,main,Noelle,0000,0000,0000,,I won't let you kill me.
+Dialogue: 0,0:05:59.83,0:06:01.98,main,Noelle,0000,0000,0000,,I'm not going to let you kill me!
+Dialogue: 0,0:06:03.36,0:06:04.86,main,Noelle,0000,0000,0000,,Just you wait!
+Dialogue: 0,0:06:06.40,0:06:11.11,main,Noelle,0000,0000,0000,,I'll shake this flimsy spell \Noff right this instant!
+Dialogue: 0,0:06:11.11,0:06:13.12,main,Noelle,0000,0000,0000,,These stupid things!
+Dialogue: 0,0:06:13.44,0:06:17.87,main,Queen,0000,0000,0000,,Puppet's Blood binds itself with the \Nblood in your body and takes hold.
+Dialogue: 0,0:06:18.26,0:06:20.92,main,Queen,0000,0000,0000,,No matter how much you struggle, \Nyou will never undo it.
+Dialogue: 0,0:06:20.92,0:06:24.13,main,Queen,0000,0000,0000,,That goes for you as well, \Neven if you don't have any magic.
+Dialogue: 0,0:06:35.09,0:06:35.89,main,Noelle,0000,0000,0000,,Asta...
+Dialogue: 0,0:06:35.89,0:06:38.14,main,Queen,0000,0000,0000,,You sre stubborn. However...
+Dialogue: 0,0:06:48.37,0:06:49.36,main,Noelle,0000,0000,0000,,Asta!
+Dialogue: 0,0:06:49.72,0:06:52.36,main,Vanessa,0000,0000,0000,,Please! Make him stop!
+Dialogue: 0,0:06:54.43,0:06:57.89,main,Vanessa,0000,0000,0000,,I swear that I'll never \Nleave this forest again!
+Dialogue: 0,0:06:57.89,0:07:01.37,main,Vanessa,0000,0000,0000,,I'll never disobey you again... So please...
+Dialogue: 0,0:07:02.74,0:07:03.62,main,Queen,0000,0000,0000,,No.
+Dialogue: 0,0:07:05.54,0:07:08.80,main,Queen,0000,0000,0000,,I will kill them here, perfectly,
+Dialogue: 0,0:07:08.80,0:07:11.55,main,Queen,0000,0000,0000,,to keep you from having any \Nmore foolish notions ever again.
+Dialogue: 0,0:07:11.89,0:07:15.23,main,Queen,0000,0000,0000,,My divinations told me,\N"Vanessa will summon what you want
+Dialogue: 0,0:07:15.23,0:07:19.56,main,Queen,0000,0000,0000,,and return to the forest alive someday."
+Dialogue: 0,0:07:19.97,0:07:22.45,main,Queen,0000,0000,0000,,That is why I didn't \Nsearch very hard for you.
+Dialogue: 0,0:07:22.45,0:07:29.19,main,Queen,0000,0000,0000,,Granted, I didn't think that what I wanted \Nwould be a human with anti-magic swords.
+Dialogue: 0,0:07:30.18,0:07:33.40,main,Queen,0000,0000,0000,,But what did you gain by going outside?
+Dialogue: 0,0:07:34.91,0:07:39.30,main,Queen,0000,0000,0000,,You formed trivial bonds with \Nimperfect fools, and as a result,
+Dialogue: 0,0:07:39.30,0:07:41.78,main,Queen,0000,0000,0000,,you only brought about their deaths.
+Dialogue: 0,0:07:42.31,0:07:44.80,main,Queen,0000,0000,0000,,You cannot escape me.
+Dialogue: 0,0:07:44.80,0:07:46.92,main,Queen,0000,0000,0000,,You cannot sever this bond.
+Dialogue: 0,0:07:46.92,0:07:48.42,main,Vanessa,0000,0000,0000,,Bond?
+Dialogue: 0,0:07:48.42,0:07:53.42,main,Queen,0000,0000,0000,,After all, you are my daughter. My family.
+Dialogue: 0,0:07:53.42,0:07:56.93,main,Vanessa,0000,0000,0000,,I'm... part of your family?
+Dialogue: 0,0:07:57.40,0:08:00.43,main,Queen,0000,0000,0000,,You belong to me.
+Dialogue: 0,0:08:10.07,0:08:11.18,flashback,Witch 1,0000,0000,0000,,No way!
+Dialogue: 0,0:08:11.18,0:08:12.69,flashback,Witch 2,0000,0000,0000,,No, really!
+Dialogue: 0,0:08:15.79,0:08:19.54,flashback,Witch 1,0000,0000,0000,,Oh, yeah! That town had \Nreally delicious cake.
+Dialogue: 0,0:08:19.54,0:08:21.45,flashback,Witch 2,0000,0000,0000,,I want to go, too.
+Dialogue: 0,0:08:21.45,0:08:24.11,flashback,Vanessa,0000,0000,0000,,Hey, please! Help me!
+Dialogue: 0,0:08:24.11,0:08:25.46,flashback,Vanessa,0000,0000,0000,,I want to leave!
+Dialogue: 0,0:08:25.96,0:08:29.71,flashback,Vanessa,0000,0000,0000,,Hey, please! Please, don't go!
+Dialogue: 0,0:08:40.05,0:08:41.35,flashback,Queen,0000,0000,0000,,Vanessa.
+Dialogue: 0,0:08:42.77,0:08:44.18,flashback,Vanessa,0000,0000,0000,,Your Majesty...
+Dialogue: 0,0:08:44.64,0:08:48.19,flashback,Vanessa,0000,0000,0000,,Please let me out of here! \NI don't want to be in here anymore!
+Dialogue: 0,0:08:48.19,0:08:52.10,flashback,Vanessa,0000,0000,0000,,I'm so lonely all by myself! \NHow long do I have to stay in here?
+Dialogue: 0,0:08:52.73,0:08:54.59,flashback,Vanessa,0000,0000,0000,,Your Majesty!
+Dialogue: 0,0:08:54.59,0:08:59.75,flashback,Vanessa,0000,0000,0000,,This thread magic doesn't have the sort \Nof incredible power you say it does!
+Dialogue: 0,0:08:59.75,0:09:00.99,flashback,Vanessa,0000,0000,0000,,Please, let me out of here!
+Dialogue: 0,0:09:01.49,0:09:05.86,flashback,Queen,0000,0000,0000,,No. You will one day have the \Npower to control destiny.
+Dialogue: 0,0:09:05.86,0:09:08.57,flashback,Queen,0000,0000,0000,,It clearly says so in my divinations.
+Dialogue: 0,0:09:08.57,0:09:09.60,flashback,Vanessa,0000,0000,0000,,But—
+Dialogue: 0,0:09:09.60,0:09:12.75,flashback,Queen,0000,0000,0000,,You asked how long you must stay in there,\Nand I shall give you an answer.
+Dialogue: 0,0:09:12.75,0:09:14.58,flashback,Queen,0000,0000,0000,,I won't let you out of there
+Dialogue: 0,0:09:14.58,0:09:18.49,flashback,Queen,0000,0000,0000,,until you invoke the magic that \Nallows you to control destiny.
+Dialogue: 0,0:09:18.49,0:09:20.77,flashback,Queen,0000,0000,0000,,You are my family.
+Dialogue: 0,0:09:20.77,0:09:23.39,flashback,Vanessa,0000,0000,0000,,If I'm your family, let me out of here!
+Dialogue: 0,0:09:23.39,0:09:24.98,flashback,Queen,0000,0000,0000,,I cannot do that.
+Dialogue: 0,0:09:26.42,0:09:29.40,flashback,Queen,0000,0000,0000,,I will be the one to choose your destiny.
+Dialogue: 0,0:09:31.02,0:09:33.90,flashback,Vanessa,0000,0000,0000,,Your Majesty! Your Majesty!
+Dialogue: 0,0:09:33.90,0:09:37.78,flashback,Vanessa,0000,0000,0000,,Please, wait! Please let me out of here!
+Dialogue: 0,0:09:41.22,0:09:44.31,flashback,Vanessa,0000,0000,0000,,I don't have... powers like that.
+Dialogue: 0,0:09:51.60,0:09:55.73,flashback,Witch 1,0000,0000,0000,,Oh, yeah. That cake shop \Nended up closing down.
+Dialogue: 0,0:09:55.73,0:09:57.05,flashback,Witch 2,0000,0000,0000,,That's a shame.
+Dialogue: 0,0:09:58.79,0:10:00.68,flashback,Vanessa,0000,0000,0000,,Hey, did you know?
+Dialogue: 0,0:10:01.15,0:10:04.25,flashback,Vanessa,0000,0000,0000,,There's a big town outside this forest,
+Dialogue: 0,0:10:04.25,0:10:06.68,flashback,Vanessa,0000,0000,0000,,and there are a lot of people \Nwho aren't witches living there.
+Dialogue: 0,0:10:06.68,0:10:11.69,flashback,Bird doll,0000,0000,0000,,Vanessa... We've heard that \Nstory hundreds of times.
+Dialogue: 0,0:10:12.08,0:10:15.55,flashback,Bird doll,0000,0000,0000,,All the other witches go \Nthere to have fun, right?
+Dialogue: 0,0:10:15.55,0:10:17.47,flashback,Bird doll,0000,0000,0000,,Some even have boyfriends.
+Dialogue: 0,0:10:17.47,0:10:21.20,flashback,Girl doll,0000,0000,0000,,Why don't you escape from this \Ncage and go out there, too?
+Dialogue: 0,0:10:21.20,0:10:24.75,flashback,Vanessa,0000,0000,0000,,What? B-But I can't...
+Dialogue: 0,0:10:24.75,0:10:25.95,flashback,Vanessa,0000,0000,0000,,I mean...
+Dialogue: 0,0:10:26.64,0:10:29.41,flashback,Vanessa,0000,0000,0000,,I can't defy the Queen of Witches.
+Dialogue: 0,0:10:30.92,0:10:33.49,flashback,Bird doll,0000,0000,0000,,C-Come on, cheer up.
+Dialogue: 0,0:10:33.49,0:10:37.12,flashback,Girl doll,0000,0000,0000,,Do you want me to ask the \NQueen of Witches for you?
+Dialogue: 0,0:10:37.12,0:10:41.32,flashback,Vanessa,0000,0000,0000,,That's impossible. You're a doll \Nthat I created with my own magic.
+Dialogue: 0,0:10:41.94,0:10:45.85,flashback,Vanessa,0000,0000,0000,,If I can't do it, neither can you.
+Dialogue: 0,0:10:45.85,0:10:47.23,flashback,Girl doll,0000,0000,0000,,You have a point.
+Dialogue: 0,0:10:47.23,0:10:50.80,flashback,Girl doll,0000,0000,0000,,This whole conversation is just you \Ntalking to yourself to begin with.
+Dialogue: 0,0:10:52.08,0:10:56.61,flashback,Bird doll,0000,0000,0000,,Hopefully you'll be able to \Nmake some real friends someday.
+Dialogue: 0,0:10:57.23,0:11:00.58,flashback,Vanessa,0000,0000,0000,,That's impossible... There's no way.
+Dialogue: 0,0:11:00.58,0:11:05.67,flashback,Vanessa,0000,0000,0000,,I'm going to be stuck like this \Nforever... I'll never be free.
+Dialogue: 0,0:11:34.77,0:11:37.23,flashbackitalics,Vanessa,0000,0000,0000,,It seems a bit noisy outside...
+Dialogue: 0,0:11:37.56,0:11:38.79,flashback,Witch,0000,0000,0000,,There's a man!
+Dialogue: 0,0:11:38.79,0:11:40.26,flashback,Witch,0000,0000,0000,,Intruder!
+Dialogue: 0,0:11:40.99,0:11:42.44,flashbackitalics,Vanessa,0000,0000,0000,,Intruder?
+Dialogue: 0,0:11:59.91,0:12:03.78,flashback,Yami,0000,0000,0000,,Jeez... Come on now. I'm just \Ndoing some warrior training.
+Dialogue: 0,0:12:01.59,0:12:02.99,flashbackitalicstop,Vanessa,0000,0000,0000,,A man?
+Dialogue: 0,0:12:03.78,0:12:06.98,flashback,Yami,0000,0000,0000,,Why am I being chased around this \Nforest just for being a guy?
+Dialogue: 0,0:12:11.47,0:12:14.98,flashbackitalics,Vanessa,0000,0000,0000,,I've never seen one before. A man...
+Dialogue: 0,0:12:15.33,0:12:19.49,flashback,Yami,0000,0000,0000,,And that hysterical old hag\N is a tough cookie, damn it.
+Dialogue: 0,0:12:20.07,0:12:22.99,flashbackitalics,Vanessa,0000,0000,0000,,He fought the Queen?
+Dialogue: 0,0:12:23.38,0:12:25.88,flashback,Yami,0000,0000,0000,,What the hell is this place, anyway?
+Dialogue: 0,0:12:25.88,0:12:28.99,flashback,Yami,0000,0000,0000,,Huh? Who're you? What are you \Ndoing in a place like this?
+Dialogue: 0,0:12:28.99,0:12:32.48,flashback,Vanessa,0000,0000,0000,,U-Um, w-well, you see...
+Dialogue: 0,0:12:32.91,0:12:35.79,flashback,Vanessa,0000,0000,0000,,The Queen has me locked up in here.
+Dialogue: 0,0:12:37.11,0:12:38.91,flashback,Yami,0000,0000,0000,,You're locked up in here?
+Dialogue: 0,0:12:38.91,0:12:41.99,flashback,Yami,0000,0000,0000,,So you're literally like a bird in a cage.
+Dialogue: 0,0:12:41.99,0:12:44.01,flashback,Vanessa,0000,0000,0000,,I've never been outside.
+Dialogue: 0,0:12:44.01,0:12:47.26,flashback,Yami,0000,0000,0000,,Seriously? Well, that sucks.
+Dialogue: 0,0:12:47.26,0:12:49.01,flashback,Yami,0000,0000,0000,,But, hey. You're in luck.
+Dialogue: 0,0:12:49.01,0:12:51.76,flashback,Yami,0000,0000,0000,,There's a huge hole in it now, \Nso you can get out that way.
+Dialogue: 0,0:12:52.24,0:12:56.27,flashback,Vanessa,0000,0000,0000,,I-I can't! I'll never be \Nable to escape the Queen.
+Dialogue: 0,0:12:56.71,0:13:00.63,flashback,Vanessa,0000,0000,0000,,I'm fated to stay here.
+Dialogue: 0,0:13:00.63,0:13:04.82,flashback,Yami,0000,0000,0000,,Huh? "I'm fated to stay here"?
+Dialogue: 0,0:13:05.14,0:13:08.28,flashback,Yami,0000,0000,0000,,Oh, right. Good ol' Mr. Fate.
+Dialogue: 0,0:13:08.69,0:13:10.90,flashback,Yami,0000,0000,0000,,I hate that bastard.
+Dialogue: 0,0:13:10.90,0:13:13.08,flashback,Yami,0000,0000,0000,,Like hell I'm gonna listen to 'im.
+Dialogue: 0,0:13:13.08,0:13:15.54,flashback,Yami,0000,0000,0000,,I'll do what I want, even if \NI have to crush fate myself.
+Dialogue: 0,0:13:17.62,0:13:22.35,flashback,Yami,0000,0000,0000,,I'm pretty sure I can't beat that \Nhysterical old hag right now, though.
+Dialogue: 0,0:13:26.19,0:13:29.03,flashback,Yami,0000,0000,0000,,So I'm getting the hell outta here.
+Dialogue: 0,0:13:29.03,0:13:31.25,flashback,Yami,0000,0000,0000,,See ya, little birdie.
+Dialogue: 0,0:13:31.25,0:13:34.47,flashback,Vanessa,0000,0000,0000,,W-Wait! What should I do?
+Dialogue: 0,0:13:37.23,0:13:39.48,flashback,Yami,0000,0000,0000,,Hell if I know. Choose for yourself.
+Dialogue: 0,0:13:46.03,0:13:48.61,flashbackitalics,Vanessa,0000,0000,0000,,I'm a bird trapped in a cage...
+Dialogue: 0,0:13:49.30,0:13:51.99,flashbackitalics,Vanessa,0000,0000,0000,,Which means that I should have wings.
+Dialogue: 0,0:13:52.58,0:13:55.24,flashbackitalics,Vanessa,0000,0000,0000,,I can fly through that big, blue sky.
+Dialogue: 0,0:13:56.29,0:13:57.50,flashbackitalics,Vanessa,0000,0000,0000,,I will choose...
+Dialogue: 0,0:14:02.39,0:14:03.50,flashback,Vanessa,0000,0000,0000,,for myself!
+Dialogue: 0,0:14:33.28,0:14:37.15,italics,Vanessa,0000,0000,0000,,What I obtained in the outside world was...
+Dialogue: 0,0:14:44.55,0:14:46.21,main,Vanessa,0000,0000,0000,,No, it's not you.
+Dialogue: 0,0:14:46.21,0:14:47.54,main,Queen,0000,0000,0000,,What?
+Dialogue: 0,0:14:47.54,0:14:50.74,main,Vanessa,0000,0000,0000,,You're not my family!
+Dialogue: 0,0:14:52.07,0:14:54.47,main,Vanessa,0000,0000,0000,,The Black Bulls are!
+Dialogue: 0,0:14:55.01,0:15:01.06,main,Vanessa,0000,0000,0000,,And right now, that family is about to \Nbe taken from me, right before my eyes!
+Dialogue: 0,0:15:02.98,0:15:07.23,main,Vanessa,0000,0000,0000,,If I can't stop this, why do I even exist?!
+Dialogue: 0,0:15:07.23,0:15:11.24,main,Vanessa,0000,0000,0000,,Please! If I truly have this power...
+Dialogue: 0,0:15:11.24,0:15:12.93,main,Vanessa,0000,0000,0000,,My magic, I implore you...
+Dialogue: 0,0:15:12.93,0:15:14.79,main,Vanessa,0000,0000,0000,,Change destiny!
+Dialogue: 0,0:15:26.23,0:15:27.50,main,Vanessa,0000,0000,0000,,What is this?
+Dialogue: 0,0:15:38.63,0:15:41.77,main,Queen,0000,0000,0000,,The red thread... of fate.
+Dialogue: 0,0:15:47.47,0:15:50.30,main,Queen,0000,0000,0000,,Is that what this is?
+Dialogue: 0,0:15:58.53,0:16:02.39,main,Vanessa,0000,0000,0000,,I didn't visualize it taking this shape.
+Dialogue: 0,0:16:02.39,0:16:03.31,main,Vanessa,0000,0000,0000,,Why?
+Dialogue: 0,0:16:06.88,0:16:11.99,italics,Queen,0000,0000,0000,,Did she finally discover \Nthe power to control fate?
+Dialogue: 0,0:16:11.99,0:16:15.05,main,Queen,0000,0000,0000,,Well, then... Let us find out.
+Dialogue: 0,0:16:22.68,0:16:24.06,main,Vanessa,0000,0000,0000,,No!
+Dialogue: 0,0:16:30.69,0:16:32.27,italics,Queen,0000,0000,0000,,It only touched him?
+Dialogue: 0,0:16:32.27,0:16:34.57,italics,Queen,0000,0000,0000,,Nothing is happening?
+Dialogue: 0,0:16:37.44,0:16:41.83,main,Queen,0000,0000,0000,,Rue your sin in having underestimated \Nthe Queen of Witches.
+Dialogue: 0,0:16:48.71,0:16:51.21,main,Vanessa,0000,0000,0000,,No!
+Dialogue: 0,0:16:51.65,0:16:54.42,main,Queen,0000,0000,0000,,So it was still incomplete.
+Dialogue: 0,0:16:54.42,0:16:55.86,main,Queen,0000,0000,0000,,But have no fear.
+Dialogue: 0,0:16:55.86,0:17:01.14,main,Queen,0000,0000,0000,,I am perfection, and I shall ensure that it\Nis fostered properly under my supervision.
+Dialogue: 0,0:17:01.14,0:17:02.80,main,Vanessa,0000,0000,0000,,No!
+Dialogue: 0,0:17:08.48,0:17:09.76,main,Queen,0000,0000,0000,,What?
+Dialogue: 0,0:17:09.76,0:17:13.23,italics,Queen,0000,0000,0000,,What in the world? I could've sworn \Nthat he cut down the royal girl.
+Dialogue: 0,0:17:13.55,0:17:17.95,main,Queen,0000,0000,0000,,Rue your sin in having underestimated \Nthe Queen of Witches.
+Dialogue: 0,0:17:17.95,0:17:22.74,italics,Queen,0000,0000,0000,,Didn't I just speak those \Nwords a few moments ago?
+Dialogue: 0,0:17:29.00,0:17:30.11,main,Queen,0000,0000,0000,,What?
+Dialogue: 0,0:17:30.11,0:17:32.02,italics,Queen,0000,0000,0000,,Was there some kind of mistake?
+Dialogue: 0,0:17:34.00,0:17:36.45,main,Vanessa,0000,0000,0000,,Stop!
+Dialogue: 0,0:17:42.83,0:17:44.26,main,Queen,0000,0000,0000,,It's over.
+Dialogue: 0,0:17:44.26,0:17:46.66,main,Vanessa,0000,0000,0000,,Stop!
+Dialogue: 0,0:17:58.71,0:18:01.24,italics,Queen,0000,0000,0000,,This... It cannot be...
+Dialogue: 0,0:18:01.68,0:18:03.37,italics,Queen,0000,0000,0000,,Then how about him?
+Dialogue: 0,0:18:23.01,0:18:25.67,italics,Queen,0000,0000,0000,,Then how about the cat itself?
+Dialogue: 0,0:18:38.77,0:18:41.53,italics,Queen,0000,0000,0000,,Puppet's Blood has come undone?
+Dialogue: 0,0:18:41.53,0:18:45.04,italics,Queen,0000,0000,0000,,Are you telling me my manipulation failed?
+Dialogue: 0,0:18:45.04,0:18:49.43,main,Queen,0000,0000,0000,,This... This truly is the \Npower to control destiny.
+Dialogue: 0,0:18:51.46,0:18:54.00,italics,Queen,0000,0000,0000,,In all likelihood, this magic changes
+Dialogue: 0,0:18:54.00,0:19:01.05,italics,Queen,0000,0000,0000,,the destinies of the people the cat \Ntouches to the caster's advantage.
+Dialogue: 0,0:19:01.05,0:19:05.25,italics,Queen,0000,0000,0000,,Vanessa herself probably didn't see the \Nfates where her companions were killed.
+Dialogue: 0,0:19:05.25,0:19:10.06,italics,Queen,0000,0000,0000,,She's only seeing the attacks \Ncontinue to miss against all odds.
+Dialogue: 0,0:19:10.71,0:19:13.31,italics,Queen,0000,0000,0000,,This cat is both harmless and unavoidable.
+Dialogue: 0,0:19:17.39,0:19:20.32,main,Queen,0000,0000,0000,,So you've awakened. Well done, Vanessa.
+Dialogue: 0,0:19:21.40,0:19:24.08,main,Queen,0000,0000,0000,,I've been waiting for this moment.
+Dialogue: 0,0:19:24.08,0:19:26.69,main,Queen,0000,0000,0000,,I've waited so, so long.
+Dialogue: 0,0:19:26.69,0:19:29.63,main,Queen,0000,0000,0000,,Blood Magic: Puppet's Blood!
+Dialogue: 0,0:19:35.06,0:19:36.21,main,Noelle,0000,0000,0000,,Vanessa!
+Dialogue: 0,0:19:36.88,0:19:40.93,main,Queen,0000,0000,0000,,Now both you and your magic belong to me.
+Dialogue: 0,0:19:40.93,0:19:44.88,main,Queen,0000,0000,0000,,That power best suits \Nme because I am perfect.
+Dialogue: 0,0:19:47.14,0:19:50.64,main,Queen,0000,0000,0000,,Now, fate, align yourself with me!
+Dialogue: 0,0:20:15.55,0:20:17.15,main,Fanzell,0000,0000,0000,,What was...
+Dialogue: 0,0:20:17.15,0:20:19.39,main,Noelle,0000,0000,0000,,What just happened?
+Dialogue: 0,0:20:22.34,0:20:23.17,main,Domina,0000,0000,0000,,Darling!
+Dialogue: 0,0:20:24.00,0:20:26.18,main,Fanzell,0000,0000,0000,,Domina! Mariella!
+Dialogue: 0,0:20:27.38,0:20:28.83,main,Domina,0000,0000,0000,,You're safe...
+Dialogue: 0,0:20:38.08,0:20:40.69,main,Queen,0000,0000,0000,,Impossible...
+Dialogue: 0,0:20:41.31,0:20:43.71,main,Queen,0000,0000,0000,,Impossible. Impossible!
+Dialogue: 0,0:20:43.71,0:20:47.78,main,Queen,0000,0000,0000,,There's nothing that my \Nperfect magic cannot control!
+Dialogue: 0,0:20:47.78,0:20:48.74,main,Queen,0000,0000,0000,,So why?
+Dialogue: 0,0:20:52.39,0:20:56.71,main,Vanessa,0000,0000,0000,,So this is the power to control destiny \Nthat you were talking about.
+Dialogue: 0,0:20:57.08,0:21:00.96,main,Vanessa,0000,0000,0000,,I don't know much about this power yet,
+Dialogue: 0,0:21:02.13,0:21:04.67,main,Vanessa,0000,0000,0000,,but there is one thing I do know.
+Dialogue: 0,0:21:05.65,0:21:10.48,main,Vanessa,0000,0000,0000,,This magic only takes the side of myself \Nand those I have a family bond with.
+Dialogue: 0,0:21:11.54,0:21:14.90,main,Vanessa,0000,0000,0000,,You and I have no bond.
+Dialogue: 0,0:22:47.07,0:22:51.57,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:48.03,0:22:50.74,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:51.07,0:22:55.03,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Vanessa Saw...!
+Dialogue: 0,0:22:51.86,0:22:53.84,main,Queen,0000,0000,0000,,Vanessa Saw...!
+Dialogue: 0,0:22:55.03,0:22:59.00,main,Queen,0000,0000,0000,,Oh, my lovely princess, please marry me.
+Dialogue: 0,0:22:59.00,0:23:00.95,main,Queen,0000,0000,0000,,Oh, my prince! I'm so happy!
+Dialogue: 0,0:23:00.95,0:23:02.58,main,Queen,0000,0000,0000,,Do you really choose me?
+Dialogue: 0,0:23:02.58,0:23:08.05,main,Queen,0000,0000,0000,,Yes, it has to be you. You're almost \Nas beautiful as the Queen of Witches!
+Dialogue: 0,0:23:08.05,0:23:10.31,main,Queen,0000,0000,0000,,Oh, I could never compare to her!
+Dialogue: 0,0:23:10.31,0:23:17.54,main,Queen,0000,0000,0000,,The Queen of Witches is {\i1}so{\i0} beautiful, \Nkind, and beloved by all!
+Dialogue: 0,0:23:17.54,0:23:18.96,main,Queen,0000,0000,0000,,No, you truly are.
+Dialogue: 0,0:23:18.96,0:23:22.84,main,Queen,0000,0000,0000,,You're so elegant, kind, and proud, \Njust like the great Queen of Witches.
+Dialogue: 0,0:23:22.84,0:23:24.71,main,Queen,0000,0000,0000,,Oh, I'm so happy, my prince!
+Dialogue: 0,0:23:24.71,0:23:26.06,main,Queen,0000,0000,0000,,Oh, my princess.
+Dialogue: 0,0:23:35.51,0:23:38.96,main,Yami,0000,0000,0000,,Man, it's so quiet around here \Nwithout those knuckleheads around.
+Dialogue: 0,0:23:38.96,0:23:41.78,main,Yami,0000,0000,0000,,That means I can take a dump in peace.
+Dialogue: 0,0:23:41.78,0:23:45.19,main,Yami,0000,0000,0000,,But it's a little too quiet. \NThey'd better get back soon.
+Dialogue: 0,0:23:45.19,0:23:48.09,main,Yami,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 65: "I'm Home."
+Dialogue: 0,0:23:46.21,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 65\N\N{\fs18} I'm Home
+Dialogue: 0,0:23:48.09,0:23:49.96,main,Yami,0000,0000,0000,,Yeah, welcome back.

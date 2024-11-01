@@ -1,0 +1,290 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H000400D6,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0040,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.39,0:00:07.78,italics,Nar,0000,0000,0000,,And in the clover's fifth leaf resides...
+Dialogue: 0,0:00:07.78,0:00:09.22,italics,Nar,0000,0000,0000,,a devil.
+Dialogue: 0,0:00:10.02,0:00:12.39,italics,Nar,0000,0000,0000,,What Asta, who was born without magic,
+Dialogue: 0,0:00:12.39,0:00:14.71,italics,Nar,0000,0000,0000,,gained from the five-leaf grimoire was
+Dialogue: 0,0:00:14.71,0:00:18.71,italics,Nar,0000,0000,0000,,the power of anti-magic, \Nwhich nullifies any magic.
+Dialogue: 0,0:00:19.94,0:00:23.88,italics,Nar,0000,0000,0000,,Meanwhile, the Dark Triad \Nof the Spade Kingdom
+Dialogue: 0,0:00:23.88,0:00:26.75,italics,Nar,0000,0000,0000,,also possessed the powers of \Nthe devils from the underworld,
+Dialogue: 0,0:00:26.75,0:00:29.70,italics,Nar,0000,0000,0000,,and began invading the other kingdoms.
+Dialogue: 0,0:00:30.67,0:00:33.76,italics,Nar,0000,0000,0000,,Asta continued to fight \Nwhile believing in himself,
+Dialogue: 0,0:00:34.39,0:00:38.39,italics,Nar,0000,0000,0000,,along with his friends... \Nto protect this world!
+Dialogue: 0,0:00:46.52,0:00:49.69,main,Svenkin,0000,0000,0000,,Just being fast won't be enough to defeat me.
+Dialogue: 0,0:00:51.03,0:00:53.99,italics,Svenkin,0000,0000,0000,,Skin Magic: Skin Fort!
+Dialogue: 0,0:00:53.99,0:00:56.45,main,Luck,0000,0000,0000,,True Lightning Magic: Ceranos!
+Dialogue: 0,0:00:58.07,0:01:02.66,italics,Nar,0000,0000,0000,,One of the Dark Disciples, Svenkin, \Nwho attacked the Heart Kingdom with Vanica,
+Dialogue: 0,0:01:02.66,0:01:05.02,italics,Nar,0000,0000,0000,,was defeated by Luck after a fierce battle.
+Dialogue: 0,0:01:07.47,0:01:12.55,italics,Nar,0000,0000,0000,,Meanwhile, the Black Bulls' hideout \Nwas under attack by Dante.
+Dialogue: 0,0:01:13.13,0:01:15.42,main,Asta,0000,0000,0000,,Stop!
+Dialogue: 0,0:01:16.18,0:01:17.55,main,Grey and Vanessa,0000,0000,0000,,Gauche!
+Dialogue: 0,0:01:18.41,0:01:22.70,italics,Nar,0000,0000,0000,,Grey was able to save Gauche, who was \Nmortally injured, with unknown magic.
+Dialogue: 0,0:01:22.70,0:01:23.74,main,Vanessa,0000,0000,0000,,Grey?!
+Dialogue: 0,0:01:25.48,0:01:27.86,italics,Vanessa,0000,0000,0000,,She sealed his wound?
+Dialogue: 0,0:01:27.86,0:01:30.51,italics,Vanessa,0000,0000,0000,,She can do that with \Nher transformation magic?
+Dialogue: 0,0:01:33.05,0:01:34.92,italics,Vanessa,0000,0000,0000,,What is this magic?
+Dialogue: 0,0:01:39.23,0:01:43.54,italics,Nar,0000,0000,0000,,Asta was enraged after seeing his friends \Nget hurt, and his devil powers went berserk.
+Dialogue: 0,0:01:43.54,0:01:46.29,italics,Nar,0000,0000,0000,,But his attacks still didn't work on Dante.
+Dialogue: 0,0:01:50.96,0:01:52.55,main,Dante,0000,0000,0000,,Magnificent!
+Dialogue: 0,0:01:52.55,0:01:55.03,main,Dante,0000,0000,0000,,To think there was another arcane stage.
+Dialogue: 0,0:01:55.61,0:01:59.72,italics,Nar,0000,0000,0000,,Dante tried to take Vanessa and Grey, \Nwho were both also arcane stage mages.
+Dialogue: 0,0:01:59.81,0:02:02.42,italics,Nar,0000,0000,0000,,But then Yami arrived.
+Dialogue: 0,0:02:03.13,0:02:03.98,main,Yami,0000,0000,0000,,Hey!
+Dialogue: 0,0:02:06.38,0:02:09.68,main,Yami,0000,0000,0000,,Keep your filthy mitts off my squad.
+Dialogue: 0,0:02:10.97,0:02:14.53,italics,Nar,0000,0000,0000,,But Yami was the one Dante was truly after!
+Dialogue: 0,0:02:14.83,0:02:18.94,italics,Nar,0000,0000,0000,,He believes the key to connect this \Nworld with the underworld is Yami.
+Dialogue: 0,0:02:19.85,0:02:23.36,main,Yami,0000,0000,0000,,Arcane stage? Serve your ends? \NThe hell are you talking about?
+Dialogue: 0,0:02:23.84,0:02:27.54,main,Yami,0000,0000,0000,,I only brought them in because I liked them.
+Dialogue: 0,0:02:27.77,0:02:29.95,main,Yami,0000,0000,0000,,Mana Zone: Condense...
+Dialogue: 0,0:02:44.21,0:02:46.52,italics,Yami,0000,0000,0000,,Dark Cloaked Iai Slash.
+Dialogue: 0,0:02:47.01,0:02:49.52,main,Yami,0000,0000,0000,,Ain't no way in hell I'm gonna let
+Dialogue: 0,0:02:49.77,0:02:51.77,main,Yami,0000,0000,0000,,a creep like you have any of them.
+Dialogue: 0,0:04:15.96,0:04:19.23,Ep Title,Sign,0000,0000,0000,,{\t(1,1134,\c&H0900AD&)}Battlefield: Heart Kingdom
+Dialogue: 0,0:04:34.66,0:04:36.13,main,Devil,0000,0000,0000,,Kill...
+Dialogue: 0,0:04:36.97,0:04:41.52,main,Devil,0000,0000,0000,,Kill... I'll kill them! They will pay...
+Dialogue: 0,0:04:41.52,0:04:43.89,main,Devil,0000,0000,0000,,Kill... Kill...
+Dialogue: 0,0:04:43.89,0:04:46.26,main,Asta,0000,0000,0000,,What...
+Dialogue: 0,0:04:46.90,0:04:49.26,main,Devil,0000,0000,0000,,Kill...
+Dialogue: 0,0:04:57.99,0:05:00.52,italics,Asta,0000,0000,0000,,What the heck happened?
+Dialogue: 0,0:05:01.35,0:05:03.86,italics,Asta,0000,0000,0000,,My body won't move.
+Dialogue: 0,0:05:04.79,0:05:07.03,italics,Asta,0000,0000,0000,,Wait! Gauche!
+Dialogue: 0,0:05:09.53,0:05:11.79,italics,Asta,0000,0000,0000,,I can sense Gauche's ki.
+Dialogue: 0,0:05:12.20,0:05:14.65,italics,Asta,0000,0000,0000,,He's alive! Thank goodness!
+Dialogue: 0,0:05:16.00,0:05:17.79,italics,Asta,0000,0000,0000,,That Spade bastard...
+Dialogue: 0,0:05:24.48,0:05:28.80,main,Yami,0000,0000,0000,,While using Mana Zone with\Ncondensed mana, my iai blade...
+Dialogue: 0,0:05:31.99,0:05:33.97,main,Yami,0000,0000,0000,,will never miss.
+Dialogue: 0,0:05:44.33,0:05:48.94,main,Dante,0000,0000,0000,,I never imagined anyone would \Nmake me use this magic.
+Dialogue: 0,0:05:56.48,0:05:58.84,main,Yami,0000,0000,0000,,What the hell is that magic?
+Dialogue: 0,0:06:00.07,0:06:04.30,main,Vanessa,0000,0000,0000,,This power is completely different \Nfrom the magic he was using earlier!
+Dialogue: 0,0:06:04.89,0:06:06.30,main,Vanessa,0000,0000,0000,,What's going on?
+Dialogue: 0,0:06:06.78,0:06:11.97,main,Dante,0000,0000,0000,,Envy, rage, hatred... I can't get enough.
+Dialogue: 0,0:06:11.97,0:06:14.90,main,Dante,0000,0000,0000,,Splendid, Yami Sukehiro!
+Dialogue: 0,0:06:18.10,0:06:22.02,main,Dante,0000,0000,0000,,I was bored... of absolutely everything.
+Dialogue: 0,0:06:27.02,0:06:29.58,main,Dante,0000,0000,0000,,There wasn't a single thing...
+Dialogue: 0,0:06:37.30,0:06:40.33,main,Dante,0000,0000,0000,,the could satisfy my malice.
+Dialogue: 0,0:06:43.64,0:06:47.53,main,Dante,0000,0000,0000,,It's just starting. We've only \Njust begun, Yami Sukehiro.
+Dialogue: 0,0:06:47.53,0:06:51.59,main,Dante,0000,0000,0000,,You will open up an even \Nmore wonderful world.
+Dialogue: 0,0:06:51.59,0:06:54.13,main,Yami,0000,0000,0000,,Yeah, just stop. You're creepy as hell,
+Dialogue: 0,0:06:54.13,0:06:56.12,main,Yami,0000,0000,0000,,Mr. Psycho Hipster Goatee.
+Dialogue: 0,0:06:56.62,0:06:59.86,main,Yami,0000,0000,0000,,You said something about me \Nbeing the key to the underworld,
+Dialogue: 0,0:06:59.86,0:07:01.76,main,Yami,0000,0000,0000,,but I dunno what you're talking about.
+Dialogue: 0,0:07:01.76,0:07:04.36,main,Yami,0000,0000,0000,,I don't have any mysterious powers like that.
+Dialogue: 0,0:07:06.28,0:07:09.70,main,Dante,0000,0000,0000,,The thing that connects this \Nworld with the underworld is...
+Dialogue: 0,0:07:10.99,0:07:14.52,main,Dante,0000,0000,0000,,a magic channel called the Tree of Qliphoth.
+Dialogue: 0,0:07:15.66,0:07:19.20,main,Dante,0000,0000,0000,,And to create that Tree of Qliphoth,
+Dialogue: 0,0:07:19.20,0:07:23.09,main,Dante,0000,0000,0000,,we need dark magic and world \Ntree magic at the arcane stage.
+Dialogue: 0,0:07:23.09,0:07:23.94,main,Dante,0000,0000,0000,,Yes...
+Dialogue: 0,0:07:24.71,0:07:27.47,main,Dante,0000,0000,0000,,That means you, Yami Sukehiro,
+Dialogue: 0,0:07:27.47,0:07:29.97,main,Dante,0000,0000,0000,,and William Vangeance.
+Dialogue: 0,0:07:29.97,0:07:33.26,italics,Yami,0000,0000,0000,,This guy knows about William, too.
+Dialogue: 0,0:07:33.26,0:07:36.72,main,Yami,0000,0000,0000,,And what happens once this world \Nconnects with the underworld?
+Dialogue: 0,0:07:36.72,0:07:40.52,main,Dante,0000,0000,0000,,Devils will pour into this world.
+Dialogue: 0,0:07:41.81,0:07:44.12,main,Dante,0000,0000,0000,,Once this world is filled with devils...
+Dialogue: 0,0:07:46.10,0:07:49.80,main,Dante,0000,0000,0000,,It will be overcome with \Nevery possible malice.
+Dialogue: 0,0:07:58.81,0:08:01.29,main,Dante,0000,0000,0000,,Oh, what a delight.
+Dialogue: 0,0:08:01.29,0:08:03.33,main,Dante,0000,0000,0000,,Wouldn't you agree, Yami Sukehiro?
+Dialogue: 0,0:08:05.56,0:08:06.84,main,Yami,0000,0000,0000,,Yeah...
+Dialogue: 0,0:08:07.77,0:08:11.84,main,Yami,0000,0000,0000,,Guess I'm gonna have to \Ntake you out here and now!
+Dialogue: 0,0:08:14.62,0:08:18.45,main,Charmy,0000,0000,0000,,If anyone dares to harm this \Nkingdom's nature or food,
+Dialogue: 0,0:08:18.45,0:08:20.35,main,Charmy,0000,0000,0000,,I, Charmy, will never let that stand!
+Dialogue: 0,0:08:33.81,0:08:35.75,main,Halbet,0000,0000,0000,,O flames...
+Dialogue: 0,0:08:35.75,0:08:39.24,main,Halbet,0000,0000,0000,,Shine beautifully upon me and my hair.
+Dialogue: 0,0:08:39.24,0:08:42.27,main,Villager A,0000,0000,0000,,Oh, no... The Polnfrume Forest...
+Dialogue: 0,0:08:42.27,0:08:43.25,main,Villager B,0000,0000,0000,,We're finished!
+Dialogue: 0,0:08:45.89,0:08:47.79,main,Villager C,0000,0000,0000,,The Spirit Guardian's been defeated.
+Dialogue: 0,0:08:47.79,0:08:50.50,main,Villager D,0000,0000,0000,,Sir Potrof shielded us...
+Dialogue: 0,0:08:50.92,0:08:53.26,main,Halbet,0000,0000,0000,,You're truly blessed.
+Dialogue: 0,0:08:53.78,0:08:55.65,top,Halbet,0000,0000,0000,,You get to engrave
+Dialogue: 0,0:08:53.78,0:08:59.78,sign_8772_80_Father_Nathan,Sign,0000,0000,0000,,{\fad(1004,1034)\blur3}Dark Disciple\N{\fs30}Halbet Chevour
+Dialogue: 0,0:08:55.65,0:09:01.16,top,Halbet,0000,0000,0000,,the beauty of the Dark Disciple \NHalbet Chevour into your eyes before you die.
+Dialogue: 0,0:09:01.68,0:09:03.81,main,Charmy,0000,0000,0000,,What do you think you're doing?
+Dialogue: 0,0:09:05.77,0:09:06.86,main,Halbet,0000,0000,0000,,Oh?
+Dialogue: 0,0:09:08.76,0:09:11.36,main,Halbet,0000,0000,0000,,It seems an unsightly fatty has arrived.
+Dialogue: 0,0:09:12.01,0:09:14.78,main,Halbet,0000,0000,0000,,Sir Potrof! Charmy is here!
+Dialogue: 0,0:09:15.59,0:09:17.17,main,Halbet,0000,0000,0000,,Charmy...
+Dialogue: 0,0:09:28.34,0:09:29.40,flashback,Child,0000,0000,0000,,Charmy!
+Dialogue: 0,0:09:29.40,0:09:32.82,flashback,Dad,0000,0000,0000,,Hey, Charmy. Did you sneak \Naway from training again?
+Dialogue: 0,0:09:32.82,0:09:34.55,flashback,Daughter,0000,0000,0000,,Want to take a break and have some food?
+Dialogue: 0,0:09:35.00,0:09:39.05,flashback,Potrof,0000,0000,0000,,You have an amazing talent!\NLet's do our best together!
+Dialogue: 0,0:09:42.40,0:09:44.56,main,Charmy,0000,0000,0000,,You won't get away with this.
+Dialogue: 0,0:09:57.79,0:09:59.48,main,Villager A,0000,0000,0000,,It's Charmy's sheep!
+Dialogue: 0,0:09:59.48,0:10:00.57,main,Villager B,0000,0000,0000,,Save us, Charmy!
+Dialogue: 0,0:10:01.55,0:10:04.08,main,Halbet,0000,0000,0000,,I guess your magic is as slow as you are.
+Dialogue: 0,0:10:13.42,0:10:16.07,main,Halbet,0000,0000,0000,,Oh, dear. Perhaps this is \Nwhat they call "affinity"...
+Dialogue: 0,0:10:16.07,0:10:19.43,main,Halbet,0000,0000,0000,,Our spells are going \Nright through each other.
+Dialogue: 0,0:10:21.49,0:10:23.89,main,Halbet,0000,0000,0000,,But there's one very decisive difference.
+Dialogue: 0,0:10:26.23,0:10:30.31,main,Halbet,0000,0000,0000,,My magic is able to protect me...
+Dialogue: 0,0:10:32.63,0:10:37.24,main,Halbet,0000,0000,0000,,But your magic cannot protect you.
+Dialogue: 0,0:10:40.92,0:10:45.49,main,Halbet,0000,0000,0000,,Not only is my hair absolutely \Nbeautiful thanks to the devil's powers,
+Dialogue: 0,0:10:45.49,0:10:48.26,main,Halbet,0000,0000,0000,,it's also the strongest!
+Dialogue: 0,0:10:50.09,0:10:51.25,main,Villagers,0000,0000,0000,,Charmy!
+Dialogue: 0,0:10:51.25,0:10:56.59,main,Halbet,0000,0000,0000,,You're so pleasantly plump, you'll have\N no chance of escaping my attacks.
+Dialogue: 0,0:10:56.59,0:10:58.65,main,Halbet,0000,0000,0000,,Consuming food is idiotic.
+Dialogue: 0,0:10:58.65,0:11:00.96,main,Halbet,0000,0000,0000,,All you need for beauty is nutrition.
+Dialogue: 0,0:11:00.96,0:11:06.01,main,Halbet,0000,0000,0000,,There's no way you can beat me with my \Nbeauty, strength, and proper nutrition.
+Dialogue: 0,0:11:06.41,0:11:09.10,main,Halbet,0000,0000,0000,,I'm done looking at an unsightly fatty.
+Dialogue: 0,0:11:14.97,0:11:18.04,main,Halbet,0000,0000,0000,,Let my beauty embrace you as you die!
+Dialogue: 0,0:11:21.53,0:11:22.28,main,Charmy,0000,0000,0000,,Hey.
+Dialogue: 0,0:11:23.53,0:11:26.03,main,Charmy,0000,0000,0000,,You need to shut your mouth. Didn't I tell you?
+Dialogue: 0,0:11:34.22,0:11:36.51,main,Charmy,0000,0000,0000,,You won't get away with this.
+Dialogue: 0,0:11:46.30,0:11:47.11,main,Charmy,0000,0000,0000,,Hey.
+Dialogue: 0,0:11:48.35,0:11:51.04,main,Charmy,0000,0000,0000,,You need to shut your mouth. Didn't I tell you?
+Dialogue: 0,0:11:58.72,0:12:01.00,main,Charmy,0000,0000,0000,,You won't get away with this.
+Dialogue: 0,0:12:08.78,0:12:10.02,main,Halbet,0000,0000,0000,,What?
+Dialogue: 0,0:12:11.09,0:12:13.12,main,Halbet,0000,0000,0000,,She doesn't even have devil powers.
+Dialogue: 0,0:12:13.73,0:12:15.54,main,Halbet,0000,0000,0000,,What in the world is this magic?
+Dialogue: 0,0:12:15.54,0:12:19.12,main,Charmy,0000,0000,0000,,Food Magic: Glutton's Banquet.
+Dialogue: 0,0:12:30.59,0:12:33.52,main,Wolf,0000,0000,0000,,Well, isn't she an agile one?
+Dialogue: 0,0:12:34.27,0:12:35.27,main,Charmy,0000,0000,0000,,In that case...
+Dialogue: 0,0:12:41.90,0:12:43.26,main,Charmy,0000,0000,0000,,I'll just have to cook her.
+Dialogue: 0,0:12:49.12,0:12:50.54,main,Halbet,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:12:52.64,0:12:55.36,main,Charmy,0000,0000,0000,,The Mana Method is my kitchen.
+Dialogue: 0,0:12:56.65,0:12:58.72,main,Charmy,0000,0000,0000,,And when I cook there...
+Dialogue: 0,0:13:02.80,0:13:08.03,main,Charmy,0000,0000,0000,,Any dish becomes delicious, so the \Nwolf won't be such a picky eater!
+Dialogue: 0,0:13:12.17,0:13:16.81,main,Potrof,0000,0000,0000,,It appears as though I created a monster.
+Dialogue: 0,0:13:19.69,0:13:22.66,main,Halbet,0000,0000,0000,,How dare you do this to \Nsomeone as beautiful as me?!
+Dialogue: 0,0:13:24.26,0:13:26.61,main,Wolf,0000,0000,0000,,Lookin' good.
+Dialogue: 0,0:13:27.10,0:13:32.39,main,Wolf,0000,0000,0000,,I'll just... help myself!
+Dialogue: 0,0:13:49.36,0:13:53.93,main,Charmy,0000,0000,0000,,La, la, la, la, la, la, la, la...
+Dialogue: 0,0:13:57.89,0:14:02.44,main,Charmy,0000,0000,0000,,True beauty and strength come \Nfrom a well-balanced diet!
+Dialogue: 0,0:14:02.73,0:14:04.41,main,Villager D,0000,0000,0000,,Thanks, Charmy!
+Dialogue: 0,0:14:04.41,0:14:06.20,main,Villager C,0000,0000,0000,,You gobbled her right up!
+Dialogue: 0,0:14:10.74,0:14:14.46,main,Townsperson A,0000,0000,0000,,The Fire Spirit Guardian, Sir Floga,\N has also been defeated.
+Dialogue: 0,0:14:14.46,0:14:16.96,main,Townsperson B,0000,0000,0000,,I can't believe he couldn't \Ndefeat them, either.
+Dialogue: 0,0:14:16.96,0:14:20.44,main,Townsperson A,0000,0000,0000,,What is with that attack, anyway?
+Dialogue: 0,0:14:20.44,0:14:22.46,main,Townsperson B,0000,0000,0000,,There's no way to dodge that!
+Dialogue: 0,0:14:22.46,0:14:26.46,main,Townsperson A,0000,0000,0000,,There's no way that Clover \NKingdom boy can win.
+Dialogue: 0,0:14:40.68,0:14:41.85,italics,Leopold,0000,0000,0000,,Where did they—
+Dialogue: 0,0:14:46.32,0:14:48.23,main,Sivoir,0000,0000,0000,,Well, he's tough.
+Dialogue: 0,0:14:48.23,0:14:51.43,main,Sivoir,0000,0000,0000,,My attack didn't even pierce his body.
+Dialogue: 0,0:14:51.43,0:14:56.75,main,Sivoir,0000,0000,0000,,But I wonder how long you'll hold up. \NYour mana just keeps draining away.
+Dialogue: 0,0:14:57.14,0:15:03.15,sign_8772_80_Father_Nathan,Sign,0000,0000,0000,,{\fad(1007,1041)\blur3}Dark Disciple\N{\fs30}Sivoir Snyle
+Dialogue: 0,0:14:57.14,0:15:04.00,top,Sivoir,0000,0000,0000,,You're just going to get punched to \Ndeath by me, the Dark Disciple Sivoir.
+Dialogue: 0,0:15:04.66,0:15:09.01,main,Sivoir,0000,0000,0000,,You cannot escape my \NEye Magic: Catoblepas's Evil Eye.
+Dialogue: 0,0:15:09.01,0:15:12.69,main,Sivoir,0000,0000,0000,,The countless eyes floating in the \Nair can not only see where you are,
+Dialogue: 0,0:15:12.69,0:15:15.51,main,Sivoir,0000,0000,0000,,but can identify your mana \Nand stamina, too.
+Dialogue: 0,0:15:15.51,0:15:21.02,main,Sivoir,0000,0000,0000,,I can even predict your next move from where \Nyou're looking and how your muscles move!
+Dialogue: 0,0:15:21.02,0:15:23.57,main,Sivoir,0000,0000,0000,,When I use those eyes to lock on to you
+Dialogue: 0,0:15:23.57,0:15:26.52,main,Sivoir,0000,0000,0000,,and shoot my magic shells made \Nfrom my condensed mana...
+Dialogue: 0,0:15:28.40,0:15:31.03,main,Sivoir,0000,0000,0000,,They'll never miss!
+Dialogue: 0,0:15:33.33,0:15:34.44,main,Leopold,0000,0000,0000,,Damn it...
+Dialogue: 0,0:15:37.84,0:15:39.36,main,Leopold,0000,0000,0000,,Floga...
+Dialogue: 0,0:15:41.93,0:15:45.27,flashback,Floga,0000,0000,0000,,Why not concentrate on your strengths?
+Dialogue: 0,0:15:45.95,0:15:48.38,flashback,Leopold,0000,0000,0000,,My... strengths?
+Dialogue: 0,0:15:48.94,0:15:51.68,flashback,Floga,0000,0000,0000,,You have the strength to endure.
+Dialogue: 0,0:15:51.68,0:15:53.90,flashback,Floga,0000,0000,0000,,You're you, remember, Leo?
+Dialogue: 0,0:15:55.69,0:15:58.52,main,Leopold,0000,0000,0000,,Sharpen your senses!
+Dialogue: 0,0:16:02.65,0:16:03.77,main,Leopold,0000,0000,0000,,There you are!
+Dialogue: 0,0:16:04.08,0:16:07.65,main,Leopold,0000,0000,0000,,Flame Magic: Profound Spiral Flames!
+Dialogue: 0,0:16:14.50,0:16:18.27,main,Sivoir,0000,0000,0000,,You dumbass. I can easily dodge that attack.
+Dialogue: 0,0:16:18.27,0:16:22.16,main,Sivoir,0000,0000,0000,,You may be using the Heart Kingdom's arrays \Nor whatever, but there's still no point.
+Dialogue: 0,0:16:24.92,0:16:29.09,italics,Leopold,0000,0000,0000,,His attack this time took \Nlonger than the others.
+Dialogue: 0,0:16:29.09,0:16:31.42,italics,Leopold,0000,0000,0000,,That's because he dodged my attack.
+Dialogue: 0,0:16:33.96,0:16:36.83,main,Sivoir,0000,0000,0000,,You can move closer all you want.
+Dialogue: 0,0:16:36.83,0:16:39.18,main,Sivoir,0000,0000,0000,,I'll just have to go farther away.
+Dialogue: 0,0:16:42.43,0:16:44.53,italics,Leopold,0000,0000,0000,,The enemy is moving, but just as I thought,
+Dialogue: 0,0:16:44.53,0:16:46.63,italics,Leopold,0000,0000,0000,,the distance between us hasn't changed.
+Dialogue: 0,0:16:46.63,0:16:48.99,italics,Leopold,0000,0000,0000,,He's keeping as much distance \Nfrom me as possible
+Dialogue: 0,0:16:48.99,0:16:50.69,italics,Leopold,0000,0000,0000,,while staying in his attack range.
+Dialogue: 0,0:16:50.96,0:16:56.20,main,Sivoir,0000,0000,0000,,I've never been injured or \Nexperienced pain during a battle.
+Dialogue: 0,0:16:56.59,0:17:02.20,main,Sivoir,0000,0000,0000,,There's no way an attack from a \Nsimpleton like you will ever hit me.
+Dialogue: 0,0:17:04.63,0:17:05.83,main,Leopold,0000,0000,0000,,Endure...
+Dialogue: 0,0:17:05.83,0:17:08.96,main,Leopld,0000,0000,0000,,I'm not going down until I defeat him!
+Dialogue: 0,0:17:08.96,0:17:12.96,main,Sivoir,0000,0000,0000,,Just die already. Man, you don't\N know when to give up.
+Dialogue: 0,0:17:21.06,0:17:25.98,italics,Leopold,0000,0000,0000,,It's true. I may not have as much \Ntalent as my brother and sister.
+Dialogue: 0,0:17:26.35,0:17:32.48,italics,Leopold,0000,0000,0000,,But with those two in front of me, \NI've endured and let my inner flames blaze!
+Dialogue: 0,0:17:32.75,0:17:36.49,main,Sivoir,0000,0000,0000,,There's no way you're gonna win \Nif you're just enduring, dumbass.
+Dialogue: 0,0:17:36.98,0:17:38.41,main,Sivoir,0000,0000,0000,,Let's end this.
+Dialogue: 0,0:17:40.72,0:17:41.72,main,,0000,0000,0000,,What?
+Dialogue: 0,0:17:48.31,0:17:49.32,main,Sivoir,0000,0000,0000,,This is...
+Dialogue: 0,0:17:56.29,0:17:59.74,main,Sivoir,0000,0000,0000,,What is this giant array?
+Dialogue: 0,0:18:01.05,0:18:02.96,main,Sivoir,0000,0000,0000,,When did he...
+Dialogue: 0,0:18:03.77,0:18:07.72,main,leo,0000,0000,0000,,I endured and took my time making it.
+Dialogue: 0,0:18:08.71,0:18:12.76,main,Leo,0000,0000,0000,,All while you couldn't \Nkeep your eyes off of me.
+Dialogue: 0,0:18:13.82,0:18:16.50,italics,Sinoir,0000,0000,0000,,I have to get out of this array!
+Dialogue: 0,0:18:18.49,0:18:20.35,main,Leo,0000,0000,0000,,True Flame Magic:
+Dialogue: 0,0:18:22.03,0:18:24.80,main,Leo,0000,0000,0000,,Crimson Eruption!
+Dialogue: 0,0:18:28.49,0:18:30.04,main,Townsperson C,0000,0000,0000,,Wow...
+Dialogue: 0,0:18:30.49,0:18:33.64,main,Townsperson D,0000,0000,0000,,I've never seen an array so big.
+Dialogue: 0,0:18:36.86,0:18:41.30,main,Sivoir,0000,0000,0000,,It's hot, hot, hot! I don't like pain!
+Dialogue: 0,0:18:42.01,0:18:47.31,main,Sivoir,0000,0000,0000,,I've never even gotten scratched before!\N How dare you?! How dare you?!
+Dialogue: 0,0:18:47.68,0:18:52.32,main,Leopold,0000,0000,0000,,Thanks to all your yowling, \NI know exactly where you are now!
+Dialogue: 0,0:18:54.72,0:18:58.82,main,Leopold,0000,0000,0000,,How dare you say that after all \Nthe innocent people you hurt?!
+Dialogue: 0,0:18:58.82,0:19:00.41,main,Sivoir,0000,0000,0000,,S-Stop...
+Dialogue: 0,0:19:00.79,0:19:03.87,main,Leopold,0000,0000,0000,,If you aren't prepared to get hurt,
+Dialogue: 0,0:19:04.66,0:19:09.66,main,Leopold,0000,0000,0000,,stay off the battlefield!
+Dialogue: 0,0:19:19.14,0:19:22.68,main,Gaja,0000,0000,0000,,You won't have your way, Dark Disciple!
+Dialogue: 0,0:19:22.68,0:19:23.86,main,Townsperson E,0000,0000,0000,,Wow!
+Dialogue: 0,0:19:23.86,0:19:25.68,main,Townsperson F,0000,0000,0000,,You're amazing, Sir Gaja!
+Dialogue: 0,0:19:26.59,0:19:29.61,main,Sarad,0000,0000,0000,,I hate to admit it, but you're \Ndefinitely on another level,
+Dialogue: 0,0:19:29.61,0:19:31.82,main,Sarad,0000,0000,0000,,even among the Spirit Guardians, Gaja.
+Dialogue: 0,0:19:32.19,0:19:34.17,italics,Gaja,0000,0000,0000,,I somehow made it in time.
+Dialogue: 0,0:19:34.97,0:19:39.05,italics,Gaja,0000,0000,0000,,I need to get everyone to safety and \Nreturn to Queen Loropechika immediately.
+Dialogue: 0,0:19:41.25,0:19:44.03,main,Loropechika,0000,0000,0000,,They've defeated all of the Dark Disciples.
+Dialogue: 0,0:19:44.03,0:19:45.95,main,Mimosa,0000,0000,0000,,Excellent work, everyone.
+Dialogue: 0,0:19:45.95,0:19:48.20,main,Noelle,0000,0000,0000,,Hmph. That's the least they could do.
+Dialogue: 0,0:19:48.59,0:19:51.71,main,Noelle,0000,0000,0000,,Thank goodness! Great job, everyone!
+Dialogue: 0,0:19:52.09,0:19:56.46,main,Loropechika,0000,0000,0000,,My water can't reach where the \Nenemies were, so I'm grateful.
+Dialogue: 0,0:19:57.45,0:19:59.75,italics,Loropehicka,0000,0000,0000,,It doesn't matter how powerful \Ntheir opponents are.
+Dialogue: 0,0:20:00.68,0:20:03.22,italics,Loropechika,0000,0000,0000,,The Magic Knights of the Clover Kingdom
+Dialogue: 0,0:20:03.53,0:20:05.80,italics,Loropechika,0000,0000,0000,,evolve when they're in battle.
+Dialogue: 0,0:20:14.00,0:20:19.09,main,Robero,0000,0000,0000,,I sense the mana of some luscious girls!
+Dialogue: 0,0:20:19.09,0:20:20.49,main,Loropechika,0000,0000,0000,,We knew you would show up.
+Dialogue: 0,0:20:20.49,0:20:22.44,main,Mimosa,0000,0000,0000,,So we were ready for you!
+Dialogue: 0,0:20:29.27,0:20:32.20,main,Mimosa,0000,0000,0000,,Plant Magic: Magic Cannon Flower!
+Dialogue: 0,0:20:33.07,0:20:35.41,main,Mimosa,0000,0000,0000,,You're disgusting!
+Dialogue: 0,0:20:36.50,0:20:39.17,main,Loropechika,0000,0000,0000,,That was a splendid attack, Mimosa!
+Dialogue: 0,0:20:39.17,0:20:42.17,main,Mimosa,0000,0000,0000,,It's all thanks to the mana you sent me.
+Dialogue: 0,0:20:49.57,0:20:50.93,main,Vanica,0000,0000,0000,,Yoo-hoo!
+Dialogue: 0,0:20:52.61,0:20:55.69,italics,Noelle,0000,0000,0000,,Such ominous mana...
+Dialogue: 0,0:20:55.69,0:21:00.02,main,Vanica,0000,0000,0000,,It's just been so long since I've \Nseen you, so I came to play!
+Dialogue: 0,0:21:04.02,0:21:07.58,main,Vanica,0000,0000,0000,,My widdle Loropechika!
+Dialogue: 0,0:22:39.00,0:22:43.50,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:40.10,0:22:42.88,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:43.00,0:22:47.01,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}The Strength to Endure
+Dialogue: 0,0:22:43.92,0:22:46.13,main,Leo,0000,0000,0000,,The Strength to Endure.
+Dialogue: 0,0:22:50.34,0:22:53.89,main,Asta,0000,0000,0000,,Are you almost at the end \Nof your rope, Miz Charmy?
+Dialogue: 0,0:22:53.89,0:22:57.10,main,Charmy,0000,0000,0000,,I'm still totally fine, la.
+Dialogue: 0,0:22:57.10,0:23:00.15,main,Asta,0000,0000,0000,,You don't need to push yourself, either, Leo.
+Dialogue: 0,0:23:00.15,0:23:03.20,main,Leo,0000,0000,0000,,Nay! Floga has shown me \Nthe strength to endure,
+Dialogue: 0,0:23:03.20,0:23:06.78,main,Leo,0000,0000,0000,,and I shall use it to defeat you, my rival.
+Dialogue: 0,0:23:09.78,0:23:11.41,main,Asta,0000,0000,0000,,It's hot!
+Dialogue: 0,0:23:11.41,0:23:12.57,main,Leo,0000,0000,0000,,W-Water!
+Dialogue: 0,0:23:19.08,0:23:22.87,main,Asta,0000,0000,0000,,Y-You can hop out anytime, Miz Charmy!
+Dialogue: 0,0:23:22.87,0:23:27.48,main,Charmy,0000,0000,0000,,A-A-Asta, you're turning blue.
+Dialogue: 0,0:23:27.48,0:23:30.55,main,Asta,0000,0000,0000,,Leo, you don't do well with the cold, do you?
+Dialogue: 0,0:23:30.55,0:23:33.04,main,Leo,0000,0000,0000,,The strength... to endure!
+Dialogue: 0,0:23:33.04,0:23:34.72,main,Potrof,0000,0000,0000,,My, but they're lively.
+Dialogue: 0,0:23:40.01,0:23:42.86,main,Loropechika,0000,0000,0000,,Vanica, I will not let you \Nhave your way any longer.
+Dialogue: 0,0:23:42.86,0:23:46.14,main,Lolropechika,0000,0000,0000,,I now have friends I can depend on!
+Dialogue: 0,0:23:46.77,0:23:50.95,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, \NPage 165: "Water Crusade."
+Dialogue: 0,0:23:47.90,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 165\N\N{\fs18} Water Crusade
+Dialogue: 0,0:23:50.95,0:23:53.47,main,Loropechika,0000,0000,0000,,Today is the day we end this!

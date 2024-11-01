@@ -1,0 +1,388 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00E678C2,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.23,0:00:06.95,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:06.95,0:00:08.66,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:08.66,0:00:10.74,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:10.74,0:00:12.00,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:12.00,0:00:16.62,italics,Nar,0000,0000,0000,,He puts in blood, sweat, and tears \Nin hopes of becoming the Wizard King.
+Dialogue: 0,0:00:17.11,0:00:22.60,italics,Nar,0000,0000,0000,,But there are also those in the kingdom \Nwho possess at least a little bit of mana,
+Dialogue: 0,0:00:22.60,0:00:26.73,italics,Nar,0000,0000,0000,,yet can barely use any magic at all.
+Dialogue: 0,0:00:27.83,0:00:32.38,italics,Nar,0000,0000,0000,,The very few out of the population, \Nthose who live in the shadows...
+Dialogue: 0,0:00:36.77,0:00:40.78,italics,Nar,0000,0000,0000,,They are also trying to survive.
+Dialogue: 0,0:00:44.95,0:00:47.99,italics,Nar,0000,0000,0000,,The group led by Dazu Tayak and Bow Nocde
+Dialogue: 0,0:00:47.99,0:00:52.49,italics,Nar,0000,0000,0000,,were not actually those who wished for \Nthe devil's demise, the Devil Banishers,
+Dialogue: 0,0:00:52.49,0:00:55.95,italics,Nar,0000,0000,0000,,but those who worshiped \Nthe devil, the Devil Believers.
+Dialogue: 0,0:00:56.86,0:00:59.12,italics,Nar,0000,0000,0000,,After revealing themselves, \Nthe Devil Believers
+Dialogue: 0,0:00:59.12,0:01:02.87,italics,Nar,0000,0000,0000,,murdered Kabwe and the others from the\N Magic Parliament that they were manipulating,
+Dialogue: 0,0:01:02.87,0:01:06.02,italics,Nar,0000,0000,0000,,then disappeared, taking Asta's \Ngrimoire and Nero with them.
+Dialogue: 0,0:01:06.67,0:01:09.97,main,Yami,0000,0000,0000,,So basically, they want to \Nhand Nero off as a gift.
+Dialogue: 0,0:01:10.56,0:01:13.42,main,Yami,0000,0000,0000,,Oh, yeah. They have the kid's grimoire, too.
+Dialogue: 0,0:01:13.90,0:01:19.01,italics,Julius,0000,0000,0000,,And then they want to join the Spade Kingdom...\Nor rather, join with the devil.
+Dialogue: 0,0:01:19.31,0:01:21.26,main,Julius,0000,0000,0000,,Yami, I'm counting on you.
+Dialogue: 0,0:01:22.08,0:01:26.60,italics,Nar,0000,0000,0000,,Asta and the other Black Bulls began \Ntheir pursuit of the Devil Believers.
+Dialogue: 0,0:01:26.99,0:01:29.48,main,Magna,0000,0000,0000,,It's gonna be difficult to catch \Nup to them if they managed to
+Dialogue: 0,0:01:29.72,0:01:32.09,main,Magna,0000,0000,0000,,get through Breed Mountain in this weather.
+Dialogue: 0,0:01:33.57,0:01:35.56,main,Noelle,0000,0000,0000,,Hey, what's that?
+Dialogue: 0,0:01:36.76,0:01:39.87,italics,Nar,0000,0000,0000,,And they were finally able \Nto catch up to them, but...
+Dialogue: 0,0:01:40.10,0:01:43.16,main,Asta,0000,0000,0000,,H-How are there so many of them?!
+Dialogue: 0,0:03:18.73,0:03:23.26,Ep Title,Sign,0000,0000,0000,,{\fs22\move(320,95,320,90)\t(1,4650,\fs24)\fad(1000,1)}Prepared to Die
+Dialogue: 0,0:03:38.95,0:03:39.99,flashback,Bow,0000,0000,0000,,Isn't it beautiful?
+Dialogue: 0,0:03:41.37,0:03:42.17,flashback,Dazu,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:42.17,0:03:43.20,flashback,Bow,0000,0000,0000,,The sunset.
+Dialogue: 0,0:03:43.89,0:03:47.83,flashback,Dazu,0000,0000,0000,,Yes... I didn't even notice it.
+Dialogue: 0,0:03:48.36,0:03:54.46,flashback,Bow,0000,0000,0000,,It sets instantly, but still manages to \Nshine so brilliantly for that moment.
+Dialogue: 0,0:03:55.15,0:03:57.50,flashback,Bow,0000,0000,0000,,Doesn't it make your heart feel at peace?
+Dialogue: 0,0:03:57.50,0:03:58.34,flashback,Dazu,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:58.96,0:04:01.53,flashback,Dazu,0000,0000,0000,,Um, you're Bow, aren't you?
+Dialogue: 0,0:04:01.53,0:04:04.59,flashback,Dazu,0000,0000,0000,,Bow Nocde, who lives in the forest \Non the outskirts of town.
+Dialogue: 0,0:04:04.59,0:04:06.08,flashback,Bow,0000,0000,0000,,You've heard of me?
+Dialogue: 0,0:04:06.08,0:04:09.10,flashback,Dazu,0000,0000,0000,,Um, my husband's mother mentioned you before.
+Dialogue: 0,0:04:09.45,0:04:12.39,flashback,Bow,0000,0000,0000,,Did she tell you to steer clear \Nof the weird lady there
+Dialogue: 0,0:04:12.39,0:04:14.10,flashback,Bow,0000,0000,0000,,who uses strange medicines?
+Dialogue: 0,0:04:14.36,0:04:16.19,flashback,Dazu,0000,0000,0000,,No, not at all.
+Dialogue: 0,0:04:17.11,0:04:19.67,flashback,Dazu,0000,0000,0000,,Are you going to use that \Nin one of your medicines?
+Dialogue: 0,0:04:19.67,0:04:20.61,flashback,Bow,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:20.61,0:04:22.87,flashback,Dazu,0000,0000,0000,,Wow, that's amazing.
+Dialogue: 0,0:04:22.87,0:04:24.11,flashback,Bow,0000,0000,0000,,Amazing?
+Dialogue: 0,0:04:24.38,0:04:27.91,flashback,Dazu,0000,0000,0000,,Well, most people in this kingdom \Ncan do everything with magic.
+Dialogue: 0,0:04:28.43,0:04:33.12,flashback,Dazu,0000,0000,0000,,Where did you learn how to \Nmake medicine like that?
+Dialogue: 0,0:04:33.43,0:04:34.81,flashback,Bow,0000,0000,0000,,Nowhere, really.
+Dialogue: 0,0:04:34.81,0:04:35.62,flashback,Dazu,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:36.11,0:04:38.80,flashback,Bow,0000,0000,0000,,I figured out the ingredients, mixed them,
+Dialogue: 0,0:04:38.80,0:04:41.32,flashback,Bow,0000,0000,0000,,failed many times, \Nand just kept trying again.
+Dialogue: 0,0:04:41.86,0:04:43.11,flashback,Dazu,0000,0000,0000,,All on your own?
+Dialogue: 0,0:04:43.11,0:04:49.25,flashback,Bow,0000,0000,0000,,This is about all I can do, \Nsince I can barely use any magic.
+Dialogue: 0,0:04:50.03,0:04:51.93,flashback,Bow,0000,0000,0000,,Well, if you'll excuse me.
+Dialogue: 0,0:04:51.93,0:04:54.38,flashback,Dazu,0000,0000,0000,,U-Um, I'm Dazu!
+Dialogue: 0,0:04:54.83,0:04:56.44,flashback,Dazu,0000,0000,0000,,Dazu Tayak!
+Dialogue: 0,0:04:56.94,0:05:01.44,flashback,Dazu,0000,0000,0000,,Um, do you mind if I visit you sometime?
+Dialogue: 0,0:05:02.21,0:05:04.96,flashback,Bow,0000,0000,0000,,Sure. I would love to see you, Dazu.
+Dialogue: 0,0:05:05.40,0:05:08.45,flashback,Bow,0000,0000,0000,,I'll brew some bitter medicine for you.
+Dialogue: 0,0:05:35.84,0:05:39.10,main,Dazu,0000,0000,0000,,Your bombs are always impressive.
+Dialogue: 0,0:05:39.46,0:05:41.49,main,Bow,0000,0000,0000,,Now we can move forward.
+Dialogue: 0,0:05:41.49,0:05:44.16,main,Bow,0000,0000,0000,,Let us hurry. It will be dark soon.
+Dialogue: 0,0:05:44.96,0:05:49.32,main,Bow,0000,0000,0000,,We need to get through Breed Mountain\N and past the border as fast as possible.
+Dialogue: 0,0:05:49.59,0:05:53.16,main,Mask D,0000,0000,0000,,Once we do, we'll be out of the \NClover Kingdom's jurisdiction.
+Dialogue: 0,0:05:53.16,0:05:57.08,main,Mask D,0000,0000,0000,,Then even the Magic Knights \Nwon't be able to capture us.
+Dialogue: 0,0:05:57.49,0:05:59.42,main,Mask F,0000,0000,0000,,And we'll go to the Spade Kingdom.
+Dialogue: 0,0:05:59.42,0:06:00.51,main,Nero,0000,0000,0000,,Impossible.
+Dialogue: 0,0:06:01.66,0:06:03.42,main,Nero,0000,0000,0000,,Even if you get past the border,
+Dialogue: 0,0:06:03.42,0:06:06.82,main,Nero,0000,0000,0000,,there's a strong magic region that \Nlies before the Spade Kingdom.
+Dialogue: 0,0:06:07.36,0:06:10.88,italics,Nar,0000,0000,0000,,The Spade Kingdom is a country \Nfilled with snow and mysteries.
+Dialogue: 0,0:06:10.88,0:06:16.30,italics,Nar,0000,0000,0000,,Between it and the Clover Kingdom is \Na neutral zone belonging to no nation,
+Dialogue: 0,0:06:16.30,0:06:18.89,italics,Nar,0000,0000,0000,,most of which is a strong magic region.
+Dialogue: 0,0:06:20.06,0:06:25.62,italics,Nar,0000,0000,0000,,Strong magic regions are designated areas \Nthat possess a powerful force field of mana,
+Dialogue: 0,0:06:25.62,0:06:29.41,italics,Nar,0000,0000,0000,,which causes various magical phenomena that \Nseem to prevent anyone from entering.
+Dialogue: 0,0:06:29.41,0:06:33.59,italics,Nar,0000,0000,0000,,Extreme natural conditions, swirling mana,\N and treacherous mountains...
+Dialogue: 0,0:06:35.09,0:06:39.76,main,Nero,0000,0000,0000,,Getting through a strong magic region \Nis perilous even for Magic Knights.
+Dialogue: 0,0:06:39.76,0:06:42.75,main,Nero,0000,0000,0000,,Meaning all of you who lack mana...
+Dialogue: 0,0:06:42.75,0:06:43.93,main,Dazu,0000,0000,0000,,Yes.
+Dialogue: 0,0:06:43.93,0:06:45.57,main,Bow,0000,0000,0000,,You are correct.
+Dialogue: 0,0:06:46.11,0:06:47.63,main,Nero,0000,0000,0000,,Do you plan to die?
+Dialogue: 0,0:06:47.63,0:06:51.21,main,Dazu,0000,0000,0000,,Die? Yes, we might die.
+Dialogue: 0,0:06:51.21,0:06:55.51,main,Dazu,0000,0000,0000,,But if we have any chance of getting there...
+Dialogue: 0,0:06:57.84,0:06:59.05,main,Dazu,0000,0000,0000,,Let's go.
+Dialogue: 0,0:06:59.05,0:07:00.02,main,Bow,0000,0000,0000,,Yes.
+Dialogue: 0,0:07:02.79,0:07:06.40,main,Magna,0000,0000,0000,,Mister Yami, can you hear me? \NIt's me, Magna! You there?!
+Dialogue: 0,0:07:07.06,0:07:10.53,main,Magna,0000,0000,0000,,We found the Devil Believers, \Nbut there are a whole lot of them!
+Dialogue: 0,0:07:10.53,0:07:12.41,main,Magna,0000,0000,0000,,We're awaiting your orders!
+Dialogue: 0,0:07:12.67,0:07:14.74,main,Magna,0000,0000,0000,,Mister Yami! Mister Yami!
+Dialogue: 0,0:07:14.74,0:07:17.93,main,Noelle,0000,0000,0000,,The mana in this area is pretty messy, too.
+Dialogue: 0,0:07:17.93,0:07:20.95,main,Noelle,0000,0000,0000,,The strong magic region \Nbeyond the border might be
+Dialogue: 0,0:07:20.95,0:07:22.71,main,Noelle,0000,0000,0000,,disrupting communication here, too.
+Dialogue: 0,0:07:24.03,0:07:27.35,main,Magna,0000,0000,0000,,Asta, Lady Noe, I'm gonna go \Nsomewhere I can get some reception
+Dialogue: 0,0:07:27.35,0:07:28.92,main,Magna,0000,0000,0000,,and ask Mister Yami for instructions.
+Dialogue: 0,0:07:29.35,0:07:31.31,main,Magna,0000,0000,0000,,You guys stand by here.
+Dialogue: 0,0:07:31.31,0:07:34.93,main,Magna,0000,0000,0000,,I'll be back with reinforcements soon.\N Don't move from here!
+Dialogue: 0,0:07:36.41,0:07:38.97,main,Magna,0000,0000,0000,,Let's haul ass, Crazy Cyclone!
+Dialogue: 0,0:07:40.52,0:07:42.46,main,Noelle,0000,0000,0000,,Uh, hey, wait! Jeez...
+Dialogue: 0,0:07:42.46,0:07:46.83,main,Noelle,0000,0000,0000,,Wait here? It's cold! \NWe'll get soaked and end up sick!
+Dialogue: 0,0:07:46.83,0:07:49.88,main,Noelle,0000,0000,0000,,Though you're probably too stupid \Nto ever get sick, Stupidsta.
+Dialogue: 0,0:08:00.00,0:08:01.73,main,Noelle,0000,0000,0000,,Hang on a second!
+Dialogue: 0,0:08:01.73,0:08:04.26,main,Noelle,0000,0000,0000,,He just told us to stay put!
+Dialogue: 0,0:08:05.19,0:08:06.82,main,Asta,0000,0000,0000,,Well, I'm worried about Nero!
+Dialogue: 0,0:08:06.82,0:08:09.69,main,Noelle,0000,0000,0000,,I want to save Nero as soon as possible, too.
+Dialogue: 0,0:08:09.69,0:08:11.09,main,Noelle,0000,0000,0000,,But how?
+Dialogue: 0,0:08:11.09,0:08:12.80,main,Noelle,0000,0000,0000,,Do we just try to scatter the enemy?
+Dialogue: 0,0:08:12.80,0:08:14.31,main,Asta,0000,0000,0000,,No!
+Dialogue: 0,0:08:14.31,0:08:15.78,main,Noelle,0000,0000,0000,,Then what?
+Dialogue: 0,0:08:16.93,0:08:18.39,main,Asta,0000,0000,0000,,I'm gonna go talk to them again.
+Dialogue: 0,0:08:18.73,0:08:20.89,main,Asta,0000,0000,0000,,We should be able to understand each other.
+Dialogue: 0,0:08:21.46,0:08:24.65,main,Noelle,0000,0000,0000,,If we could talk this over, \Nwe wouldn't be in this mess in the first—
+Dialogue: 0,0:08:26.80,0:08:27.77,main,Asta,0000,0000,0000,,Nero...
+Dialogue: 0,0:08:29.76,0:08:31.82,main,Noelle,0000,0000,0000,,Ugh, you're hopeless. You know that?
+Dialogue: 0,0:08:32.24,0:08:33.24,main,Noelle,0000,0000,0000,,Come on.
+Dialogue: 0,0:08:34.35,0:08:36.41,main,Noelle,0000,0000,0000,,I'll let you hold on.
+Dialogue: 0,0:08:36.41,0:08:38.08,main,Noelle,0000,0000,0000,,You'd better be grateful.
+Dialogue: 0,0:08:38.38,0:08:39.87,main,Asta,0000,0000,0000,,Thanks, Noelle!
+Dialogue: 0,0:08:39.87,0:08:42.75,main,Noelle,0000,0000,0000,,H-Hmph! You owe me one!
+Dialogue: 0,0:08:58.40,0:08:59.72,main,Man A,0000,0000,0000,,Hey, are you okay?
+Dialogue: 0,0:09:00.56,0:09:01.86,main,Man B,0000,0000,0000,,Yeah, I'm fine.
+Dialogue: 0,0:09:01.86,0:09:03.33,main,Man A,0000,0000,0000,,Here, grab on.
+Dialogue: 0,0:09:03.33,0:09:04.39,main,Man B,0000,0000,0000,,Thanks.
+Dialogue: 0,0:09:04.39,0:09:06.23,main,Woman A,0000,0000,0000,,I can't stop shaking.
+Dialogue: 0,0:09:06.23,0:09:09.75,main,Woman B,0000,0000,0000,,It's even colder now that \Nthe sun's going down.
+Dialogue: 0,0:09:09.75,0:09:11.55,main,Woman A,0000,0000,0000,,But let's do our best.
+Dialogue: 0,0:09:12.04,0:09:15.78,main,Woman B,0000,0000,0000,,Thinking back on everything I've \Nbeen through, this is nothing!
+Dialogue: 0,0:09:17.73,0:09:20.78,main,Dazu,0000,0000,0000,,Thinking back on everything I've \Nbeen through, this is nothing...
+Dialogue: 0,0:09:21.28,0:09:22.74,main,Bow,0000,0000,0000,,Exactly.
+Dialogue: 0,0:09:31.70,0:09:32.68,main,Bow,0000,0000,0000,,It's beautiful.
+Dialogue: 0,0:09:33.70,0:09:35.11,main,Dazu,0000,0000,0000,,It's just like back then.
+Dialogue: 0,0:09:47.10,0:09:48.19,main,Dazu,0000,0000,0000,,It's a full moon.
+Dialogue: 0,0:09:48.42,0:09:52.19,main,Bow,0000,0000,0000,,The mana in the strong magic \Nregion may weaken a little.
+Dialogue: 0,0:09:52.96,0:09:55.42,main,Dazu,0000,0000,0000,,The chance of that might be low, \Nbut there's still a chance.
+Dialogue: 0,0:09:55.84,0:09:57.20,main,Dazu,0000,0000,0000,,And because of chance,
+Dialogue: 0,0:09:58.05,0:10:02.20,main,Dazu,0000,0000,0000,,I was able to meet you, \NBow, and live until today.
+Dialogue: 0,0:10:03.09,0:10:07.09,main,Dazu,0000,0000,0000,,I made it through so many trials \Nand hardships because of you.
+Dialogue: 0,0:10:07.51,0:10:09.21,main,Dazu,0000,0000,0000,,I'm eternally grateful.
+Dialogue: 0,0:10:09.75,0:10:14.30,main,Bow,0000,0000,0000,,So am I. And we finally made it this far.
+Dialogue: 0,0:10:14.30,0:10:16.21,main,Bow,0000,0000,0000,,But we still have a long journey ahead.
+Dialogue: 0,0:10:16.74,0:10:19.00,main,Dazu,0000,0000,0000,,Let's continue working together.
+Dialogue: 0,0:10:19.00,0:10:20.22,main,Bow,0000,0000,0000,,Just the two of us.
+Dialogue: 0,0:10:22.73,0:10:24.26,main,Group,0000,0000,0000,,Hey, what's that?
+Dialogue: 0,0:10:24.26,0:10:25.39,main,Group,0000,0000,0000,,Could it be...
+Dialogue: 0,0:10:25.39,0:10:26.42,main,,0000,0000,0000,,Is it...
+Dialogue: 0,0:10:29.66,0:10:30.52,main,Dazu,0000,0000,0000,,Asta!
+Dialogue: 0,0:10:40.71,0:10:41.99,main,Nero,0000,0000,0000,,Asta!
+Dialogue: 0,0:10:43.00,0:10:45.34,main,Asta,0000,0000,0000,,We finally caught up to you guys!
+Dialogue: 0,0:10:56.74,0:10:58.38,main,Asta,0000,0000,0000,,Nero, where are you?!
+Dialogue: 0,0:11:02.24,0:11:03.97,main,Noelle,0000,0000,0000,,These people...
+Dialogue: 0,0:11:04.49,0:11:06.95,main,Noelle,0000,0000,0000,,Stupidsta, you probably haven't noticed,
+Dialogue: 0,0:11:06.95,0:11:10.38,main,Noelle,0000,0000,0000,,but I can barely sense any \Nmana from these people.
+Dialogue: 0,0:11:10.38,0:11:11.45,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:11.45,0:11:13.94,italics,Noelle,0000,0000,0000,,Just like the boy from that village.
+Dialogue: 0,0:11:14.78,0:11:17.94,italics,Noelle,0000,0000,0000,,He had small, fleeting mana.
+Dialogue: 0,0:11:18.51,0:11:23.20,italics,Noelle,0000,0000,0000,,There are that many people in this \Nkingdom who can hardly use magic?
+Dialogue: 0,0:11:23.48,0:11:25.17,italics,Noelle,0000,0000,0000,,No, that's not it.
+Dialogue: 0,0:11:25.17,0:11:27.20,italics,Noelle,0000,0000,0000,,This is just some of them.
+Dialogue: 0,0:11:27.20,0:11:28.10,main,Asta,0000,0000,0000,,Found her.
+Dialogue: 0,0:11:28.89,0:11:31.33,main,Asta,0000,0000,0000,,Nero! We're here to get you!
+Dialogue: 0,0:11:31.33,0:11:32.91,main,Noelle,0000,0000,0000,,Wait, Stupidsta, be careful!
+Dialogue: 0,0:11:32.91,0:11:35.72,main,Asta,0000,0000,0000,,I'll be fine! With the wind this strong,
+Dialogue: 0,0:11:35.72,0:11:38.42,main,Asta,0000,0000,0000,,sleep potions or any other \Npotions will just blow away!
+Dialogue: 0,0:11:38.87,0:11:40.55,main,Noelle,0000,0000,0000,,Yeah, but...
+Dialogue: 0,0:11:47.07,0:11:48.78,italics,Noelle,0000,0000,0000,,Should we really attack these people
+Dialogue: 0,0:11:48.78,0:11:51.64,italics,Noelle,0000,0000,0000,,when we're supposed to be \Nprotecting them as Magic Knights?
+Dialogue: 0,0:11:53.18,0:11:55.97,italics,Noelle,0000,0000,0000,,But right now, I have to protect Asta!
+Dialogue: 0,0:12:00.71,0:12:01.74,main,Asta,0000,0000,0000,,What?
+Dialogue: 0,0:12:03.86,0:12:08.85,main,All,0000,0000,0000,,Master Asta! Master Asta! \NMaster Asta! Master Asta!
+Dialogue: 0,0:12:08.85,0:12:11.66,main,Woman B,0000,0000,0000,,Yes, the one bestowed with the devil's powers!
+Dialogue: 0,0:12:15.32,0:12:17.01,italics,Noelle,0000,0000,0000,,The Devil Believers...
+Dialogue: 0,0:12:18.01,0:12:20.05,italics,Noelle,0000,0000,0000,,Those who worship the devil.
+Dialogue: 0,0:12:25.44,0:12:30.10,main,All,0000,0000,0000,,Master Asta! Master Asta! Master Asta!
+Dialogue: 0,0:12:30.64,0:12:33.27,main,Asta,0000,0000,0000,,You're their leader, Dazu Tayak, right?
+Dialogue: 0,0:12:33.52,0:12:34.57,main,Dazu,0000,0000,0000,,Asta...
+Dialogue: 0,0:12:34.57,0:12:36.69,main,Asta,0000,0000,0000,,And Bow Nocde.
+Dialogue: 0,0:12:37.25,0:12:42.15,main,Asta,0000,0000,0000,,Let Nero go. Nero's a very \Nimportant friend of ours.
+Dialogue: 0,0:12:44.19,0:12:45.25,main,Nero,0000,0000,0000,,Asta...
+Dialogue: 0,0:12:47.49,0:12:54.04,main,Asta,0000,0000,0000,,You're taking Nero and my grimoire as \Ngifts to join the Spade Kingdom, right?
+Dialogue: 0,0:12:55.54,0:12:58.38,main,Asta,0000,0000,0000,,And if you could, \Nyou'd probably want to take me.
+Dialogue: 0,0:12:58.77,0:13:00.88,main,Dazu,0000,0000,0000,,I see you've figured out our plan.
+Dialogue: 0,0:13:00.88,0:13:02.47,main,Dazu,0000,0000,0000,,Then you should know...
+Dialogue: 0,0:13:02.47,0:13:05.33,main,Bow,0000,0000,0000,,...that we can't return Nero to you.
+Dialogue: 0,0:13:05.33,0:13:08.39,main,Asta,0000,0000,0000,,Once you get beyond these mountains, \Nwe'll be on neutral ground.
+Dialogue: 0,0:13:08.39,0:13:11.46,main,Asta,0000,0000,0000,,There's a strong magic region there,\Nbut tonight's a full moon,
+Dialogue: 0,0:13:11.46,0:13:12.61,main,Asta,0000,0000,0000,,so the mana will be weakened.
+Dialogue: 0,0:13:12.61,0:13:15.46,main,Asta,0000,0000,0000,,You're probably trying to get \Nthrough the strong magic region now.
+Dialogue: 0,0:13:15.46,0:13:18.40,main,Asta,0000,0000,0000,,But with your numbers and \Nequipment, that's impossible!
+Dialogue: 0,0:13:18.80,0:13:20.53,main,Dazu,0000,0000,0000,,We know that.
+Dialogue: 0,0:13:21.80,0:13:25.20,main,Dazu,0000,0000,0000,,But still, I... we are going to go.
+Dialogue: 0,0:13:25.76,0:13:28.43,main,Dazu,0000,0000,0000,,I barely have any mana.
+Dialogue: 0,0:13:28.87,0:13:30.67,main,Dazu,0000,0000,0000,,I can't really use magic.
+Dialogue: 0,0:13:30.67,0:13:36.58,main,Dazu,0000,0000,0000,,Magic is everything here in the Clover \NKingdom, so I basically didn't exist.
+Dialogue: 0,0:13:37.68,0:13:41.20,main,Dazu,0000,0000,0000,,Even my own parents looked down on me.\N I was laughed at in school.
+Dialogue: 0,0:13:41.20,0:13:42.75,main,Dazu,0000,0000,0000,,My teachers mocked me.
+Dialogue: 0,0:13:42.75,0:13:46.63,main,Dazu,0000,0000,0000,,I couldn't make friends, and everyone in \Ntown always gave me judgmental looks.
+Dialogue: 0,0:13:46.63,0:13:48.97,main,Dazu,0000,0000,0000,,Asta, I'm sure you understand.
+Dialogue: 0,0:13:54.26,0:13:55.35,main,Asta,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:55.95,0:13:59.08,main,Dazu,0000,0000,0000,,That's why I worked much harder \Nthan the average person.
+Dialogue: 0,0:13:59.08,0:14:04.28,main,Dazu,0000,0000,0000,,And yet I was mocked and looked down upon \Njust because I couldn't use much magic.
+Dialogue: 0,0:14:04.94,0:14:09.53,main,Asta,0000,0000,0000,,But... your husband still \Naccepted you, didn't he?!
+Dialogue: 0,0:14:09.80,0:14:11.74,main,Dazu,0000,0000,0000,,Accepted me?
+Dialogue: 0,0:14:11.74,0:14:13.89,main,Asta,0000,0000,0000,,Granny Maggie from Tiulyu said that
+Dialogue: 0,0:14:13.89,0:14:18.04,main,Asta,0000,0000,0000,,your mother-in-law was really happy \Nabout her son's wonderful wife.
+Dialogue: 0,0:14:18.04,0:14:23.65,main,Asta,0000,0000,0000,,Doesn't that prove that your husband \Nand mother-in-law both accepted you?
+Dialogue: 0,0:14:23.65,0:14:26.35,main,Asta,0000,0000,0000,,You must've been happy even \Nif you couldn't use magic!
+Dialogue: 0,0:14:26.35,0:14:27.91,main,Dazu,0000,0000,0000,,I wasn't happy at all!
+Dialogue: 0,0:14:28.36,0:14:30.08,main,Dazu,0000,0000,0000,,I knew the truth...
+Dialogue: 0,0:14:30.81,0:14:32.52,main,Dazu,0000,0000,0000,,But maybe they could've...
+Dialogue: 0,0:14:33.24,0:14:35.52,main,Dazu,0000,0000,0000,,No, they're all the same.
+Dialogue: 0,0:14:37.06,0:14:39.14,main,Dazu,0000,0000,0000,,Every day with those people
+Dialogue: 0,0:14:39.47,0:14:40.98,main,Dazu,0000,0000,0000,,was hell for me.
+Dialogue: 0,0:14:41.98,0:14:45.62,main,Dazu,0000,0000,0000,,They would always smile kindly, \Ntell me my cooking was delicious,
+Dialogue: 0,0:14:45.62,0:14:47.69,main,Dazu,0000,0000,0000,,and praise my hard work.
+Dialogue: 0,0:14:47.69,0:14:48.57,main,Asta,0000,0000,0000,,Then...
+Dialogue: 0,0:14:48.82,0:14:54.37,main,Dazu,0000,0000,0000,,I'm sure our neighbors also thought \Nof my husband and mother-in-law
+Dialogue: 0,0:14:54.37,0:14:56.58,main,Dazu,0000,0000,0000,,as kind, charitable people.
+Dialogue: 0,0:14:57.26,0:14:59.01,main,Dazu,0000,0000,0000,,But they mocked me.
+Dialogue: 0,0:14:59.45,0:15:01.23,main,Dazu,0000,0000,0000,,They looked down on me.
+Dialogue: 0,0:15:02.04,0:15:04.53,main,Dazu,0000,0000,0000,,They didn't accept me at all.
+Dialogue: 0,0:15:04.95,0:15:07.01,main,Dazu,0000,0000,0000,,They were just using me!
+Dialogue: 0,0:15:07.31,0:15:09.64,main,Dazu,0000,0000,0000,,They enjoyed making fun of me.
+Dialogue: 0,0:15:09.64,0:15:13.27,main,Dazu,0000,0000,0000,,They were relieved that there was\N someone lower than themselves!
+Dialogue: 0,0:15:14.51,0:15:16.04,main,Dazu,0000,0000,0000,,They were trash!
+Dialogue: 0,0:15:16.04,0:15:18.76,main,Dazu,0000,0000,0000,,They deserved to die!
+Dialogue: 0,0:15:20.38,0:15:21.29,main,Bow,0000,0000,0000,,Dazu...
+Dialogue: 0,0:15:22.00,0:15:23.73,main,Dazu,0000,0000,0000,,I'm sorry. I just...
+Dialogue: 0,0:15:24.17,0:15:31.24,main,Bow,0000,0000,0000,,Though our situations are different, \Neveryone here led lives similar to ours.
+Dialogue: 0,0:15:31.60,0:15:33.20,main,Asta,0000,0000,0000,,All of you?
+Dialogue: 0,0:15:33.56,0:15:37.46,main,Bow,0000,0000,0000,,I can make many medicines and \Npotions that work far better
+Dialogue: 0,0:15:37.46,0:15:41.54,main,Bow,0000,0000,0000,,than the magic of an average recovery mage.
+Dialogue: 0,0:15:42.70,0:15:48.29,main,Bow,0000,0000,0000,,But they didn't accept me, solely \Nbecause I couldn't use magic much.
+Dialogue: 0,0:15:48.92,0:15:51.55,main,Bow,0000,0000,0000,,There were a few people who \Nrelied on me every now and then,
+Dialogue: 0,0:15:51.55,0:15:53.55,main,Bow,0000,0000,0000,,but once they had what they wanted,\N they were done with me.
+Dialogue: 0,0:15:53.88,0:15:55.08,main,Mask D,0000,0000,0000,,The same goes for me!
+Dialogue: 0,0:15:55.59,0:15:59.85,main,Mask E,0000,0000,0000,,While those fools were out playing, \NI spent sleepless nights studying.
+Dialogue: 0,0:16:00.13,0:16:02.39,main,Mask F,0000,0000,0000,,You have no idea how hard \NI worked to survive!
+Dialogue: 0,0:16:03.43,0:16:04.85,main,Guy,0000,0000,0000,,Me, too!
+Dialogue: 0,0:16:04.85,0:16:06.07,main,Some,0000,0000,0000,,Me, too!
+Dialogue: 0,0:16:06.07,0:16:07.24,main,Some,0000,0000,0000,,Me, too!
+Dialogue: 0,0:16:07.24,0:16:08.04,main,Some,0000,0000,0000,,Me, too!
+Dialogue: 0,0:16:08.04,0:16:09.08,main,Some,0000,0000,0000,,Me, too!
+Dialogue: 0,0:16:08.58,0:16:09.95,main,Some,0000,0000,0000,,M-Me, too!
+Dialogue: 0,0:16:09.95,0:16:10.86,main,Some,0000,0000,0000,,We all did!
+Dialogue: 0,0:16:11.33,0:16:14.22,main,Some,0000,0000,0000,,They mocked us just because \Nwe couldn't use magic well!
+Dialogue: 0,0:16:14.22,0:16:17.25,main,Some,0000,0000,0000,,They acted like we didn't exist!
+Dialogue: 0,0:16:17.25,0:16:19.17,main,Some,0000,0000,0000,,I'm done with that!
+Dialogue: 0,0:16:19.17,0:16:21.12,main,Some,0000,0000,0000,,We're leaving this stupid kingdom!
+Dialogue: 0,0:16:21.76,0:16:23.62,main,Bow,0000,0000,0000,,Look at these people.
+Dialogue: 0,0:16:23.62,0:16:28.76,main,Bow,0000,0000,0000,,We met them on our way to the Spade Kingdom.
+Dialogue: 0,0:16:29.18,0:16:31.38,main,Bow,0000,0000,0000,,They experienced the same hardships we did.
+Dialogue: 0,0:16:31.38,0:16:38.32,main,Bow,0000,0000,0000,,They lived in the shadows. I'd never \Nimagined so many of us existed.
+Dialogue: 0,0:16:38.32,0:16:42.65,main,Dazu,0000,0000,0000,,To think that so many sympathized \Nwith us and wanted to help us...
+Dialogue: 0,0:16:43.39,0:16:44.36,main,Dazu,0000,0000,0000,,Asta.
+Dialogue: 0,0:16:44.94,0:16:50.85,main,Dazu,0000,0000,0000,,Telling us to go back is telling us \Nto go back to a life of mockery!
+Dialogue: 0,0:16:50.85,0:16:52.65,main,Bow,0000,0000,0000,,We've had enough!
+Dialogue: 0,0:16:52.98,0:16:55.51,main,Mask F,0000,0000,0000,,You understand, don't you?
+Dialogue: 0,0:16:55.51,0:16:57.12,main,Asta,0000,0000,0000,,Yeah, I do.
+Dialogue: 0,0:16:57.65,0:16:58.86,main,Noelle,0000,0000,0000,,Asta...
+Dialogue: 0,0:16:58.86,0:17:03.11,main,Asta,0000,0000,0000,,And it's because I understand \Nthat I have to stop you guys!
+Dialogue: 0,0:17:03.54,0:17:07.63,main,Noelle,0000,0000,0000,,Why do you all want to go to \Nthe Spade Kingdom so badly?
+Dialogue: 0,0:17:08.53,0:17:10.63,main,Dazu,0000,0000,0000,,To gain the powers of the devil.
+Dialogue: 0,0:17:11.33,0:17:12.13,main,Noelle,0000,0000,0000,,But that's...
+Dialogue: 0,0:17:13.76,0:17:19.07,main,Dazu,0000,0000,0000,,Kabwe from the Magic Parliament told us that \Nthere was a devil in the Spade Kingdom,
+Dialogue: 0,0:17:19.55,0:17:22.89,main,Dazu,0000,0000,0000,,and that the devil would give us powers.
+Dialogue: 0,0:17:25.01,0:17:28.23,main,Dazu,0000,0000,0000,,I... We want power.
+Dialogue: 0,0:17:28.96,0:17:32.66,main,Bow,0000,0000,0000,,After joining the Spade Kingdom \Nand gaining the devil's powers,
+Dialogue: 0,0:17:32.66,0:17:35.37,main,Bow,0000,0000,0000,,we will come back to this kingdom someday...
+Dialogue: 0,0:17:35.37,0:17:36.74,main,Both,0000,0000,0000,,...and have our revenge.
+Dialogue: 0,0:17:36.98,0:17:39.53,main,Asta,0000,0000,0000,,No... But that's—
+Dialogue: 0,0:17:39.88,0:17:44.54,main,Dazu,0000,0000,0000,,The three leaves of the clover\N represent faith, hope, and love.
+Dialogue: 0,0:17:44.97,0:17:47.74,main,Dazu,0000,0000,0000,,Within a fourth leaf dwells good luck.
+Dialogue: 0,0:17:47.74,0:17:49.74,main,Dazu,0000,0000,0000,,Within a fifth leaf resides a devil.
+Dialogue: 0,0:17:50.15,0:17:52.34,main,Dazu,0000,0000,0000,,That's how the saying goes, isn't it?
+Dialogue: 0,0:17:52.86,0:17:53.88,main,Asta,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:54.60,0:17:58.20,main,Dazu,0000,0000,0000,,Even though you had no mana \Nand couldn't use any magic,
+Dialogue: 0,0:17:58.20,0:18:01.19,main,Dazu,0000,0000,0000,,you gained the devil's powers \Nbecause of this grimoire.
+Dialogue: 0,0:18:02.12,0:18:05.55,main,Bow,0000,0000,0000,,You joined the Magic Knights \Nand accomplished many things.
+Dialogue: 0,0:18:05.55,0:18:07.60,main,Bow,0000,0000,0000,,We look up to you so much.
+Dialogue: 0,0:18:07.96,0:18:10.52,main,Asta,0000,0000,0000,,You look up to me? But I don't...
+Dialogue: 0,0:18:10.89,0:18:13.48,main,Dazu,0000,0000,0000,,We want to be like you.
+Dialogue: 0,0:18:13.48,0:18:15.24,main,Bow,0000,0000,0000,,We're going to the Spade Kingdom.
+Dialogue: 0,0:18:15.24,0:18:17.25,main,Mask,0000,0000,0000,,We'll gain the devil's powers...
+Dialogue: 0,0:18:17.25,0:18:18.62,main,Mask,0000,0000,0000,,...and be reborn!
+Dialogue: 0,0:18:18.62,0:18:20.91,main,Mask,0000,0000,0000,,Then we'll get revenge on this kingdom!
+Dialogue: 0,0:18:21.43,0:18:23.58,main,Dazu,0000,0000,0000,,That is our desire.
+Dialogue: 0,0:18:24.62,0:18:26.25,main,Asta,0000,0000,0000,,But I'm different!
+Dialogue: 0,0:18:26.25,0:18:27.08,main,Dazu,0000,0000,0000,,Different?
+Dialogue: 0,0:18:27.34,0:18:30.69,main,Asta,0000,0000,0000,,That's right! No matter how \Nhard I worked and trained,
+Dialogue: 0,0:18:30.69,0:18:32.77,main,Asta,0000,0000,0000,,I was mocked for not being able to use magic.
+Dialogue: 0,0:18:32.77,0:18:34.61,main,Asta,0000,0000,0000,,They looked down on me my whole life.
+Dialogue: 0,0:18:34.61,0:18:37.61,main,Asta,0000,0000,0000,,But I never despised any of them!
+Dialogue: 0,0:18:38.12,0:18:42.74,main,Asta,0000,0000,0000,,Yeah, I gained that grimoire \Nand the devil's powers,
+Dialogue: 0,0:18:42.74,0:18:47.95,main,Asta,0000,0000,0000,,but I never once thought about using those \Npowers to take revenge on this kingdom!
+Dialogue: 0,0:18:47.95,0:18:49.35,main,Asta,0000,0000,0000,,I worked for this kingdom!
+Dialogue: 0,0:18:50.00,0:18:53.27,main,Asta,0000,0000,0000,,No matter how poor you are... \Neven if you're an orphan or a peasant...
+Dialogue: 0,0:18:53.27,0:18:55.86,main,Asta,0000,0000,0000,,I just wanted everyone to be happy!
+Dialogue: 0,0:18:56.39,0:18:59.70,main,Dazu,0000,0000,0000,,I can't imagine how much \Nbetter off we would've been
+Dialogue: 0,0:18:59.70,0:19:01.71,main,Dazu,0000,0000,0000,,if we could actually think like that.
+Dialogue: 0,0:19:01.71,0:19:02.94,main,Bow,0000,0000,0000,,Indeed.
+Dialogue: 0,0:19:02.94,0:19:06.82,main,Dazu,0000,0000,0000,,We cannot extinguish the blazing flames \Nof revenge that burn within our hearts.
+Dialogue: 0,0:19:06.82,0:19:09.50,main,Dazu,0000,0000,0000,,So we can't return Nero to you!
+Dialogue: 0,0:19:09.50,0:19:11.98,main,bow,0000,0000,0000,,We will continue on to the Spade Kingdom.
+Dialogue: 0,0:19:12.91,0:19:15.78,main,Asta,0000,0000,0000,,All right. Then let Nero go!
+Dialogue: 0,0:19:15.78,0:19:17.49,main,Dazu,0000,0000,0000,,I just told you we can't...
+Dialogue: 0,0:19:17.49,0:19:18.96,main,Asta,0000,0000,0000,,I'll take her place!
+Dialogue: 0,0:19:20.19,0:19:21.26,main,Nero,0000,0000,0000,,What are you...
+Dialogue: 0,0:19:21.53,0:19:25.90,main,Asta,0000,0000,0000,,Your original plan was to \Ntake me, wasn't it? Right?
+Dialogue: 0,0:19:25.90,0:19:29.27,main,Asta,0000,0000,0000,,My grimoire and I should be \Nmore than enough for gifts!
+Dialogue: 0,0:19:30.64,0:19:32.77,main,Dazu,0000,0000,0000,,We'll have to restrain you.
+Dialogue: 0,0:19:32.77,0:19:33.66,main,Asta,0000,0000,0000,,Sure!
+Dialogue: 0,0:19:33.66,0:19:34.67,main,Dazu,0000,0000,0000,,And her, too.
+Dialogue: 0,0:19:44.53,0:19:47.15,main,Asta,0000,0000,0000,,Now, keep your promise. Let Nero go.
+Dialogue: 0,0:19:47.15,0:19:48.70,main,Dazu,0000,0000,0000,,All right, we will.
+Dialogue: 0,0:19:49.17,0:19:52.34,main,Bow,0000,0000,0000,,After we take you to the Spade Kingdom.
+Dialogue: 0,0:19:52.95,0:19:54.63,main,Nero,0000,0000,0000,,You're too naïve.
+Dialogue: 0,0:19:54.63,0:19:57.46,main,Asta,0000,0000,0000,,No, I have faith in them.
+Dialogue: 0,0:19:57.95,0:20:01.18,main,Dazu,0000,0000,0000,,We want to obtain the devil's \Npowers no matter what.
+Dialogue: 0,0:20:01.61,0:20:04.37,main,Dazu,0000,0000,0000,,The more gifts we have, the better.
+Dialogue: 0,0:20:04.37,0:20:08.67,main,Bow,0000,0000,0000,,Asta and his grimoire... The girl \Nwho used forbidden magic, Nero...
+Dialogue: 0,0:20:08.67,0:20:10.48,main,Bow,0000,0000,0000,,And now we have a royal girl.
+Dialogue: 0,0:20:11.04,0:20:13.28,main,Dazu,0000,0000,0000,,What wonderful gifts.
+Dialogue: 0,0:20:13.28,0:20:15.65,main,Nero,0000,0000,0000,,If we make it through the \Nstrong magic region, that is.
+Dialogue: 0,0:20:16.12,0:20:17.44,main,Dazu,0000,0000,0000,,Correct.
+Dialogue: 0,0:20:18.10,0:20:20.03,main,Dazu,0000,0000,0000,,Now, let us proceed.
+Dialogue: 0,0:20:28.80,0:20:30.25,main,Noelle,0000,0000,0000,,That's the border.
+Dialogue: 0,0:20:34.18,0:20:35.32,main,Dazu,0000,0000,0000,,We're almost to...
+Dialogue: 0,0:20:36.40,0:20:37.84,main,Bow,0000,0000,0000,,...the border.
+Dialogue: 0,0:20:42.05,0:20:43.56,italics,Noelle,0000,0000,0000,,The strong magic region...
+Dialogue: 0,0:20:43.56,0:20:47.26,italics,Noelle,0000,0000,0000,,I can feel it from here. There's so\N much mana that's out of control.
+Dialogue: 0,0:20:47.51,0:20:49.18,main,Nero,0000,0000,0000,,How do you intend to get through that?
+Dialogue: 0,0:20:49.77,0:20:54.31,main,Dazu,0000,0000,0000,,We can barely use magic. \NWe barely have any mana.
+Dialogue: 0,0:20:54.94,0:20:58.86,main,Bow,0000,0000,0000,,But that also means we do \Nhave a little bit of mana.
+Dialogue: 0,0:21:00.63,0:21:02.59,main,dazu,0000,0000,0000,,Even if we don't have much magic,
+Dialogue: 0,0:21:02.59,0:21:06.45,main,dazu,0000,0000,0000,,if I can pull all of our magic\Ntogether with my catalyst magic,
+Dialogue: 0,0:21:06.45,0:21:08.06,main,dazu,0000,0000,0000,,we can make it powerful.
+Dialogue: 0,0:21:08.06,0:21:11.68,main,Dazu,0000,0000,0000,,Just as a droplet of water can \Nbecome a powerful current.
+Dialogue: 0,0:21:12.58,0:21:15.99,main,Bow,0000,0000,0000,,We'll use her catalyst magic to \Npull all of our mana together
+Dialogue: 0,0:21:15.99,0:21:19.50,main,Bow,0000,0000,0000,,and use that to protect ourselves \Nfrom the strong magic region's mana.
+Dialogue: 0,0:21:19.73,0:21:20.87,main,Noelle,0000,0000,0000,,But that's—
+Dialogue: 0,0:21:20.87,0:21:23.17,main,Dazu,0000,0000,0000,,Indeed. It won't be easy.
+Dialogue: 0,0:21:23.48,0:21:25.48,main,Nero,0000,0000,0000,,The Spade Kingdom is far away.
+Dialogue: 0,0:21:25.90,0:21:29.18,main,Nero,0000,0000,0000,,Who knows if your mana will \Nhold out until we get there?
+Dialogue: 0,0:21:29.18,0:21:30.43,main,Nero,0000,0000,0000,,No, it's impossible.
+Dialogue: 0,0:21:30.69,0:21:33.50,main,Dazu,0000,0000,0000,,But at least one of us might make it there.
+Dialogue: 0,0:21:33.50,0:21:37.76,main,Dazu,0000,0000,0000,,And that one person might\N attain the devil's powers.
+Dialogue: 0,0:21:37.76,0:21:40.94,main,Dazu,0000,0000,0000,,Then maybe... No, we must see this through.
+Dialogue: 0,0:21:41.37,0:21:44.44,main,Bow,0000,0000,0000,,Or our revenge upon the \NClover Kingdom will never happen.
+Dialogue: 0,0:21:44.44,0:21:45.78,main,Noelle,0000,0000,0000,,No...
+Dialogue: 0,0:21:46.95,0:21:48.07,main,Dazu,0000,0000,0000,,Let's go.
+Dialogue: 0,0:21:48.07,0:21:48.87,main,Bow,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:51.08,0:21:51.99,main,Dazu,0000,0000,0000,,That's—
+Dialogue: 0,0:21:54.90,0:21:57.75,main,Magna,0000,0000,0000,,Asta, Lady Noe, Nero! \NSorry to keep you guys waiting!
+Dialogue: 0,0:21:59.37,0:22:01.75,main,Asta,0000,0000,0000,,Magna! Captain Yami!
+Dialogue: 0,0:23:39.98,0:23:41.69,main,Noelle,0000,0000,0000,,We are the Magic Knights.
+Dialogue: 0,0:23:41.69,0:23:44.76,main,Noelle,0000,0000,0000,,We protect this kingdom and its people.
+Dialogue: 0,0:23:44.76,0:23:46.10,main,Noelle,0000,0000,0000,,That is our duty!
+Dialogue: 0,0:23:46.10,0:23:48.19,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 148:
+Dialogue: 0,0:23:46.94,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 148\N\N{\fs18}Becoming the Light That Shines Through the Darkness
+Dialogue: 0,0:23:48.44,0:23:50.19,main,Some,0000,0000,0000,,"Becoming the Light That Shines \NThrough the Darkness."
+Dialogue: 0,0:23:50.19,0:23:53.44,main,Noelle,0000,0000,0000,,The ones in the shadows are the ones \Nwe should be protecting the most!

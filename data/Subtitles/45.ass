@@ -1,0 +1,354 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0100,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,0030,0030,0018,1
+Style: sign_24411_232_One_Hit,Times New Roman,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0100,0030,0020,1
+Style: sign_24453_234_Two_Hit,Times New Roman,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,9,0030,0100,0020,1
+Style: sign_26106_255_Grey__True_Form_,Times New Roman,28,&H00FCFCFA,&H000000FF,&H000F1006,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0075,1
+
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.79,0:00:06.82,italics,nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.07,0:00:15.30,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.48,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:30.93,0:00:33.56,italics,Nar,0000,0000,0000,,Vetto, one of the leaders of \Nthe Eye of the Midnight Sun,
+Dialogue: 0,0:00:33.56,0:00:35.90,italics,Nar,0000,0000,0000,,suddenly attacked the Underwater Temple.
+Dialogue: 0,0:00:35.90,0:00:39.45,main,Gio,0000,0000,0000,,Water Creation Magic: Sea God's Hammer!
+Dialogue: 0,0:00:43.29,0:00:46.92,main,Vetto,0000,0000,0000,,Beast Magic: Rhinoceros Armor.
+Dialogue: 0,0:00:46.92,0:00:49.13,italics,Gio,0000,0000,0000,,It didn't even faze him.
+Dialogue: 0,0:00:51.88,0:00:54.26,main,Vetto,0000,0000,0000,,That's not a bad spell, for a mouse.
+Dialogue: 0,0:00:54.26,0:00:55.38,main,Vetto,0000,0000,0000,,Let me give you a reward.
+Dialogue: 0,0:00:55.38,0:00:58.13,main,Vetto,0000,0000,0000,,Beast Magic: Bear Claw!
+Dialogue: 0,0:01:00.22,0:01:05.27,main,Vetto,0000,0000,0000,,You insects aren't even \Nallowed to hold on to hope.
+Dialogue: 0,0:01:07.39,0:01:10.24,main,Yami,0000,0000,0000,,Dark Magic: Lightless Slash!
+Dialogue: 0,0:01:14.16,0:01:15.28,italics,Yami,0000,0000,0000,,This is...
+Dialogue: 0,0:01:16.90,0:01:19.53,italics,Yami,0000,0000,0000,,Hey, you dumbasses, listen up.
+Dialogue: 0,0:01:19.53,0:01:22.49,italics,Yami,0000,0000,0000,,Someone really dangerous \Njust crashed the game.
+Dialogue: 0,0:01:22.49,0:01:25.58,italics,Yami,0000,0000,0000,,Here's the problem... Due to reasons, \NI can't go over there.
+Dialogue: 0,0:01:25.58,0:01:27.99,italics,Yami,0000,0000,0000,,Meaning you guys gotta \Ndo something about him.
+Dialogue: 0,0:01:27.99,0:01:28.79,italics,Yami,0000,0000,0000,,Listen up.
+Dialogue: 0,0:01:29.15,0:01:32.35,main,Yami,0000,0000,0000,,All of you, surpass your limits,\Nright here, right now.
+Dialogue: 0,0:01:32.35,0:01:35.13,italics,Nar,0000,0000,0000,,Thus, the fate of the Underwater \NTemple was left in the hands
+Dialogue: 0,0:01:35.13,0:01:36.54,italics,Nar,0000,0000,0000,,of Asta and the other Black Bulls.
+Dialogue: 0,0:01:36.54,0:01:37.34,italics,Nar,0000,0000,0000,,And...
+Dialogue: 0,0:01:38.34,0:01:42.39,italics,Both,0000,0000,0000,,We'll hit him with all the magic we've got!
+Dialogue: 0,0:01:42.39,0:01:46.52,main,Both,0000,0000,0000,,Combo Magic: Flame Lightning \NExplosive Cannon!
+Dialogue: 0,0:02:01.87,0:02:05.03,main,Kiato,0000,0000,0000,,Wh-What is this magical discharge?
+Dialogue: 0,0:02:37.98,0:02:43.07,main,Gifso,0000,0000,0000,,Even a combo spell that powerful \Ncouldn't scratch him.
+Dialogue: 0,0:02:43.73,0:02:47.33,main,Yami,0000,0000,0000,,Magna, Luck... You were true men.
+Dialogue: 0,0:02:48.24,0:02:50.08,main,Yami,0000,0000,0000,,You better stand strong, too,
+Dialogue: 0,0:02:50.80,0:02:51.91,main,Yami,0000,0000,0000,,kid!
+Dialogue: 0,0:03:24.09,0:03:26.82,Ep Title,Sign,0000,0000,0000,,{\fad(1,480)}The Guy Who Doesn't Know When to Quit
+Dialogue: 0,0:04:24.80,0:04:26.97,main,Vetto,0000,0000,0000,,In the end, you're nothing more than insects.
+Dialogue: 0,0:04:27.41,0:04:31.07,main,Vetto,0000,0000,0000,,I gave you the chance to fight back, \Nand this was all you could do.
+Dialogue: 0,0:04:31.07,0:04:34.52,main,Vetto,0000,0000,0000,,Now, take this! The despair called death!
+Dialogue: 0,0:04:37.30,0:04:38.95,main,Vetto,0000,0000,0000,,An anti-magic sword...
+Dialogue: 0,0:04:39.57,0:04:42.28,main,Vetto,0000,0000,0000,,Good of you to come, boy.
+Dialogue: 0,0:04:42.87,0:04:46.28,main,Kiato,0000,0000,0000,,That guy's from the \NEye of the Midnight Sun.
+Dialogue: 0,0:04:46.80,0:04:48.16,main,Vetto,0000,0000,0000,,This is the perfect opportunity.
+Dialogue: 0,0:04:48.82,0:04:53.66,main,Vetto,0000,0000,0000,,I'll make you feel the pain\NLicht felt many times over!
+Dialogue: 0,0:04:54.35,0:04:56.96,main,Vetto,0000,0000,0000,,Just like those insects at my feet.
+Dialogue: 0,0:04:57.59,0:04:59.38,main,Asta,0000,0000,0000,,They're not insects.
+Dialogue: 0,0:05:00.15,0:05:03.50,main,Asta,0000,0000,0000,,They're my teammates!
+Dialogue: 0,0:05:06.72,0:05:11.10,main,Asta,0000,0000,0000,,And as their junior, I'll take on \Nthe duty of bringing you down!
+Dialogue: 0,0:05:11.60,0:05:15.99,main,Vetto,0000,0000,0000,,I see. So this is what a slash from \Nthe anti-magic sword feels like.
+Dialogue: 0,0:05:15.99,0:05:20.03,main,Vetto,0000,0000,0000,,If you were to get a clean hit on me, \NI probably wouldn't stand a chance.
+Dialogue: 0,0:05:20.03,0:05:23.69,main,Vetto,0000,0000,0000,,It definitely had more of an effect than \Ncertain-kill spells from most mages.
+Dialogue: 0,0:05:23.69,0:05:26.29,main,Asta,0000,0000,0000,,Then act like you're hurt, you bastard!
+Dialogue: 0,0:05:26.29,0:05:29.76,main,Asta,0000,0000,0000,,Just what are you guys planning to do \Nby gathering those magic stones?
+Dialogue: 0,0:05:29.76,0:05:31.99,main,Asta,0000,0000,0000,,We know you're up to something!
+Dialogue: 0,0:05:31.99,0:05:34.90,main,Vetto,0000,0000,0000,,I have no reason to tell you,
+Dialogue: 0,0:05:34.90,0:05:38.96,main,Vetto,0000,0000,0000,,a piece of no-magic trash unloved by mana.
+Dialogue: 0,0:05:38.96,0:05:39.87,main,Asta,0000,0000,0000,,What?
+Dialogue: 0,0:05:40.31,0:05:42.85,main,Vetto,0000,0000,0000,,Well? Come at me.
+Dialogue: 0,0:05:42.85,0:05:46.21,main,Vetto,0000,0000,0000,,You can join the rest of the insects.
+Dialogue: 0,0:05:46.21,0:05:48.32,main,Kiato,0000,0000,0000,,He even got Dad?
+Dialogue: 0,0:05:49.22,0:05:53.72,italics,Kiato,0000,0000,0000,,This guy's total magic power is \Non a completely different level.
+Dialogue: 0,0:05:53.72,0:05:57.49,italics,Kiato,0000,0000,0000,,The magic that flows from him \Ngrants constant protection.
+Dialogue: 0,0:05:58.43,0:06:05.32,italics,Vetto,0000,0000,0000,,I'll massacre everyone here, then take \Nmy time searching for the magic stone.
+Dialogue: 0,0:06:05.67,0:06:08.49,italics,Vetto,0000,0000,0000,,I didn't forget about the ones outside.
+Dialogue: 0,0:06:08.49,0:06:13.95,italics,Vetto,0000,0000,0000,,Hopefully the scum out on the frontier can \Nkeep me at least mildly entertained.
+Dialogue: 0,0:06:16.27,0:06:21.63,main,Kiato,0000,0000,0000,,People I love... My family, and those who \Nare just like family to me, live here.
+Dialogue: 0,0:06:22.05,0:06:26.15,main,Kiato,0000,0000,0000,,I'll never let that happen!
+Dialogue: 0,0:06:26.15,0:06:27.67,main,Asta,0000,0000,0000,,Let's go, Kiato!
+Dialogue: 0,0:06:27.67,0:06:29.03,main,Kiato,0000,0000,0000,,You got it, Asta!
+Dialogue: 0,0:06:45.38,0:06:47.81,main,Kiato,0000,0000,0000,,He only grazed us, yet he's still so powerful!
+Dialogue: 0,0:06:47.81,0:06:50.49,italics,Asta,0000,0000,0000,,He's reading our ki!
+Dialogue: 0,0:06:50.49,0:06:54.62,italics,Asta,0000,0000,0000,,And he's so fast that there's almost \Nno point in reading his ki.
+Dialogue: 0,0:06:56.40,0:07:01.36,main,Asta,0000,0000,0000,,Kiato, I guess you weren't going \Nall-out when you were fighting me.
+Dialogue: 0,0:07:01.36,0:07:04.63,main,Kiato,0000,0000,0000,,Apparently, neither were you. \NYou have another sword!
+Dialogue: 0,0:07:04.63,0:07:06.04,main,Vetto,0000,0000,0000,,How boring.
+Dialogue: 0,0:07:06.04,0:07:08.96,main,Vetto,0000,0000,0000,,Slow movements and weak attacks.
+Dialogue: 0,0:07:08.96,0:07:14.47,main,Vetto,0000,0000,0000,,I suppose I can't expect more from \Nno-magic trash and hick scum.
+Dialogue: 0,0:07:15.87,0:07:18.47,main,Asta,0000,0000,0000,,You sure know how to hurt a guy's \Nfeelings, you hairy gorilla.
+Dialogue: 0,0:07:18.95,0:07:22.80,main,Both,0000,0000,0000,,We'll show you what happens when \Ntrash and scum get serious!
+Dialogue: 0,0:07:25.35,0:07:28.61,main,Gifso,0000,0000,0000,,That's it, Kiato! You can do it!
+Dialogue: 0,0:07:28.96,0:07:32.99,main,Yami,0000,0000,0000,,That bastard's still not fazed one bit.
+Dialogue: 0,0:07:35.55,0:07:38.28,italics,Vanessa,0000,0000,0000,,I can feel it all the way over here...
+Dialogue: 0,0:07:39.06,0:07:42.08,italics,Vanessa,0000,0000,0000,,Magic that's terrifyingly powerful.
+Dialogue: 0,0:07:42.08,0:07:43.38,flashbackitalics,Yami,0000,0000,0000,,Listen up.
+Dialogue: 0,0:07:43.38,0:07:46.83,flashbackitalics,Yami,0000,0000,0000,,All of you, surpass your limits,\Nright here, right now.
+Dialogue: 0,0:07:47.83,0:07:51.20,main,Vanessa,0000,0000,0000,,The captain actually \Nsounded serious for once.
+Dialogue: 0,0:07:51.95,0:07:55.22,main,Vanessa,0000,0000,0000,,I guess this isn't the \Ntime for me to be drunk.
+Dialogue: 0,0:07:58.47,0:08:01.18,italics,Finral,0000,0000,0000,,Crap! This is definitely not good.
+Dialogue: 0,0:08:01.18,0:08:05.25,italics,Finral,0000,0000,0000,,If I end up face-to-face with that guy,\NI'm definitely going to die!
+Dialogue: 0,0:08:05.25,0:08:10.19,italics,Finral,0000,0000,0000,,On the other hand, if I just hide somewhere,\NYami's going to kill me later.
+Dialogue: 0,0:08:10.55,0:08:13.49,main,Finral,0000,0000,0000,,What the hell am I supposed to do?!
+Dialogue: 0,0:08:15.86,0:08:19.78,main,Charmy,0000,0000,0000,,I'd like a bucket of that pudding, please...
+Dialogue: 0,0:08:20.80,0:08:22.08,main,Charmy,0000,0000,0000,,A bucket...
+Dialogue: 0,0:08:24.48,0:08:28.96,main,Gauche,0000,0000,0000,,Tch. I was about to wrap things \Nup and go see Marie, but now...
+Dialogue: 0,0:08:29.76,0:08:32.51,main,Gauche,0000,0000,0000,,Stop getting in the way \Nof my flirting, damn it!
+Dialogue: 0,0:08:38.87,0:08:40.64,main,Zarik,0000,0000,0000,,Sucks to be you.
+Dialogue: 0,0:08:40.64,0:08:42.34,main,Zarik,0000,0000,0000,,Now that you've run into me,
+Dialogue: 0,0:08:42.34,0:08:45.31,main,Zarik,0000,0000,0000,,the most powerful chain magic user \Nin the Eye of the Midnight Sun,
+Dialogue: 0,0:08:45.77,0:08:49.63,main,Zarik,0000,0000,0000,,you'll never get to see your Marie again.
+Dialogue: 0,0:08:49.63,0:08:53.27,main,Gauche,0000,0000,0000,,The hell did you just say?! Don't think \Nyou can get away with saying that!
+Dialogue: 0,0:08:53.27,0:08:55.82,main,Gauche,0000,0000,0000,,Mirror Magic: Reflect R—
+Dialogue: 0,0:08:56.64,0:09:02.83,main,Zarik,0000,0000,0000,,It's no use! My chains immediately \Ndetect attack magic and strike!
+Dialogue: 0,0:09:02.83,0:09:06.83,main,Zarik,0000,0000,0000,,Chain Magic: Scorpio Chain!
+Dialogue: 0,0:09:11.86,0:09:15.83,main,Zarik,0000,0000,0000,,Come on, now! If you're\N too slow, it'll sting ya!
+Dialogue: 0,0:09:17.06,0:09:19.84,main,Gauche,0000,0000,0000,,You stupid small fry! You can \Ndial back that confidence!
+Dialogue: 0,0:09:20.33,0:09:23.35,main,Gauche,0000,0000,0000,,Mirror Magic: Real Double!
+Dialogue: 0,0:09:23.73,0:09:29.60,main,Zarik,0000,0000,0000,,Ah, yes... My chain won't be able \Nto keep up if there are two targets...
+Dialogue: 0,0:09:29.98,0:09:31.94,main,Zarik,0000,0000,0000,,If I only had one, that is!
+Dialogue: 0,0:09:32.26,0:09:33.11,main,Gauche,0000,0000,0000,,And then...
+Dialogue: 0,0:09:33.61,0:09:35.74,main,Gauche,0000,0000,0000,,Reflect Refrain!
+Dialogue: 0,0:09:36.63,0:09:38.07,main,Zarik,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:09:38.42,0:09:39.65,main,Gauches,0000,0000,0000,,Die.
+Dialogue: 0,0:09:41.30,0:09:43.37,main,Gauche,0000,0000,0000,,And I hope you die without\Nleaving a trace behind!
+Dialogue: 0,0:09:54.96,0:09:57.88,main,Zarik,0000,0000,0000,,You had me sweating for a second.
+Dialogue: 0,0:09:58.27,0:09:59.51,main,Gauche,0000,0000,0000,,This bastard...
+Dialogue: 0,0:09:59.96,0:10:03.17,main,Zarik,0000,0000,0000,,Chain Magic: Heavy Chain!
+Dialogue: 0,0:10:05.39,0:10:09.87,main,Zarik,0000,0000,0000,,To pay you back, I'll squish you with these!
+Dialogue: 0,0:10:10.55,0:10:11.94,main,Gauche,0000,0000,0000,,Tch...
+Dialogue: 0,0:10:22.47,0:10:23.74,main,Gauche,0000,0000,0000,,Damn it!
+Dialogue: 0,0:10:26.55,0:10:28.87,main,zarik,0000,0000,0000,,There's no point in running, you coward.
+Dialogue: 0,0:10:29.75,0:10:34.53,italics,Gauche,0000,0000,0000,,That bastard looks and sounds like \Na weakling, so I thought I'd be fine,
+Dialogue: 0,0:10:34.53,0:10:36.31,italics,Gauche,0000,0000,0000,,but he's stupidly strong!
+Dialogue: 0,0:10:48.56,0:10:50.73,main,Zarik,0000,0000,0000,,Now, where are you hiding?
+Dialogue: 0,0:10:54.48,0:10:55.61,main,Gauche,0000,0000,0000,,As much as it pisses me off,
+Dialogue: 0,0:10:55.61,0:10:59.15,main,Gauche,0000,0000,0000,,that bastard's magic is pretty \Nsolid for both attack and defense.
+Dialogue: 0,0:10:59.15,0:11:06.70,main,Gauche,0000,0000,0000,,The only chance I really have\Nis if he underestimates me.
+Dialogue: 0,0:11:07.30,0:11:08.22,main,Gauche,0000,0000,0000,,But...
+Dialogue: 0,0:11:08.22,0:11:10.33,main,Gauche,0000,0000,0000,,He already saw my Real Double.
+Dialogue: 0,0:11:11.03,0:11:12.32,main,Gauche,0000,0000,0000,,How am I going to...
+Dialogue: 0,0:11:20.58,0:11:23.13,main,Zarik,0000,0000,0000,,Hey, come on. Come out.
+Dialogue: 0,0:11:23.13,0:11:27.26,main,Zarik,0000,0000,0000,,I guess this is all I should've \Nexpected from the Black Bulls.
+Dialogue: 0,0:11:27.26,0:11:31.48,main,Zarik,0000,0000,0000,,What a worthless group of pathetic losers.
+Dialogue: 0,0:11:30.40,0:11:31.48,main,Gauche,0000,0000,0000,,Shut your mouth!
+Dialogue: 0,0:11:31.48,0:11:33.27,main,Gauche (Grey),0000,0000,0000,,You stupid face!
+Dialogue: 0,0:11:33.27,0:11:35.19,main,Zarik,0000,0000,0000,,There you are!
+Dialogue: 0,0:11:43.57,0:11:47.01,main,Zarik,0000,0000,0000,,You thought you could \Nuse the same trick twice?
+Dialogue: 0,0:11:47.01,0:11:49.95,main,Gauche (Grey),0000,0000,0000,,I-I'm scared! Save me!
+Dialogue: 0,0:11:50.34,0:11:53.70,main,Zarik,0000,0000,0000,,How pathetic, you moron...
+Dialogue: 0,0:11:53.70,0:11:54.75,main,Zarik,0000,0000,0000,,Die!
+Dialogue: 0,0:11:54.75,0:11:56.21,main,Gauche,0000,0000,0000,,You're the moron.
+Dialogue: 0,0:11:56.73,0:11:58.29,main,Zarik,0000,0000,0000,,Wha— Another one?!
+Dialogue: 0,0:11:58.76,0:12:02.46,main,Gauche,0000,0000,0000,,Mirror Magic: Large Reflect Ray!
+Dialogue: 0,0:12:06.47,0:12:10.21,main,Zarik,0000,0000,0000,,I-Impossible... I already \Ndefeated your double...
+Dialogue: 0,0:12:10.76,0:12:14.85,main,Gauche,0000,0000,0000,,Too bad for you. That's not my double.
+Dialogue: 0,0:12:17.51,0:12:19.31,main,Gauche (Grey),0000,0000,0000,,He fell for it! He fell \Nfor it! He fell for it!
+Dialogue: 0,0:12:19.31,0:12:22.14,main,Gauche (Grey),0000,0000,0000,,That's right! I, Grey,\Nused transformation magic
+Dialogue: 0,0:12:22.14,0:12:23.84,main,Gauche (Grey),0000,0000,0000,,in the middle of the battle \Nto turn into Gauche!
+Dialogue: 0,0:12:24.99,0:12:27.34,main,Gauche,0000,0000,0000,,That guy was pretty tough,
+Dialogue: 0,0:12:27.34,0:12:30.95,main,Gauche,0000,0000,0000,,but I never thought I'd run into \Nyou transformed into a crab.
+Dialogue: 0,0:12:31.49,0:12:33.28,main,Gauche (Grey),0000,0000,0000,,You better thank me!
+Dialogue: 0,0:12:36.99,0:12:40.39,main,Gauche,0000,0000,0000,,Stop doing weird stuff in \Nmy form! I'll kill you!
+Dialogue: 0,0:12:37.36,0:12:41.50,top,Gauche (Grey),0000,0000,0000,,Ow, ow, ow... Please stop...
+Dialogue: 0,0:12:43.27,0:12:46.68,main,Gauche,0000,0000,0000,,I used up a lot of my magic, \Nbut there are more enemies.
+Dialogue: 0,0:12:46.68,0:12:48.26,main,Gauche,0000,0000,0000,,We're gonna find them and kill them.
+Dialogue: 0,0:12:48.26,0:12:49.51,main,Gauche (Grey),0000,0000,0000,,You got it!
+Dialogue: 0,0:12:53.36,0:12:57.85,main,Gauche (Grey),0000,0000,0000,,Yeah, my bad... I twisted my ankle \Nduring that fight back there.
+Dialogue: 0,0:12:58.29,0:13:00.15,main,Gauche,0000,0000,0000,,You can't be serious!
+Dialogue: 0,0:13:00.15,0:13:02.56,main,Gauche,0000,0000,0000,,Hurry up and transform into \Nsomeone that's not me.
+Dialogue: 0,0:13:02.56,0:13:06.02,main,Gauche,0000,0000,0000,,I know. Transform into a crab. \NThen you'll have plenty of legs.
+Dialogue: 0,0:13:06.02,0:13:09.41,main,Gauche (Grey),0000,0000,0000,,Nope! I need magic to transform.
+Dialogue: 0,0:13:09.41,0:13:11.35,main,Gauche (Grey),0000,0000,0000,,I shouldn't be wasting it, right?
+Dialogue: 0,0:13:11.35,0:13:13.16,main,Gauche (Grey),0000,0000,0000,,Hey, stop for a sec.
+Dialogue: 0,0:13:14.98,0:13:18.17,main,Gauche (Grey),0000,0000,0000,,I'm pretty sure it was somewhere \Naround here that I saw...
+Dialogue: 0,0:13:18.56,0:13:19.92,main,Gauche (Grey),0000,0000,0000,,There she is!
+Dialogue: 0,0:13:19.92,0:13:24.62,main,Charmy,0000,0000,0000,,Ah, yes... the only way to eat cake \Nproperly is with your hands...
+Dialogue: 0,0:13:24.62,0:13:25.42,main,Gauche,0000,0000,0000,,Domehead!
+Dialogue: 0,0:13:25.82,0:13:27.47,main,Gauche,0000,0000,0000,,Why the hell is she sleeping?
+Dialogue: 0,0:13:27.47,0:13:30.59,main,Gauche (Grey),0000,0000,0000,,Dunno. She was like that when I found her.
+Dialogue: 0,0:13:30.59,0:13:35.28,main,Gauche,0000,0000,0000,,Well, anyway, even that glutton can \Nhelp us fight. Let's wake her up.
+Dialogue: 0,0:13:42.77,0:13:44.93,main,Gauche (Grey),0000,0000,0000,,I can't move!
+Dialogue: 0,0:13:44.93,0:13:46.02,main,Gauche,0000,0000,0000,,Tch...
+Dialogue: 0,0:13:46.02,0:13:48.58,main,Gauche,0000,0000,0000,,These vines are draining our magic.
+Dialogue: 0,0:13:48.58,0:13:51.75,main,Gauche (Grey),0000,0000,0000,,No! It's sucking away my strength!
+Dialogue: 0,0:13:51.75,0:13:55.15,main,Zuta,0000,0000,0000,,Vine Trap Magic: Bind Vine.
+Dialogue: 0,0:13:55.91,0:13:59.70,main,Zuta,0000,0000,0000,,Two of the same face? One of you \Nmust be using transformation magic.
+Dialogue: 0,0:13:59.70,0:14:00.81,main,Gauche,0000,0000,0000,,You bastard!
+Dialogue: 0,0:14:00.81,0:14:03.52,main,Gauche (Grey),0000,0000,0000,,A g-g-g-g-ghost!
+Dialogue: 0,0:14:03.52,0:14:07.07,main,Zuta,0000,0000,0000,,Regardless, I was able \Nto catch two this time.
+Dialogue: 0,0:14:07.07,0:14:13.12,main,Zuta,0000,0000,0000,,I'll make you as useless as \Nthis one with my vine magic.
+Dialogue: 0,0:14:13.76,0:14:16.20,main,Gauche (Grey),0000,0000,0000,,No! Stop!
+Dialogue: 0,0:14:16.20,0:14:18.14,main,Gauche (Grey),0000,0000,0000,,Please stop!
+Dialogue: 0,0:14:18.14,0:14:20.05,main,Zuta,0000,0000,0000,,But you guys sure are easy.
+Dialogue: 0,0:14:20.05,0:14:22.50,main,Zuta,0000,0000,0000,,I just randomly set my trap \Nmagic in various spots
+Dialogue: 0,0:14:22.50,0:14:25.61,main,Zuta,0000,0000,0000,,and waited until you morons fell into it.
+Dialogue: 0,0:14:25.61,0:14:31.25,main,Zuta,0000,0000,0000,,Now all I have to do is wait for your magic \Nto drain, and then I get to torment you.
+Dialogue: 0,0:14:31.25,0:14:33.49,main,Zuta,0000,0000,0000,,Talk about easy.
+Dialogue: 0,0:14:33.49,0:14:36.54,italics,Gauche,0000,0000,0000,,This isn't good. He got my grimoire, too.
+Dialogue: 0,0:14:36.54,0:14:38.37,italics,Gauche,0000,0000,0000,,I can't activate my mirror!
+Dialogue: 0,0:14:38.83,0:14:40.91,italics,Gauche,0000,0000,0000,,Domehead must've been a decoy.
+Dialogue: 0,0:14:41.35,0:14:47.20,top,Charmy,0000,0000,0000,,Once you set your fork down,\Nthe meal is over...
+Dialogue: 0,0:14:41.78,0:14:43.81,main,Gauche,0000,0000,0000,,Hey! Damn it, Domehead, wake up!
+Dialogue: 0,0:14:48.46,0:14:51.25,italics,Gauche,0000,0000,0000,,That jerk, just snoozing away over there...
+Dialogue: 0,0:14:51.25,0:14:53.51,top,Gauche (Grey),0000,0000,0000,,No! Please stop!
+Dialogue: 0,0:14:53.51,0:14:56.40,top,Gauche (Grey),0000,0000,0000,,I don't want to die yet!
+Dialogue: 0,0:14:55.17,0:14:58.94,italics,Gauche,0000,0000,0000,,Even if I wanted to fight back, Grey \Ncan only use transformation magic.
+Dialogue: 0,0:14:58.94,0:15:01.94,italics,Gauche,0000,0000,0000,,They're all useless!
+Dialogue: 0,0:15:02.48,0:15:06.11,italics,Gauche,0000,0000,0000,,I'm just going to have to do something \Nbefore all my magic gets drained...
+Dialogue: 0,0:15:06.11,0:15:07.19,italics,Gauche,0000,0000,0000,,on my own!
+Dialogue: 0,0:15:07.57,0:15:09.95,flashback,Asta,0000,0000,0000,,We're supposed to be a team!
+Dialogue: 0,0:15:09.95,0:15:13.14,flashback,Asta,0000,0000,0000,,I protect you! You protect me!
+Dialogue: 0,0:15:13.14,0:15:15.68,flashback,Asta,0000,0000,0000,,Then we'll be able to fight forever!
+Dialogue: 0,0:15:16.35,0:15:17.86,italics,Gauche,0000,0000,0000,,That's right.
+Dialogue: 0,0:15:18.64,0:15:20.73,italics,Gauche,0000,0000,0000,,I was this close to ending up \Nright back where I started!
+Dialogue: 0,0:15:19.06,0:15:20.73,top,Gauche (Grey),0000,0000,0000,,Hey! Hey!
+Dialogue: 0,0:15:20.73,0:15:22.87,main,Gauche (Grey),0000,0000,0000,,My magic! My magic!
+Dialogue: 0,0:15:22.87,0:15:24.64,main,Gauche (Grey),0000,0000,0000,,It's getting sucked away!
+Dialogue: 0,0:15:24.64,0:15:27.11,main,Gauche (Grey),0000,0000,0000,,Gauche! Hey! Do something!
+Dialogue: 0,0:15:27.11,0:15:28.26,main,Gauche,0000,0000,0000,,Shut up!
+Dialogue: 0,0:15:29.47,0:15:31.83,italics,Gauche,0000,0000,0000,,Think. How should we fight?
+Dialogue: 0,0:15:32.34,0:15:34.75,italics,Gauche,0000,0000,0000,,We've got a bastard who can only \Ntransform and can't fight,
+Dialogue: 0,0:15:34.75,0:15:37.81,italics,Gauche,0000,0000,0000,,and a domeheaded glutton who's fast asleep.
+Dialogue: 0,0:15:37.81,0:15:41.02,main,Charmy,0000,0000,0000,,Well, aren't you a\Nyummy-looking cut of meat...
+Dialogue: 0,0:15:42.45,0:15:43.44,main,Gauche,0000,0000,0000,,Hey, Grey!
+Dialogue: 0,0:15:44.00,0:15:45.20,main,Gauche,0000,0000,0000,,Can't you...
+Dialogue: 0,0:15:47.54,0:15:53.25,main,Zuta,0000,0000,0000,,Stop struggling. My vines have already \Nsucked away most of your magic.
+Dialogue: 0,0:15:53.25,0:15:55.95,main,Zuta,0000,0000,0000,,It's impossible to defeat me.
+Dialogue: 0,0:15:56.39,0:15:58.95,main,Gauche,0000,0000,0000,,I've been wondering this \Never since you showed up,
+Dialogue: 0,0:15:58.95,0:16:01.52,main,Gauche,0000,0000,0000,,but aren't you a bit old\Nto be acting like this?
+Dialogue: 0,0:16:02.43,0:16:04.21,main,Zuta,0000,0000,0000,,How rude! I'm only twenty!
+Dialogue: 0,0:16:04.57,0:16:07.02,main,Gauche,0000,0000,0000,,There's no time to waste! Let's do this!
+Dialogue: 0,0:16:07.02,0:16:08.33,main,Gauche (Grey),0000,0000,0000,,Okay, Gauche!
+Dialogue: 0,0:16:08.33,0:16:09.13,main,Gauche (Grey),0000,0000,0000,,There!
+Dialogue: 0,0:16:13.36,0:16:15.21,main,Zuta,0000,0000,0000,,What the heck is that?
+Dialogue: 0,0:16:15.21,0:16:17.09,main,Gauche,0000,0000,0000,,Hey, Domehead!
+Dialogue: 0,0:16:17.09,0:16:21.37,main,Gauche,0000,0000,0000,,Somebody's trying to steal your food!
+Dialogue: 0,0:16:22.66,0:16:25.57,main,Zuta,0000,0000,0000,,Huh? But I'm a vegetarian...
+Dialogue: 0,0:16:26.90,0:16:28.03,main,Charmy,0000,0000,0000,,Hey.
+Dialogue: 0,0:16:28.03,0:16:30.35,main,Charmy,0000,0000,0000,,Step away from that meat.
+Dialogue: 0,0:16:30.35,0:16:34.64,main,Zuta,0000,0000,0000,,H-How is her magic so immense?
+Dialogue: 0,0:16:37.12,0:16:40.37,main,Zuta,0000,0000,0000,,There's... a beast?
+Dialogue: 0,0:16:40.37,0:16:43.73,main,Zuta,0000,0000,0000,,I-I'll drain your magic, too!
+Dialogue: 0,0:16:44.19,0:16:47.97,main,Zuta,0000,0000,0000,,I've set a trap over there, too!
+Dialogue: 0,0:16:49.28,0:16:51.31,main,Charmy,0000,0000,0000,,Cotton Creation Magic:
+Dialogue: 0,0:16:51.31,0:16:52.88,main,Charmy,0000,0000,0000,,Sleeping Sheep's...
+Dialogue: 0,0:16:54.01,0:16:55.01,main,Charmy,0000,0000,0000,,One Hit!
+Dialogue: 0,0:16:54.28,0:16:55.01,sign_24411_232_One_Hit,Sign,0000,0000,0000,,One Hit
+Dialogue: 0,0:16:55.88,0:16:57.51,main,Charmy,0000,0000,0000,,Two Hit!
+Dialogue: 0,0:16:56.03,0:16:57.51,sign_24453_234_Two_Hit,Sign,0000,0000,0000,,Two Hit
+Dialogue: 0,0:16:58.28,0:17:01.76,sign_24411_232_One_Hit,Sign,0000,0000,0000,,Mega Hit
+Dialogue: 0,0:16:58.45,0:16:59.89,main,Charmy,0000,0000,0000,,Mega Hit!
+Dialogue: 0,0:17:09.36,0:17:11.14,main,Gauche (Grey),0000,0000,0000,,W-We're saved!
+Dialogue: 0,0:17:10.02,0:17:12.73,main,Charmy,0000,0000,0000,,Meat! Meat! Meat!
+Dialogue: 0,0:17:15.89,0:17:18.74,main,Charmy,0000,0000,0000,,This isn't meat!
+Dialogue: 0,0:17:18.74,0:17:23.17,top,Charmy,0000,0000,0000,,Gauche! This isn't meat!
+Dialogue: 0,0:17:21.15,0:17:25.35,main,Gauche,0000,0000,0000,,I hate to admit it, but her \Nattack power is insane.
+Dialogue: 0,0:17:25.35,0:17:28.42,main,Gauche,0000,0000,0000,,Grey. You can do better, too, can't you?
+Dialogue: 0,0:17:28.42,0:17:29.37,main,Gauche (Grey),0000,0000,0000,,Huh?
+Dialogue: 0,0:17:29.37,0:17:33.33,main,Gauche,0000,0000,0000,,I've seen other guys use transformation \Nmagic where they transform themselves,
+Dialogue: 0,0:17:33.33,0:17:37.31,main,Gauche,0000,0000,0000,,but I've never seen anyone who can \Ntransform something else like you.
+Dialogue: 0,0:17:38.45,0:17:41.43,main,Gauche,0000,0000,0000,,I think you could probably \Nuse that a bit more.
+Dialogue: 0,0:17:43.03,0:17:44.32,main,Gauche (Grey),0000,0000,0000,,Right...
+Dialogue: 0,0:17:45.15,0:17:47.14,main,Gauche (Grey),0000,0000,0000,,I used up more magic than I thought!
+Dialogue: 0,0:17:47.14,0:17:48.71,main,Gauche (Grey),0000,0000,0000,,My transformation's coming undone!
+Dialogue: 0,0:17:47.89,0:17:50.07,main,Charmy,0000,0000,0000,,Meat, meat, meat...
+Dialogue: 0,0:17:50.07,0:17:52.65,main,Charmy,0000,0000,0000,,Huh? Grey's transformation's coming undone?
+Dialogue: 0,0:17:53.55,0:17:57.11,main,Charmy,0000,0000,0000,,Come to think of it,\NI've never seen Grey's true form!
+Dialogue: 0,0:17:57.11,0:17:58.15,main,Charmy,0000,0000,0000,,What does he look like?
+Dialogue: 0,0:17:58.77,0:18:01.16,main,Gauche,0000,0000,0000,,Isn't he that big guy?
+Dialogue: 0,0:18:04.97,0:18:10.67,sign_26106_255_Grey__True_Form_,Sign,0000,0000,0000,,{\fad(716,1)}Grey (True Form)
+Dialogue: 0,0:18:10.99,0:18:14.19,italics,Charmy,0000,0000,0000,,What?! Grey's a girl?!
+Dialogue: 0,0:18:15.15,0:18:17.76,main,Grey,0000,0000,0000,,I-I'm so embarrassed!
+Dialogue: 0,0:18:17.76,0:18:19.65,main,Grey,0000,0000,0000,,Please don't look!
+Dialogue: 0,0:18:19.65,0:18:23.12,main,Gauche,0000,0000,0000,,I can't move an inch. All I can \Ndo is stare at Marie's picture.
+Dialogue: 0,0:18:23.12,0:18:25.68,main,Gauche,0000,0000,0000,,My angel will help me regain my strength.
+Dialogue: 0,0:18:25.68,0:18:28.97,italics,Charmy,0000,0000,0000,,H-He really isn't looking at Grey.
+Dialogue: 0,0:18:28.97,0:18:31.96,main,Charmy,0000,0000,0000,,Oh, so that's what you look like.
+Dialogue: 0,0:18:31.96,0:18:35.27,main,Grey,0000,0000,0000,,I-It's so humiliating to have \Npeople see me in my true form!
+Dialogue: 0,0:18:35.27,0:18:38.82,main,Grey,0000,0000,0000,,If I'm not transformed, I feel like \NI'll die from the humiliation! Save me!
+Dialogue: 0,0:18:38.82,0:18:42.10,main,Charmy,0000,0000,0000,,Well, aren't you a cute young lady?
+Dialogue: 0,0:18:42.10,0:18:45.20,main,Charmy,0000,0000,0000,,Oh? How old are you, hon? La?
+Dialogue: 0,0:18:45.95,0:18:47.90,main,Grey,0000,0000,0000,,I'm 24...
+Dialogue: 0,0:18:47.90,0:18:50.75,main,Charmy,0000,0000,0000,,La! You're five years older than me?!
+Dialogue: 0,0:18:51.25,0:18:54.50,main,Gauche,0000,0000,0000,,And I can't even deal with the fact that \Nyou're the same age as me, Domehead.
+Dialogue: 0,0:18:54.50,0:18:56.80,main,Charmy,0000,0000,0000,,What?! You're also nineteen?!
+Dialogue: 0,0:19:00.15,0:19:02.71,italics,Gauche,0000,0000,0000,,I have barely any magic left.
+Dialogue: 0,0:19:02.71,0:19:05.78,italics,Gauche,0000,0000,0000,,How are things going over there,\N you hot-headed shrimp?
+Dialogue: 0,0:19:14.60,0:19:15.48,main,Both,0000,0000,0000,,Go!
+Dialogue: 0,0:19:27.06,0:19:29.10,main,Vetto,0000,0000,0000,,Did you get your hopes up?
+Dialogue: 0,0:19:29.10,0:19:33.46,main,Vetto,0000,0000,0000,,These childish attacks won't work on me!
+Dialogue: 0,0:19:35.13,0:19:36.88,main,Asta,0000,0000,0000,,Not yet...
+Dialogue: 0,0:19:42.18,0:19:47.14,main,Vetto,0000,0000,0000,,No-magic trash! Prancing around \Nwith weapons too good for you...
+Dialogue: 0,0:19:47.53,0:19:50.23,main,Vetto,0000,0000,0000,,You don't have a shred of hope.
+Dialogue: 0,0:19:50.23,0:19:52.80,main,Vetto,0000,0000,0000,,Let me tell you why!
+Dialogue: 0,0:19:52.80,0:19:53.91,main,Vetto,0000,0000,0000,,One...
+Dialogue: 0,0:19:54.56,0:19:57.37,main,Vetto,0000,0000,0000,,You're weak against throwing and \Nother long-distance attacks.
+Dialogue: 0,0:19:57.37,0:20:00.15,main,Vetto,0000,0000,0000,,Especially with objects that have no magic!
+Dialogue: 0,0:20:02.94,0:20:04.20,main,Vetto,0000,0000,0000,,Two...
+Dialogue: 0,0:20:04.20,0:20:07.43,main,Vetto,0000,0000,0000,,You're weak against those \Nwhose physical abilities
+Dialogue: 0,0:20:07.43,0:20:09.47,main,Vetto,0000,0000,0000,,are magically reinforced \Nto be greater than yours.
+Dialogue: 0,0:20:09.47,0:20:12.25,main,Asta,0000,0000,0000,,So what?!
+Dialogue: 0,0:20:12.25,0:20:13.54,main,Vetto,0000,0000,0000,,Three...
+Dialogue: 0,0:20:16.50,0:20:18.79,main,Vetto,0000,0000,0000,,You don't know when to quit!
+Dialogue: 0,0:20:19.17,0:20:22.12,main,Vetto,0000,0000,0000,,Boy... You actually think that \Nas long as you don't give up,
+Dialogue: 0,0:20:22.12,0:20:24.10,main,Vetto,0000,0000,0000,,it'll work out somehow, don't you?
+Dialogue: 0,0:20:25.25,0:20:29.81,main,Vetto,0000,0000,0000,,That arrogance causes you to keep recklessly \Nattacking opponents you can't defeat
+Dialogue: 0,0:20:30.24,0:20:32.82,main,Vetto,0000,0000,0000,,and makes it easy to mortally wound you.
+Dialogue: 0,0:20:34.19,0:20:37.64,main,Vetto,0000,0000,0000,,The idea of trash like you holding \Nthe Demon-Slayer Sword and the
+Dialogue: 0,0:20:37.64,0:20:40.64,main,Vetto,0000,0000,0000,,Demon-Dweller Sword makes me sick!
+Dialogue: 0,0:20:42.23,0:20:45.29,main,Asta,0000,0000,0000,,You're talking nonsense again.
+Dialogue: 0,0:20:45.29,0:20:49.24,main,Vetto,0000,0000,0000,,You never had any hope of winning.
+Dialogue: 0,0:20:50.88,0:20:54.85,main,Vetto,0000,0000,0000,,Now... scream! Despair!
+Dialogue: 0,0:21:00.02,0:21:01.64,main,Asta,0000,0000,0000,,Ib I gwabe up...
+Dialogue: 0,0:21:01.64,0:21:03.94,main,Asta,0000,0000,0000,,Fu curd I brotec?
+Dialogue: 0,0:21:04.50,0:21:05.30,main,Vetto,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:13.30,0:21:16.18,main,noelle,0000,0000,0000,,Looks like your animal hearing wasn't \Nsharp enough to pick that up.
+Dialogue: 0,0:21:18.00,0:21:21.98,main,Both,0000,0000,0000,,He said, "If I gave up, who could I protect?"
+Dialogue: 0,0:22:51.95,0:22:56.41,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:52.82,0:22:55.38,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:55.91,0:22:59.91,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Magical Detective Charmy
+Dialogue: 0,0:22:56.66,0:22:59.25,main,Charmy,0000,0000,0000,,Magical Detective Charmy!
+Dialogue: 0,0:23:00.77,0:23:03.67,main,Charmy,0000,0000,0000,,Hello, I'm Magical Detective Charmy.
+Dialogue: 0,0:23:04.04,0:23:09.25,main,Charmy,0000,0000,0000,,A terrible crime has been committed. \NSomeone has eaten my cake.
+Dialogue: 0,0:23:09.25,0:23:13.08,main,Charmy,0000,0000,0000,,To uphold my honor, I will \Ncapture this vile criminal!
+Dialogue: 0,0:23:13.08,0:23:14.34,main,Yami,0000,0000,0000,,You're the culprit.
+Dialogue: 0,0:23:14.67,0:23:17.07,main,Charmy,0000,0000,0000,,The criminal was bold \Nenough to go into my room!
+Dialogue: 0,0:23:17.07,0:23:18.34,main,Charmy,0000,0000,0000,,My bedroom!
+Dialogue: 0,0:23:18.34,0:23:19.52,main,Yami,0000,0000,0000,,You're the damn culprit.
+Dialogue: 0,0:23:19.52,0:23:22.03,main,Charmy,0000,0000,0000,,But the criminal made a grave mistake.
+Dialogue: 0,0:23:22.03,0:23:24.16,main,Charmy,0000,0000,0000,,Look at this handprint!
+Dialogue: 0,0:23:24.16,0:23:25.98,main,Vanessa,0000,0000,0000,,That's your handprint, isn't it?
+Dialogue: 0,0:23:26.49,0:23:28.15,main,Charmy,0000,0000,0000,,The culprit is...
+Dialogue: 0,0:23:28.15,0:23:29.33,main,Noelle,0000,0000,0000,,You, right?
+Dialogue: 0,0:23:30.71,0:23:34.91,main,Charmy,0000,0000,0000,,It's me!
+Dialogue: 0,0:23:32.45,0:23:33.67,main,All,0000,0000,0000,,Duh.
+Dialogue: 0,0:23:35.57,0:23:38.37,main,Charmy,0000,0000,0000,,The ocean's such a lovely restaurant!
+Dialogue: 0,0:23:38.37,0:23:42.63,main,Charmy,0000,0000,0000,,I need to hurry up and finish this mission \Nso I can eat those fishies and clams!
+Dialogue: 0,0:23:42.63,0:23:45.42,main,charmy,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 46: "Awakening."
+Dialogue: 0,0:23:43.46,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 46\N\N{\fs18} Awakening
+Dialogue: 0,0:23:45.42,0:23:49.84,main,Charmy,0000,0000,0000,,Eating all of the ocean's bounty is my magic!

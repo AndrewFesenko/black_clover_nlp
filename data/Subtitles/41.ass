@@ -1,0 +1,400 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0080,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,0030,0030,0018,1
+Style: sign_26574_299_Grey_Disguised_a,Times New Roman,30,&H00FDFAFA,&H000000FF,&H00131921,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0075,1
+Style: sign_33882_363_Kahono_Idol_Show,Trebuchet MS,22,&H00BD0FE6,&H000000FF,&H00FDFFF6,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+
+
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.79,0:00:07.13,italics,nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.03,0:00:15.34,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.42,0:00:27.65,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:30.86,0:00:35.93,italics,Nar,0000,0000,0000,,Asta and the other Black Bulls headed \Nto the beach town of Raquey
+Dialogue: 0,0:00:35.93,0:00:39.48,italics,Nar,0000,0000,0000,,in order to go to the Underwater Temple \Nthat lay deep beneath the water there.
+Dialogue: 0,0:00:40.85,0:00:43.95,italics,Nar,0000,0000,0000,,Asta and the other Black \NBulls received an order
+Dialogue: 0,0:00:43.95,0:00:45.90,italics,Nar,0000,0000,0000,,to retrieve the magic stone in the temple
+Dialogue: 0,0:00:45.90,0:00:48.35,italics,Nar,0000,0000,0000,,so they can stop the Eye of the Midnight Sun,
+Dialogue: 0,0:00:48.35,0:00:53.14,italics,Nar,0000,0000,0000,,who want to separate from the \NClover Kingdom and create their own country.
+Dialogue: 0,0:00:53.14,0:00:54.09,italics,Nar,0000,0000,0000,,But...
+Dialogue: 0,0:00:57.54,0:01:00.09,main,Asta,0000,0000,0000,,Why are you all playing around?!
+Dialogue: 0,0:01:00.09,0:01:01.39,main,Yami,0000,0000,0000,,And you're not?
+Dialogue: 0,0:01:01.39,0:01:02.97,main,,0000,0000,0000,,C-Captain Yami...
+Dialogue: 0,0:01:04.61,0:01:07.52,main,Yami,0000,0000,0000,,All right, gather round, you idiots.
+Dialogue: 0,0:01:07.97,0:01:12.27,main,Yami,0000,0000,0000,,Apparently the Underwater Temple\Nreally is at the bottom of the ocean.
+Dialogue: 0,0:01:12.58,0:01:16.40,main,Yami,0000,0000,0000,,But the mana kicks up the \Nocean currents so much that,
+Dialogue: 0,0:01:16.40,0:01:19.74,main,Yami,0000,0000,0000,,ordinarily, even a first-class \Nmage can't get near it.
+Dialogue: 0,0:01:19.74,0:01:22.53,main,Yami,0000,0000,0000,,But on the night of the full moon,
+Dialogue: 0,0:01:22.53,0:01:25.25,main,Yami,0000,0000,0000,,the mana becomes weaker.\NWe might be able to get in then.
+Dialogue: 0,0:01:25.94,0:01:29.66,main,Yami,0000,0000,0000,,Like the name suggests, the Underwater \NTemple is on the ocean floor.
+Dialogue: 0,0:01:29.66,0:01:31.51,main,Yami,0000,0000,0000,,We can't just walk to it.
+Dialogue: 0,0:01:32.42,0:01:33.73,main,Yami,0000,0000,0000,,So Noelle...
+Dialogue: 0,0:01:33.73,0:01:36.01,main,Yami,0000,0000,0000,,Take us there with your water magic.
+Dialogue: 0,0:01:36.01,0:01:37.97,main,Yami,0000,0000,0000,,Give us a ride there.
+Dialogue: 0,0:01:37.97,0:01:43.47,main,Noelle,0000,0000,0000,,B-But I'd need incredible magic \Ncontrol in order to do that.
+Dialogue: 0,0:01:43.47,0:01:45.10,main,Noelle,0000,0000,0000,,I can't!
+Dialogue: 0,0:01:45.10,0:01:46.66,main,Yami,0000,0000,0000,,You do it.
+Dialogue: 0,0:01:47.30,0:01:49.31,main,Yami,0000,0000,0000,,The next full moon is a week away.
+Dialogue: 0,0:01:49.31,0:01:52.11,main,Yami,0000,0000,0000,,Learn to control it by then.
+Dialogue: 0,0:01:52.11,0:01:54.07,main,Yami,0000,0000,0000,,Surpass your limits.
+Dialogue: 0,0:02:27.12,0:02:29.85,Ep Title,Sign,0000,0000,0000,,{\fad(1,480)}The Water Girl Grows Up
+Dialogue: 0,0:03:32.58,0:03:35.00,main,Marx,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:03:36.58,0:03:40.03,main,Julius,0000,0000,0000,,Oh, I just thought I'd let in some fresh air.
+Dialogue: 0,0:03:40.03,0:03:42.09,main,Marx,0000,0000,0000,,I see. So...
+Dialogue: 0,0:03:42.09,0:03:43.46,main,Marx,0000,0000,0000,,What's your foot doing there?
+Dialogue: 0,0:03:43.46,0:03:46.09,main,Julius,0000,0000,0000,,Hey, now, how did that get there?
+Dialogue: 0,0:03:46.09,0:03:48.18,main,Julius,0000,0000,0000,,This foot is so rude.
+Dialogue: 0,0:03:48.18,0:03:51.20,main,Marx,0000,0000,0000,,You were planning to forget your work \Nand go out to play, weren't you?
+Dialogue: 0,0:03:51.20,0:03:54.61,main,Julius,0000,0000,0000,,What? Now, why would I go out to play?
+Dialogue: 0,0:03:54.61,0:03:56.50,main,Julius,0000,0000,0000,,I just wanted to go observe some magic—
+Dialogue: 0,0:03:56.50,0:03:59.03,main,Marx,0000,0000,0000,,You don't have time for that!
+Dialogue: 0,0:03:59.03,0:04:01.22,main,Marx,0000,0000,0000,,Please do your work for once!
+Dialogue: 0,0:04:01.22,0:04:02.88,main,Marx,0000,0000,0000,,Hurry up and shut that window!
+Dialogue: 0,0:04:02.88,0:04:03.76,main,Julius,0000,0000,0000,,Right...
+Dialogue: 0,0:04:04.83,0:04:10.12,main,Marx,0000,0000,0000,,Honestly... We haven't even resolved the \Nincident with the Eye of the Midnight Sun yet.
+Dialogue: 0,0:04:10.12,0:04:12.32,main,Julius,0000,0000,0000,,Don't be so angry, Marx.
+Dialogue: 0,0:04:12.32,0:04:13.73,main,Julius,0000,0000,0000,,You're gonna die young.
+Dialogue: 0,0:04:13.73,0:04:15.21,main,Marx,0000,0000,0000,,And whose fault is that?!
+Dialogue: 0,0:04:15.57,0:04:17.31,main,Julius,0000,0000,0000,,The Eye of the Midnight Sun, eh?
+Dialogue: 0,0:04:17.31,0:04:20.08,main,Julius,0000,0000,0000,,I hope Yami and the others are doing well.
+Dialogue: 0,0:04:21.03,0:04:23.38,main,Marx,0000,0000,0000,,I just hope they aren't fooling around.
+Dialogue: 0,0:04:23.86,0:04:26.93,main,Julius,0000,0000,0000,,I wish I could've gone to \Nthe Underwater Temple.
+Dialogue: 0,0:04:32.85,0:04:35.60,top,Vanessa,0000,0000,0000,,I feel sick from drinking too much...
+Dialogue: 0,0:04:33.28,0:04:36.79,main,Finral,0000,0000,0000,,I'll be the sun that'll make you shine.
+Dialogue: 0,0:04:36.79,0:04:40.29,main,Magna,0000,0000,0000,,You bastard! How dare you eat my pudding?!
+Dialogue: 0,0:04:41.65,0:04:42.69,main,Luck,0000,0000,0000,,It was yummy!
+Dialogue: 0,0:04:42.69,0:04:45.04,main,Magna,0000,0000,0000,,I wrote my name on it!
+Dialogue: 0,0:04:45.04,0:04:47.74,main,Luck,0000,0000,0000,,Other people's food always tastes better!
+Dialogue: 0,0:04:48.10,0:04:50.24,main,Magna,0000,0000,0000,,You bastard!
+Dialogue: 0,0:04:50.77,0:04:52.74,main,Gauche,0000,0000,0000,,Goodnight, my angel.
+Dialogue: 0,0:04:52.74,0:04:54.71,main,Charmy,0000,0000,0000,,Munchy, munchy, munchy, munchy, munchy...
+Dialogue: 0,0:04:55.95,0:04:57.42,main,Charmy,0000,0000,0000,,Seconds, please!
+Dialogue: 0,0:04:59.51,0:05:01.92,main,Yami,0000,0000,0000,,Knock it off, you assholes!
+Dialogue: 0,0:05:01.92,0:05:05.91,main,Yami,0000,0000,0000,,We're not here to play!\NI can't concentrate like this!
+Dialogue: 0,0:05:05.91,0:05:06.96,main,Yami,0000,0000,0000,,I'll kill you all!
+Dialogue: 0,0:05:06.96,0:05:08.43,main,All,0000,0000,0000,,Sorry!
+Dialogue: 0,0:06:24.96,0:06:28.10,italics,Noelle,0000,0000,0000,,What a beautiful voice.\NI wonder if she's from Raquey.
+Dialogue: 0,0:06:28.10,0:06:30.93,italics,Noelle,0000,0000,0000,,It's so beautiful and ethereal...
+Dialogue: 0,0:06:31.36,0:06:33.26,italics,Noelle,0000,0000,0000,,Are these bubbles magic?
+Dialogue: 0,0:06:33.26,0:06:36.18,main,Asta,0000,0000,0000,,Whoa, is she a water spirit?
+Dialogue: 0,0:06:38.18,0:06:41.11,main,Kahono,0000,0000,0000,,Eek! You heard that?
+Dialogue: 0,0:06:41.11,0:06:42.32,main,Kahono,0000,0000,0000,,How embarrassing!
+Dialogue: 0,0:06:42.32,0:06:44.19,main,Kahono,0000,0000,0000,,Eek!
+Dialogue: 0,0:06:42.32,0:06:44.75,italicstop,Both,0000,0000,0000,,Oh. She's not like what I'd imagined.
+Dialogue: 0,0:06:44.75,0:06:49.20,main,Kahono,0000,0000,0000,,Well, now that you've heard me, \Nthere's no way around it. Let's be friends!
+Dialogue: 0,0:06:49.94,0:06:51.70,main,Kahono,0000,0000,0000,,La-dee-dah!
+Dialogue: 0,0:06:51.70,0:06:53.20,italics,Both,0000,0000,0000,,Friends?
+Dialogue: 0,0:06:54.58,0:06:57.20,main,Kahono,0000,0000,0000,,I'm Kahono. What are your names?
+Dialogue: 0,0:06:57.52,0:07:01.02,main,Noelle,0000,0000,0000,,I'm Noelle. The meathead is Stupidsta.
+Dialogue: 0,0:07:01.02,0:07:03.28,main,Asta,0000,0000,0000,,Who are you calling \N"Stupidsta the meathead"?!
+Dialogue: 0,0:07:03.28,0:07:07.21,main,Kahono,0000,0000,0000,,Ah, so Noelle and Stupidsta the meathead.
+Dialogue: 0,0:07:07.21,0:07:08.75,main,Kahono,0000,0000,0000,,What a strange name.
+Dialogue: 0,0:07:08.75,0:07:10.72,main,Asta,0000,0000,0000,,Wait, don't believe her! \NHow naïve are you?!
+Dialogue: 0,0:07:10.72,0:07:11.61,main,Kahono,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:11.61,0:07:13.83,main,Asta,0000,0000,0000,,That's totally a nickname, \Nand she's making fun of me!
+Dialogue: 0,0:07:13.83,0:07:15.45,main,Asta,0000,0000,0000,,It's Asta! My name's Asta!
+Dialogue: 0,0:07:15.45,0:07:17.72,main,Kahono,0000,0000,0000,,I see. Nice to meet you, Asta!
+Dialogue: 0,0:07:17.72,0:07:20.60,main,Noelle,0000,0000,0000,,So what were you doing out here, Kahono?
+Dialogue: 0,0:07:20.60,0:07:21.95,main,Kahono,0000,0000,0000,,I was singing.
+Dialogue: 0,0:07:21.95,0:07:23.31,main,Noelle,0000,0000,0000,,Well, yeah, I could see that.
+Dialogue: 0,0:07:23.31,0:07:25.90,main,Kahono,0000,0000,0000,,I was doing vocal training.
+Dialogue: 0,0:07:25.90,0:07:28.88,main,Kahono,0000,0000,0000,,I love singing at this spot.
+Dialogue: 0,0:07:29.39,0:07:30.23,main,Noelle,0000,0000,0000,,Training?
+Dialogue: 0,0:07:30.54,0:07:33.24,main,Kahono,0000,0000,0000,,Yup! I have a dream!
+Dialogue: 0,0:07:34.26,0:07:36.87,main,Kahono,0000,0000,0000,,I want to be a singing,\Ndancing, magic-using...
+Dialogue: 0,0:07:37.41,0:07:39.54,main,Kahono,0000,0000,0000,,idol!
+Dialogue: 0,0:07:39.54,0:07:41.09,main,Both,0000,0000,0000,,What's an idol?
+Dialogue: 0,0:07:41.09,0:07:42.54,main,Kahono,0000,0000,0000,,What?!
+Dialogue: 0,0:07:42.54,0:07:44.15,main,Kahono,0000,0000,0000,,You don't know?!
+Dialogue: 0,0:07:44.15,0:07:45.33,main,Both,0000,0000,0000,,Nope.
+Dialogue: 0,0:07:45.33,0:07:50.24,main,Kahono,0000,0000,0000,,They're all the rage in the Common Realm\Nand Noble Realm right now!
+Dialogue: 0,0:07:50.24,0:07:51.54,main,Both,0000,0000,0000,,Oh...
+Dialogue: 0,0:07:51.54,0:07:54.63,main,Kahono,0000,0000,0000,,Well, you see... So, you see... Well...
+Dialogue: 0,0:07:54.63,0:07:59.03,main,Kahono,0000,0000,0000,,Idols are popular people who \Ncan sing, dance, and use magic!
+Dialogue: 0,0:07:59.03,0:08:00.15,main,Both,0000,0000,0000,,Huh...
+Dialogue: 0,0:08:00.15,0:08:04.73,main,Kahono,0000,0000,0000,,I'm going to become a famous \Nidol and get super rich!
+Dialogue: 0,0:08:04.73,0:08:06.82,main,Noelle,0000,0000,0000,,So you're after money?
+Dialogue: 0,0:08:06.82,0:08:08.90,main,Noelle,0000,0000,0000,,What's so great about money, anyway?
+Dialogue: 0,0:08:08.90,0:08:10.77,main,Noelle,0000,0000,0000,,If you do have it, it's just in the way.
+Dialogue: 0,0:08:10.77,0:08:13.22,main,Asta,0000,0000,0000,,It's not in the way! Money's important!
+Dialogue: 0,0:08:13.22,0:08:16.32,main,Asta,0000,0000,0000,,You've never had to worry about not \Nhaving money, so you wouldn't understand.
+Dialogue: 0,0:08:16.32,0:08:18.57,main,Asta,0000,0000,0000,,But money's really important!
+Dialogue: 0,0:08:18.57,0:08:21.73,main,Asta,0000,0000,0000,,You can't eat tatoes without any money!
+Dialogue: 0,0:08:21.73,0:08:24.83,main,Noelle,0000,0000,0000,,If you don't have any tatoes, \Nwhy don't you just eat steak?
+Dialogue: 0,0:08:25.19,0:08:27.58,main,Asta,0000,0000,0000,,Damned royalty!
+Dialogue: 0,0:08:27.58,0:08:30.42,main,Kahono,0000,0000,0000,,Yeah! Money's really important.
+Dialogue: 0,0:08:30.42,0:08:32.67,main,Kahono,0000,0000,0000,,I totally understand what Stupidsta's saying!
+Dialogue: 0,0:08:32.67,0:08:34.74,main,Asta,0000,0000,0000,,Seriously, who are you calling "Stupidsta"?!
+Dialogue: 0,0:08:34.74,0:08:35.82,main,Kahono,0000,0000,0000,,Was it Kasta?
+Dialogue: 0,0:08:35.82,0:08:37.51,main,Asta,0000,0000,0000,,I told you, it's Asta!
+Dialogue: 0,0:08:37.51,0:08:40.51,main,Kahono,0000,0000,0000,,Oh, right. As—Oh?
+Dialogue: 0,0:08:42.23,0:08:43.18,main,Asta,0000,0000,0000,,What?
+Dialogue: 0,0:08:44.77,0:08:46.93,main,Kahono,0000,0000,0000,,Stupidsta, your body's weakened.
+Dialogue: 0,0:08:46.93,0:08:48.31,main,Asta,0000,0000,0000,,It's Asta, damn it!
+Dialogue: 0,0:08:48.31,0:08:49.20,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:49.20,0:08:50.00,main,Noelle,0000,0000,0000,,What?
+Dialogue: 0,0:08:50.00,0:08:52.31,main,Kahono,0000,0000,0000,,Your muscles are pretty fatigued.
+Dialogue: 0,0:08:52.31,0:08:53.46,main,Asta,0000,0000,0000,,Are they?
+Dialogue: 0,0:08:53.46,0:08:55.44,main,Kahono,0000,0000,0000,,Do you ache when you move?
+Dialogue: 0,0:08:55.44,0:08:57.57,main,Asta,0000,0000,0000,,Wait, how can you tell?
+Dialogue: 0,0:08:58.71,0:09:00.03,main,Kahono,0000,0000,0000,,That's my power.
+Dialogue: 0,0:09:00.03,0:09:01.39,main,Both,0000,0000,0000,,Power?
+Dialogue: 0,0:09:01.39,0:09:03.24,main,Kahono,0000,0000,0000,,Don't worry. You'll feel better in a sec.
+Dialogue: 0,0:09:04.39,0:09:07.25,italics,Kahono,0000,0000,0000,,Song Recovery Magic: Healing Lullaby.
+Dialogue: 0,0:09:11.25,0:09:12.75,main,Noelle,0000,0000,0000,,This is...
+Dialogue: 0,0:09:13.11,0:09:18.26,italics,Noelle,0000,0000,0000,,She pinpointed each individual spot.\NWhat precise magic use.
+Dialogue: 0,0:09:20.37,0:09:21.65,main,Noelle,0000,0000,0000,,H-How do you feel?
+Dialogue: 0,0:09:21.65,0:09:23.26,main,Asta,0000,0000,0000,,Well, I feel...
+Dialogue: 0,0:09:27.27,0:09:31.02,main,Asta,0000,0000,0000,,This is awesome! I don't \Nhurt anywhere anymore!
+Dialogue: 0,0:09:31.36,0:09:32.98,main,Asta,0000,0000,0000,,My body feels so light!
+Dialogue: 0,0:09:32.98,0:09:35.09,main,Asta,0000,0000,0000,,My muscles aren't fatigued anymore!
+Dialogue: 0,0:09:35.09,0:09:37.86,main,Asta,0000,0000,0000,,Thank you, Kahono! You're amazing!
+Dialogue: 0,0:09:38.29,0:09:41.38,main,Noelle,0000,0000,0000,,I've never seen song recovery magic before.
+Dialogue: 0,0:09:42.15,0:09:43.87,main,Kahono,0000,0000,0000,,Great!
+Dialogue: 0,0:09:43.87,0:09:46.01,main,Kahono,0000,0000,0000,,Okay, that'll be 100 yuls per session.
+Dialogue: 0,0:09:46.01,0:09:47.59,main,Asta,0000,0000,0000,,You're charging me?!
+Dialogue: 0,0:09:47.59,0:09:48.79,main,Kahono,0000,0000,0000,,Just kidding!
+Dialogue: 0,0:09:49.21,0:09:50.16,main,Asta,0000,0000,0000,,Good...
+Dialogue: 0,0:09:50.16,0:09:51.77,main,Kahono,0000,0000,0000,,Or not!
+Dialogue: 0,0:09:51.77,0:09:52.84,main,Asta,0000,0000,0000,,You're really charging me?!
+Dialogue: 0,0:09:52.84,0:09:55.21,main,Kahono,0000,0000,0000,,Money's important, right?
+Dialogue: 0,0:09:55.62,0:09:56.59,main,Asta,0000,0000,0000,,Here...
+Dialogue: 0,0:09:56.59,0:09:57.47,main,Kahono,0000,0000,0000,,One hundred.
+Dialogue: 0,0:09:57.47,0:09:58.66,main,Kahono,0000,0000,0000,,Thank you kindly.
+Dialogue: 0,0:09:58.66,0:10:01.23,main,Kahono,0000,0000,0000,,Just let me know when you \Nwant me to sing for you again.
+Dialogue: 0,0:10:02.00,0:10:04.07,main,Asta,0000,0000,0000,,My hundred yuls...
+Dialogue: 0,0:10:04.07,0:10:05.35,main,Noelle,0000,0000,0000,,That's just spare change.
+Dialogue: 0,0:10:05.35,0:10:06.79,main,Asta,0000,0000,0000,,How is that spare change?!
+Dialogue: 0,0:10:06.79,0:10:08.54,main,Asta,0000,0000,0000,,I can buy at least ten tatoes with that!
+Dialogue: 0,0:10:08.54,0:10:09.98,main,Noelle,0000,0000,0000,,See? It is change.
+Dialogue: 0,0:10:09.98,0:10:12.23,main,Asta,0000,0000,0000,,Damned royalty!
+Dialogue: 0,0:10:13.99,0:10:15.81,main,Kahono,0000,0000,0000,,You're both really funny.
+Dialogue: 0,0:10:15.81,0:10:17.23,main,kahono,0000,0000,0000,,How old are you?
+Dialogue: 0,0:10:17.23,0:10:18.30,main,Asta,0000,0000,0000,,Fifteen...
+Dialogue: 0,0:10:18.30,0:10:19.24,main,Noelle,0000,0000,0000,,Same here.
+Dialogue: 0,0:10:19.24,0:10:21.40,main,Kahono,0000,0000,0000,,Really? I'm fifteen, too!
+Dialogue: 0,0:10:21.40,0:10:22.24,main,Kahono,0000,0000,0000,,We're the same!
+Dialogue: 0,0:10:22.58,0:10:23.82,main,Asta,0000,0000,0000,,Really?
+Dialogue: 0,0:10:23.82,0:10:26.08,main,Kahono,0000,0000,0000,,Hey, let's be friends!
+Dialogue: 0,0:10:26.08,0:10:29.16,main,Asta,0000,0000,0000,,Sure, count me in. You're pretty funny.
+Dialogue: 0,0:10:29.16,0:10:32.86,italics,Noelle,0000,0000,0000,,A girl my age... who's a friend?
+Dialogue: 0,0:10:32.86,0:10:34.07,italics,Noelle,0000,0000,0000,,This is my first one.
+Dialogue: 0,0:10:34.80,0:10:38.07,main,Noelle,0000,0000,0000,,W-Well, if you insist, \NI guess I don't mind.
+Dialogue: 0,0:10:38.07,0:10:40.23,main,Noelle,0000,0000,0000,,I'm willing to be your friend.
+Dialogue: 0,0:10:40.23,0:10:41.97,main,Kahono,0000,0000,0000,,Yay!
+Dialogue: 0,0:10:42.34,0:10:44.97,main,Kahono,0000,0000,0000,,Oh, sorry. I'm so happy, I couldn't help myself.
+Dialogue: 0,0:10:44.97,0:10:46.34,main,Asta,0000,0000,0000,,Really?
+Dialogue: 0,0:10:57.02,0:11:00.27,main,Kahono,0000,0000,0000,,I see. So you're both Magic Knights.
+Dialogue: 0,0:11:00.27,0:11:01.47,main,Kahono,0000,0000,0000,,That's amazing!
+Dialogue: 0,0:11:01.47,0:11:03.36,main,Noelle,0000,0000,0000,,I-It's no big deal.
+Dialogue: 0,0:11:03.36,0:11:06.76,main,Noelle,0000,0000,0000,,It's to be expected for me. I'm royalty.
+Dialogue: 0,0:11:06.76,0:11:08.62,main,Asta,0000,0000,0000,,I'm a peasant, though.
+Dialogue: 0,0:11:09.15,0:11:12.83,main,Kahono,0000,0000,0000,,So, what brings you to Raquey?\NTaking a vacation?
+Dialogue: 0,0:11:12.83,0:11:15.27,main,Asta,0000,0000,0000,,We're on an important mission.
+Dialogue: 0,0:11:15.27,0:11:17.42,main,Asta,0000,0000,0000,,We're actually trying to get \Nto the Underwater Tem—
+Dialogue: 0,0:11:16.45,0:11:17.42,top,Noelle,0000,0000,0000,,Stupidsta!
+Dialogue: 0,0:11:17.75,0:11:19.52,main,kahono,0000,0000,0000,,The Underwater Temple?
+Dialogue: 0,0:11:18.15,0:11:21.59,main,Noelle,0000,0000,0000,,Sorry, but this mission's a secret.
+Dialogue: 0,0:11:21.59,0:11:23.46,main,Kahono,0000,0000,0000,,Well, whatever.
+Dialogue: 0,0:11:23.46,0:11:26.80,main,Kahono,0000,0000,0000,,So, what were you two up to at this hour?
+Dialogue: 0,0:11:26.80,0:11:29.81,main,Kahono,0000,0000,0000,,Could it be... Eek!
+Dialogue: 0,0:11:29.81,0:11:32.56,main,Noelle,0000,0000,0000,,Wh-What are you talking about? Of course not!
+Dialogue: 0,0:11:32.96,0:11:35.52,main,Kahono,0000,0000,0000,,The moonlight is so romantic, isn't it?
+Dialogue: 0,0:11:35.52,0:11:38.97,main,Kahono,0000,0000,0000,,The sound of the splashing waves \Nalso heightens the mood and... Eek!
+Dialogue: 0,0:11:38.97,0:11:41.23,main,Noelle,0000,0000,0000,,I told you, that's not it!
+Dialogue: 0,0:11:41.23,0:11:44.15,main,Noelle,0000,0000,0000,,I was training, too! Magic training!
+Dialogue: 0,0:11:44.51,0:11:45.62,main,Kahono,0000,0000,0000,,Magic training?
+Dialogue: 0,0:11:45.62,0:11:48.93,main,Noelle,0000,0000,0000,,Y-Yeah. I can't give you the details,
+Dialogue: 0,0:11:48.93,0:11:54.16,main,Noelle,0000,0000,0000,,but I need to learn how to control my magic \Nwithin the week before the next full moon.
+Dialogue: 0,0:11:56.13,0:11:58.04,main,Noelle,0000,0000,0000,,Otherwise, this important mission—
+Dialogue: 0,0:11:58.04,0:11:59.35,main,Kahono,0000,0000,0000,,I see.
+Dialogue: 0,0:12:00.58,0:12:03.25,main,Kahono,0000,0000,0000,,So you want to control your magic...
+Dialogue: 0,0:12:03.25,0:12:06.15,main,Kahono,0000,0000,0000,,Hey, Noelle. Show me your magic real quick.
+Dialogue: 0,0:12:06.15,0:12:07.19,main,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:16.73,0:12:19.05,main,Asta,0000,0000,0000,,You can do it, Noelle!
+Dialogue: 0,0:12:19.05,0:12:21.25,main,Kahono,0000,0000,0000,,Wow! That's amazing!
+Dialogue: 0,0:12:29.03,0:12:31.49,main,Kahono,0000,0000,0000,,I see. Good work, Noelle.
+Dialogue: 0,0:12:31.49,0:12:34.72,main,Kahono,0000,0000,0000,,Now that we're friends,\NI have some advice for you.
+Dialogue: 0,0:12:34.72,0:12:35.52,main,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:35.52,0:12:37.07,main,Kahono,0000,0000,0000,,I think you're trying to hold in
+Dialogue: 0,0:12:37.07,0:12:40.00,main,Kahono,0000,0000,0000,,your mana too much when \Nyou try to control your magic.
+Dialogue: 0,0:12:40.00,0:12:41.25,main,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:42.58,0:12:44.35,main,Kahono,0000,0000,0000,,Listen closely.
+Dialogue: 0,0:12:47.63,0:12:48.73,main,Kahono,0000,0000,0000,,Can you hear it?
+Dialogue: 0,0:12:48.73,0:12:52.79,main,Kahono,0000,0000,0000,,I listen to the sound of \Nthe waves to calm myself
+Dialogue: 0,0:12:52.79,0:12:55.77,main,Kahono,0000,0000,0000,,so I can use my magic exactly how I want to.
+Dialogue: 0,0:12:56.09,0:12:57.77,main,Noelle,0000,0000,0000,,Exactly how you want to?
+Dialogue: 0,0:12:58.21,0:13:04.74,main,Kahno,0000,0000,0000,,It might just be me, but I think that true \Nconcentration comes from a calm heart.
+Dialogue: 0,0:13:04.74,0:13:07.77,main,Noelle,0000,0000,0000,,From a calm heart?
+Dialogue: 0,0:13:07.77,0:13:09.03,main,Asta,0000,0000,0000,,I get it!
+Dialogue: 0,0:13:09.03,0:13:13.38,main,Asta,0000,0000,0000,,I also feel like my best swings happen when \NI'm not thinking about anything at all!
+Dialogue: 0,0:13:13.38,0:13:14.87,main,Noelle,0000,0000,0000,,Would you shut up?
+Dialogue: 0,0:13:14.87,0:13:18.12,main,Noelle,0000,0000,0000,,You don't even use magic, and you're \Nnever thinking about anything, anyway.
+Dialogue: 0,0:13:18.54,0:13:22.38,main,Kahono,0000,0000,0000,,What's the kindest memory you have \Nthat brings you the most peace?
+Dialogue: 0,0:13:22.93,0:13:25.35,main,Noelle,0000,0000,0000,,My kindest... memory?
+Dialogue: 0,0:13:25.35,0:13:27.88,main,Kahono,0000,0000,0000,,Yeah. Maybe your family?
+Dialogue: 0,0:13:28.71,0:13:30.00,main,Noelle,0000,0000,0000,,My family...
+Dialogue: 0,0:13:37.35,0:13:41.65,flashback,Noelle's dad,0000,0000,0000,,To think that the last thing the \None they called the Steel Princess
+Dialogue: 0,0:13:41.65,0:13:45.09,flashback,Noelle's dad,0000,0000,0000,,gave this world would be\Nsomeone as useless as you.
+Dialogue: 0,0:13:47.17,0:13:51.66,flashback,Solid,0000,0000,0000,,I'll never accept a failure \Nlike you as family.
+Dialogue: 0,0:13:51.66,0:13:53.67,flashback,Noelle,0000,0000,0000,,Solid...
+Dialogue: 0,0:13:54.35,0:13:57.44,flashback,Nebra,0000,0000,0000,,Are you seriously Mother's child?
+Dialogue: 0,0:13:57.44,0:14:00.92,flashback,Nebra,0000,0000,0000,,The House of Silva doesn't \Nneed someone like you.
+Dialogue: 0,0:14:01.94,0:14:04.17,flashback,Noelle,0000,0000,0000,,Nebra...
+Dialogue: 0,0:14:05.49,0:14:07.92,flashback,Noelle,0000,0000,0000,,Um, Nozel...
+Dialogue: 0,0:14:08.37,0:14:14.39,flashback,Nozel,0000,0000,0000,,Why did Mother have to die to \Ngive birth to someone like you?
+Dialogue: 0,0:14:21.94,0:14:24.66,flashbackitalics,Nozel,0000,0000,0000,,You killed our mother.
+Dialogue: 0,0:14:26.55,0:14:30.57,main,Noelle,0000,0000,0000,,Thanks for the advice, Kahono. \NI'll try practicing a bit more.
+Dialogue: 0,0:14:30.57,0:14:32.61,main,Kahono,0000,0000,0000,,Let me know if you get tired.
+Dialogue: 0,0:14:32.61,0:14:37.39,main,Kahono,0000,0000,0000,,It'll only be a hundred... No, it'll only \Nbe a thousand yuls, since you're a royal.
+Dialogue: 0,0:14:40.24,0:14:41.99,main,Asta,0000,0000,0000,,A kind memory...
+Dialogue: 0,0:14:41.99,0:14:44.63,main,Asta,0000,0000,0000,,Sister, how are you doing?
+Dialogue: 0,0:14:48.01,0:14:50.80,main,Finral,0000,0000,0000,,You're shining under my sun!
+Dialogue: 0,0:14:50.80,0:14:51.87,main,Girl,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:14:58.59,0:15:00.02,main,Asta,0000,0000,0000,,Not yet!
+Dialogue: 0,0:15:00.02,0:15:01.64,main,Kahono,0000,0000,0000,,Keep it up!
+Dialogue: 0,0:15:04.90,0:15:08.84,main,Gauche,0000,0000,0000,,You're truly a goddess. \NMy little sister, Marie...
+Dialogue: 0,0:15:08.84,0:15:09.86,main,Girl,0000,0000,0000,,What the heck is that?
+Dialogue: 0,0:15:09.86,0:15:12.28,main,Girl 2,0000,0000,0000,,Are they having some kind of contest?
+Dialogue: 0,0:15:17.62,0:15:18.88,main,Noelle,0000,0000,0000,,Not yet!
+Dialogue: 0,0:15:22.64,0:15:24.31,main,Noelle,0000,0000,0000,,Thanks, Kahono.
+Dialogue: 0,0:15:25.19,0:15:27.13,main,Kahono,0000,0000,0000,,You can just pay me later.
+Dialogue: 0,0:15:27.13,0:15:28.34,main,Noelle,0000,0000,0000,,Of course.
+Dialogue: 0,0:15:30.07,0:15:31.20,main,Noelle,0000,0000,0000,,Not yet...
+Dialogue: 0,0:15:36.26,0:15:38.64,main,Vanessa,0000,0000,0000,,I can't drink any more...
+Dialogue: 0,0:15:43.01,0:15:44.16,main,Noelle,0000,0000,0000,,Not yet!
+Dialogue: 0,0:15:44.59,0:15:46.15,main,Asta,0000,0000,0000,,Noelle!
+Dialogue: 0,0:15:52.09,0:15:57.66,main,Gordon,0000,0000,0000,,Everyone left me... \NWon't someone come get me?
+Dialogue: 0,0:16:05.55,0:16:10.63,italics,Noelle,0000,0000,0000,,The full moon is tomorrow... \NTonight's my last chance.
+Dialogue: 0,0:16:10.99,0:16:14.05,main,Kahono,0000,0000,0000,,Don't worry! You've almost got it, Noelle!
+Dialogue: 0,0:16:14.05,0:16:18.47,italics,Noelle,0000,0000,0000,,There's no time... I still \Ncan't control it at all.
+Dialogue: 0,0:16:18.47,0:16:20.81,italics,Noelle,0000,0000,0000,,At this rate, the mission will be...
+Dialogue: 0,0:16:20.81,0:16:23.31,main,Asta,0000,0000,0000,,I just got a great idea!
+Dialogue: 0,0:16:23.31,0:16:24.69,main,Noelle,0000,0000,0000,,Asta?!
+Dialogue: 0,0:16:24.69,0:16:29.44,main,Asta,0000,0000,0000,,Noelle! Stop thinking,\Nand set all of your magic free!
+Dialogue: 0,0:16:29.44,0:16:30.50,main,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:30.50,0:16:32.03,main,Asta,0000,0000,0000,,I just remembered!
+Dialogue: 0,0:16:32.34,0:16:36.58,main,Asta,0000,0000,0000,,That thing from the first time you lost control \Nwould probably go underwater the best.
+Dialogue: 0,0:16:38.83,0:16:42.66,main,Asta,0000,0000,0000,,Remember what Kahono said earlier? \NThat you were holding your magic back?
+Dialogue: 0,0:16:42.98,0:16:47.06,main,Asta,0000,0000,0000,,If that's the case, maybe it'll work \Nif you just let everything loose.
+Dialogue: 0,0:16:47.06,0:16:48.69,main,Noelle,0000,0000,0000,,A-Are you crazy?
+Dialogue: 0,0:16:48.69,0:16:49.67,main,Noelle,0000,0000,0000,,If it doesn't work—
+Dialogue: 0,0:16:49.67,0:16:52.84,main,Asta,0000,0000,0000,,I told you! If that happens, \NI'll use my sword to save you!
+Dialogue: 0,0:16:52.84,0:16:55.59,main,Asta,0000,0000,0000,,So don't worry and just go!
+Dialogue: 0,0:16:57.14,0:17:01.10,main,Noelle,0000,0000,0000,,Fine! Don't blame me if something happens!
+Dialogue: 0,0:17:06.24,0:17:07.85,italics,Noelle,0000,0000,0000,,I'm releasing...
+Dialogue: 0,0:17:08.24,0:17:09.35,italics,Noelle,0000,0000,0000,,all my magic!
+Dialogue: 0,0:17:15.47,0:17:16.86,main,Kahono,0000,0000,0000,,Amazing!
+Dialogue: 0,0:17:22.37,0:17:25.87,italics,Noelle,0000,0000,0000,,I knew it! This isn't going to work at all!
+Dialogue: 0,0:17:25.87,0:17:29.47,italics,Noelle,0000,0000,0000,,How am I supposed to relax in this situation?
+Dialogue: 0,0:17:34.82,0:17:35.83,main,Kahono,0000,0000,0000,,Noelle!
+Dialogue: 0,0:17:36.85,0:17:37.84,main,Asta,0000,0000,0000,,Noelle!
+Dialogue: 0,0:17:39.81,0:17:42.86,italics,Noelle,0000,0000,0000,,I guess I really can't do it.
+Dialogue: 0,0:17:42.86,0:17:43.94,italics,Noelle,0000,0000,0000,,I mean...
+Dialogue: 0,0:17:45.20,0:17:49.78,italics,Noelle,0000,0000,0000,,I don't have any... kind memories at all...
+Dialogue: 0,0:17:50.27,0:17:53.04,main,All,0000,0000,0000,,Noelle!
+Dialogue: 0,0:17:53.04,0:17:56.03,main,All,0000,0000,0000,,You can do it!
+Dialogue: 0,0:17:56.03,0:17:58.82,main,Magna,0000,0000,0000,,You're always talking big, \Nso what the hell is that?
+Dialogue: 0,0:17:58.82,0:18:01.70,main,Magna,0000,0000,0000,,And you call yourself a Black Bull?!
+Dialogue: 0,0:18:01.70,0:18:04.40,main,Luck,0000,0000,0000,,All that awesome magic is going to waste.
+Dialogue: 0,0:18:04.40,0:18:07.73,main,Luck,0000,0000,0000,,Hurry and learn how to control it\Nso you can fight me!
+Dialogue: 0,0:18:07.73,0:18:11.61,main,Vanessa,0000,0000,0000,,It'll be fine! Even if you mess up,\Nyou won't die or anything!
+Dialogue: 0,0:18:11.61,0:18:12.96,main,Vanessa,0000,0000,0000,,Just take it easy!
+Dialogue: 0,0:18:12.96,0:18:15.11,main,Charmy,0000,0000,0000,,You must be hungry!
+Dialogue: 0,0:18:15.11,0:18:17.71,main,Charmy,0000,0000,0000,,Hurry up and finish so you can eat this!
+Dialogue: 0,0:18:17.71,0:18:21.34,main,Finral,0000,0000,0000,,Even if you fall, I'll catch you gently!
+Dialogue: 0,0:18:21.34,0:18:24.47,main,Gauche,0000,0000,0000,,If you fall, I'm kicking you back \Nup there, so make this work.
+Dialogue: 0,0:18:24.47,0:18:27.47,sign_26574_299_Grey_Disguised_a,Sign,0000,0000,0000,,Grey Disguised as Magna
+Dialogue: 0,0:18:24.47,0:18:27.47,top,Magna,0000,0000,0000,,Just get it done, damn it!
+Dialogue: 0,0:18:27.85,0:18:30.59,main,Asta,0000,0000,0000,,Noelle! You can do this!
+Dialogue: 0,0:18:38.99,0:18:40.27,italics,Noelle,0000,0000,0000,,I had some...
+Dialogue: 0,0:18:40.27,0:18:43.17,italics,Noelle,0000,0000,0000,,Some kind memories within me.
+Dialogue: 0,0:18:45.49,0:18:48.50,flashback,Yami,0000,0000,0000,,So you're Nozel's little sister.
+Dialogue: 0,0:18:48.50,0:18:54.99,flashback,Yami,0000,0000,0000,,Your big bro mentioned that you're some \Nloser who can't even control her magic.
+Dialogue: 0,0:18:54.99,0:18:58.27,flashback,Yami,0000,0000,0000,,And that you wouldn't be able to pass \Nthe Entrance Exam even if you tried.
+Dialogue: 0,0:18:59.25,0:19:02.26,flashback,Yami,0000,0000,0000,,I've never seen a royal fail before.
+Dialogue: 0,0:19:02.99,0:19:04.01,flashback,Noelle,0000,0000,0000,,If you'll excuse me...
+Dialogue: 0,0:19:04.43,0:19:08.27,flashback,Yami,0000,0000,0000,,Well, if you feel like fighting, \Nwhy don't you come join my team?
+Dialogue: 0,0:19:08.27,0:19:09.36,flashback,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:09.36,0:19:13.57,flashback,Yami,0000,0000,0000,,The absolute worst Magic \NKnights squad, the Black Bulls.
+Dialogue: 0,0:19:13.57,0:19:15.77,flashback,Yami,0000,0000,0000,,We're all nothing but losers.
+Dialogue: 0,0:19:16.40,0:19:18.19,flashback,Yami,0000,0000,0000,,Meaning we're perfect for you.
+Dialogue: 0,0:19:20.19,0:19:25.25,italics,Noelle,0000,0000,0000,,I was with my family for years, but I didn't \Nhave a single pleasant memory of them.
+Dialogue: 0,0:19:26.40,0:19:30.54,italics,Noelle,0000,0000,0000,,It's only been a few months since \NI joined the Black Bulls, but...
+Dialogue: 0,0:19:32.46,0:19:34.54,italics,Noelle,0000,0000,0000,,I have so many memories!
+Dialogue: 0,0:19:35.71,0:19:38.42,italics,Noelle,0000,0000,0000,,So many kind memories.
+Dialogue: 0,0:19:39.34,0:19:40.26,italics,Noelle,0000,0000,0000,,And...
+Dialogue: 0,0:19:44.69,0:19:48.48,italics,Noelle,0000,0000,0000,,They all acknowledged me \Nand gave me a mission.
+Dialogue: 0,0:19:49.15,0:19:52.73,italics,Noelle,0000,0000,0000,,I want to help them!
+Dialogue: 0,0:19:57.19,0:20:00.44,italics,Noelle,0000,0000,0000,,Water Creation Magic: Sea Dragon's Cradle!
+Dialogue: 0,0:20:07.60,0:20:10.20,main,Noelle,0000,0000,0000,,I... I did it!
+Dialogue: 0,0:20:10.71,0:20:12.20,main,All,0000,0000,0000,,All right!
+Dialogue: 0,0:20:12.70,0:20:15.21,italics,Noelle,0000,0000,0000,,The Sea Dragon's Cradle...
+Dialogue: 0,0:20:15.21,0:20:18.18,italics,Noelle,0000,0000,0000,,I did it! I really did it!
+Dialogue: 0,0:20:22.47,0:20:23.91,main,Magna,0000,0000,0000,,Don't get distracted!
+Dialogue: 0,0:20:23.91,0:20:25.80,main,Charmy,0000,0000,0000,,I'll protect the food!
+Dialogue: 0,0:20:27.52,0:20:30.47,main,Vanessa,0000,0000,0000,,This feels great after \Nbeing in the sun all day!
+Dialogue: 0,0:20:34.06,0:20:35.65,main,Final,0000,0000,0000,,Hey, it's my turn!
+Dialogue: 0,0:20:35.65,0:20:36.69,main,Finral,0000,0000,0000,,I'll be right there!
+Dialogue: 0,0:20:36.69,0:20:37.69,main,Asta,0000,0000,0000,,Hup!
+Dialogue: 0,0:20:38.53,0:20:40.94,main,Final,0000,0000,0000,,Asta! That was my job!
+Dialogue: 0,0:20:41.63,0:20:43.68,main,Noelle,0000,0000,0000,,S-Stupidsta...
+Dialogue: 0,0:20:43.68,0:20:45.55,main,Asta,0000,0000,0000,,You did it, Noelle!
+Dialogue: 0,0:20:47.19,0:20:48.20,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:49.70,0:20:51.83,main,Noelle,0000,0000,0000,,Could you not touch me so casually?!
+Dialogue: 0,0:20:51.83,0:20:53.45,main,Asta,0000,0000,0000,,What?!
+Dialogue: 0,0:20:53.97,0:20:55.46,main,Gauche,0000,0000,0000,,Who the hell are you?
+Dialogue: 0,0:20:55.46,0:20:58.18,main,Vanessa,0000,0000,0000,,Thank goodness everything ended well.
+Dialogue: 0,0:20:58.18,0:20:59.71,main,Vanessa,0000,0000,0000,,Now, let's drink up.
+Dialogue: 0,0:20:59.71,0:21:02.03,main,Noelle,0000,0000,0000,,Kahono! I did it—
+Dialogue: 0,0:21:02.56,0:21:04.39,main,Noelle,0000,0000,0000,,Huh? Kahono?
+Dialogue: 0,0:21:04.87,0:21:07.02,main,Magna,0000,0000,0000,,All right! Time to celebrate!
+Dialogue: 0,0:21:07.02,0:21:08.47,main,Luck,0000,0000,0000,,Yeah! Let's celebrate!
+Dialogue: 0,0:21:08.83,0:21:10.71,main,Both,0000,0000,0000,,Here we go!
+Dialogue: 0,0:21:14.69,0:21:18.05,main,Yami,0000,0000,0000,,You did it, Noelle.\NYou surpassed your limits.
+Dialogue: 0,0:21:19.20,0:21:20.88,main,Yami,0000,0000,0000,,Well, guess we should get going
+Dialogue: 0,0:21:20.88,0:21:22.71,main,Yami,0000,0000,0000,,to the Underwater Temple.
+Dialogue: 0,0:21:25.94,0:21:27.44,main,Kahono,0000,0000,0000,,You've got some great friends!
+Dialogue: 0,0:21:27.44,0:21:30.13,main,Kahono,0000,0000,0000,,They're the ones who should be \Ncheering for you in the end!
+Dialogue: 0,0:21:30.13,0:21:31.91,main,Kahono,0000,0000,0000,,Good for you!
+Dialogue: 0,0:21:32.43,0:21:34.48,main,Kahono,0000,0000,0000,,Well, I'll be waiting for you, Noelle!
+Dialogue: 0,0:21:34.48,0:21:36.87,main,Kahono,0000,0000,0000,,Inside the temple! Okay?
+Dialogue: 0,0:23:09.03,0:23:13.51,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:23:09.91,0:23:12.55,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:23:13.01,0:23:17.01,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Song Recovery Magic!
+Dialogue: 0,0:23:14.03,0:23:15.81,main,Kahono,0000,0000,0000,,Song Recovery Magic!
+Dialogue: 0,0:23:17.01,0:23:19.82,main,Julius,0000,0000,0000,,Song recovery magic?! That's amazing!
+Dialogue: 0,0:23:19.82,0:23:20.73,main,Julius,0000,0000,0000,,Sing for me!
+Dialogue: 0,0:23:21.15,0:23:23.74,main,Kahono,0000,0000,0000,,Sure! It'll just be ten billion yuls!
+Dialogue: 0,0:23:23.74,0:23:24.54,main,Julius,0000,0000,0000,,Here you go!
+Dialogue: 0,0:23:24.54,0:23:25.65,main,Kahono,0000,0000,0000,,Okay, I'll sing!
+Dialogue: 0,0:23:29.28,0:23:33.11,main,Julius,0000,0000,0000,,L-o-v-e! Kahono!
+Dialogue: 0,0:23:29.28,0:23:34.47,sign_33882_363_Kahono_Idol_Show,Sign,0000,0000,0000,,{\fad(1,1999)}Kahono Idol Show
+Dialogue: 0,0:23:30.74,0:23:32.43,main,Marx,0000,0000,0000,,What in the world are you doing?
+Dialogue: 0,0:23:35.62,0:23:38.45,main,Kahono,0000,0000,0000,,Yay! I made some new friends!
+Dialogue: 0,0:23:38.45,0:23:41.94,main,Kahono,0000,0000,0000,,I'm sure you'll be invincible once \Nyou can control your magic, Noelle.
+Dialogue: 0,0:23:41.94,0:23:43.37,main,Kahono,0000,0000,0000,,Let's meet again soon!
+Dialogue: 0,0:23:43.37,0:23:47.21,main,kahono,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 42: \N"The Underwater Temple."
+Dialogue: 0,0:23:44.58,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 42\N\N{\fs18} The Underwater Temple
+Dialogue: 0,0:23:47.21,0:23:49.38,main,Kahono,0000,0000,0000,,My magic is song magic!

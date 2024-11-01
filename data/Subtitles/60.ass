@@ -1,0 +1,323 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0080,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,0030,0030,0018,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+
+Dialogue: 0,0:00:02.74,0:00:06.79,italics,nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.07,0:00:15.30,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.47,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:30.71,0:00:34.03,italics,Nar,0000,0000,0000,,Thanks to the Queen of Witches, \Nboth of Asta's arms were healed.
+Dialogue: 0,0:00:34.03,0:00:37.02,italics,Nar,0000,0000,0000,,In return, he fought hard to \Nprotect the Witches' Forest
+Dialogue: 0,0:00:37.02,0:00:39.07,italics,Nar,0000,0000,0000,,when Fana of the Eye of the Midnight Sun,
+Dialogue: 0,0:00:39.07,0:00:42.79,italics,Nar,0000,0000,0000,,another owner of a third eye, \Nsuddenly appeared.
+Dialogue: 0,0:00:50.84,0:00:53.38,italics,Asta,0000,0000,0000,,She's got a third eye, too!
+Dialogue: 0,0:00:55.09,0:00:56.83,italics,Noelle,0000,0000,0000,,I'll bet everything
+Dialogue: 0,0:00:57.51,0:00:59.05,italics,Noelle,0000,0000,0000,,on this one attack!
+Dialogue: 0,0:00:59.68,0:01:03.81,main,Noelle,0000,0000,0000,,Water Creation Magic: Sea Dragon's Roar!
+Dialogue: 0,0:01:04.26,0:01:06.98,italics,Nar,0000,0000,0000,,Asta and the others were \Nhelpless against the attacks
+Dialogue: 0,0:01:06.98,0:01:10.71,italics,Nar,0000,0000,0000,,of Fana's Salamander, the fire spirit, \Nas it tried to burn down the forest.
+Dialogue: 0,0:01:10.71,0:01:13.14,italics,Nar,0000,0000,0000,,But Noelle used a powerful \Nattack with her water magic
+Dialogue: 0,0:01:13.14,0:01:16.10,italics,Nar,0000,0000,0000,,and managed to subdue Salamander.
+Dialogue: 0,0:01:16.10,0:01:19.66,main,Asta,0000,0000,0000,,All right! Now it's finally time \Nfor my special move!
+Dialogue: 0,0:01:20.21,0:01:21.59,italics,Nar,0000,0000,0000,,In order to finish it off,
+Dialogue: 0,0:01:21.59,0:01:25.66,italics,Nar,0000,0000,0000,,Asta used Bull Thrust, a special \Nmove he had just thought up.
+Dialogue: 0,0:01:25.66,0:01:27.04,main,Vanessa,0000,0000,0000,,Here we go!
+Dialogue: 0,0:01:31.92,0:01:34.59,main,Asta,0000,0000,0000,,Bull Thrust!
+Dialogue: 0,0:01:47.43,0:01:50.85,Ep Title,Sign,0000,0000,0000,,{\fad(1023,1)}Defectors' Atonement
+Dialogue: 0,0:03:12.94,0:03:17.23,italics,Witch queen,0000,0000,0000,,To think that imperfect little \Nbrat had this much power...
+Dialogue: 0,0:03:19.98,0:03:23.14,main,Witch queen,0000,0000,0000,,It seems he wasn't all talk.
+Dialogue: 0,0:03:24.61,0:03:26.03,main,Witch queen,0000,0000,0000,,As for the other army...
+Dialogue: 0,0:03:35.96,0:03:37.75,main,Ladros,0000,0000,0000,,Who the heck is that guy?
+Dialogue: 0,0:03:37.75,0:03:39.58,main,Ladros,0000,0000,0000,,He's not a witch, is he?
+Dialogue: 0,0:03:39.58,0:03:43.39,main,Ladros,0000,0000,0000,,He had the balls to show up \Nalone in front of this huge army?
+Dialogue: 0,0:03:43.39,0:03:45.18,main,Ladros,0000,0000,0000,,Is he stupid?
+Dialogue: 0,0:03:45.49,0:03:47.93,main,Fanzell,0000,0000,0000,,Mars! Do you know who I am?
+Dialogue: 0,0:03:49.01,0:03:54.94,main,Ladros,0000,0000,0000,,Wait, is that guy... our old teacher?
+Dialogue: 0,0:03:55.86,0:03:56.98,main,Fanzell,0000,0000,0000,,Ladros...
+Dialogue: 0,0:03:56.98,0:04:00.40,main,Ladros,0000,0000,0000,,So I get to torment our old \Nteacher with my own hands.
+Dialogue: 0,0:04:01.89,0:04:03.49,main,Ladros,0000,0000,0000,,Heck yeah!
+Dialogue: 0,0:04:08.24,0:04:11.24,main,Ladros,0000,0000,0000,,Woo! Guess that's our teacher for you.
+Dialogue: 0,0:04:11.84,0:04:17.50,main,Fanzell,0000,0000,0000,,It looks like neither of you \Nare who you used to be.
+Dialogue: 0,0:04:17.50,0:04:19.54,main,Fanzell,0000,0000,0000,,Then I shall use my own magic...
+Dialogue: 0,0:04:21.81,0:04:23.67,main,Fanzell,0000,0000,0000,,to atone for my past!
+Dialogue: 0,0:04:24.56,0:04:26.65,main,Ladros,0000,0000,0000,,Woo! What a nice breeze.
+Dialogue: 0,0:04:26.65,0:04:28.34,main,Ladros,0000,0000,0000,,It feels so nice!
+Dialogue: 0,0:04:28.34,0:04:30.35,main,Fanzell,0000,0000,0000,,For the record, I have to ask...
+Dialogue: 0,0:04:31.46,0:04:33.18,main,Fanzell,0000,0000,0000,,Do you have any intention of turning back?
+Dialogue: 0,0:04:34.95,0:04:39.19,main,Ladros,0000,0000,0000,,Oh, come on. That's our line, Teach!
+Dialogue: 0,0:04:39.19,0:04:43.95,main,Ladros,0000,0000,0000,,So, like... Apparently our \Nking is really sick, y'know?
+Dialogue: 0,0:04:43.95,0:04:50.32,main,Ladros,0000,0000,0000,,And from what we've heard, the queen \Nhere has lived, like, hundreds of years.
+Dialogue: 0,0:04:50.32,0:04:52.66,main,Ladros,0000,0000,0000,,So the king wants to know how she does it,
+Dialogue: 0,0:04:52.66,0:04:56.45,main,Ladros,0000,0000,0000,,even if it means killing \Neveryone in this forest.
+Dialogue: 0,0:04:56.45,0:05:00.17,main,Ladros,0000,0000,0000,,We just happened to hear that \Nthe Eye of the Midnight Sun was
+Dialogue: 0,0:05:00.17,0:05:01.66,main,Ladros,0000,0000,0000,,also visiting this forest,
+Dialogue: 0,0:05:01.66,0:05:06.08,main,Ladros,0000,0000,0000,,so we decided to take \Nadvantage of the chaos!
+Dialogue: 0,0:05:07.22,0:05:12.85,main,Ladros,0000,0000,0000,,Taking what you want by force... \NThat's how the Diamond Kingdom works.
+Dialogue: 0,0:05:13.20,0:05:15.83,main,Fanzell,0000,0000,0000,,And that's exactly why I left.
+Dialogue: 0,0:05:19.10,0:05:20.23,main,Fanzell,0000,0000,0000,,Here I come!
+Dialogue: 0,0:05:20.23,0:05:24.73,main,Ladros,0000,0000,0000,,Yahoo! I get to embrace our \Nteacher with my own two—
+Dialogue: 0,0:05:26.16,0:05:27.00,main,,0000,0000,0000,,Tsk.
+Dialogue: 0,0:05:30.53,0:05:33.45,main,Mage 1,0000,0000,0000,,He's charging at us despite \Nhow many of us are here?
+Dialogue: 0,0:05:33.45,0:05:35.24,main,Mage 1,0000,0000,0000,,Is this guy stupid?
+Dialogue: 0,0:05:35.62,0:05:40.67,main,Fanzell,0000,0000,0000,,Wind Creation Magic: Emperor of \NSlashing Winds—Winter Wind!
+Dialogue: 0,0:05:42.35,0:05:43.67,main,Mage 2,0000,0000,0000,,What?
+Dialogue: 0,0:05:43.67,0:05:44.63,main,Mage 3,0000,0000,0000,,He's fast!
+Dialogue: 0,0:05:48.95,0:05:52.69,main,Mage 4,0000,0000,0000,,That's... the traitor, Fanzell Kruger!
+Dialogue: 0,0:05:52.69,0:05:55.82,main,Mage 4,0000,0000,0000,,He was a military commander \Nand an instructor for our army.
+Dialogue: 0,0:05:55.82,0:05:57.52,main,Mage 4,0000,0000,0000,,And he had the nerve to defect!
+Dialogue: 0,0:05:57.97,0:06:01.08,main,Mage 4,0000,0000,0000,,If we kill him, we'll get a huge reward!
+Dialogue: 0,0:06:01.08,0:06:02.69,main,Mage 4,0000,0000,0000,,Don't hold back! Kill him!
+Dialogue: 0,0:06:14.12,0:06:16.18,italics,Fanzell,0000,0000,0000,,As I thought, they're not moving.
+Dialogue: 0,0:06:16.18,0:06:19.37,italics,Fanzell,0000,0000,0000,,It must be hard to attack in a place \Nwhere your allies are concentrated.
+Dialogue: 0,0:06:20.37,0:06:25.42,italics,Fanzell,0000,0000,0000,,Particularly for warriors with \Npowerful magic like you two.
+Dialogue: 0,0:06:26.08,0:06:28.91,italics,Fanzell,0000,0000,0000,,But there are limits to how \Nmuch I can do by myself.
+Dialogue: 0,0:06:28.91,0:06:32.13,italics,Fanzell,0000,0000,0000,,I'm counting on you two, my little \Nhoney and my cute little student.
+Dialogue: 0,0:06:38.42,0:06:41.28,italics,Mariella,0000,0000,0000,,I wonder if Master actually \Nput some clothes on.
+Dialogue: 0,0:06:47.94,0:06:50.79,main,Domina,0000,0000,0000,,Yup. I think I might actually be a genius.
+Dialogue: 0,0:06:52.28,0:06:55.70,main,Mohawq,0000,0000,0000,,Keep calm! Get into Formation Six!
+Dialogue: 0,0:06:55.70,0:06:57.07,main,Mohawq,0000,0000,0000,,Former commander or not,
+Dialogue: 0,0:06:57.07,0:06:59.79,main,Mohawq,0000,0000,0000,,if we keep formation and continue \Nattacking from a distance,
+Dialogue: 0,0:06:59.79,0:07:01.19,main,Mohawq,0000,0000,0000,,we'll eventually beat him.
+Dialogue: 0,0:07:01.19,0:07:02.46,main,Mohawq,0000,0000,0000,,He's only one guy!
+Dialogue: 0,0:07:04.75,0:07:05.92,main,Mohawq,0000,0000,0000,,What?!
+Dialogue: 0,0:07:06.31,0:07:08.71,main,Mariella,0000,0000,0000,,Of course he's not alone.
+Dialogue: 0,0:07:09.19,0:07:13.83,main,Mariella,0000,0000,0000,,"To make a surprise attack, you must \Nhave three times the enemy's strength."
+Dialogue: 0,0:07:13.83,0:07:15.18,main,Mariella,0000,0000,0000,,That's what my master taught me.
+Dialogue: 0,0:07:15.18,0:07:16.56,main,Mage 1,0000,0000,0000,,Reinforcements!
+Dialogue: 0,0:07:16.56,0:07:18.76,main,Mage 2,0000,0000,0000,,Don't underestimate our strength!
+Dialogue: 0,0:07:19.22,0:07:20.02,main,Mariella,0000,0000,0000,,Team Two!
+Dialogue: 0,0:07:28.98,0:07:32.32,italics,Mohawq,0000,0000,0000,,They're... trying to drive us into the forest!
+Dialogue: 0,0:07:36.28,0:07:37.48,italics,Mohawq,0000,0000,0000,,This isn't good!
+Dialogue: 0,0:07:37.48,0:07:40.34,italics,Mohawq,0000,0000,0000,,The dense fog and trees \Nwill ruin our formation.
+Dialogue: 0,0:07:40.34,0:07:42.59,main,Moahawq,0000,0000,0000,,Change over to Formation Thirteen!
+Dialogue: 0,0:07:42.59,0:07:43.54,main,Mariella,0000,0000,0000,,Team Four!
+Dialogue: 0,0:07:45.49,0:07:46.29,main,Mariella,0000,0000,0000,,Team Five!
+Dialogue: 0,0:07:48.85,0:07:51.59,main,Mohawq,0000,0000,0000,,How are they able to predict \Nour moves so easily?!
+Dialogue: 0,0:07:52.04,0:07:56.59,main,Mariella,0000,0000,0000,,It's because I was in the \NDiamond Kingdom's assassination squad.
+Dialogue: 0,0:07:57.22,0:07:59.60,main,Mariella,0000,0000,0000,,You guys are too easy.
+Dialogue: 0,0:08:11.49,0:08:17.89,italics,Mariella,0000,0000,0000,,Previously, I killed people who were \Ndoing everything they could to survive.
+Dialogue: 0,0:08:33.86,0:08:36.99,italics,Mariella,0000,0000,0000,,There might not be anything I can \Ndo to atone for what I've done.
+Dialogue: 0,0:08:37.50,0:08:40.51,italics,Mariella,0000,0000,0000,,This might just be self-satisfaction, but...
+Dialogue: 0,0:08:45.63,0:08:47.73,main,Mariella,0000,0000,0000,,I'll put an end to your tyranny.
+Dialogue: 0,0:08:50.31,0:08:52.48,main,Mohawq,0000,0000,0000,,You traitor!
+Dialogue: 0,0:08:52.93,0:08:55.03,main,Mariella,0000,0000,0000,,Sure. You can say whatever you want.
+Dialogue: 0,0:08:55.03,0:08:57.11,main,Mariella,0000,0000,0000,,I won't lose heart again.
+Dialogue: 0,0:08:58.86,0:09:04.25,main,Mariella,0000,0000,0000,,If I did, the person who saved me \Nmight get angry with me again.
+Dialogue: 0,0:09:05.30,0:09:07.33,main,Witch,0000,0000,0000,,That girl's amazing!
+Dialogue: 0,0:09:07.33,0:09:10.25,main,Witch,0000,0000,0000,,She's able to command us witches so well.
+Dialogue: 0,0:09:10.58,0:09:14.07,main,Domina,0000,0000,0000,,I know, right? Our little \NMariella is amazing.
+Dialogue: 0,0:09:14.07,0:09:15.76,main,Domina,0000,0000,0000,,And as for our next move...
+Dialogue: 0,0:09:18.18,0:09:19.03,main,Mage,0000,0000,0000,,What are those things?
+Dialogue: 0,0:09:28.50,0:09:30.02,main,Domina,0000,0000,0000,,They fell for it!
+Dialogue: 0,0:09:30.02,0:09:36.18,main,Domina,0000,0000,0000,,I used my magic items and skills to \Nmodify the golems just a tiny bit.
+Dialogue: 0,0:09:36.18,0:09:40.19,main,Witch,0000,0000,0000,,Amazing! But the modifications \Nmust've cost a fortune.
+Dialogue: 0,0:09:40.19,0:09:43.83,main,Domina,0000,0000,0000,,Believe it or not, it only cost me \N3,000 yuls in materials for each!
+Dialogue: 0,0:09:43.83,0:09:46.41,main,Witch,0000,0000,0000,,That much destructive power \Nfor a mere 3,000 yuls?!
+Dialogue: 0,0:09:47.02,0:09:48.88,main,Domina,0000,0000,0000,,Okay, everyone! This is it!
+Dialogue: 0,0:09:48.88,0:09:52.17,main,Domina,0000,0000,0000,,Time to teach those thugs who \Nthrashed our houses a lesson!
+Dialogue: 0,0:09:52.60,0:09:54.91,main,Domina,0000,0000,0000,,Don't you dare underestimate us witches!
+Dialogue: 0,0:09:57.22,0:10:02.79,main,Ladros,0000,0000,0000,,Oh, dear... Looks like they set traps \Ndown there and tried to lure us in.
+Dialogue: 0,0:10:02.79,0:10:05.46,main,Ladros,0000,0000,0000,,It wouldn't be safe to just charge in there.
+Dialogue: 0,0:10:05.46,0:10:09.84,main,Ladros,0000,0000,0000,,But on the other hand, \Nit looks fun, so here I go! Woo!
+Dialogue: 0,0:10:09.84,0:10:12.55,main,Ladros,0000,0000,0000,,Let me play, too!
+Dialogue: 0,0:10:14.48,0:10:16.63,main,Ladros,0000,0000,0000,,Now, then... where are they?
+Dialogue: 0,0:10:17.89,0:10:20.02,main,Fanzell,0000,0000,0000,,I figured this is what you'd do.
+Dialogue: 0,0:10:20.43,0:10:25.19,main,Fanzell,0000,0000,0000,,Wind Binding Magic: Emperor of \NSlashing Winds—Whirlwind!
+Dialogue: 0,0:10:25.87,0:10:28.72,main,Ladros,0000,0000,0000,,Whoopsies! Looks like I've been caught.
+Dialogue: 0,0:10:29.84,0:10:33.04,main,Ladros,0000,0000,0000,,I'll ask you one more time. \NAny chance of you turning back?
+Dialogue: 0,0:10:36.61,0:10:38.87,main,Ladros,0000,0000,0000,,Like hell I'm gonna turn back!
+Dialogue: 0,0:10:38.87,0:10:41.59,main,Ladros,0000,0000,0000,,I wanna kill lots and lots of people!
+Dialogue: 0,0:10:41.59,0:10:44.72,main,Ladros,0000,0000,0000,,What the hell's wrong with you, Teach?
+Dialogue: 0,0:10:44.72,0:10:47.41,main,Ladros,0000,0000,0000,,You're the one who raised murderers like us.
+Dialogue: 0,0:10:47.41,0:10:51.84,main,Ladros,0000,0000,0000,,And now you think you can live \Nyour life as a good person?
+Dialogue: 0,0:10:52.26,0:10:55.36,main,Fanzell,0000,0000,0000,,Sorry, but I promised my final student...
+Dialogue: 0,0:10:57.57,0:11:00.40,main,Fanzell,0000,0000,0000,,and your junior apprentice.
+Dialogue: 0,0:11:02.40,0:11:04.32,main,Fanzell,0000,0000,0000,,I'm going to live!
+Dialogue: 0,0:11:04.32,0:11:05.91,main,Fanzell,0000,0000,0000,,I'm done running!
+Dialogue: 0,0:11:25.36,0:11:27.60,flashback,Fanzell,0000,0000,0000,,Good. Make sure to sense \Nyour opponent's mana.
+Dialogue: 0,0:11:30.98,0:11:32.87,flashback,Fanzell,0000,0000,0000,,Calm your emotions.
+Dialogue: 0,0:11:34.15,0:11:35.69,flashback,Fanzell,0000,0000,0000,,Good. Now concentrate.
+Dialogue: 0,0:11:36.80,0:11:41.55,flashback,Fanzell,0000,0000,0000,,Listen up. Your powers \Nexist to protect others.
+Dialogue: 0,0:11:42.00,0:11:44.15,flashback,Fanzell,0000,0000,0000,,Don't ever forget that.
+Dialogue: 0,0:11:44.15,0:11:45.25,flashback,Both,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:11:55.57,0:11:58.00,italics,Fanzell,0000,0000,0000,,Ladros was an expert in \Nphysical reinforcement spells.
+Dialogue: 0,0:11:59.09,0:12:01.67,italics,Fanzell,0000,0000,0000,,This probably won't be enough to beat him.
+Dialogue: 0,0:12:03.14,0:12:05.22,main,Mars,0000,0000,0000,,That's enough!
+Dialogue: 0,0:12:09.11,0:12:09.93,main,Fanzell,0000,0000,0000,,Mars...
+Dialogue: 0,0:12:11.09,0:12:14.18,italics,Fanzell,0000,0000,0000,,He had the best skills of all my students.
+Dialogue: 0,0:12:14.95,0:12:18.63,italics,Fanzell,0000,0000,0000,,At this point, I don't think \NI can beat him at close range.
+Dialogue: 0,0:12:19.30,0:12:21.19,main,Fanzell,0000,0000,0000,,Let's have you step back a bit.
+Dialogue: 0,0:12:21.82,0:12:27.20,main,Fanzell,0000,0000,0000,,Wind Creation Magic: Emperor of \NSlashing Winds—Mountain Wind!
+Dialogue: 0,0:12:33.81,0:12:34.91,italics,Fanzell,0000,0000,0000,,Ladros...
+Dialogue: 0,0:12:38.08,0:12:40.50,italics,Fanzell,0000,0000,0000,,This is my full magic power!
+Dialogue: 0,0:12:41.06,0:12:44.73,main,Fanzell,0000,0000,0000,,Wind Creation Magic:\NEmperor of Slashing Winds—
+Dialogue: 0,0:12:46.26,0:12:47.51,main,Fanzell,0000,0000,0000,,Gale!
+Dialogue: 0,0:12:52.99,0:12:57.30,italics,Fanzell,0000,0000,0000,,Ladros was an odd kid who \Ndidn't have a magic attribute.
+Dialogue: 0,0:12:58.26,0:12:59.15,flashbackitalics,Ladros,0000,0000,0000,,Teacher...
+Dialogue: 0,0:13:01.25,0:13:03.79,flashback,Ladros,0000,0000,0000,,You can become strong even \Nwithout an attribute, right?
+Dialogue: 0,0:13:04.93,0:13:08.11,italics,Fanzell,0000,0000,0000,,He had a complex about that.
+Dialogue: 0,0:13:09.17,0:13:12.48,italics,Fanzell,0000,0000,0000,,But his magic was stronger \Nthan anyone else's.
+Dialogue: 0,0:13:13.57,0:13:16.62,italics,Fanzell,0000,0000,0000,,If he's picked up a powerful long-distance\N spell, things are gonna get ugly.
+Dialogue: 0,0:13:16.62,0:13:19.63,italics,Fanzell,0000,0000,0000,,I'll put him out of commission first!
+Dialogue: 0,0:13:20.05,0:13:21.09,italics,Fanzell,0000,0000,0000,,Forgive me!
+Dialogue: 0,0:13:22.64,0:13:24.84,main,Ladros,0000,0000,0000,,I can't! I can't, I can't!
+Dialogue: 0,0:13:24.84,0:13:26.75,main,Ladros,0000,0000,0000,,I can't, I can't, I can't, I can't, I can't!
+Dialogue: 0,0:13:26.75,0:13:28.22,main,Ladros,0000,0000,0000,,Your magic...
+Dialogue: 0,0:13:28.22,0:13:30.50,main,Ladros,0000,0000,0000,,Teacher, I just...
+Dialogue: 0,0:13:30.50,0:13:32.61,main,Ladros,0000,0000,0000,,can't eat all of your magic!
+Dialogue: 0,0:13:38.15,0:13:39.94,italics,Fanzell,0000,0000,0000,,He doesn't have a single scratch on him!
+Dialogue: 0,0:13:40.32,0:13:44.58,main,Ladros,0000,0000,0000,,After you left, I had the \Narmy surgically modify me,
+Dialogue: 0,0:13:44.58,0:13:47.67,main,Ladros,0000,0000,0000,,and I gained a certain magic ability...
+Dialogue: 0,0:13:47.67,0:13:50.41,main,Ladros,0000,0000,0000,,Absorption and emission.
+Dialogue: 0,0:13:50.92,0:13:54.82,main,Ladros,0000,0000,0000,,I can absorb all of the magic \Nattacks I take into my body
+Dialogue: 0,0:13:54.82,0:13:58.41,main,Ladros,0000,0000,0000,,and fire them back whenever I want.
+Dialogue: 0,0:13:58.41,0:14:00.81,main,Ladros,0000,0000,0000,,In other words...
+Dialogue: 0,0:14:00.81,0:14:05.30,main,Ladros,0000,0000,0000,,I can use your magic to kill your friends!
+Dialogue: 0,0:14:05.79,0:14:07.71,main,Fanzell,0000,0000,0000,,What the heck is that magic?
+Dialogue: 0,0:14:07.71,0:14:11.80,main,Fanzell,0000,0000,0000,,It's not just Ladros. \NSeveral magic powers are building...
+Dialogue: 0,0:14:11.80,0:14:17.73,main,Ladros,0000,0000,0000,,Hey, Teach... Did you happen to bring \Nanyone important to you into this forest?
+Dialogue: 0,0:14:17.73,0:14:21.60,main,Ladros,0000,0000,0000,,If you did, you should probably \Ngo save them right about now.
+Dialogue: 0,0:14:24.23,0:14:27.94,main,Ladros,0000,0000,0000,,Sweet! You can race with my magic!
+Dialogue: 0,0:14:28.61,0:14:30.61,main,Ladros,0000,0000,0000,,Here I go!
+Dialogue: 0,0:14:30.61,0:14:33.62,main,Ladros,0000,0000,0000,,Ready... and boom!
+Dialogue: 0,0:14:34.82,0:14:36.62,main,Ladros,0000,0000,0000,,Million Lasers!
+Dialogue: 0,0:15:02.48,0:15:07.10,main,Ladros,0000,0000,0000,,Whoops... I got so psyched up, I ended \Nup killing some of the people on our side.
+Dialogue: 0,0:15:07.10,0:15:09.11,main,Ladros,0000,0000,0000,,I wonder if Teach is still alive.
+Dialogue: 0,0:15:09.60,0:15:12.21,main,Ladros,0000,0000,0000,,Ooh, there he is!
+Dialogue: 0,0:15:16.36,0:15:17.16,main,Domina,0000,0000,0000,,Zell...
+Dialogue: 0,0:15:17.16,0:15:18.29,main,Fanzell,0000,0000,0000,,Domina...
+Dialogue: 0,0:15:19.39,0:15:24.00,main,Ladros,0000,0000,0000,,Oh, dear... It looks like you really did \Nhave someone important to you here.
+Dialogue: 0,0:15:25.33,0:15:29.88,main,Ladros,0000,0000,0000,,But you seem to be taking a nap. \NProbably not the best time for that!
+Dialogue: 0,0:15:30.51,0:15:34.13,main,Ladros,0000,0000,0000,,So you're Teach's special someone.
+Dialogue: 0,0:15:34.13,0:15:36.97,main,Ladros,0000,0000,0000,,Man, I'm jealous.
+Dialogue: 0,0:15:40.08,0:15:43.02,main,Ladros,0000,0000,0000,,Hey, I've seen you before.
+Dialogue: 0,0:15:43.02,0:15:48.10,main,Ladros,0000,0000,0000,,Oh! You're the girlfriend \Nwho ran off with him!
+Dialogue: 0,0:15:48.10,0:15:49.53,main,Ladros,0000,0000,0000,,How've you been?
+Dialogue: 0,0:15:49.53,0:15:54.11,main,Fanzell,0000,0000,0000,,Don't... You should be using your \Npowers to do the right thing...
+Dialogue: 0,0:15:54.11,0:15:56.79,main,Ladros,0000,0000,0000,,But I have been this whole time.
+Dialogue: 0,0:15:56.79,0:16:02.16,main,Ladros,0000,0000,0000,,I didn't go through special training to \Nprotect people. Not even a tiny bit.
+Dialogue: 0,0:16:03.58,0:16:09.75,main,Ladros,0000,0000,0000,,Getting to use your power to the max in \Ncombat... What could be better than that?
+Dialogue: 0,0:16:09.75,0:16:13.59,main,Ladros,0000,0000,0000,,You see, I want to be acknowledged. \NBy this country! By this world!
+Dialogue: 0,0:16:13.59,0:16:17.47,main,Ladros,0000,0000,0000,,That's why I trained hard and climbed to \Nthe rank of the Eight Shining Generals.
+Dialogue: 0,0:16:19.07,0:16:21.99,main,Ladros,0000,0000,0000,,What is this idealistic crap \Nthat's coming out of your mouth?
+Dialogue: 0,0:16:21.99,0:16:24.36,main,Ladros,0000,0000,0000,,That's exactly why you \Nlost a power struggle
+Dialogue: 0,0:16:24.36,0:16:27.78,main,Ladros,0000,0000,0000,,and had to run away with your \Ntail between your legs,
+Dialogue: 0,0:16:27.78,0:16:29.27,main,Ladros,0000,0000,0000,,you stupid coward!
+Dialogue: 0,0:16:31.78,0:16:35.78,main,Domina,0000,0000,0000,,My husband... is not a coward!
+Dialogue: 0,0:16:35.78,0:16:40.28,main,Ladros,0000,0000,0000,,Guess I'll just have to kill this chick first!
+Dialogue: 0,0:16:51.50,0:16:54.31,main,Fanzell,0000,0000,0000,,Don't!
+Dialogue: 0,0:17:02.80,0:17:06.83,main,Mars,0000,0000,0000,,My powers... exist to protect others.
+Dialogue: 0,0:17:08.08,0:17:11.48,main,Mars,0000,0000,0000,,Your lessons got through to me.
+Dialogue: 0,0:17:11.48,0:17:14.78,main,Fanzell,0000,0000,0000,,Mars, what just...
+Dialogue: 0,0:17:15.15,0:17:18.03,main,Ladros,0000,0000,0000,,Mars, buddy... Whatcha doin'?
+Dialogue: 0,0:17:18.98,0:17:21.36,main,Mars,0000,0000,0000,,There's no reason to kill \Npeople unnecessarily.
+Dialogue: 0,0:17:21.79,0:17:23.91,main,Mars,0000,0000,0000,,Our target is the Queen of Witches.
+Dialogue: 0,0:17:23.91,0:17:26.53,main,Ladros,0000,0000,0000,,How half-assed can you get?
+Dialogue: 0,0:17:26.53,0:17:29.79,main,Ladros,0000,0000,0000,,Those two are traitors that defected \Nfrom the Diamond Kingdom.
+Dialogue: 0,0:17:29.79,0:17:33.30,main,Ladros,0000,0000,0000,,Letting them go would mean \Nbetraying our kingdom.
+Dialogue: 0,0:17:34.29,0:17:35.30,main,Mars,0000,0000,0000,,You're right.
+Dialogue: 0,0:17:35.30,0:17:38.30,main,Ladros,0000,0000,0000,,So... you're gonna betray the kingdom?
+Dialogue: 0,0:17:38.63,0:17:40.68,main,Mars,0000,0000,0000,,I guess that's what this means.
+Dialogue: 0,0:17:49.19,0:17:53.52,main,Ladros,0000,0000,0000,,Woohoo!
+Dialogue: 0,0:17:53.52,0:17:56.94,main,Ladros,0000,0000,0000,,I can finally kill you legally!
+Dialogue: 0,0:18:00.00,0:18:03.12,main,Ladros,0000,0000,0000,,Seeing you always drove me nuts!
+Dialogue: 0,0:18:03.12,0:18:07.52,main,Ladros,0000,0000,0000,,All cool and composed, even when we \Nwere kids! You could do anything!
+Dialogue: 0,0:18:07.52,0:18:12.35,main,Ladros,0000,0000,0000,,I knew you were going to get in my \Nway as I was aiming for the top!
+Dialogue: 0,0:18:12.35,0:18:14.69,main,Ladros,0000,0000,0000,,Who knew I'd get to off you here?
+Dialogue: 0,0:18:14.69,0:18:17.30,main,Ladros,0000,0000,0000,,And along with your beloved teacher!
+Dialogue: 0,0:18:17.30,0:18:19.84,main,Ladros,0000,0000,0000,,This is the best! I couldn't ask for more!
+Dialogue: 0,0:18:26.27,0:18:27.31,main,Fanzell,0000,0000,0000,,Mariella?
+Dialogue: 0,0:18:28.15,0:18:30.54,main,Mariella,0000,0000,0000,,That's my master you're talking about.
+Dialogue: 0,0:18:30.54,0:18:32.85,main,Mariella,0000,0000,0000,,Don't kill him like he's \Njust some sort of bonus!
+Dialogue: 0,0:18:32.85,0:18:36.58,main,Ladros,0000,0000,0000,,Could you and your weak \Nmagic stay out of this?
+Dialogue: 0,0:18:36.58,0:18:38.86,main,Ladros,0000,0000,0000,,You wouldn't even count as a snack.
+Dialogue: 0,0:18:48.16,0:18:50.83,main,Ladros,0000,0000,0000,,That's my widdle Mars!
+Dialogue: 0,0:18:50.83,0:18:54.88,main,Ladros,0000,0000,0000,,I'll take your ridiculously huge magic, add in\Nsome flair, and send it right back atcha!
+Dialogue: 0,0:18:56.00,0:19:00.09,main,Mars,0000,0000,0000,,Flame Recovery Magic: Phoenix Robe!
+Dialogue: 0,0:19:00.09,0:19:03.09,main,Fanzell,0000,0000,0000,,Mars, why are you protecting us?
+Dialogue: 0,0:19:03.44,0:19:06.76,main,Fanzell,0000,0000,0000,,As Ladros said, we're traitors.
+Dialogue: 0,0:19:06.76,0:19:09.10,main,Fanzell,0000,0000,0000,,And you lost your memory...
+Dialogue: 0,0:19:09.44,0:19:12.94,main,Mars,0000,0000,0000,,Don't worry. I'm on your side, Master.
+Dialogue: 0,0:19:12.94,0:19:15.61,main,Mars,0000,0000,0000,,I wasn't expecting to see you here, but...
+Dialogue: 0,0:19:15.61,0:19:18.00,main,ladros,0000,0000,0000,,Woohoo!
+Dialogue: 0,0:19:18.67,0:19:20.51,main,Mars,0000,0000,0000,,The details can wait.
+Dialogue: 0,0:19:20.51,0:19:22.53,main,Mars,0000,0000,0000,,We need to do something about him first.
+Dialogue: 0,0:19:22.53,0:19:25.74,main,Fanzell,0000,0000,0000,,Right. But how are we supposed to \Nhandle such an unnatural power?
+Dialogue: 0,0:19:26.19,0:19:29.70,main,Mars,0000,0000,0000,,He's almost invincible, but there are \Nstill a number of ways to defeat him.
+Dialogue: 0,0:19:30.04,0:19:35.33,main,Mars,0000,0000,0000,,One is to feed him magic until it overwhelms \Nhis capacity and he self-destructs.
+Dialogue: 0,0:19:35.33,0:19:39.37,main,Mars,0000,0000,0000,,This might be possible with spirit magic \Nor even the Queen of Witches's magic.
+Dialogue: 0,0:19:39.37,0:19:40.59,main,Mars,0000,0000,0000,,The other method...
+Dialogue: 0,0:19:41.01,0:19:42.26,main,Mars,0000,0000,0000,,is anti-magic.
+Dialogue: 0,0:19:42.62,0:19:44.10,main,Fanzell,0000,0000,0000,,Anti-magic?
+Dialogue: 0,0:19:44.10,0:19:45.90,main,Fanzell,0000,0000,0000,,How do you know about that?
+Dialogue: 0,0:19:45.90,0:19:48.75,main,Fanzell,0000,0000,0000,,There's actually someone who \Ncan test out that method
+Dialogue: 0,0:19:48.75,0:19:50.43,main,Fanzell,0000,0000,0000,,on the other side of the forest right now.
+Dialogue: 0,0:19:51.68,0:19:54.08,main,Fanzell,0000,0000,0000,,Let's lure Ladros over there!
+Dialogue: 0,0:19:54.08,0:19:54.98,main,Mars,0000,0000,0000,,Understood.
+Dialogue: 0,0:19:56.67,0:19:58.86,main,Ladros,0000,0000,0000,,What are you gossiping about over there?
+Dialogue: 0,0:19:58.86,0:20:03.86,main,Ladros,0000,0000,0000,,No matter what plan you come up with,\Nit'll be useless against my power!
+Dialogue: 0,0:20:04.85,0:20:05.71,main,Ladros,0000,0000,0000,,What?
+Dialogue: 0,0:20:07.91,0:20:09.01,main,Ladros,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:10.24,0:20:13.04,main,Mars,0000,0000,0000,,Your power has made you careless!
+Dialogue: 0,0:20:14.62,0:20:17.29,main,Fanzell,0000,0000,0000,,I'm not half bad at \Nreinforcement magic myself.
+Dialogue: 0,0:20:19.04,0:20:20.80,main,Both,0000,0000,0000,,Have a nice trip!
+Dialogue: 0,0:20:28.72,0:20:32.32,main,Asta,0000,0000,0000,,We have you completely surrounded!
+Dialogue: 0,0:20:32.32,0:20:35.19,main,Asta,0000,0000,0000,,So just give up already!
+Dialogue: 0,0:20:35.19,0:20:37.44,main,Asta,0000,0000,0000,,Shoo, shoo! Shoo, shoo!
+Dialogue: 0,0:20:37.44,0:20:39.77,main,Asta,0000,0000,0000,,Resistance is futile!
+Dialogue: 0,0:20:39.77,0:20:43.14,main,Asta,0000,0000,0000,,We don't want to hurt you!
+Dialogue: 0,0:20:43.14,0:20:47.78,main,Asta,0000,0000,0000,,You're still young! You shouldn't \Njust throw your life away!
+Dialogue: 0,0:20:47.78,0:20:52.35,main,Asta,0000,0000,0000,,If you do something stupid, your parents \Nand friends back home will be sad!
+Dialogue: 0,0:20:52.93,0:20:57.75,main,Fana,0000,0000,0000,,You filthy humans... Don't you\N dare speak of my friends!
+Dialogue: 0,0:22:36.01,0:22:40.48,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:36.93,0:22:39.63,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:39.98,0:22:43.98,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}You Got Through to Me
+Dialogue: 0,0:22:41.22,0:22:43.12,main,Mars,0000,0000,0000,,You Got Through to Me.
+Dialogue: 0,0:22:45.49,0:22:46.41,main,Fanzell,0000,0000,0000,,Mars!
+Dialogue: 0,0:22:46.41,0:22:49.99,main,Fanzell,0000,0000,0000,,Do you... know how old I am?
+Dialogue: 0,0:22:51.07,0:22:52.24,main,Mars,0000,0000,0000,,Twenty-eight.
+Dialogue: 0,0:22:53.35,0:22:56.16,main,Ladros,0000,0000,0000,,Woo! There's no way Teach is in his twenties!
+Dialogue: 0,0:22:56.16,0:22:57.55,main,Ladros,0000,0000,0000,,I say thirty-eight!
+Dialogue: 0,0:22:57.55,0:22:59.00,main,Asta,0000,0000,0000,,No one can teach swordsmanship like that
+Dialogue: 0,0:22:59.00,0:23:01.06,main,Asta,0000,0000,0000,,unless they've been teaching a long time.
+Dialogue: 0,0:23:01.06,0:23:02.74,main,Asta,0000,0000,0000,,He's forty-two!
+Dialogue: 0,0:23:02.74,0:23:06.18,main,Noelle,0000,0000,0000,,I have absolutely no interest in this, \Nbut he's probably forty-six.
+Dialogue: 0,0:23:06.18,0:23:10.24,main,Finral,0000,0000,0000,,He has such a beautiful and intelligent \Nwife despite how he looks.
+Dialogue: 0,0:23:10.24,0:23:12.26,main,Finral,0000,0000,0000,,The only way he could've \Npulled that off is with
+Dialogue: 0,0:23:12.26,0:23:14.03,main,Finral,0000,0000,0000,,flirting techniques acquired\Nas a middle-aged man.
+Dialogue: 0,0:23:14.03,0:23:15.77,main,Finral,0000,0000,0000,,Hm... Fifty!
+Dialogue: 0,0:23:15.77,0:23:19.52,main,Vanessa,0000,0000,0000,,He always looks so tired, too...\NI say fifty-four.
+Dialogue: 0,0:23:21.18,0:23:25.19,main,Witch queen,0000,0000,0000,,You are at least younger \Nthan me... aren't you?
+Dialogue: 0,0:23:25.19,0:23:27.32,main,Fanzell,0000,0000,0000,,I'm only twenty-eight...
+Dialogue: 0,0:23:29.39,0:23:32.47,main,Mars,0000,0000,0000,,Your lessons got through to me!
+Dialogue: 0,0:23:35.63,0:23:38.34,main,Witch queen,0000,0000,0000,,It appears that Salamander \Nis still alive and well.
+Dialogue: 0,0:23:38.34,0:23:40.08,main,Witch queen,0000,0000,0000,,What will you do now, brat?
+Dialogue: 0,0:23:40.08,0:23:42.04,main,Witch queen,0000,0000,0000,,Let's see what you're made of.
+Dialogue: 0,0:23:42.40,0:23:46.96,main,Witch queen,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 61: "The Promised World."
+Dialogue: 0,0:23:43.62,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 61\N\N{\fs18} The Promised World
+Dialogue: 0,0:23:46.96,0:23:49.88,main,Witch queen,0000,0000,0000,,Being ageless is my magic.

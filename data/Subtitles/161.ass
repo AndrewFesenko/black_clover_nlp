@@ -1,0 +1,281 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H000400D6,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.45,0:00:07.82,italics,Nar,0000,0000,0000,,And in the clover's fifth leaf resides...
+Dialogue: 0,0:00:07.82,0:00:09.26,italics,Nar,0000,0000,0000,,a devil.
+Dialogue: 0,0:00:10.14,0:00:12.34,italics,Nar,0000,0000,0000,,What Asta, who was born without magic,
+Dialogue: 0,0:00:12.34,0:00:14.74,italics,Nar,0000,0000,0000,,gained from the five-leaf grimoire was
+Dialogue: 0,0:00:14.74,0:00:18.69,italics,Nar,0000,0000,0000,,the power of anti-magic, \Nwhich nullifies any magic.
+Dialogue: 0,0:00:20.01,0:00:23.78,italics,Nar,0000,0000,0000,,Meanwhile, the Dark Triad \Nof the Spade Kingdom
+Dialogue: 0,0:00:23.78,0:00:26.78,italics,Nar,0000,0000,0000,,also possessed the powers of \Nthe devils from the underworld,
+Dialogue: 0,0:00:26.78,0:00:30.05,italics,Nar,0000,0000,0000,,and began invading the other kingdoms.
+Dialogue: 0,0:00:30.65,0:00:33.72,italics,Nar,0000,0000,0000,,Asta continued to fight \Nwhile believing in himself,
+Dialogue: 0,0:00:34.40,0:00:38.39,italics,Nar,0000,0000,0000,,along with his friends... \Nto protect this world!
+Dialogue: 0,0:00:44.14,0:00:47.58,italics,Nar,0000,0000,0000,,When Yuno returned to his \Nhome village of Hage,
+Dialogue: 0,0:00:47.98,0:00:51.82,italics,Nar,0000,0000,0000,,he encountered a man named \NRalph from the Spade Kingdom.
+Dialogue: 0,0:00:52.08,0:00:53.28,main,Ralph,0000,0000,0000,,Lord Yuno...
+Dialogue: 0,0:00:53.28,0:00:58.16,main,Ralph,0000,0000,0000,,You are our hope. You belong \Nto the House of Grinberryall.
+Dialogue: 0,0:00:58.52,0:00:59.49,main,Ralph,0000,0000,0000,,Meaning...
+Dialogue: 0,0:01:00.27,0:01:02.50,main,Ralph,0000,0000,0000,,You are the Prince of the Spade Kingdom!
+Dialogue: 0,0:01:03.62,0:01:06.71,italics,Nar,0000,0000,0000,,Ralph showed Yuno his history.
+Dialogue: 0,0:01:09.46,0:01:14.34,italics,Nar,0000,0000,0000,,At that moment, he received word that the\N Golden Dawn headquarters was under attack.
+Dialogue: 0,0:01:14.66,0:01:18.43,italics,Yuno,0000,0000,0000,,Even so, I'm Yuno of the Clover Kingdom.
+Dialogue: 0,0:01:20.51,0:01:23.43,italics,nar,0000,0000,0000,,The ones who attacked were \Nmages from the Spade Kingdom,
+Dialogue: 0,0:01:23.43,0:01:24.95,italics,nar,0000,0000,0000,,Gaderois and Foyal...
+Dialogue: 0,0:01:25.62,0:01:27.76,main,Gaderois,0000,0000,0000,,We are the elite among those deemed
+Dialogue: 0,0:01:27.76,0:01:30.44,main,Gaderois,0000,0000,0000,,suitable to be bestowed \Npowers by the Dark Triad.
+Dialogue: 0,0:01:30.68,0:01:35.49,main,Gaderois,0000,0000,0000,,We, the Dark Disciples, are all stage zero.
+Dialogue: 0,0:01:36.04,0:01:41.03,italics,Nar,0000,0000,0000,,...as well as the devil-possessed \NZenon of the Dark Triad.
+Dialogue: 0,0:01:43.24,0:01:45.50,italics,Nar,0000,0000,0000,,And Zenon's goal was...
+Dialogue: 0,0:01:46.46,0:01:49.96,main,Vangeance,0000,0000,0000,,World Tree Magic: Magic Warding Ash!
+Dialogue: 0,0:01:50.21,0:01:52.59,main,Zenon,0000,0000,0000,,So that's world tree magic.
+Dialogue: 0,0:01:53.29,0:01:59.39,main,Zenon,0000,0000,0000,,To benefit the Spade Kingdom, \NI'll be taking you.
+Dialogue: 0,0:01:59.39,0:02:02.21,italics,Zenon,0000,0000,0000,,Bone Magic: Eternal Fangs.
+Dialogue: 0,0:02:03.64,0:02:07.82,italics,Nar,0000,0000,0000,,When he returned to the Golden Dawn's \Nheadquarters, he saw...
+Dialogue: 0,0:02:07.82,0:02:09.06,main,Yuno,0000,0000,0000,,Everyone!
+Dialogue: 0,0:02:09.63,0:02:12.86,italics,Nar,0000,0000,0000,,...an unbelievable tragedy.
+Dialogue: 0,0:02:14.82,0:02:18.32,main,Yuno,0000,0000,0000,,What do you think you're doing...
+Dialogue: 0,0:02:20.02,0:02:21.40,main,Yuno,0000,0000,0000,,to my comrades?!
+Dialogue: 0,0:03:45.93,0:03:49.20,Ep Title,Title,0000,0000,0000,,{\t(1,1134,\c&H0900AD&)}Zenon's Power
+Dialogue: 0,0:03:56.81,0:04:00.22,flashback,Alecdora,0000,0000,0000,,There were many members of the \NGolden Dawn who looked down on you
+Dialogue: 0,0:04:00.22,0:04:01.30,flashback,Alecdora,0000,0000,0000,,for being a peasant.
+Dialogue: 0,0:04:01.30,0:04:04.61,flashback,Alecdora,0000,0000,0000,,They despised you and were \Njealous of your powers.
+Dialogue: 0,0:04:04.61,0:04:06.47,flashback,Alecdora,0000,0000,0000,,That includes myself, too.
+Dialogue: 0,0:04:07.16,0:04:11.01,flashback,Alecdora,0000,0000,0000,,Why in the world would you have \Nto defend the likes of them?
+Dialogue: 0,0:04:11.53,0:04:12.84,flashback,Yuno,0000,0000,0000,,Because they're my comrades.
+Dialogue: 0,0:04:14.04,0:04:17.29,flashback,Yuno,0000,0000,0000,,I don't need a reason to know that \Nmy comrades are important to me.
+Dialogue: 0,0:04:18.41,0:04:19.69,flashback,Alecdora,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:04:21.81,0:04:25.73,flashback,Hamon,0000,0000,0000,,Then let's all go get something \Nto eat after we're done reporting.
+Dialogue: 0,0:04:25.73,0:04:26.71,flashback,Klaus,0000,0000,0000,,Yuno, wait!
+Dialogue: 0,0:04:26.71,0:04:27.64,flashback,Shiren,0000,0000,0000,,Yuno...
+Dialogue: 0,0:04:28.20,0:04:32.27,flashback,Hamon,0000,0000,0000,,We're also inviting you... rather, \Nthis invitation was specifically for you, Yuno.
+Dialogue: 0,0:04:32.27,0:04:33.99,flashback,Yuno,0000,0000,0000,,Huh? No, I...
+Dialogue: 0,0:04:33.99,0:04:37.75,flashback,Letoile,0000,0000,0000,,Hamon knows a number of places around \Nthe royal capital that serve delicious food.
+Dialogue: 0,0:04:37.75,0:04:41.67,flashback,David,0000,0000,0000,,Let's just invite the whole \Ngang and have a blast!
+Dialogue: 0,0:04:46.80,0:04:47.76,flashback,David,0000,0000,0000,,Hey!
+Dialogue: 0,0:04:50.51,0:04:53.37,flashback,David,0000,0000,0000,,Becoming the vice captain after just \Neighteen months on the squad?
+Dialogue: 0,0:04:53.37,0:04:55.18,flashback,David,0000,0000,0000,,Who the hell do you think you are?
+Dialogue: 0,0:04:55.18,0:04:57.27,flashback,Member 3,0000,0000,0000,,Yeah, seriously.
+Dialogue: 0,0:04:57.27,0:04:58.34,flashback,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:04:58.34,0:04:59.90,flashback,David,0000,0000,0000,,You little brat.
+Dialogue: 0,0:04:59.90,0:05:03.21,flashback,David,0000,0000,0000,,Take that, and that! Well? \NYou give up? You give up?
+Dialogue: 0,0:05:03.21,0:05:06.30,flashback,Squad girl 1,0000,0000,0000,,Yuno's actually smiling lately.
+Dialogue: 0,0:05:06.30,0:05:07.20,flashback,Squad girl 2,0000,0000,0000,,Yup.
+Dialogue: 0,0:05:09.48,0:05:11.49,flashback,Squad girl 1,0000,0000,0000,,A smile suits you much better.
+Dialogue: 0,0:05:11.49,0:05:17.80,flashback,Bell,0000,0000,0000,,Hey! I'm the only one allowed to stare \Nat Yuno's happy yet bashful face!
+Dialogue: 0,0:05:17.80,0:05:19.00,flashback,Bell,0000,0000,0000,,Take that, and that.
+Dialogue: 0,0:05:19.00,0:05:20.88,flashback,Squad girl 1,0000,0000,0000,,Hey, what are you doing?
+Dialogue: 0,0:05:19.00,0:05:21.82,flashback,Squad girl 2,0000,0000,0000,,Now, now, calm down. No fighting.
+Dialogue: 0,0:05:21.15,0:05:23.37,flashback,Bell,0000,0000,0000,,Why, you!
+Dialogue: 0,0:05:28.41,0:05:30.97,main,Gaderois,0000,0000,0000,,I'm sure we killed about half of them.
+Dialogue: 0,0:05:30.97,0:05:33.47,main,Gaderois,0000,0000,0000,,And the other half's following right behind.
+Dialogue: 0,0:05:34.96,0:05:39.65,main,Gaderois,0000,0000,0000,,They died fighting a really strong enemy,\N so they should be honored!
+Dialogue: 0,0:05:39.65,0:05:43.48,main,Yuno,0000,0000,0000,,Wind Spirit Magic: Spirit Storm!
+Dialogue: 0,0:05:47.94,0:05:51.91,main,Gaderois,0000,0000,0000,,Oh? So you've been chosen \Nby the Wind Spirit, eh?
+Dialogue: 0,0:05:52.16,0:05:53.76,main,Gaderois,0000,0000,0000,,That's great!
+Dialogue: 0,0:05:56.89,0:06:00.39,main,Gaderois,0000,0000,0000,,My stone magic that's been \Nenhanced by the devil's powers
+Dialogue: 0,0:06:00.39,0:06:02.54,main,Gaderois,0000,0000,0000,,is way harder than iron or steel!
+Dialogue: 0,0:06:02.77,0:06:05.05,main,Gaderois,0000,0000,0000,,No wind is even gonna scratch it!
+Dialogue: 0,0:06:06.46,0:06:09.55,main,Yuno,0000,0000,0000,,Mana Zone: Spirit's Hushed Dance.
+Dialogue: 0,0:06:13.01,0:06:17.43,italics,Gaderois,0000,0000,0000,,This guy is attacking me while \Nprotecting those who are about to die.
+Dialogue: 0,0:06:17.43,0:06:21.60,italics,Gaderois,0000,0000,0000,,The arcane stage captain should \Nbe fighting Lord Zenon right now.
+Dialogue: 0,0:06:24.34,0:06:28.20,main,Gaederois,0000,0000,0000,,Who knew that anyone other than \Ncaptains could be a zero stage?
+Dialogue: 0,0:06:28.66,0:06:31.67,main,Gaderois,0000,0000,0000,,Things are definitely getting interesting!
+Dialogue: 0,0:06:32.70,0:06:35.95,main,Gaderois,0000,0000,0000,,I'm Gaderois! Who're you?
+Dialogue: 0,0:06:35.95,0:06:38.16,main,Yuno,0000,0000,0000,,I have no reason to tell someone like you...
+Dialogue: 0,0:06:38.48,0:06:39.98,main,Yuno,0000,0000,0000,,my name!
+Dialogue: 0,0:06:47.05,0:06:49.01,main,Gaderois,0000,0000,0000,,Aw, guess you don't like me much.
+Dialogue: 0,0:06:49.01,0:06:51.30,main,Gaderois,0000,0000,0000,,Don't be like that. Let's be friends...
+Dialogue: 0,0:06:51.57,0:06:53.30,main,Gaderois,0000,0000,0000,,and kill each other!
+Dialogue: 0,0:06:58.71,0:07:01.06,main,Yuno,0000,0000,0000,,Why did you attack this place?
+Dialogue: 0,0:07:01.06,0:07:04.29,main,Gaderois,0000,0000,0000,,Huh? I don't know the details.
+Dialogue: 0,0:07:06.89,0:07:11.49,main,Gaderois,0000,0000,0000,,But the Dark Triad is in need \Nof some arcane stage mage.
+Dialogue: 0,0:07:11.49,0:07:15.62,main,Gaderois,0000,0000,0000,,I don't care as long as I get \Nto go wild with my magic!
+Dialogue: 0,0:07:16.85,0:07:17.95,italics,Yuno,0000,0000,0000,,Arcane stage?!
+Dialogue: 0,0:07:18.40,0:07:20.91,main,Gaderois,0000,0000,0000,,The Dark Triad is the best.
+Dialogue: 0,0:07:22.17,0:07:24.98,main,Gaderois,0000,0000,0000,,They killed our last king, \Na peace-loving fool,
+Dialogue: 0,0:07:24.98,0:07:29.36,main,Gaderois,0000,0000,0000,,and gave those of us who wanted \Nto fight even more powers.
+Dialogue: 0,0:07:30.73,0:07:32.64,main,Gaderois,0000,0000,0000,,The last king was an idiot.
+Dialogue: 0,0:07:32.64,0:07:34.72,main,Gaderois,0000,0000,0000,,The strong are always right!
+Dialogue: 0,0:07:35.04,0:07:38.57,main,Gaderois,0000,0000,0000,,The strong are free to do whatever they want!
+Dialogue: 0,0:07:39.85,0:07:43.72,main,Yuno,0000,0000,0000,,When you hurt or kill people...
+Dialogue: 0,0:07:44.17,0:07:46.11,main,Yuno,0000,0000,0000,,What kind of emotions do you feel?
+Dialogue: 0,0:07:51.11,0:07:56.40,main,Gaderois,0000,0000,0000,,Huh?! I feel insanely excited and \Nawesomely refreshed, of course!
+Dialogue: 0,0:07:58.96,0:08:01.35,main,Gaderois,0000,0000,0000,,That's why I can't give this up!
+Dialogue: 0,0:08:01.35,0:08:05.17,main,Gaderois,0000,0000,0000,,That's why you're so strong, too, isn't it?!
+Dialogue: 0,0:08:05.41,0:08:07.44,main,Yuno,0000,0000,0000,,There's no way...
+Dialogue: 0,0:08:09.07,0:08:10.92,main,Yuno,0000,0000,0000,,I'm anything like you, scum!
+Dialogue: 0,0:08:11.93,0:08:13.93,main,Yuno,0000,0000,0000,,Wind Spirit Creation Magic:
+Dialogue: 0,0:08:16.49,0:08:18.60,main,Yuno,0000,0000,0000,,Spirit of Zephyr!
+Dialogue: 0,0:08:25.72,0:08:27.37,main,Gaderois,0000,0000,0000,,Not bad!
+Dialogue: 0,0:08:27.37,0:08:31.40,main,Gaderois,0000,0000,0000,,But your magic still isn't \Nenough to defeat me!
+Dialogue: 0,0:08:31.40,0:08:32.69,main,Yuno,0000,0000,0000,,It's all clear to me now.
+Dialogue: 0,0:08:33.69,0:08:37.45,main,Yuno,0000,0000,0000,,Things get messed up in this world \Nbecause people like you exist.
+Dialogue: 0,0:08:38.95,0:08:41.95,main,Yuno,0000,0000,0000,,No matter how much time passes, \Nthe curse persists.
+Dialogue: 0,0:08:42.27,0:08:44.16,main,Gaderois,0000,0000,0000,,The hell are you rambling abou—
+Dialogue: 0,0:08:46.43,0:08:50.84,italics,Gaderois,0000,0000,0000,,He's instantly undoing my stone magic?
+Dialogue: 0,0:08:54.77,0:08:57.28,italics,Yuno,0000,0000,0000,,Whether I'm a mage from the Clover Kingdom
+Dialogue: 0,0:08:57.28,0:09:01.31,italics,Yuno,0000,0000,0000,,or the Prince of the Spade \NKingdom... It doesn't matter.
+Dialogue: 0,0:09:08.28,0:09:10.19,main,Yuno,0000,0000,0000,,I'll cut right through you!
+Dialogue: 0,0:09:25.94,0:09:28.13,italics,Klaus,0000,0000,0000,,The range on this spell is insane.
+Dialogue: 0,0:09:28.34,0:09:31.00,italics,Klaus,0000,0000,0000,,I have no idea where the enemy is.
+Dialogue: 0,0:09:34.35,0:09:36.13,main,Foyal,0000,0000,0000,,You know...
+Dialogue: 0,0:09:37.01,0:09:39.55,main,Foyal,0000,0000,0000,,Your magic is pretty hard.
+Dialogue: 0,0:09:39.84,0:09:43.35,italics,Klaus,0000,0000,0000,,Steel Magic: Blazing Spiral Lance!
+Dialogue: 0,0:09:44.31,0:09:46.04,main,Foyal,0000,0000,0000,,Too bad.
+Dialogue: 0,0:09:48.95,0:09:54.18,main,Foyal,0000,0000,0000,,Your magic is just hard. It can't hit me.
+Dialogue: 0,0:09:54.18,0:09:58.58,main,Foyal,0000,0000,0000,,Let's go a little stronger \Nthis time, shall we?
+Dialogue: 0,0:10:04.17,0:10:09.88,main,Foyal,0000,0000,0000,,I'm a zero stage. I'm a genius \Nchosen by the Dark Triad.
+Dialogue: 0,0:10:10.29,0:10:15.35,main,Foyal,0000,0000,0000,,Even if there was a whole army of \Nyou scrubs, you couldn't beat me!
+Dialogue: 0,0:10:24.65,0:10:27.57,italics,Letoile,0000,0000,0000,,How in the world are they so much stronger?
+Dialogue: 0,0:10:27.57,0:10:30.80,italics,Letoile,0000,0000,0000,,He's not even the leader, and his magic \Nis equal to a Magic Knights Squad Captain.
+Dialogue: 0,0:10:30.80,0:10:33.57,italics,Letoile,0000,0000,0000,,What's going on with the \Nmages from the Spade Kingdom?
+Dialogue: 0,0:10:35.37,0:10:37.54,italics,Letoile,0000,0000,0000,,Everyone's mana is...
+Dialogue: 0,0:10:37.94,0:10:39.46,italics,Letoile,0000,0000,0000,,I need to do something,
+Dialogue: 0,0:10:39.46,0:10:41.45,italics,Letoile,0000,0000,0000,,or we're going to be wiped out!
+Dialogue: 0,0:10:41.45,0:10:43.70,italics,Letoile,0000,0000,0000,,But I can't even tell where the enemy is.
+Dialogue: 0,0:10:44.63,0:10:48.61,italics,Letoile,0000,0000,0000,,Useless North isn't responding to his magic,
+Dialogue: 0,0:10:48.61,0:10:51.46,italics,Letoile,0000,0000,0000,,and this is as big as Another Atlas can get.
+Dialogue: 0,0:10:52.65,0:10:56.99,flashback,Vangeance,0000,0000,0000,,Some of the elves' magic \Nstill remains within us.
+Dialogue: 0,0:10:57.86,0:11:01.13,flashback,vangeance,0000,0000,0000,,I'm sure some of you would rather disavow it, \Nsince it was used to attack the kingdom.
+Dialogue: 0,0:11:02.04,0:11:05.64,flashback,Vangeance,0000,0000,0000,,But now, we can take that tremendous power
+Dialogue: 0,0:11:06.64,0:11:10.23,flashback,Vangeance,0000,0000,0000,,and use it as an amazing force \Nto protect the Clover Kingdom.
+Dialogue: 0,0:11:11.29,0:11:14.58,italics,Letoile,0000,0000,0000,,After about six months of training, \Nthough I'm still not as powerful as an elf,
+Dialogue: 0,0:11:14.58,0:11:16.48,italics,Letoile,0000,0000,0000,,I made this power mine.
+Dialogue: 0,0:11:20.09,0:11:22.99,italics,Letoile,0000,0000,0000,,But the enemy's magic is just too powerful!
+Dialogue: 0,0:11:26.96,0:11:30.49,main,Foyal,0000,0000,0000,,Your magic's been destroyed, \Nas well as your body.
+Dialogue: 0,0:11:30.49,0:11:32.35,main,Foyal,0000,0000,0000,,Just give up.
+Dialogue: 0,0:11:33.73,0:11:37.50,main,Foyal,0000,0000,0000,,You seem smart enough to understand.
+Dialogue: 0,0:11:37.50,0:11:41.38,main,Foyal,0000,0000,0000,,You have no chance.
+Dialogue: 0,0:11:42.49,0:11:44.31,main,Klaus,0000,0000,0000,,My will...
+Dialogue: 0,0:11:45.73,0:11:47.71,main,Klaus,0000,0000,0000,,has not been broken!
+Dialogue: 0,0:11:50.04,0:11:54.48,main,Foyal,0000,0000,0000,,Then just die already, you piece of trash.
+Dialogue: 0,0:12:00.25,0:12:02.40,main,Yuno,0000,0000,0000,,Klaus!
+Dialogue: 0,0:12:02.40,0:12:03.66,main,Klaus,0000,0000,0000,,Yuno!
+Dialogue: 0,0:12:03.87,0:12:06.30,italics,Foyal,0000,0000,0000,,He blew away my mist.
+Dialogue: 0,0:12:06.30,0:12:08.16,italics,Foyal,0000,0000,0000,,He's a natural enemy.
+Dialogue: 0,0:12:08.16,0:12:09.66,main,Foyal,0000,0000,0000,,But...
+Dialogue: 0,0:12:14.16,0:12:17.71,main,Foyal,0000,0000,0000,,Mist Creation Magic: Sealing Spectral Hands.
+Dialogue: 0,0:12:18.08,0:12:20.71,italics,Yuno,0000,0000,0000,,The damage from that last fight...
+Dialogue: 0,0:12:20.93,0:12:24.06,main,Foyal,0000,0000,0000,,You seem a bit tired.
+Dialogue: 0,0:12:24.72,0:12:30.22,main,Foyal,0000,0000,0000,,I knew it. No matter how many of you \Nthere are, you're all just going to die.
+Dialogue: 0,0:12:32.59,0:12:35.73,italics,Letoile,0000,0000,0000,,I know where you are now, thanks to Yuno!
+Dialogue: 0,0:12:37.74,0:12:41.03,italics,Letoile,0000,0000,0000,,I'll move myself and Another Atlas,
+Dialogue: 0,0:12:41.03,0:12:43.53,italics,Letoile,0000,0000,0000,,and rip away your illusionary armor!
+Dialogue: 0,0:12:46.33,0:12:49.53,italics,Foyal,0000,0000,0000,,You utter trash...
+Dialogue: 0,0:12:51.47,0:12:55.79,italics,Foyal,0000,0000,0000,,How... can he still move with\N his body in that state?
+Dialogue: 0,0:12:58.50,0:13:03.80,italics,Klaus,0000,0000,0000,,Whenever I have to face someone \Nwith such natural gifts, I think...
+Dialogue: 0,0:13:05.31,0:13:11.51,italics,Klaus,0000,0000,0000,,Despite how much I may train, I still \Nmight not be able to surpass them.
+Dialogue: 0,0:13:12.55,0:13:16.31,italics,Klaus,0000,0000,0000,,But now, as a Magic Knight...
+Dialogue: 0,0:13:18.77,0:13:22.01,italics,Klaus,0000,0000,0000,,I'm going to continue to break through!
+Dialogue: 0,0:13:23.36,0:13:25.57,main,Klaus,0000,0000,0000,,Why can I still move?
+Dialogue: 0,0:13:33.81,0:13:36.06,main,Klaus,0000,0000,0000,,Because I train regularly.
+Dialogue: 0,0:13:38.71,0:13:39.51,main,Klaus,0000,0000,0000,,Letoile!
+Dialogue: 0,0:13:40.33,0:13:43.03,main,Klaus,0000,0000,0000,,Yuno! Er, I mean, Vice Captain Yuno.
+Dialogue: 0,0:13:43.03,0:13:44.17,main,Klaus,0000,0000,0000,,Thank you for your help.
+Dialogue: 0,0:13:44.17,0:13:45.59,main,Yuno,0000,0000,0000,,Team Leader Klaus...
+Dialogue: 0,0:13:45.59,0:13:47.37,main,Klaus,0000,0000,0000,,You hardly need to address me that way now.
+Dialogue: 0,0:13:47.37,0:13:50.53,main,Klaus,0000,0000,0000,,You're a true vice captain now.
+Dialogue: 0,0:13:50.53,0:13:55.60,main,Yuno,0000,0000,0000,,You can stop calling me \N"vice captain." It's creepy.
+Dialogue: 0,0:13:55.60,0:13:58.25,main,Letoile,0000,0000,0000,,I'm going to be honest. Who cares?
+Dialogue: 0,0:13:58.25,0:14:00.06,main,Bell,0000,0000,0000,,Well, I care!
+Dialogue: 0,0:14:00.37,0:14:03.70,main,Bell,0000,0000,0000,,Yuno's the vice captain! \NThat's basically almost captain!
+Dialogue: 0,0:14:03.70,0:14:06.46,main,Bell,0000,0000,0000,,So who pushed Yuno to the top?
+Dialogue: 0,0:14:06.46,0:14:13.81,main,Bell,0000,0000,0000,,It's all thanks to me, of course. Who else?\N I'm the best partner there is.
+Dialogue: 0,0:14:13.81,0:14:15.66,main,Bell,0000,0000,0000,,Right, Yuno?
+Dialogue: 0,0:14:16.03,0:14:18.93,main,Yuno,0000,0000,0000,,Vice captain and captain \Nare completely different.
+Dialogue: 0,0:14:18.93,0:14:21.66,main,Bell,0000,0000,0000,,Oh, you're just so modest.
+Dialogue: 0,0:14:21.66,0:14:22.51,main,Bell,0000,0000,0000,,Owie.
+Dialogue: 0,0:14:26.48,0:14:27.48,main,Yuno,0000,0000,0000,,This mana...
+Dialogue: 0,0:14:51.96,0:14:53.94,main,Letoile,0000,0000,0000,,Captain Vangeance...
+Dialogue: 0,0:14:53.94,0:14:55.04,main,Klaus,0000,0000,0000,,Impossible...
+Dialogue: 0,0:14:56.27,0:14:57.94,main,Klaus,0000,0000,0000,,Who in the world is he?!
+Dialogue: 0,0:14:59.54,0:15:03.29,main,Zenon,0000,0000,0000,,Oh, some of you are still alive.
+Dialogue: 0,0:15:13.20,0:15:15.51,main,Yuno,0000,0000,0000,,You're...
+Dialogue: 0,0:15:19.04,0:15:22.55,main,Zenon,0000,0000,0000,,So Gaderois and Foyal were defeated.
+Dialogue: 0,0:15:23.02,0:15:26.06,main,Zenon,0000,0000,0000,,They were only at 40%.
+Dialogue: 0,0:15:26.85,0:15:31.43,main,Zenon,0000,0000,0000,,I guess there was no point in bringing \Nthem when they couldn't surpass 50%.
+Dialogue: 0,0:15:34.07,0:15:34.94,main,Bell,0000,0000,0000,,Yuno!
+Dialogue: 0,0:15:35.66,0:15:37.54,main,Bell,0000,0000,0000,,Quickly! Use Spirit Dive!
+Dialogue: 0,0:15:37.83,0:15:40.29,main,Bell,0000,0000,0000,,He's bad news.
+Dialogue: 0,0:15:50.02,0:15:51.68,italics,Yuno,0000,0000,0000,,There's no time to even dodge!
+Dialogue: 0,0:15:59.04,0:16:00.25,italics,Letoile,0000,0000,0000,,He's just...
+Dialogue: 0,0:16:00.25,0:16:01.31,main,Klaus,0000,0000,0000,,He's too powerful!
+Dialogue: 0,0:16:04.56,0:16:05.56,main,Zenon,0000,0000,0000,,Oh?
+Dialogue: 0,0:16:07.27,0:16:08.57,main,Yuno,0000,0000,0000,,Klaus...
+Dialogue: 0,0:16:28.92,0:16:32.64,main,Yuno,0000,0000,0000,,You bastard!
+Dialogue: 0,0:16:41.73,0:16:44.16,italics,Yuno,0000,0000,0000,,I can't even cut through \Nhim with Spirit of Zephyr?!
+Dialogue: 0,0:16:44.57,0:16:46.19,italics,Yuno,0000,0000,0000,,No, he's...
+Dialogue: 0,0:16:46.19,0:16:49.97,italics,Yuno,0000,0000,0000,,regenerating at incredible speed!
+Dialogue: 0,0:16:50.96,0:16:54.95,main,Zenon,0000,0000,0000,,So you're stage zero. Then let me show you...
+Dialogue: 0,0:16:56.20,0:16:58.75,main,Zenon,0000,0000,0000,,just a bit of my devil powers.
+Dialogue: 0,0:17:11.75,0:17:14.14,main,Zenon,0000,0000,0000,,55%.
+Dialogue: 0,0:17:14.14,0:17:16.76,main,Zenon,0000,0000,0000,,It's not that you're weak.
+Dialogue: 0,0:17:22.27,0:17:26.77,main,Zenon,0000,0000,0000,,It's just that I'm far superior.
+Dialogue: 0,0:17:27.69,0:17:29.44,main,Zenon,0000,0000,0000,,This is all...
+Dialogue: 0,0:17:29.44,0:17:32.89,main,Zenon,0000,0000,0000,,for the glory of the Spade Kingdom.
+Dialogue: 0,0:18:18.88,0:18:20.74,main,Ralph,0000,0000,0000,,I-It can't be!
+Dialogue: 0,0:18:33.66,0:18:35.63,main,Ralph,0000,0000,0000,,Prince Yuno!
+Dialogue: 0,0:18:38.77,0:18:44.12,main,Bell,0000,0000,0000,,Yuno... No! I don't want to leave you!
+Dialogue: 0,0:18:53.26,0:18:54.24,main,Ralph,0000,0000,0000,,Prince Yuno...
+Dialogue: 0,0:18:56.01,0:18:57.03,main,Ralph,0000,0000,0000,,Prince Yuno...
+Dialogue: 0,0:18:58.17,0:18:59.12,main,Ralph,0000,0000,0000,,No...
+Dialogue: 0,0:19:04.68,0:19:05.63,main,Ralph,0000,0000,0000,,You're...
+Dialogue: 0,0:19:07.76,0:19:08.68,main,Ralph,0000,0000,0000,,You're...
+Dialogue: 0,0:19:10.93,0:19:14.22,main,Ralph,0000,0000,0000,,But you're supposed to...
+Dialogue: 0,0:19:27.37,0:19:28.81,main,Ralph,0000,0000,0000,,What?
+Dialogue: 0,0:19:42.02,0:19:43.64,main,Ralph,0000,0000,0000,,This is...
+Dialogue: 0,0:19:49.91,0:19:51.17,main,Bell,0000,0000,0000,,Yuno's squad...
+Dialogue: 0,0:19:54.34,0:19:57.72,main,Bell,0000,0000,0000,,His squad captain's magic.
+Dialogue: 0,0:20:18.40,0:20:22.20,main,Bell,0000,0000,0000,,Y-Yuno!
+Dialogue: 0,0:20:22.63,0:20:25.12,main,Bell,0000,0000,0000,,Thank goodness!
+Dialogue: 0,0:20:25.12,0:20:25.97,main,Yuno,0000,0000,0000,,Bell...
+Dialogue: 0,0:20:26.70,0:20:29.57,main,Bell,0000,0000,0000,,Yuno!
+Dialogue: 0,0:20:37.34,0:20:39.59,main,Klaus,0000,0000,0000,,I'm... alive?
+Dialogue: 0,0:20:42.97,0:20:45.32,main,Alecdora,0000,0000,0000,,Lord Vangeance's world tree magic...
+Dialogue: 0,0:20:45.92,0:20:47.95,main,Alecdora,0000,0000,0000,,He was already quite injured himself.
+Dialogue: 0,0:20:48.73,0:20:51.53,main,Alecdora,0000,0000,0000,,But he cast a spell this vast for us?
+Dialogue: 0,0:20:55.67,0:20:57.13,main,Klaus,0000,0000,0000,,Where's Captain Vangeance?
+Dialogue: 0,0:20:57.59,0:21:00.28,main,Klaus,0000,0000,0000,,Was he taken by that man?
+Dialogue: 0,0:21:03.90,0:21:05.40,main,Alecdora,0000,0000,0000,,Lord Vangeance...
+Dialogue: 0,0:21:08.81,0:21:10.50,main,Yuno,0000,0000,0000,,What about the others?
+Dialogue: 0,0:21:16.82,0:21:17.90,main,Rando 1,0000,0000,0000,,Shiren...
+Dialogue: 0,0:21:17.90,0:21:19.10,main,Rando 2,0000,0000,0000,,Oh, Shiren...
+Dialogue: 0,0:21:20.81,0:21:22.37,main,Klaus,0000,0000,0000,,No...
+Dialogue: 0,0:21:25.09,0:21:26.29,main,Klaus,0000,0000,0000,,Hamon...
+Dialogue: 0,0:21:27.82,0:21:30.09,main,David,0000,0000,0000,,He was able to save those\Non the verge of death...
+Dialogue: 0,0:21:31.69,0:21:36.36,main,David,0000,0000,0000,,But even Captain Vangeance's magic \Ncouldn't save those who were already dead.
+Dialogue: 0,0:21:40.33,0:21:43.50,main,Yuno,0000,0000,0000,,Half of our squad... is dead.
+Dialogue: 0,0:21:45.70,0:21:46.68,main,Yuno,0000,0000,0000,,If only...
+Dialogue: 0,0:21:49.58,0:21:51.16,main,Yuno,0000,0000,0000,,If only I had been stronger...
+Dialogue: 0,0:23:39.81,0:23:41.81,main,Zenon,0000,0000,0000,,This is but the prologue.
+Dialogue: 0,0:23:42.14,0:23:47.98,main,Zenon,0000,0000,0000,,Once our goal is realized, \Nyou will be overwhelmed with despair.
+Dialogue: 0,0:23:48.61,0:23:53.47,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 162:\N "The Great War Breaks Out."
+Dialogue: 0,0:23:49.69,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(196,1)}Page 162\N\N{\fs18} The Great War Breaks Out

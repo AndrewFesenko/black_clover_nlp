@@ -1,0 +1,363 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FFFB,&H000000FF,&H1900122E,&H000D1728,-1,0,0,0,100,100,0,0,1,1,0,8,0030,0030,0075,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+ 
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.34,0:00:07.04,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:07.59,0:00:09.56,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:09.56,0:00:12.95,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:13.41,0:00:15.61,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:16.29,0:00:18.91,italics,Nar,0000,0000,0000,,With guts and hard work, \Nhe made it into the Magic Knights,
+Dialogue: 0,0:00:18.91,0:00:21.77,italics,Nar,0000,0000,0000,,and he never gave up, \Ndespite how much he got hurt.
+Dialogue: 0,0:00:21.77,0:00:24.60,italics,Nar,0000,0000,0000,,He continues to diligently aim for the top!
+Dialogue: 0,0:00:25.88,0:00:27.79,italics,Nar,0000,0000,0000,,Even if you are a peasant,
+Dialogue: 0,0:00:27.79,0:00:29.63,italics,Nar,0000,0000,0000,,or even if you're poor...
+Dialogue: 0,0:00:29.63,0:00:32.38,italics,Nar,0000,0000,0000,,Anyone in this world can still shine!
+Dialogue: 0,0:00:32.38,0:00:34.80,italics,Nar,0000,0000,0000,,He's working hard to prove that,
+Dialogue: 0,0:00:35.22,0:00:37.80,italics,Nar,0000,0000,0000,,and to become the Wizard King!
+Dialogue: 0,0:00:40.53,0:00:44.52,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3\fad(761,1)}Tolsa Village
+Dialogue: 0,0:00:45.35,0:00:47.02,flashback,Zara,0000,0000,0000,,Those flowers are for me?
+Dialogue: 0,0:00:47.02,0:00:49.52,flashback,Guy,0000,0000,0000,,Yes. You like them, don't you?
+Dialogue: 0,0:00:49.52,0:00:51.44,flashback,Zara,0000,0000,0000,,Aren't you supposed to be selling them, though?
+Dialogue: 0,0:00:51.44,0:00:54.95,flashback,Guy,0000,0000,0000,,It's fine. You're my hero, Zara.
+Dialogue: 0,0:00:55.43,0:00:56.63,flashback,Zora,0000,0000,0000,,Dad.
+Dialogue: 0,0:00:57.64,0:00:59.72,flashback,Zara,0000,0000,0000,,Zora! Come here a sec!
+Dialogue: 0,0:01:01.46,0:01:03.35,flashback,Guy,0000,0000,0000,,Well, I'll be going now.
+Dialogue: 0,0:01:07.64,0:01:08.81,flashback,Zora,0000,0000,0000,,What was that about?
+Dialogue: 0,0:01:09.30,0:01:14.40,flashback,Zara,0000,0000,0000,,Don't these smell great, Zora?\N I love this scent.
+Dialogue: 0,0:01:15.35,0:01:16.72,flashback,Zora,0000,0000,0000,,Yeah, I know.
+Dialogue: 0,0:01:38.24,0:01:42.60,Ep Title,Sign,0000,0000,0000,,{\fad(210,1871)\t(210,2419,\fscx120\fscy120)}In Zara's Footsteps
+Dialogue: 0,0:02:51.42,0:02:54.52,flashback,Zora,0000,0000,0000,,What a pain. Like I have time for that.
+Dialogue: 0,0:02:55.17,0:02:57.68,flashback,Zora,0000,0000,0000,,Train together, my ass.
+Dialogue: 0,0:02:57.68,0:03:01.43,flashback,Zora,0000,0000,0000,,I didn't join the squad so I could \Nbe all buddy-buddy with you guys.
+Dialogue: 0,0:03:04.82,0:03:08.97,italics,Zora,0000,0000,0000,,I left on a journey to train \Nsince I didn't have time
+Dialogue: 0,0:03:08.97,0:03:11.57,italics,Zora,0000,0000,0000,,to bother with the rest of the Black Bulls,
+Dialogue: 0,0:03:12.21,0:03:15.67,italics,Zora,0000,0000,0000,,but how long am I going to keep doing this?
+Dialogue: 0,0:03:18.97,0:03:20.93,italics,Zora,0000,0000,0000,,Right, Dad?
+Dialogue: 0,0:03:28.17,0:03:31.56,italics,Zora,0000,0000,0000,,Could it have been someone from \Nthe village? Yeah, no way.
+Dialogue: 0,0:03:32.51,0:03:34.83,italics,Zora,0000,0000,0000,,It's true that Dad was called the pride of
+Dialogue: 0,0:03:34.83,0:03:38.15,italics,Zora,0000,0000,0000,,Tolsa Village because he was \Nthe first peasant Magic Knight.
+Dialogue: 0,0:03:48.63,0:03:51.21,italics,Zora,0000,0000,0000,,But that's all in the past.
+Dialogue: 0,0:04:08.73,0:04:09.53,main,Ina,0000,0000,0000,,Damn it!
+Dialogue: 0,0:04:11.81,0:04:13.71,italics,Zora,0000,0000,0000,,He's not even using a grimoire?
+Dialogue: 0,0:04:14.63,0:04:19.11,italics,Zora,0000,0000,0000,,Guess he has potential. \NWell, do your best, I gues—
+Dialogue: 0,0:04:24.24,0:04:25.20,main,Ina,0000,0000,0000,,Who's there?!
+Dialogue: 0,0:04:26.21,0:04:27.66,main,Kaito,0000,0000,0000,,Whoops, my bad.
+Dialogue: 0,0:04:27.66,0:04:30.14,main,Baddie 1,0000,0000,0000,,Wow! You hit the target all the way from here!
+Dialogue: 0,0:04:30.14,0:04:33.93,main,Baddie 1,0000,0000,0000,,Your flame magic is amazing, Kaito!
+Dialogue: 0,0:04:33.93,0:04:37.21,main,Baddie 2,0000,0000,0000,,I can't wait for you to take \Nthe Magic Knights Entrance Exam!
+Dialogue: 0,0:04:37.21,0:04:39.55,main,Kaito,0000,0000,0000,,Oh, stop. This isn't the time for that.
+Dialogue: 0,0:04:40.04,0:04:45.01,italics,Zora,0000,0000,0000,,I'm guessing that brat's some rich kid who\Ncame to a summer resort for some R&R.
+Dialogue: 0,0:04:46.19,0:04:48.20,main,Kaito,0000,0000,0000,,What's that look for?
+Dialogue: 0,0:04:48.71,0:04:49.51,main,Ina,0000,0000,0000,,Apologize!
+Dialogue: 0,0:04:49.51,0:04:51.98,main,Baddie 1,0000,0000,0000,,Did you just tell Kaito to apologize?!
+Dialogue: 0,0:04:51.98,0:04:54.00,main,Baddie 2,0000,0000,0000,,Watch your tongue!
+Dialogue: 0,0:04:54.00,0:04:59.82,main,Kaito,0000,0000,0000,,Oh, stop. He's just a child who doesn't even \Nhave a grimoire yet, and a peasant at that.
+Dialogue: 0,0:05:02.62,0:05:03.42,main,Kaito,0000,0000,0000,,Here you go.
+Dialogue: 0,0:05:04.84,0:05:06.28,main,Kaito,0000,0000,0000,,That should settle things, right?
+Dialogue: 0,0:05:06.82,0:05:07.76,main,Kaito,0000,0000,0000,,Let's go.
+Dialogue: 0,0:05:07.76,0:05:09.59,main,Ina,0000,0000,0000,,I'm sorry I'm a peasant.
+Dialogue: 0,0:05:09.59,0:05:10.58,main,Kaito,0000,0000,0000,,What?
+Dialogue: 0,0:05:11.04,0:05:14.46,main,Ina,0000,0000,0000,,But when I turn fifteen and get my grimoire...
+Dialogue: 0,0:05:14.46,0:05:17.93,main,Kaito,0000,0000,0000,,I hope you're not about to say you're \Ngoing to join the Magic Knights.
+Dialogue: 0,0:05:17.93,0:05:20.58,main,Ina,0000,0000,0000,,I am! I'm joining the Magic Knights!
+Dialogue: 0,0:05:20.58,0:05:23.59,main,Kaito,0000,0000,0000,,Don't bother. It's impossible for peasants.
+Dialogue: 0,0:05:24.03,0:05:27.59,main,Ina,0000,0000,0000,,But there are peasants in the Magic Knights!
+Dialogue: 0,0:05:27.59,0:05:29.13,main,Kaito,0000,0000,0000,,Are there?
+Dialogue: 0,0:05:29.13,0:05:31.53,main,Baddie 2,0000,0000,0000,,They've made quite the buzz lately.
+Dialogue: 0,0:05:32.07,0:05:37.27,main,Kaito,0000,0000,0000,,I'm sure they only got in because they had \Ndirt on a current Magic Knight or something.
+Dialogue: 0,0:05:37.58,0:05:40.69,main,Ina,0000,0000,0000,,I know for a fact that Zara \NIdeale didn't join that way!
+Dialogue: 0,0:05:43.53,0:05:45.50,main,Kaito,0000,0000,0000,,Zara Ideale?
+Dialogue: 0,0:05:45.50,0:05:47.31,main,Baddie 1,0000,0000,0000,,I've never heard of him.
+Dialogue: 0,0:05:47.31,0:05:48.31,main,Baddie 2,0000,0000,0000,,What squad?
+Dialogue: 0,0:05:48.31,0:05:49.62,main,Ina,0000,0000,0000,,The Purple Orcas!
+Dialogue: 0,0:05:49.62,0:05:51.39,main,Kaito,0000,0000,0000,,The Purple Orcas?
+Dialogue: 0,0:05:51.39,0:05:54.28,main,Kaito,0000,0000,0000,,The squad at the center of \Nall the unsavory rumors after
+Dialogue: 0,0:05:54.28,0:05:57.07,main,Kaito,0000,0000,0000,,their captain got replaced \Nbecause of a scandal?
+Dialogue: 0,0:05:57.07,0:05:59.24,main,Ina,0000,0000,0000,,Zara's an amazing Magic Knight!
+Dialogue: 0,0:05:59.24,0:06:00.31,main,Kaito,0000,0000,0000,,Yeah?
+Dialogue: 0,0:06:00.31,0:06:03.58,main,Kaito,0000,0000,0000,,How? If he's that amazing, \Nhe must be renowned for something.
+Dialogue: 0,0:06:04.88,0:06:07.15,main,Kaito,0000,0000,0000,,Well? Isn't he?
+Dialogue: 0,0:06:07.15,0:06:10.70,main,Ina,0000,0000,0000,,H-He died during a mission.
+Dialogue: 0,0:06:13.96,0:06:15.68,main,Kaito,0000,0000,0000,,See? This is exactly my point.
+Dialogue: 0,0:06:15.68,0:06:19.65,main,Kaito,0000,0000,0000,,Peasants should know their place and \Njust stay in their villages until they die.
+Dialogue: 0,0:06:20.98,0:06:22.73,main,Ina,0000,0000,0000,,Shut up!
+Dialogue: 0,0:06:25.53,0:06:27.39,main,Baddie 2,0000,0000,0000,,What's that magic?
+Dialogue: 0,0:06:28.63,0:06:30.20,main,Kaito,0000,0000,0000,,Teach him a lesson.
+Dialogue: 0,0:06:30.94,0:06:31.95,main,Baddie,0000,0000,0000,,Okay.
+Dialogue: 0,0:06:34.59,0:06:36.05,main,Baddie 2,0000,0000,0000,,You stupid peasant!
+Dialogue: 0,0:06:36.05,0:06:37.85,main,Baddie 1,0000,0000,0000,,Apologize to Kaito!
+Dialogue: 0,0:06:37.85,0:06:39.04,main,Ina,0000,0000,0000,,No!
+Dialogue: 0,0:06:39.04,0:06:40.42,main,Baddie 2,0000,0000,0000,,Apologize!
+Dialogue: 0,0:06:40.42,0:06:42.71,main,Ina,0000,0000,0000,,I didn't do anything wrong!
+Dialogue: 0,0:06:43.06,0:06:44.34,main,Kaito,0000,0000,0000,,I see...
+Dialogue: 0,0:06:48.15,0:06:49.76,main,Zora,0000,0000,0000,,That's enough.
+Dialogue: 0,0:06:51.20,0:06:53.30,main,Kaito,0000,0000,0000,,Wh-Who are you?
+Dialogue: 0,0:06:56.81,0:06:59.15,main,Kaito and Baddies,0000,0000,0000,,That reeks!
+Dialogue: 0,0:06:58.08,0:06:59.15,main,Ina,0000,0000,0000,,Hold it!
+Dialogue: 0,0:07:07.99,0:07:09.57,italics,Ina,0000,0000,0000,,That power...
+Dialogue: 0,0:07:09.91,0:07:12.57,main,Kaito,0000,0000,0000,,Y-You'll regret this, you peasant!
+Dialogue: 0,0:07:13.62,0:07:15.03,main,Zora,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:07:16.47,0:07:20.08,main,Zora,0000,0000,0000,,Don't pick fights when you're \Nup against three guys like that.
+Dialogue: 0,0:07:20.60,0:07:24.98,main,Zora,0000,0000,0000,,You don't even have a grimoire. \NThere's no way you would've won.
+Dialogue: 0,0:07:24.98,0:07:28.84,main,Zora,0000,0000,0000,,Try using that tiny little brain of yours.
+Dialogue: 0,0:07:30.15,0:07:35.66,main,Zora,0000,0000,0000,,Though... what you said about Zara Ideale \Nbeing an amazing Magic Knight
+Dialogue: 0,0:07:35.66,0:07:37.60,main,Zora,0000,0000,0000,,isn't exactly wrong.
+Dialogue: 0,0:07:38.13,0:07:40.60,main,Dad,0000,0000,0000,,Ina? Is that you?
+Dialogue: 0,0:07:41.97,0:07:43.10,main,Ina,0000,0000,0000,,Dad!
+Dialogue: 0,0:07:43.69,0:07:48.10,main,Dad,0000,0000,0000,,Ina, what happened to you? Don't tell me...
+Dialogue: 0,0:07:48.58,0:07:52.74,main,Ina,0000,0000,0000,,This masked guy... saved me.
+Dialogue: 0,0:07:53.07,0:07:55.95,main,Dad,0000,0000,0000,,What? I-I'm sorry for any \Ntrouble my son caused you.
+Dialogue: 0,0:08:00.44,0:08:03.39,main,Dad,0000,0000,0000,,Ina, what happened? Tell me.
+Dialogue: 0,0:08:04.82,0:08:07.17,main,Dad,0000,0000,0000,,Did you do something you can't tell me about?
+Dialogue: 0,0:08:08.17,0:08:12.76,flashbackitalics,Kaito,0000,0000,0000,,Peasants should know their place and \Njust stay in their villages until they die.
+Dialogue: 0,0:08:13.90,0:08:16.17,main,Ina,0000,0000,0000,,Why was I born to peasants?
+Dialogue: 0,0:08:17.99,0:08:22.29,main,Ina,0000,0000,0000,,If I wasn't born into a peasant family, \NI would've had greater magic powers.
+Dialogue: 0,0:08:23.16,0:08:25.60,main,Ina,0000,0000,0000,,If only you weren't my father!
+Dialogue: 0,0:08:25.60,0:08:26.51,main,Zora,0000,0000,0000,,Hey!
+Dialogue: 0,0:08:27.94,0:08:29.17,main,Dad,0000,0000,0000,,Wait!
+Dialogue: 0,0:08:30.50,0:08:32.10,main,Dad,0000,0000,0000,,He's exactly right.
+Dialogue: 0,0:08:32.10,0:08:32.90,main,Zora,0000,0000,0000,,What?
+Dialogue: 0,0:08:33.35,0:08:38.22,main,Dad,0000,0000,0000,,If I weren't in this state, he wouldn't \Nhave to help me with my work.
+Dialogue: 0,0:08:38.81,0:08:42.37,main,Dad,0000,0000,0000,,I could've given him more \Ntime to train with magic.
+Dialogue: 0,0:08:43.00,0:08:46.12,main,Dad,0000,0000,0000,,I'm a failure as a father.
+Dialogue: 0,0:08:48.42,0:08:51.06,main,Ina,0000,0000,0000,,L-Let go of me!
+Dialogue: 0,0:08:51.06,0:08:52.26,main,Dad,0000,0000,0000,,Wh-Where are you going?
+Dialogue: 0,0:08:55.79,0:08:59.64,main,Dad,0000,0000,0000,,Wait, have I seen that \Nyoung man somewhere before?
+Dialogue: 0,0:09:02.44,0:09:04.01,main,Ina,0000,0000,0000,,What the hell are you doing?!
+Dialogue: 0,0:09:04.01,0:09:05.59,main,Zora,0000,0000,0000,,Cool Mask Guy.
+Dialogue: 0,0:09:05.59,0:09:06.39,main,Ina,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:06.39,0:09:07.35,main,Zora,0000,0000,0000,,That's what you'll call me.
+Dialogue: 0,0:09:07.76,0:09:09.60,main,Ina,0000,0000,0000,,What the hell are you talking about?
+Dialogue: 0,0:09:09.60,0:09:11.15,main,Zora,0000,0000,0000,,Listen up, you shitty little shrimp...
+Dialogue: 0,0:09:11.74,0:09:13.62,main,Zora,0000,0000,0000,,No, you snot-nosed shrimp.
+Dialogue: 0,0:09:13.62,0:09:15.11,main,Ina,0000,0000,0000,,Who're you calling a snot-nosed shrimp?!
+Dialogue: 0,0:09:15.50,0:09:17.71,main,Zora,0000,0000,0000,,You probably know this, \Nbut I'll remind you anyway.
+Dialogue: 0,0:09:18.58,0:09:22.49,main,Zora,0000,0000,0000,,The amazing Magic Knight you were \Njust praising was also a peasant.
+Dialogue: 0,0:09:22.89,0:09:24.05,main,Ina,0000,0000,0000,,So what if he was?
+Dialogue: 0,0:09:24.62,0:09:27.11,main,Ina,0000,0000,0000,,Are you trying to say he's \Nway different than me?
+Dialogue: 0,0:09:27.11,0:09:32.20,main,Zora,0000,0000,0000,,It's true that Zara Ideale never \Nlamented his upbringing,
+Dialogue: 0,0:09:32.20,0:09:35.78,main,Zora,0000,0000,0000,,and never said anything bad about anyone.
+Dialogue: 0,0:09:36.21,0:09:38.39,main,ina,0000,0000,0000,,You knew Zara, Mask Guy?!
+Dialogue: 0,0:09:38.39,0:09:40.47,main,Zora,0000,0000,0000,,That's {\i1}Cool{\i0} Mask Guy to you.
+Dialogue: 0,0:09:41.65,0:09:46.01,main,Zora,0000,0000,0000,,But as you said, he's way different than you.
+Dialogue: 0,0:09:49.75,0:09:53.56,main,Ina,0000,0000,0000,,I know... that I'm aiming too high.
+Dialogue: 0,0:09:55.58,0:09:56.82,flashbackitalics,Zara,0000,0000,0000,,I'm aiming too high?
+Dialogue: 0,0:09:57.14,0:10:02.04,flashback,Zora,0000,0000,0000,,Yeah. You're a peasant, yet you \Nwant to join the Magic Knights.
+Dialogue: 0,0:10:02.60,0:10:07.16,flashback,Zara,0000,0000,0000,,I don't remember how many times I've failed \Nthe Magic Knights Entrance Exam, Zora.
+Dialogue: 0,0:10:07.63,0:10:10.62,flashback,Zara,0000,0000,0000,,But I don't believe I'm aiming too high, either.
+Dialogue: 0,0:10:11.42,0:10:15.56,flashback,Zara,0000,0000,0000,,I'm always telling you that I'm gonna \Njoin the Magic Knights, aren't I?
+Dialogue: 0,0:10:16.12,0:10:20.43,flashback,Zara,0000,0000,0000,,That's because I really believe I can!
+Dialogue: 0,0:10:25.84,0:10:28.76,main,Zora,0000,0000,0000,,You said you were gonna join \Nthe Magic Knights, didn't you?
+Dialogue: 0,0:10:28.76,0:10:31.67,main,Ina,0000,0000,0000,,So you heard me. You got a problem with that?
+Dialogue: 0,0:10:31.67,0:10:33.78,main,Zora,0000,0000,0000,,I never said I did.
+Dialogue: 0,0:10:34.19,0:10:39.95,main,Zora,0000,0000,0000,,But if you're able to say that, doesn't that \Nmean you really believe you can do it?
+Dialogue: 0,0:10:41.77,0:10:44.73,main,Zora,0000,0000,0000,,That's not what you'd call aiming too high.
+Dialogue: 0,0:10:45.47,0:10:48.37,main,Zora,0000,0000,0000,,Zara Ideale said the same thing.
+Dialogue: 0,0:10:49.26,0:10:52.38,main,Ina,0000,0000,0000,,I really believe I can do it?
+Dialogue: 0,0:10:53.26,0:10:56.16,main,Zora,0000,0000,0000,,Let me give you some advice, snot-nosed shrimp.
+Dialogue: 0,0:10:56.16,0:10:58.18,main,Ina,0000,0000,0000,,Stop calling me a snot-nosed shrimp!
+Dialogue: 0,0:10:58.18,0:11:00.62,main,Ina,0000,0000,0000,,Wait, what's that?
+Dialogue: 0,0:11:01.62,0:11:03.91,main,Ina,0000,0000,0000,,Isn't that doll... you?
+Dialogue: 0,0:11:03.91,0:11:07.81,main,Zora,0000,0000,0000,,This is the envoy of justice,\N the Super Magic Knight Zora.
+Dialogue: 0,0:11:07.81,0:11:09.38,main,Ina,0000,0000,0000,,I'm twelve years old, you know...
+Dialogue: 0,0:11:09.99,0:11:12.68,main,Zora,0000,0000,0000,,He has a mouth on him, \Nbut he's as good as his word.
+Dialogue: 0,0:11:12.68,0:11:14.86,main,Zora,0000,0000,0000,,He's a warrior who protects \Nthe country behind the scenes.
+Dialogue: 0,0:11:14.86,0:11:16.75,main,Ina,0000,0000,0000,,What the hell kind of backstory is that?
+Dialogue: 0,0:11:16.75,0:11:20.11,main,Ina,0000,0000,0000,,You look like that, but you're\N into dolls? Really?
+Dialogue: 0,0:11:20.57,0:11:25.63,main,Zora,0000,0000,0000,,Zora was also the child of a peasant, \Nbut he didn't idolize nobles or royalty.
+Dialogue: 0,0:11:26.36,0:11:29.87,main,Zora,0000,0000,0000,,That's because he could do something \Nnobles and royalty couldn't.
+Dialogue: 0,0:11:29.87,0:11:35.79,main,Ina,0000,0000,0000,,Stop ignoring me! Wait, something \Nnobles and royalty couldn't do?
+Dialogue: 0,0:11:36.14,0:11:38.61,main,Zora,0000,0000,0000,,Now, I wonder what that could be?
+Dialogue: 0,0:11:38.61,0:11:40.26,main,Ina,0000,0000,0000,,How the hell would I know?
+Dialogue: 0,0:11:40.26,0:11:41.38,main,Zora,0000,0000,0000,,I'm sure you wouldn't.
+Dialogue: 0,0:11:42.28,0:11:45.22,main,Zora,0000,0000,0000,,But if you don't know that, \Nyou'll never be able to join
+Dialogue: 0,0:11:45.22,0:11:47.31,main,Zora,0000,0000,0000,,the Magic Knights.
+Dialogue: 0,0:12:09.29,0:12:15.08,flashbackitalics,Zora,0000,0000,0000,,Zora was also the child of a peasant, \Nbut he didn't idolize nobles or royalty.
+Dialogue: 0,0:12:15.63,0:12:19.19,flashback,Zora,0000,0000,0000,,That's because he could do something \Nnobles and royalty couldn't.
+Dialogue: 0,0:12:19.19,0:12:21.64,flashback,Zora,0000,0000,0000,,Now, I wonder what that could be?
+Dialogue: 0,0:12:22.45,0:12:23.97,main,Dad,0000,0000,0000,,Ina, let's take a lunch break.
+Dialogue: 0,0:12:24.75,0:12:26.71,main,Dad,0000,0000,0000,,I'll take care of the afternoon work.
+Dialogue: 0,0:12:27.43,0:12:29.63,main,Dad,0000,0000,0000,,You can go practice your magic if you want.
+Dialogue: 0,0:12:48.15,0:12:49.62,main,Kaito,0000,0000,0000,,You got lucky yesterday,
+Dialogue: 0,0:12:50.05,0:12:53.62,main,Kaito,0000,0000,0000,,but you'll pay for embarrassing me.
+Dialogue: 0,0:12:54.58,0:12:56.79,main,Kaito,0000,0000,0000,,I've come to collect.
+Dialogue: 0,0:12:57.53,0:13:00.25,main,Kaito,0000,0000,0000,,Do you know what this is, peasant?
+Dialogue: 0,0:13:02.60,0:13:03.92,italics,Zora,0000,0000,0000,,A magic item?
+Dialogue: 0,0:13:03.92,0:13:05.47,main,Kaito,0000,0000,0000,,Now that I have this...
+Dialogue: 0,0:13:06.80,0:13:10.43,italics,Zora,0000,0000,0000,,Whoa, now... A kid shouldn't \Nbe playing with that.
+Dialogue: 0,0:13:10.43,0:13:13.66,main,Kaito,0000,0000,0000,,Apologize. That's not too difficult, is it?
+Dialogue: 0,0:13:13.66,0:13:16.00,main,Kaito,0000,0000,0000,,You just need to grovel right there.
+Dialogue: 0,0:13:16.00,0:13:17.27,main,Ina,0000,0000,0000,,I didn't do anything wrong!
+Dialogue: 0,0:13:18.14,0:13:19.94,main,Kaito,0000,0000,0000,,What did you just say?
+Dialogue: 0,0:13:19.94,0:13:23.28,main,Kaito,0000,0000,0000,,You're not going to get off with just \Na few scratches. Hurry up and—
+Dialogue: 0,0:13:26.25,0:13:27.36,italics,Zora,0000,0000,0000,,You dumbass!
+Dialogue: 0,0:13:42.50,0:13:46.38,main,Zora,0000,0000,0000,,That's the second time. Stick to\N your usual toys, you brat.
+Dialogue: 0,0:13:51.24,0:13:53.12,main,Ina,0000,0000,0000,,You're really strong, huh?
+Dialogue: 0,0:13:53.12,0:13:55.44,main,Ina,0000,0000,0000,,You're not a Magic Knight... are you?
+Dialogue: 0,0:13:55.93,0:13:56.73,main,Zora,0000,0000,0000,,Who knows?
+Dialogue: 0,0:14:17.41,0:14:18.33,main,Dad,0000,0000,0000,,Ina...
+Dialogue: 0,0:14:21.38,0:14:24.34,main,Noble,0000,0000,0000,,So you must be the little thief.
+Dialogue: 0,0:14:25.51,0:14:26.72,main,Dad,0000,0000,0000,,May I help you?
+Dialogue: 0,0:14:30.03,0:14:31.89,main,Dad,0000,0000,0000,,What do you think you're doing to my son?!
+Dialogue: 0,0:14:33.20,0:14:34.06,main,Noble,0000,0000,0000,,See for yourself.
+Dialogue: 0,0:14:34.06,0:14:36.35,italics,Dad,0000,0000,0000,,That's... a magic item!
+Dialogue: 0,0:14:36.35,0:14:40.39,main,Noble,0000,0000,0000,,Your son stole it from my villa.
+Dialogue: 0,0:14:40.39,0:14:41.93,main,Ina,0000,0000,0000,,I-I did not!
+Dialogue: 0,0:14:43.27,0:14:47.99,main,Noble,0000,0000,0000,,What are you talking about? \NYou clearly had the magic item.
+Dialogue: 0,0:14:49.08,0:14:54.33,main,Ina,0000,0000,0000,,Your son took it! I just picked \Nit up after he dropped it!
+Dialogue: 0,0:14:55.51,0:14:58.49,main,Noble,0000,0000,0000,,Is that true, Kaito?
+Dialogue: 0,0:14:58.49,0:15:03.74,main,Kaito,0000,0000,0000,,Don't let him fool you. \NYou can never trust a peasant.
+Dialogue: 0,0:15:04.26,0:15:06.50,main,Kaito,0000,0000,0000,,You taught me that yourself, Father.
+Dialogue: 0,0:15:06.50,0:15:09.28,main,Noble,0000,0000,0000,,That I did. You're coming with me!
+Dialogue: 0,0:15:09.28,0:15:11.70,main,Noble,0000,0000,0000,,I'm taking you to the royal capital\N so they can arrest you
+Dialogue: 0,0:15:11.70,0:15:13.05,main,Noble,0000,0000,0000,,as the burglar that you are!
+Dialogue: 0,0:15:13.05,0:15:13.85,main,Dad,0000,0000,0000,,Ina!
+Dialogue: 0,0:15:13.85,0:15:17.47,main,Ina,0000,0000,0000,,Let go of me! I'm not a thief!
+Dialogue: 0,0:15:20.47,0:15:22.44,main,Dad,0000,0000,0000,,Let go of my son!
+Dialogue: 0,0:15:23.50,0:15:25.20,main,Noble,0000,0000,0000,,And what if I refuse?
+Dialogue: 0,0:15:25.64,0:15:28.07,main,Dad,0000,0000,0000,,I believe my son!
+Dialogue: 0,0:15:28.56,0:15:30.82,main,Dad,0000,0000,0000,,I won't let you take him!
+Dialogue: 0,0:15:31.22,0:15:32.26,main,Ina,0000,0000,0000,,Dad...
+Dialogue: 0,0:15:35.79,0:15:40.00,main,Noble,0000,0000,0000,,You filthy peasant... \NYou'll pay for your insolence!
+Dialogue: 0,0:15:40.00,0:15:41.54,main,Ina,0000,0000,0000,,Dad!
+Dialogue: 0,0:15:45.74,0:15:46.54,main,Noble,0000,0000,0000,,What?!
+Dialogue: 0,0:15:49.45,0:15:51.14,main,Ina,0000,0000,0000,,Dad! The flowers!
+Dialogue: 0,0:15:51.14,0:15:52.27,main,Dad,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:15:57.89,0:16:01.77,main,Noble,0000,0000,0000,,You wouldn't have to get hurt \Nif you just knew your place.
+Dialogue: 0,0:16:14.34,0:16:15.68,main,Dad,0000,0000,0000,,That magic...
+Dialogue: 0,0:16:16.53,0:16:19.41,main,Noble,0000,0000,0000,,You'll be wiping off that smug look soon enough!
+Dialogue: 0,0:16:20.24,0:16:24.48,main,noble,0000,0000,0000,,I have proof that your son is a thief!
+Dialogue: 0,0:16:24.48,0:16:27.34,main,noble,0000,0000,0000,,I'll just ask the Magic Knights to deal with it!
+Dialogue: 0,0:16:27.34,0:16:30.52,main,Zora,0000,0000,0000,,Then let's see this so-called proof.
+Dialogue: 0,0:16:31.91,0:16:34.43,main,Noble,0000,0000,0000,,Wh-Who are you?
+Dialogue: 0,0:16:36.97,0:16:38.64,main,Noble,0000,0000,0000,,That robe...
+Dialogue: 0,0:16:39.06,0:16:40.64,main,Noble,0000,0000,0000,,You're a Black Bull!
+Dialogue: 0,0:16:40.64,0:16:43.18,italics,Ina,0000,0000,0000,,So he really is...
+Dialogue: 0,0:16:43.55,0:16:48.24,main,Noble,0000,0000,0000,,Perfect timing! I need you to \Ncapture these thieves for me!
+Dialogue: 0,0:16:48.24,0:16:50.70,main,Zora,0000,0000,0000,,And I'm telling you to show me proof.
+Dialogue: 0,0:16:50.70,0:16:51.88,main,Noble,0000,0000,0000,,O-Of course!
+Dialogue: 0,0:16:52.46,0:16:55.74,main,Noble,0000,0000,0000,,You saw him take it from the villa, didn't you?
+Dialogue: 0,0:16:55.74,0:16:57.56,main,Ina,0000,0000,0000,,U-Um...
+Dialogue: 0,0:16:58.00,0:17:00.93,main,Zora,0000,0000,0000,,I just happened to be present \Nwhen your precious little boy
+Dialogue: 0,0:17:00.93,0:17:04.91,main,Zora,0000,0000,0000,,used a magic item to mess \Nwith the snot-nosed shrimp here.
+Dialogue: 0,0:17:05.43,0:17:11.25,main,Zora,0000,0000,0000,,After I interceded, I saw him \Ndrop it and run off like a coward.
+Dialogue: 0,0:17:12.00,0:17:15.68,main,Zora,0000,0000,0000,,I'm guessing your dad found \Nout the magic item was missing,
+Dialogue: 0,0:17:15.68,0:17:20.65,main,Zora,0000,0000,0000,,so you tried to place the blame \Non the snot-nosed shrimp.
+Dialogue: 0,0:17:20.65,0:17:22.61,main,Zora,0000,0000,0000,,You're the only thief here.
+Dialogue: 0,0:17:22.61,0:17:25.58,main,Zora,0000,0000,0000,,They say lying is the first \Nstep to becoming a thief,
+Dialogue: 0,0:17:25.58,0:17:28.22,main,Zora,0000,0000,0000,,but I guess it was the other way around for you.
+Dialogue: 0,0:17:28.22,0:17:30.52,main,Zora,0000,0000,0000,,You're just the stupid son \Nof a worthless noble.
+Dialogue: 0,0:17:30.98,0:17:33.23,main,Noble,0000,0000,0000,,Is this true, Kaito?
+Dialogue: 0,0:17:33.89,0:17:35.45,main,Zora,0000,0000,0000,,Here's your proof.
+Dialogue: 0,0:17:36.15,0:17:38.28,main,Noble,0000,0000,0000,,Wh-What happened?!
+Dialogue: 0,0:17:38.28,0:17:40.67,main,Zora,0000,0000,0000,,You took it, didn't you?
+Dialogue: 0,0:17:40.67,0:17:43.04,main,Kaito,0000,0000,0000,,Y-Yes! I'm really sorry!
+Dialogue: 0,0:17:43.57,0:17:45.48,main,Noble,0000,0000,0000,,W-Wait, Kaito!
+Dialogue: 0,0:17:46.99,0:17:49.35,main,Noble,0000,0000,0000,,I'll let you off the hook today!
+Dialogue: 0,0:17:49.35,0:17:51.54,main,Zora,0000,0000,0000,,Let them off the hook, my ass!
+Dialogue: 0,0:17:52.19,0:17:54.67,main,Zora,0000,0000,0000,,They say a child is the \Nreflection of his parents.
+Dialogue: 0,0:17:54.67,0:17:57.76,main,Zora,0000,0000,0000,,Clearly, you two are the \Ndictionary definition of that.
+Dialogue: 0,0:17:58.41,0:18:05.14,main,Zora,0000,0000,0000,,I've been sick of nobles for a long time, \Nbut you have no right to raise a child!
+Dialogue: 0,0:18:05.61,0:18:07.83,main,Zora,0000,0000,0000,,You're a worthless noble \Nand a failure as a father.
+Dialogue: 0,0:18:09.50,0:18:12.65,main,Zora,0000,0000,0000,,This item is too good for you.
+Dialogue: 0,0:18:12.65,0:18:15.36,main,Zora,0000,0000,0000,,Get moving, or I'll kill you.
+Dialogue: 0,0:18:16.45,0:18:17.87,main,Noble,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:18:20.48,0:18:22.78,main,Zora,0000,0000,0000,,They even run away the same way.
+Dialogue: 0,0:18:23.75,0:18:24.57,main,Ina,0000,0000,0000,,Dad...
+Dialogue: 0,0:18:25.80,0:18:29.29,main,Ina,0000,0000,0000,,I never knew you could use such powerful magic.
+Dialogue: 0,0:18:31.40,0:18:35.79,main,Dad,0000,0000,0000,,I've failed the Magic Knights \NEntrance Exam numerous times.
+Dialogue: 0,0:18:36.29,0:18:41.30,main,Dad,0000,0000,0000,,It's embarrassing to say, but this \Ninjury came from one of those failures.
+Dialogue: 0,0:18:42.64,0:18:45.56,main,Dad,0000,0000,0000,,But still, I can't give up.
+Dialogue: 0,0:18:46.38,0:18:50.56,main,Dad,0000,0000,0000,,Even while I do my usual work, \NI constantly train with my magic.
+Dialogue: 0,0:18:51.43,0:18:54.13,main,Dad,0000,0000,0000,,Because I want to be like my hero.
+Dialogue: 0,0:18:55.98,0:19:00.27,main,Dad,0000,0000,0000,,He also failed numerous times, \Nbut ultimately, he joined the Magic Knights.
+Dialogue: 0,0:19:00.27,0:19:03.07,main,Dad,0000,0000,0000,,I'm sure he worked really hard for it.
+Dialogue: 0,0:19:04.19,0:19:09.47,flashback,Zora,0000,0000,0000,,Zora was also the child of a peasant, \Nbut he didn't idolize nobles or royalty.
+Dialogue: 0,0:19:09.88,0:19:13.08,flashback,Zora,0000,0000,0000,,That's because he could do something \Nnobles and royalty couldn't.
+Dialogue: 0,0:19:13.48,0:19:15.71,flashback,Zora,0000,0000,0000,,Now, I wonder what that could be?
+Dialogue: 0,0:19:16.21,0:19:19.05,main,Ina,0000,0000,0000,,I figured it out, Cool Mask Guy.
+Dialogue: 0,0:19:19.49,0:19:21.33,main,Dad,0000,0000,0000,,Cool Mask Guy?
+Dialogue: 0,0:19:21.33,0:19:23.98,main,Ina,0000,0000,0000,,The thing Zora was able to do.
+Dialogue: 0,0:19:23.98,0:19:28.00,main,Zora,0000,0000,0000,,Then you should know what you \Nneed to say to your dad, too.
+Dialogue: 0,0:19:29.52,0:19:32.12,main,Ina,0000,0000,0000,,I'm sorry, Dad... for what I said to you.
+Dialogue: 0,0:19:32.69,0:19:33.88,main,Dad,0000,0000,0000,,Ina...
+Dialogue: 0,0:19:34.54,0:19:37.69,main,Ina,0000,0000,0000,,I'm sure you'll be able to join \Nthe Magic Knights someday!
+Dialogue: 0,0:19:38.65,0:19:40.17,main,Dad,0000,0000,0000,,I won't be joining alone.
+Dialogue: 0,0:19:40.17,0:19:41.05,main,Ina,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:41.05,0:19:43.45,main,Dad,0000,0000,0000,,Let's both do our best together, Ina!
+Dialogue: 0,0:19:44.00,0:19:44.84,main,Ina,0000,0000,0000,,Yeah!
+Dialogue: 0,0:19:49.49,0:19:50.87,main,Ina,0000,0000,0000,,By the way...
+Dialogue: 0,0:19:51.42,0:19:54.16,main,Ina,0000,0000,0000,,Why did you even bother with me?
+Dialogue: 0,0:19:54.61,0:19:56.66,main,Zora,0000,0000,0000,,No particular reason.
+Dialogue: 0,0:19:56.66,0:19:57.71,main,Ina,0000,0000,0000,,I see.
+Dialogue: 0,0:20:00.79,0:20:03.26,main,Ina,0000,0000,0000,,I guess you really are a Super Magic Knight.
+Dialogue: 0,0:20:03.92,0:20:04.72,main,Zora,0000,0000,0000,,What?
+Dialogue: 0,0:20:05.04,0:20:08.49,main,Ina,0000,0000,0000,,You're a Magic Knight. \NYou're wearing a robe, aren't you?
+Dialogue: 0,0:20:08.49,0:20:11.19,main,Zora,0000,0000,0000,,I never got as far as \Nbecoming a Super Magic Knight.
+Dialogue: 0,0:20:11.98,0:20:15.13,main,Zora,0000,0000,0000,,Now, I'm just striving to \Nbecome a true Magic Knight.
+Dialogue: 0,0:20:15.13,0:20:16.86,main,Zora,0000,0000,0000,,Just like you.
+Dialogue: 0,0:20:16.86,0:20:20.99,main,Ina,0000,0000,0000,,Yeah! I'll join the Magic Knights someday!
+Dialogue: 0,0:20:20.99,0:20:23.93,main,Zora,0000,0000,0000,,Well, do your best, snot-nosed shrimp.
+Dialogue: 0,0:20:24.60,0:20:25.40,main,Ina,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:27.31,0:20:29.26,main,Ina,0000,0000,0000,,A rainbow stinkbug!
+Dialogue: 0,0:20:29.26,0:20:31.66,main,Ina,0000,0000,0000,,It reeks!
+Dialogue: 0,0:20:41.20,0:20:43.26,flashback,Yuno,0000,0000,0000,,I'm the one who'll become the Wizard King.
+Dialogue: 0,0:20:43.26,0:20:45.97,flashback,Asta,0000,0000,0000,,Nope, it's me!
+Dialogue: 0,0:20:46.61,0:20:52.48,main,Zora,0000,0000,0000,,They're only able to say that because \Nthey truly believe they can.
+Dialogue: 0,0:20:53.28,0:20:54.67,main,Zora,0000,0000,0000,,Just watch, Dad.
+Dialogue: 0,0:20:55.37,0:20:59.48,main,Zora,0000,0000,0000,,I'll make it to this zero stage.
+Dialogue: 0,0:21:00.55,0:21:03.91,main,Zora,0000,0000,0000,,Guess whipping the other Black Bulls \Ninto shape would help with that.
+Dialogue: 0,0:21:04.35,0:21:06.99,main,Zora,0000,0000,0000,,Those jerks are such a handful.
+Dialogue: 0,0:22:42.04,0:22:46.55,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:42.80,0:22:45.31,Default,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:46.05,0:22:50.05,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Super Magic Knight Zora
+Dialogue: 0,0:22:46.66,0:22:49.17,main,Zora,0000,0000,0000,,Super Magic Knight Zora!
+Dialogue: 0,0:22:50.05,0:22:54.06,flashback,Zara,0000,0000,0000,,Boom! The envoy of justice, \Nthe Super Magic Knight Zora!
+Dialogue: 0,0:22:54.06,0:22:56.61,flashback,Zora,0000,0000,0000,,I'm twelve years old, you know...
+Dialogue: 0,0:22:56.61,0:22:58.91,main,Zora,0000,0000,0000,,And now, I'm 25!
+Dialogue: 0,0:22:58.91,0:23:01.56,main,Zora,0000,0000,0000,,I now have something more \Nsuitable for my age!
+Dialogue: 0,0:23:01.96,0:23:04.42,main,Zora,0000,0000,0000,,Newly sculpted, painted, and fully articulated!
+Dialogue: 0,0:23:04.42,0:23:07.24,main,Zora,0000,0000,0000,,The envoy of justice, Super Magic Knight Zora!
+Dialogue: 0,0:23:07.24,0:23:08.27,main,Ina,0000,0000,0000,,Hey.
+Dialogue: 0,0:23:08.27,0:23:09.29,main,Zora,0000,0000,0000,,Gulp.
+Dialogue: 0,0:23:09.29,0:23:11.89,main,Ina,0000,0000,0000,,So you really do like playing with dolls!
+Dialogue: 0,0:23:11.89,0:23:13.70,main,Zora,0000,0000,0000,,W-Wait, I can explain...
+Dialogue: 0,0:23:13.70,0:23:16.28,main,Ina,0000,0000,0000,,He has a mouth on him, \Nbut he's as good as his word.
+Dialogue: 0,0:23:16.28,0:23:19.22,main,Ina,0000,0000,0000,,This delusion of a warrior who \Nprotects the land from the shadows...
+Dialogue: 0,0:23:19.22,0:23:21.04,main,Ina,0000,0000,0000,,Did you really think that up at your age?
+Dialogue: 0,0:23:21.04,0:23:23.46,main,Zora,0000,0000,0000,,No, that was my dad, Zara Ideale.
+Dialogue: 0,0:23:23.46,0:23:26.15,main,Ina,0000,0000,0000,,Lying is the first step to becoming a thief!
+Dialogue: 0,0:23:26.15,0:23:28.11,main,Ina,0000,0000,0000,,Zara's an amazing Magic Knight!
+Dialogue: 0,0:23:28.11,0:23:30.05,main,Ina,0000,0000,0000,,He'd never think up something so dumb!
+Dialogue: 0,0:23:31.09,0:23:32.82,main,Zora,0000,0000,0000,,I'm not lying!
+Dialogue: 0,0:23:39.91,0:23:43.06,main,Zora,0000,0000,0000,,Well, that was totally out of character.
+Dialogue: 0,0:23:43.06,0:23:47.48,main,Zora,0000,0000,0000,,I'm rather delicate, so I guess I got a \Nbit sentimental when I went back home.
+Dialogue: 0,0:23:47.48,0:23:51.59,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 139:\N "A Witch's Homecoming."
+Dialogue: 0,0:23:48.73,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 138\N\N{\fs18} A Witch's Homecoming
+Dialogue: 0,0:23:51.59,0:23:54.03,main,Zora,0000,0000,0000,,That drunk's going home, too?

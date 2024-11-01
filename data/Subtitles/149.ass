@@ -1,0 +1,356 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00E678C2,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.25,0:00:06.89,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:06.89,0:00:08.68,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:08.68,0:00:10.99,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:10.99,0:00:12.03,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:12.03,0:00:16.62,italics,Nar,0000,0000,0000,,He puts in blood, sweat, and tears \Nin hopes of becoming the Wizard King.
+Dialogue: 0,0:00:17.13,0:00:22.62,italics,Nar,0000,0000,0000,,But there are also those in the kingdom \Nwho possess at least a little bit of mana,
+Dialogue: 0,0:00:22.62,0:00:26.73,italics,Nar,0000,0000,0000,,yet can barely use any magic at all.
+Dialogue: 0,0:00:27.83,0:00:32.38,italics,Nar,0000,0000,0000,,The very few out of the population, \Nthose who live in the shadows...
+Dialogue: 0,0:00:36.77,0:00:40.78,italics,Nar,0000,0000,0000,,They are also trying to survive.
+Dialogue: 0,0:00:53.75,0:00:56.20,flashback,Nero,0000,0000,0000,,My prince, I've brought your tea.
+Dialogue: 0,0:01:13.18,0:01:15.09,flashback,Nero,0000,0000,0000,,It's completely cold by now.
+Dialogue: 0,0:01:16.94,0:01:19.19,flashback,Lumiere,0000,0000,0000,,Secré? How long have you been there?
+Dialogue: 0,0:01:19.62,0:01:21.62,flashback,Nero,0000,0000,0000,,How long do you think?
+Dialogue: 0,0:01:21.62,0:01:23.74,flashback,Lumiere,0000,0000,0000,,Sorry, I didn't see you.
+Dialogue: 0,0:01:23.74,0:01:26.63,flashback,Nero,0000,0000,0000,,It doesn't bother me.\NThis happens all the time.
+Dialogue: 0,0:01:26.63,0:01:28.16,flashback,Lumiere,0000,0000,0000,,Take a look at this.
+Dialogue: 0,0:01:31.79,0:01:35.07,flashback,Nero,0000,0000,0000,,"First, a magic item that \Nstores and splits mana."
+Dialogue: 0,0:01:35.07,0:01:36.88,flashback,Nero,0000,0000,0000,,So what's this one do?
+Dialogue: 0,0:01:36.88,0:01:39.34,flashback,lumiere,0000,0000,0000,,It's a magic item that increases mana!
+Dialogue: 0,0:01:39.34,0:01:41.59,flashback,lumiere,0000,0000,0000,,Like the elves' magic stones, basically.
+Dialogue: 0,0:01:41.59,0:01:42.66,flashback,Nero,0000,0000,0000,,Ah...
+Dialogue: 0,0:01:42.98,0:01:44.23,flashback,Lumiere,0000,0000,0000,,There aren't many of them,
+Dialogue: 0,0:01:44.23,0:01:47.66,flashback,Lumiere,0000,0000,0000,,but this kingdom does have people \Nwho weren't blessed with mana.
+Dialogue: 0,0:01:48.51,0:01:53.11,flashback,Lumiere,0000,0000,0000,,But once this is complete, we should \Nbe able to resolve their concerns.
+Dialogue: 0,0:01:53.11,0:01:54.17,flashback,Nero,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:54.38,0:01:59.76,flashback,Lumiere,0000,0000,0000,,Yes, and this should end the \Ndiscrimination that currently exists.
+Dialogue: 0,0:02:01.41,0:02:06.12,flashback,Lumiere,0000,0000,0000,,But there are a few problems \NI need to take care of first.
+Dialogue: 0,0:02:06.12,0:02:08.19,flashback,Lumiere,0000,0000,0000,,Ah, it makes my head hurt...
+Dialogue: 0,0:02:11.90,0:02:16.38,italics,Lumiere,0000,0000,0000,,My prince thought about the future \Nof this kingdom more than anyone else.
+Dialogue: 0,0:02:19.85,0:02:20.77,italics,Lumiere,0000,0000,0000,,But...
+Dialogue: 0,0:02:21.96,0:02:26.83,flashbackitalics,Dazu,0000,0000,0000,,The burn scar that he gave \Nme should fade over time.
+Dialogue: 0,0:02:26.83,0:02:31.50,flashbackitalics,Dazu,0000,0000,0000,,But the scars on my heart from \Nenduring their ridicule for so long
+Dialogue: 0,0:02:31.50,0:02:33.13,flashbackitalics,Dazu,0000,0000,0000,,will never go away.
+Dialogue: 0,0:02:33.85,0:02:38.92,flashbackitalics,Dazu,0000,0000,0000,,Above all, even after they died, \Nthe vengeful flames that burn in my heart
+Dialogue: 0,0:02:39.28,0:02:40.50,flashbackitalics,Dazu,0000,0000,0000,,can never be extinguished.
+Dialogue: 0,0:02:40.89,0:02:41.89,flashbackitalics,Dazu,0000,0000,0000,,I...
+Dialogue: 0,0:02:41.89,0:02:44.04,flashbackitalics,Dazu,0000,0000,0000,,will make it to the Spade \NKingdom, no matter what.
+Dialogue: 0,0:02:44.60,0:02:47.07,flashbackitalics,Dazu,0000,0000,0000,,So that we can obtain the powers of the devil.
+Dialogue: 0,0:02:47.53,0:02:50.14,italics,Nero,0000,0000,0000,,The reason she wanted the devil's powers
+Dialogue: 0,0:02:50.14,0:02:52.23,italics,Nero,0000,0000,0000,,and caused this whole incident
+Dialogue: 0,0:02:52.48,0:02:57.09,italics,Nero,0000,0000,0000,,was because she was born with very \Nlittle mana and suffered discrimination.
+Dialogue: 0,0:02:57.94,0:03:03.76,italics,Nero,0000,0000,0000,,Maybe this kingdom hasn't changed \Nthat much in the past 500 years.
+Dialogue: 0,0:04:25.51,0:04:30.20,Ep Title,Sign,0000,0000,0000,,{\fs22\move(320,95,320,90)\t(1,4650,\fs24)\fad(1000,1)}Two Things We Need to Find
+Dialogue: 0,0:04:35.79,0:04:38.32,main,Julius,0000,0000,0000,,I'm sure you can guess why \NI summoned you all here today.
+Dialogue: 0,0:04:39.53,0:04:43.88,main,Julius,0000,0000,0000,,I wanted to ask you some questions regarding \Nthe incident with the Devil Believers.
+Dialogue: 0,0:04:44.51,0:04:46.14,main,Yami,0000,0000,0000,,Ask us anything.
+Dialogue: 0,0:04:46.44,0:04:47.76,main,Yami,0000,0000,0000,,Right, kid?
+Dialogue: 0,0:04:47.76,0:04:48.84,main,Asta,0000,0000,0000,,Sure?!
+Dialogue: 0,0:04:49.31,0:04:52.83,main,Julius,0000,0000,0000,,All right, then, let's get started. First...
+Dialogue: 0,0:04:53.31,0:04:56.14,main,Julius,0000,0000,0000,,Could you tell me what \Nyou talked about that day
+Dialogue: 0,0:04:56.14,0:04:58.95,main,Julius,0000,0000,0000,,with one of the leaders of the \NDevil Believers, Dazu Tayak?
+Dialogue: 0,0:05:00.97,0:05:05.03,main,Julius,0000,0000,0000,,The difference in mana... Those blessed \Nwith abundant mana and those who aren't.
+Dialogue: 0,0:05:06.09,0:05:11.28,main,Julius,0000,0000,0000,,There's no doubt that the gap between \Nthose two is what caused this incident.
+Dialogue: 0,0:05:11.88,0:05:14.81,main,Julius,0000,0000,0000,,Discrimination is something \Nwe must get rid of at any cost.
+Dialogue: 0,0:05:17.42,0:05:19.50,main,Asta,0000,0000,0000,,Is there something up with Nero?
+Dialogue: 0,0:05:19.50,0:05:20.96,main,Julius,0000,0000,0000,,Oh, it's nothing.
+Dialogue: 0,0:05:24.12,0:05:25.26,main,Marx,0000,0000,0000,,Pardon me.
+Dialogue: 0,0:05:26.12,0:05:28.23,main,Marx,0000,0000,0000,,Lord Julius, we just received
+Dialogue: 0,0:05:28.23,0:05:31.32,main,Marx,0000,0000,0000,,a message from Queen Loropechika \Nof the Heart Kingdom.
+Dialogue: 0,0:05:36.54,0:05:39.52,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3\fad(505,1)}Loropechika
+Dialogue: 0,0:05:38.85,0:05:39.85,italicstop,Loropechika,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:39.85,0:05:41.89,italics,Yami,0000,0000,0000,,So she's the Queen of the Heart Kingdom.
+Dialogue: 0,0:05:41.89,0:05:43.03,italics,Loropechika,0000,0000,0000,,You three...
+Dialogue: 0,0:05:43.29,0:05:46.02,main,Asta,0000,0000,0000,,We just happened to be \Nsummoned by the Wizard King.
+Dialogue: 0,0:05:46.02,0:05:47.36,italics,Loropechika,0000,0000,0000,,I see.
+Dialogue: 0,0:05:47.94,0:05:49.21,italics,Loropechika,0000,0000,0000,,It's a pleasure to meet you.
+Dialogue: 0,0:05:49.21,0:05:52.95,italics,Loropechika,0000,0000,0000,,You must be the Captain of \Nthe Black Bulls, Yami Sukehiro.
+Dialogue: 0,0:05:53.20,0:05:55.24,main,Yami,0000,0000,0000,,Hey, nice to meet you.
+Dialogue: 0,0:05:55.24,0:05:57.71,italics,Yami,0000,0000,0000,,I guess she really does know about me.
+Dialogue: 0,0:05:58.41,0:06:02.00,italics,Loropechika,0000,0000,0000,,You may have gathered why \NI'm contacting you today.
+Dialogue: 0,0:06:02.00,0:06:03.51,italics,Loropechika,0000,0000,0000,,As I mentioned to you previously,
+Dialogue: 0,0:06:03.51,0:06:08.25,italics,Loropechika,0000,0000,0000,,we were preparing for you to train with \Nour elite guard, the Spirit Guardians,
+Dialogue: 0,0:06:08.25,0:06:10.22,italics,Loropechika,0000,0000,0000,,and those preparations are now complete.
+Dialogue: 0,0:06:17.37,0:06:19.27,italics,Undine,0000,0000,0000,,Are you okay, Loropechika?
+Dialogue: 0,0:06:20.67,0:06:22.13,main,Asta,0000,0000,0000,,What just happened?!
+Dialogue: 0,0:06:22.13,0:06:24.56,main,Noelle,0000,0000,0000,,Did something happen to the queen?
+Dialogue: 0,0:06:24.56,0:06:25.82,main,Asta,0000,0000,0000,,What, though?!
+Dialogue: 0,0:06:25.82,0:06:29.04,main,Finral,0000,0000,0000,,Maybe Megicula's curse suddenly advanced?
+Dialogue: 0,0:06:29.04,0:06:29.95,main,Noelle,0000,0000,0000,,No!
+Dialogue: 0,0:06:30.48,0:06:31.64,main,Yami,0000,0000,0000,,Finral!
+Dialogue: 0,0:06:31.64,0:06:32.99,main,Finral,0000,0000,0000,,Huh? But...
+Dialogue: 0,0:06:33.28,0:06:36.20,main,Julius,0000,0000,0000,,We'll take care of all the paperwork.
+Dialogue: 0,0:06:36.48,0:06:37.49,main,Julius,0000,0000,0000,,We're counting on you.
+Dialogue: 0,0:06:37.49,0:06:38.54,main,All,0000,0000,0000,,Right!
+Dialogue: 0,0:06:41.64,0:06:45.55,main,Julius,0000,0000,0000,,Asta, sorry, but do you \Nmind if she stays behind?
+Dialogue: 0,0:06:45.78,0:06:46.58,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:46.58,0:06:48.39,main,Nero,0000,0000,0000,,I'm fine with that.
+Dialogue: 0,0:06:50.25,0:06:51.05,main,Finral,0000,0000,0000,,Asta!
+Dialogue: 0,0:06:52.17,0:06:54.08,main,Finral,0000,0000,0000,,I can't keep this open for \Nlong over such a distance...
+Dialogue: 0,0:06:54.08,0:06:55.05,main,Finral,0000,0000,0000,,Hurry!
+Dialogue: 0,0:06:55.05,0:06:56.89,main,Asta,0000,0000,0000,,Okay, I'm off!
+Dialogue: 0,0:07:01.22,0:07:05.31,main,Julius,0000,0000,0000,,It'll probably be easier to speak \Nwith you if you're not in that form.
+Dialogue: 0,0:07:08.25,0:07:11.07,main,Julius,0000,0000,0000,,Could you come with me \Nto the basement library?
+Dialogue: 0,0:07:11.63,0:07:13.83,main,Julius,0000,0000,0000,,There's something I'd like you to see.
+Dialogue: 0,0:07:15.21,0:07:17.68,main,Julius,0000,0000,0000,,Marx, I expect you to fill out \Nall the paperwork required
+Dialogue: 0,0:07:17.68,0:07:19.53,main,Julius,0000,0000,0000,,for them to enter the Heart Kingdom.
+Dialogue: 0,0:07:19.53,0:07:21.13,main,Marx,0000,0000,0000,,Huh? Er, yes, of course.
+Dialogue: 0,0:07:21.13,0:07:22.60,main,Julius,0000,0000,0000,,All right, let's go.
+Dialogue: 0,0:07:28.05,0:07:30.60,main,Noelle,0000,0000,0000,,Wait, why are we outside the palace?
+Dialogue: 0,0:07:31.92,0:07:36.54,main,Finral,0000,0000,0000,,I think... the queen is generating \Na force field made of mana,
+Dialogue: 0,0:07:36.54,0:07:38.89,main,Finral,0000,0000,0000,,so we can't enter the palace.
+Dialogue: 0,0:07:41.71,0:07:44.19,sign_11070_102_Spirit_Guardian_,Sign,0000,0000,0000,,{\blur3\fad(501,1)}Spirit Guardian\N{\fs30}Gaja
+Dialogue: 0,0:07:42.11,0:07:43.34,top,Gaja,0000,0000,0000,,You lot...
+Dialogue: 0,0:07:44.69,0:07:47.29,main,Gaja,0000,0000,0000,,I don't know what you're doing here,
+Dialogue: 0,0:07:47.29,0:07:49.71,main,Gaja,0000,0000,0000,,but this is clearly unlawful \Nentry to our kingdom,
+Dialogue: 0,0:07:49.71,0:07:51.28,main,Gaja,0000,0000,0000,,unless you can prove otherwise.
+Dialogue: 0,0:07:51.28,0:07:53.45,main,Asta,0000,0000,0000,,W-W-W-Wait!
+Dialogue: 0,0:07:53.45,0:07:57.16,main,Yami,0000,0000,0000,,Our Wizard King will eventually contact you.
+Dialogue: 0,0:08:01.75,0:08:03.64,main,Gaja,0000,0000,0000,,Yes... What?
+Dialogue: 0,0:08:04.15,0:08:05.73,main,Gaja,0000,0000,0000,,Forms have been submitted from
+Dialogue: 0,0:08:05.73,0:08:07.98,main,Gaja,0000,0000,0000,,the Clover Kingdom to allow \Nentry into our kingdom?
+Dialogue: 0,0:08:07.98,0:08:09.30,main,Gaja,0000,0000,0000,,Very well.
+Dialogue: 0,0:08:10.30,0:08:11.93,main,Gaja,0000,0000,0000,,Pardon my rudeness.
+Dialogue: 0,0:08:11.93,0:08:13.80,main,Gaja,0000,0000,0000,,Allow me to lead you to the queen.
+Dialogue: 0,0:08:19.96,0:08:21.85,main,Loropechika,0000,0000,0000,,Welcome, everyone.
+Dialogue: 0,0:08:26.26,0:08:30.53,italics,Noelle,0000,0000,0000,,She seems to be dressed pretty rough \Ncompared to last time...
+Dialogue: 0,0:08:31.12,0:08:35.03,italics,Finral,0000,0000,0000,,Even if her clothes are different, \Nthey can't hide her beauty!
+Dialogue: 0,0:08:35.03,0:08:38.07,italics,Finral,0000,0000,0000,,She is truly a goddess who has \Ndescended upon this land!
+Dialogue: 0,0:08:38.91,0:08:41.30,italics,Finral,0000,0000,0000,,Finral! You're supposed to change, remember?!
+Dialogue: 0,0:08:41.30,0:08:44.10,main,Loropechika,0000,0000,0000,,By the way, what brings you here today?
+Dialogue: 0,0:08:44.10,0:08:45.67,main,Asta,0000,0000,0000,,Oh, right!
+Dialogue: 0,0:08:46.20,0:08:48.67,main,Asta,0000,0000,0000,,It doesn't {\i1}look{\i0} like her curse is acting up...
+Dialogue: 0,0:08:48.67,0:08:51.71,main,Loropechika,0000,0000,0000,,Is there something about my curse?
+Dialogue: 0,0:08:57.16,0:09:00.00,main,Undine,0000,0000,0000,,Oh, for goodness' sake, Loropechika.
+Dialogue: 0,0:09:02.93,0:09:05.20,italics,Yami,0000,0000,0000,,So that's the Water Spirit.
+Dialogue: 0,0:09:06.33,0:09:09.07,main,Asta,0000,0000,0000,,You had a stomachache because \Nthe things you ate for lunch
+Dialogue: 0,0:09:09.07,0:09:10.84,main,Asta,0000,0000,0000,,didn't agree with each other?
+Dialogue: 0,0:09:11.44,0:09:17.55,main,Undine,0000,0000,0000,,I told her not to eat hard bacon\N and red spinach together.
+Dialogue: 0,0:09:17.55,0:09:19.78,main,Undine,0000,0000,0000,,But that part of her is adorable, too.
+Dialogue: 0,0:09:20.56,0:09:22.57,main,Gaja,0000,0000,0000,,If you will excuse me...
+Dialogue: 0,0:09:22.57,0:09:23.87,main,Loropechika,0000,0000,0000,,Thanks.
+Dialogue: 0,0:09:25.46,0:09:28.76,main,Yami,0000,0000,0000,,Guess I'll head back, too. \NI've got something to do.
+Dialogue: 0,0:09:28.76,0:09:30.50,main,Finral,0000,0000,0000,,Head back? But how?
+Dialogue: 0,0:09:30.80,0:09:32.63,main,Yami,0000,0000,0000,,How do you think?
+Dialogue: 0,0:09:35.08,0:09:36.16,main,Finral,0000,0000,0000,,I'm gonna die...
+Dialogue: 0,0:09:37.10,0:09:39.55,main,Noelle,0000,0000,0000,,But thank goodness it wasn't your curse.
+Dialogue: 0,0:09:40.18,0:09:42.56,main,Loropechika,0000,0000,0000,,As I was trying to tell you earlier,
+Dialogue: 0,0:09:42.96,0:09:46.67,main,Loropechika,0000,0000,0000,,the preparations for your \Ntraining are complete.
+Dialogue: 0,0:09:46.67,0:09:48.06,main,Loropechika,0000,0000,0000,,And so...
+Dialogue: 0,0:09:49.18,0:09:49.98,main,Loropechika,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:55.53,0:09:56.61,main,Asta,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:09:57.34,0:09:59.62,main,Loropechika,0000,0000,0000,,My glasses are missing!
+Dialogue: 0,0:10:00.64,0:10:01.50,main,Noelle,0000,0000,0000,,Your glasses?
+Dialogue: 0,0:10:01.50,0:10:02.62,main,Asta,0000,0000,0000,,Wait, you just noticed?!
+Dialogue: 0,0:10:04.66,0:10:06.16,main,Noelle,0000,0000,0000,,Wow, her eyesight is...
+Dialogue: 0,0:10:06.16,0:10:07.79,main,Finral,0000,0000,0000,,...shockingly bad?!
+Dialogue: 0,0:10:07.79,0:10:10.36,main,Undine,0000,0000,0000,,Come on, now, Loropechika.
+Dialogue: 0,0:10:11.98,0:10:15.53,main,Undine,0000,0000,0000,,That was your last pair.
+Dialogue: 0,0:10:16.60,0:10:21.39,main,Loropechika,0000,0000,0000,,I end up stepping on them, \Nkicking them, dropping them,
+Dialogue: 0,0:10:20.11,0:10:21.79,top,Loropechika,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:10:21.39,0:10:25.52,main,Loropechika,0000,0000,0000,,sitting on them... I basically \Nbreak my glasses all the time.
+Dialogue: 0,0:10:27.48,0:10:29.23,main,Undine,0000,0000,0000,,And they're custom-made.
+Dialogue: 0,0:10:29.51,0:10:31.85,main,Asta,0000,0000,0000,,In that case, I'll help you find them!
+Dialogue: 0,0:10:31.85,0:10:35.23,main,Loropechika,0000,0000,0000,,Oh, don't worry. I have an \Nidea as to where they are.
+Dialogue: 0,0:10:35.48,0:10:36.28,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:45.81,0:10:46.82,main,Noelle,0000,0000,0000,,This is...
+Dialogue: 0,0:10:47.25,0:10:49.50,main,Finral,0000,0000,0000,,She's gathering information from all around?
+Dialogue: 0,0:10:49.50,0:10:54.00,main,Loropechika,0000,0000,0000,,This is only one part of it, \Nbut it should be enough for now.
+Dialogue: 0,0:10:54.40,0:10:57.63,main,Undine,0000,0000,0000,,She's usually watching \Nover the whole kingdom.
+Dialogue: 0,0:10:57.63,0:10:59.13,main,Both,0000,0000,0000,,The whole kingdom...
+Dialogue: 0,0:10:59.92,0:11:01.33,main,Undine,0000,0000,0000,,Oh, there they are!
+Dialogue: 0,0:11:05.60,0:11:07.81,main,Loropechika,0000,0000,0000,,I knew it was Mugi!
+Dialogue: 0,0:11:08.03,0:11:09.12,main,Asta,0000,0000,0000,,Mugi?
+Dialogue: 0,0:11:09.12,0:11:11.31,main,Noelle,0000,0000,0000,,Wait, then is that creature—
+Dialogue: 0,0:11:13.81,0:11:15.00,main,Noelle,0000,0000,0000,,It's alive?!
+Dialogue: 0,0:11:15.00,0:11:17.44,main,Loropechika,0000,0000,0000,,Oh, I forgot to introduce you.
+Dialogue: 0,0:11:17.82,0:11:22.53,main,Loropechika,0000,0000,0000,,This is the thick-pelted beaver, \NBig Mugi. She's Mugi's mother.
+Dialogue: 0,0:11:22.80,0:11:27.37,main,Loropechika,0000,0000,0000,,Mugi comes here often with Big Mugi.
+Dialogue: 0,0:11:27.37,0:11:30.31,main,Undine,0000,0000,0000,,Or you might say they just waltz right in.
+Dialogue: 0,0:11:32.41,0:11:35.61,italics,Noelle,0000,0000,0000,,Why in the world does she look so smug?
+Dialogue: 0,0:11:36.62,0:11:38.92,italics,Noelle,0000,0000,0000,,Sh-She's so cute!
+Dialogue: 0,0:11:38.92,0:11:42.00,main,Loropechika,0000,0000,0000,,The only problem is they're \Nquite the troublemakers,
+Dialogue: 0,0:11:42.00,0:11:44.93,main,Loropechika,0000,0000,0000,,and they take my things \Nwithout permission sometimes.
+Dialogue: 0,0:11:45.14,0:11:46.00,main,Asta,0000,0000,0000,,All right!
+Dialogue: 0,0:11:46.73,0:11:51.11,main,Asta,0000,0000,0000,,I'll head on over and get your \Nglasses back from this Mugi!
+Dialogue: 0,0:11:51.11,0:11:53.10,main,Loropechika,0000,0000,0000,,Huh? But it's okay...
+Dialogue: 0,0:11:53.10,0:11:55.30,main,Asta,0000,0000,0000,,You're gonna be training us soon!
+Dialogue: 0,0:11:55.30,0:11:57.80,main,Asta,0000,0000,0000,,This is nothing!
+Dialogue: 0,0:11:57.80,0:11:59.31,main,Noelle,0000,0000,0000,,Oh, fine...
+Dialogue: 0,0:11:59.31,0:12:01.24,main,Finral,0000,0000,0000,,I'm exhausted, so I'm gonna pass.
+Dialogue: 0,0:12:02.32,0:12:06.70,italics,Finral,0000,0000,0000,,But wait... If I make a good \Nimpression on the queen...
+Dialogue: 0,0:12:07.07,0:12:12.96,italics,Finral,0000,0000,0000,,Wait, no... That's not it, Finral. \NThis is just another trial to break my curse!
+Dialogue: 0,0:12:13.22,0:12:15.67,main,Finral,0000,0000,0000,,Leave getting your glasses back to us!
+Dialogue: 0,0:12:15.67,0:12:16.97,main,Finral,0000,0000,0000,,Let's go, Asta!
+Dialogue: 0,0:12:17.46,0:12:19.42,main,Asta,0000,0000,0000,,All right, we're off!
+Dialogue: 0,0:12:23.11,0:12:25.22,main,Asta,0000,0000,0000,,So that's the thick-pelted beavers' lodge...
+Dialogue: 0,0:12:32.98,0:12:34.77,main,Asta,0000,0000,0000,,There they are!
+Dialogue: 0,0:12:35.75,0:12:36.87,main,Finral,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:12:37.34,0:12:39.78,italics,Finral,0000,0000,0000,,Spatial Magic: Fallen Angel Gate!
+Dialogue: 0,0:12:42.04,0:12:44.32,italics,Finral,0000,0000,0000,,As well as... Fallen Angel's Wingbeat!
+Dialogue: 0,0:12:51.38,0:12:53.72,main,Asta,0000,0000,0000,,Way to go, Finral!
+Dialogue: 0,0:12:54.31,0:12:55.80,main,Finral,0000,0000,0000,,Easy-peasy!
+Dialogue: 0,0:12:55.80,0:12:59.54,main,Loropechika,0000,0000,0000,,Oh, no! You can't hold them like that!
+Dialogue: 0,0:13:03.43,0:13:04.83,main,Asta,0000,0000,0000,,Are you okay?!
+Dialogue: 0,0:13:04.83,0:13:06.45,main,Noelle,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:13:14.43,0:13:16.22,italics,Noelle,0000,0000,0000,,You're not getting away!
+Dialogue: 0,0:13:16.22,0:13:20.35,main,Loropechika,0000,0000,0000,,Perhaps Mugi is finally \Ngetting its just deserts.
+Dialogue: 0,0:13:20.35,0:13:21.86,main,Undine,0000,0000,0000,,Really?
+Dialogue: 0,0:13:29.37,0:13:30.49,italics,Noelle,0000,0000,0000,,No, I can't!
+Dialogue: 0,0:13:42.55,0:13:44.66,main,Finral,0000,0000,0000,,That thing is seriously pissing me off.
+Dialogue: 0,0:13:44.66,0:13:47.20,italics,Noelle,0000,0000,0000,,That's just another reason they're so cute.
+Dialogue: 0,0:13:47.20,0:13:48.90,main,Asta,0000,0000,0000,,Looks like it's my turn.
+Dialogue: 0,0:13:56.67,0:13:58.49,main,Noelle,0000,0000,0000,,What the heck is he doing?
+Dialogue: 0,0:13:58.49,0:14:00.27,main,Finral,0000,0000,0000,,Huh? He's fishing, isn't he?
+Dialogue: 0,0:14:00.27,0:14:02.27,main,Noelle,0000,0000,0000,,Well, that much is obvious!
+Dialogue: 0,0:14:40.62,0:14:42.12,main,Asta,0000,0000,0000,,You'll be giving those back.
+Dialogue: 0,0:14:42.12,0:14:45.17,top,Asta,0000,0000,0000,,Ow, ow, ow, ow!
+Dialogue: 0,0:14:43.27,0:14:44.11,main,Loropechika,0000,0000,0000,,So that must be
+Dialogue: 0,0:14:44.36,0:14:47.17,main,Loropechika,0000,0000,0000,,the ki that's commonly used \Nin the Land of the Sun.
+Dialogue: 0,0:14:48.11,0:14:49.15,main,Undine,0000,0000,0000,,So that's how...
+Dialogue: 0,0:14:49.15,0:14:54.62,main,Undine,0000,0000,0000,,That must be how he found you, even though \NI was concealing you and your mana.
+Dialogue: 0,0:14:55.22,0:14:56.13,main,Loropechika,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:56.83,0:15:01.48,italics,Loropechika,0000,0000,0000,,It doesn't matter if he has anti-magic \Nor if he's at the arcane stage.
+Dialogue: 0,0:15:02.14,0:15:04.88,italics,Loropechika,0000,0000,0000,,He's going to become stronger.
+Dialogue: 0,0:15:06.41,0:15:07.66,main,Asta,0000,0000,0000,,Let's trade.
+Dialogue: 0,0:15:15.63,0:15:17.01,main,Finral,0000,0000,0000,,Way to go, Asta!
+Dialogue: 0,0:15:19.45,0:15:21.23,main,Loropechika,0000,0000,0000,,Thank you so much.
+Dialogue: 0,0:15:23.53,0:15:29.25,main,Loropechika,0000,0000,0000,,Now I can see all of your \Nfaces... clearly... a-again?
+Dialogue: 0,0:15:48.46,0:15:50.42,main,Undine,0000,0000,0000,,Oh, Loropechika...
+Dialogue: 0,0:16:00.77,0:16:03.02,main,Three,0000,0000,0000,,What?!
+Dialogue: 0,0:16:03.32,0:16:06.32,main,Undine,0000,0000,0000,,Loropechika, is your hand okay? Are you hurt?
+Dialogue: 0,0:16:06.32,0:16:08.17,main,Loropechika,0000,0000,0000,,I-I'm fine...
+Dialogue: 0,0:16:10.70,0:16:14.53,main,Loropechika,0000,0000,0000,,I'm sorry! I'm so sorry! What have I done?
+Dialogue: 0,0:16:15.61,0:16:17.95,main,Noelle,0000,0000,0000,,Are your eyes actually bad?
+Dialogue: 0,0:16:18.22,0:16:19.12,main,Loropechika,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:19.59,0:16:22.36,main,Noelle,0000,0000,0000,,You could see us just fine \Nthe last time we met.
+Dialogue: 0,0:16:23.12,0:16:26.32,main,Undine,0000,0000,0000,,You see, when Loropechika \Nis in her royal gown,
+Dialogue: 0,0:16:26.32,0:16:31.05,main,Undine,0000,0000,0000,,she's using Mana Zone, so she \Ncan detect what's around her.
+Dialogue: 0,0:16:31.05,0:16:33.47,main,Undine,0000,0000,0000,,It has nothing to do with \Nif she can see or not.
+Dialogue: 0,0:16:33.95,0:16:37.64,main,Asta,0000,0000,0000,,You wouldn't need glasses if you \Njust did that regularly, would you?
+Dialogue: 0,0:16:37.98,0:16:42.28,main,Loropechika,0000,0000,0000,,My mana isn't infinite.
+Dialogue: 0,0:16:42.28,0:16:46.65,main,Loropechika,0000,0000,0000,,I want to avoid using up too much of it, \Njust in case something happens.
+Dialogue: 0,0:16:47.07,0:16:50.33,main,Undine,0000,0000,0000,,Especially considering Loropechika has
+Dialogue: 0,0:16:50.33,0:16:54.15,main,Undine,0000,0000,0000,,a Mana Zone barrier up all around \Nthe Heart Kingdom at all times.
+Dialogue: 0,0:16:54.77,0:16:57.05,main,Gaja,0000,0000,0000,,I have returned, Your Majesty.
+Dialogue: 0,0:16:57.05,0:16:59.16,main,Loropechika,0000,0000,0000,,Oh, perfect timing.
+Dialogue: 0,0:16:59.77,0:17:02.69,main,Gaja,0000,0000,0000,,I apologize for keeping you waiting.
+Dialogue: 0,0:17:02.69,0:17:03.66,main,Loropechika,0000,0000,0000,,It's fine.
+Dialogue: 0,0:17:07.64,0:17:08.72,main,Asta,0000,0000,0000,,Is that...
+Dialogue: 0,0:17:08.72,0:17:11.57,main,Gaja,0000,0000,0000,,I went to retrieve the new ones.
+Dialogue: 0,0:17:12.49,0:17:14.53,main,Noelle,0000,0000,0000,,Then are all those...
+Dialogue: 0,0:17:15.17,0:17:17.30,main,Gaja,0000,0000,0000,,There can never be enough.
+Dialogue: 0,0:17:17.30,0:17:19.93,main,Finral,0000,0000,0000,,Then everything we just went through was...
+Dialogue: 0,0:17:19.93,0:17:23.56,main,Loropechika,0000,0000,0000,,I'm very sorry. I tried to stop you, but...
+Dialogue: 0,0:17:23.56,0:17:25.38,main,Noelle,0000,0000,0000,,This is all your fault.
+Dialogue: 0,0:17:25.38,0:17:27.01,main,Asta,0000,0000,0000,,My fault?!
+Dialogue: 0,0:17:27.01,0:17:29.65,main,Asta,0000,0000,0000,,Oh, yeah. I guess I'm the one \Nwho said we'd get them back.
+Dialogue: 0,0:17:30.62,0:17:35.65,main,Loropechika,0000,0000,0000,,But I thank you from the bottom of my \Nheart for doing all of that for me.
+Dialogue: 0,0:17:37.05,0:17:39.16,main,Finral,0000,0000,0000,,Please rely on us whenever you're in need!
+Dialogue: 0,0:17:39.16,0:17:41.99,italics,Finral,0000,0000,0000,,Damn it, Finral, no!
+Dialogue: 0,0:17:42.30,0:17:44.75,main,Loropechika,0000,0000,0000,,Now, let us get back on the topic at hand.
+Dialogue: 0,0:17:46.73,0:17:50.79,main,Loropechika,0000,0000,0000,,The reason the preparations for \Nyour training took so long...
+Dialogue: 0,0:17:50.79,0:17:52.09,main,Asta,0000,0000,0000,,Um...
+Dialogue: 0,0:17:52.50,0:17:53.30,main,Loropechika,0000,0000,0000,,Yes?
+Dialogue: 0,0:17:53.30,0:17:55.59,main,Asta,0000,0000,0000,,We're over here.
+Dialogue: 0,0:17:56.49,0:17:59.18,main,Loropechika,0000,0000,0000,,Oh, I'm terribly sorry about that.
+Dialogue: 0,0:17:59.18,0:18:02.60,main,Loropechika,0000,0000,0000,,The reason the preparations for \Nyour training took so long...
+Dialogue: 0,0:18:03.13,0:18:07.96,main,Loropechika,0000,0000,0000,,is so that the Spirit Guardians \Ncould meet you in top form.
+Dialogue: 0,0:18:08.45,0:18:13.11,main,Loropechika,0000,0000,0000,,But there is also a limit to how \Nmany the Spirit Guardians can train.
+Dialogue: 0,0:18:13.70,0:18:16.48,main,Asta,0000,0000,0000,,All right! I'm getting fired up!
+Dialogue: 0,0:18:16.48,0:18:19.23,main,Noelle,0000,0000,0000,,No one said you were going to train yet.
+Dialogue: 0,0:18:19.23,0:18:20.03,main,Asta,0000,0000,0000,,What?!
+Dialogue: 0,0:18:20.30,0:18:24.79,main,Loropechika,0000,0000,0000,,No, since they're both at the arcane stage,\Nwe need Asta and Nero to participate.
+Dialogue: 0,0:18:25.10,0:18:26.18,main,Asta,0000,0000,0000,,Nero, too?
+Dialogue: 0,0:18:26.18,0:18:30.53,main,Asta,0000,0000,0000,,Wait, the arcane stage? Does that mean \Nthe Wizard King and Captain Yami, too?
+Dialogue: 0,0:18:30.53,0:18:34.80,main,Gaja,0000,0000,0000,,I'm certain those two don't need our training.
+Dialogue: 0,0:18:35.09,0:18:37.23,main,Loropechika,0000,0000,0000,,And it appears that your captain
+Dialogue: 0,0:18:37.23,0:18:41.55,main,Loropechika,0000,0000,0000,,has already figured out how to \Nget to an even higher plane.
+Dialogue: 0,0:18:41.93,0:18:43.18,main,Finral,0000,0000,0000,,Yami has?
+Dialogue: 0,0:18:43.18,0:18:44.43,italics,Noelle,0000,0000,0000,,When?
+Dialogue: 0,0:18:49.28,0:18:54.00,main,Julius,0000,0000,0000,,As embarrassing as this is, I've lost the key.
+Dialogue: 0,0:18:54.00,0:18:58.41,main,Julius,0000,0000,0000,,From what I've heard, your magic \Nallows you to open and close things?
+Dialogue: 0,0:18:59.83,0:19:01.25,main,Julius,0000,0000,0000,,Would you mind opening that for me?
+Dialogue: 0,0:19:04.87,0:19:07.30,italics,Nero,0000,0000,0000,,I wonder what he wants to show me.
+Dialogue: 0,0:19:09.66,0:19:12.33,italics,Nero,0000,0000,0000,,Sealing Magic: Inverse Release.
+Dialogue: 0,0:19:46.66,0:19:47.59,italics,Nero,0000,0000,0000,,That's...
+Dialogue: 0,0:19:48.69,0:19:51.90,main,Julius,0000,0000,0000,,Your real name is Secré, right?
+Dialogue: 0,0:19:51.90,0:19:56.38,main,Julius,0000,0000,0000,,"Secré is going to love this!" \Nwas scribbled onto this page.
+Dialogue: 0,0:19:56.65,0:19:57.82,italics,Nero,0000,0000,0000,,My prince!
+Dialogue: 0,0:19:58.81,0:19:59.87,flashback,Lumiere,0000,0000,0000,,There aren't many of them,
+Dialogue: 0,0:19:59.87,0:20:03.40,flashback,Lumiere,0000,0000,0000,,but this kingdom does have people \Nwho weren't blessed with mana.
+Dialogue: 0,0:20:04.10,0:20:08.68,flashback,Lumiere,0000,0000,0000,,But once this is complete, we should \Nbe able to resolve their concerns.
+Dialogue: 0,0:20:09.02,0:20:14.51,flashback,Lumiere,0000,0000,0000,,Yes, and this should end the \Ndiscrimination that currently exists.
+Dialogue: 0,0:20:16.93,0:20:19.01,main,Julius,0000,0000,0000,,But back then, they probably lacked
+Dialogue: 0,0:20:19.01,0:20:22.89,main,Julius,0000,0000,0000,,the technique to create this magic item,\N so it was never completed.
+Dialogue: 0,0:20:22.89,0:20:23.91,main,Nero,0000,0000,0000,,I know.
+Dialogue: 0,0:20:24.58,0:20:26.44,main,Julius,0000,0000,0000,,But I've sent a request to the
+Dialogue: 0,0:20:26.44,0:20:29.05,main,Julius,0000,0000,0000,,Magic Item Research Lab at the \NMagic Knights' headquarters
+Dialogue: 0,0:20:29.05,0:20:31.29,main,Julius,0000,0000,0000,,to have it made according to this blueprint.
+Dialogue: 0,0:20:31.96,0:20:34.14,main,Julius,0000,0000,0000,,If this had already been completed...
+Dialogue: 0,0:20:35.37,0:20:38.84,main,Julius,0000,0000,0000,,People like the Devil Believers' \Nleader, Dazu Tayak,
+Dialogue: 0,0:20:38.84,0:20:42.54,main,Julius,0000,0000,0000,,and those who follow her \Nmay have never come to exist.
+Dialogue: 0,0:20:43.97,0:20:47.01,main,Julius,0000,0000,0000,,Those blessed by magic \Nand those who aren't...
+Dialogue: 0,0:20:47.01,0:20:50.74,main,Julius,0000,0000,0000,,In order to end the \Ndiscrimination between them,
+Dialogue: 0,0:20:51.44,0:20:55.98,main,Julius,0000,0000,0000,,this is one of the things most \Nnecessary to the Clover Kingdom.
+Dialogue: 0,0:20:59.07,0:21:00.39,main,Julius,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:21:00.39,0:21:01.96,main,Nero,0000,0000,0000,,N-No...
+Dialogue: 0,0:21:06.71,0:21:08.09,main,Asta,0000,0000,0000,,We're back!
+Dialogue: 0,0:21:10.00,0:21:12.00,main,Finral,0000,0000,0000,,Today was so exhausting...
+Dialogue: 0,0:21:12.00,0:21:13.63,main,Nero,0000,0000,0000,,Welcome back.
+Dialogue: 0,0:21:13.63,0:21:14.76,main,Asta,0000,0000,0000,,Thanks.
+Dialogue: 0,0:21:15.17,0:21:17.30,main,Asta,0000,0000,0000,,What did you and the Wizard King talk about?
+Dialogue: 0,0:21:17.85,0:21:18.68,main,Nero,0000,0000,0000,,Nothing really.
+Dialogue: 0,0:21:18.68,0:21:20.75,main,Noelle,0000,0000,0000,,Did something good happen, Nero?
+Dialogue: 0,0:21:20.75,0:21:21.78,main,Nero,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:21.78,0:21:23.53,main,Noelle,0000,0000,0000,,You look happy.
+Dialogue: 0,0:21:24.34,0:21:25.68,main,Finral,0000,0000,0000,,She's right.
+Dialogue: 0,0:21:25.68,0:21:30.53,main,Finral,0000,0000,0000,,You've been looking pretty down lately,\N but today is different.
+Dialogue: 0,0:21:30.53,0:21:32.21,main,Asta,0000,0000,0000,,She has?!
+Dialogue: 0,0:21:32.21,0:21:35.23,main,Nero,0000,0000,0000,,You all look pretty happy yourselves.
+Dialogue: 0,0:21:35.51,0:21:37.85,main,Asta,0000,0000,0000,,Well, of course we do!
+Dialogue: 0,0:21:38.87,0:21:41.73,main,Asta,0000,0000,0000,,We're finally going to be training \Nwith the Spirit Guardians!
+Dialogue: 0,0:21:42.36,0:21:44.96,main,Asta,0000,0000,0000,,Of course, you're coming with us, Nero.
+Dialogue: 0,0:21:44.96,0:21:45.97,main,Nero,0000,0000,0000,,I see.
+Dialogue: 0,0:21:45.97,0:21:47.15,main,Asta,0000,0000,0000,,Let's do our best!
+Dialogue: 0,0:21:47.15,0:21:48.12,main,Nero,0000,0000,0000,,All right.
+Dialogue: 0,0:21:51.03,0:21:55.25,italics,Nero,0000,0000,0000,,My prince, your will has \Ndefinitely been carried on.
+Dialogue: 0,0:21:55.69,0:21:57.54,italics,Nero,0000,0000,0000,,Julius Novachrono...
+Dialogue: 0,0:21:57.80,0:22:02.83,italics,Nero,0000,0000,0000,,He thinks about the future of the \NClover Kingdom just as much as you did.
+Dialogue: 0,0:22:03.76,0:22:08.12,italics,Nero,0000,0000,0000,,My prince, I will become stronger \Nso that I can protect this kingdom.
+Dialogue: 0,0:23:39.88,0:23:42.30,main,Asta,0000,0000,0000,,Stronger... I have to get stronger.
+Dialogue: 0,0:23:42.30,0:23:43.73,main,Asta,0000,0000,0000,,Or I can't protect this kingdom!
+Dialogue: 0,0:23:43.73,0:23:44.81,main,Asta,0000,0000,0000,,I can't fight!
+Dialogue: 0,0:23:45.13,0:23:49.15,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 150:\N "The Maidens' Challenge."
+Dialogue: 0,0:23:46.36,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 150\N\N{\fs18}The Maidens' Challenge
+Dialogue: 0,0:23:49.15,0:23:52.82,main,Asta,0000,0000,0000,,Grey and Captain Charlotte of the \NBlue Rose Knights are working hard, too!

@@ -1,0 +1,384 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0050,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+
+Dialogue: 0,0:00:02.77,0:00:06.58,italics,Nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.16,0:00:15.43,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.51,0:00:27.73,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:31.15,0:00:33.90,italics,Nar,0000,0000,0000,,The list of Magic Knights who \Nmade it into the Royal Knights
+Dialogue: 0,0:00:33.90,0:00:35.40,italics,Nar,0000,0000,0000,,was announced at last.
+Dialogue: 0,0:00:37.77,0:00:40.74,italics,Nar,0000,0000,0000,,Zora, one of those who passed, arrived late.
+Dialogue: 0,0:00:41.77,0:00:45.79,italics,Nar,0000,0000,0000,,Shiren Tium, Cob Portaport, and the \NCaptain of the Silver Eagles, Nozel Silva,
+Dialogue: 0,0:00:45.79,0:00:49.23,italics,Nar,0000,0000,0000,,were also added later on as support,
+Dialogue: 0,0:00:49.23,0:00:51.79,italics,Nar,0000,0000,0000,,making for a total of 20 Royal Knights.
+Dialogue: 0,0:00:53.25,0:00:55.13,flashback,Mere,0000,0000,0000,,We have no use for anything \Nother than victory!
+Dialogue: 0,0:00:55.13,0:00:56.51,flashback,Mere,0000,0000,0000,,The Eye of the Midnight Sun is
+Dialogue: 0,0:00:56.51,0:00:58.93,flashback,Mere,0000,0000,0000,,a terrorist organization that \Nthreatens the Clover Kingdom!
+Dialogue: 0,0:00:59.35,0:01:03.97,flashback,Mere,0000,0000,0000,,If we don't take care of them ourselves, \Nthere will never be peace in our land!
+Dialogue: 0,0:01:03.97,0:01:07.68,flashback,Mere,0000,0000,0000,,The Eye of the Midnight Sun's hideout
+Dialogue: 0,0:01:07.68,0:01:08.52,flashback,Mere,0000,0000,0000,,is located in...
+Dialogue: 0,0:01:08.96,0:01:13.72,flashback,Mere,0000,0000,0000,,a floating dungeon within the strong \Nmagic region known as Gravito Stones!
+Dialogue: 0,0:01:41.41,0:01:47.14,Ep Title,Sign,0000,0000,0000,,Storming the Eye of the \NMidnight Sun's Hideout!!!
+Dialogue: 0,0:02:45.16,0:02:48.66,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3}The Crimson Lion Kings' Headquarters
+Dialogue: 0,0:02:54.03,0:02:56.79,main,Leo,0000,0000,0000,,I thank you for coming, my rival!
+Dialogue: 0,0:02:56.79,0:03:01.92,sign_10111_106_Venue_for_the_Ro,Sign,0000,0000,0000,,{\blur3}The Crimson Lion Kings' Headquarters\N{\fs30}Infirmary
+Dialogue: 0,0:02:57.28,0:03:01.92,top,Leo,0000,0000,0000,,I heard from my sister that you two \Npassed the Royal Knights Exam.
+Dialogue: 0,0:03:01.92,0:03:05.75,main,Asta,0000,0000,0000,,Yeah! We're finally gonna take \Ndown the Eye of the Midnight Sun!
+Dialogue: 0,0:03:05.75,0:03:07.75,main,Noelle,0000,0000,0000,,We're leaving in three days.
+Dialogue: 0,0:03:07.75,0:03:10.93,main,Noelle,0000,0000,0000,,We're standing by in the royal capital \Nuntil then so information won't be leaked.
+Dialogue: 0,0:03:11.35,0:03:12.83,main,Leo,0000,0000,0000,,I see.
+Dialogue: 0,0:03:12.83,0:03:13.69,main,Noelle,0000,0000,0000,,Um...
+Dialogue: 0,0:03:13.69,0:03:14.49,main,Leo,0000,0000,0000,,Hm?
+Dialogue: 0,0:03:14.49,0:03:15.97,main,Noelle,0000,0000,0000,,How's Fuegoleon doing?
+Dialogue: 0,0:03:16.97,0:03:18.40,main,Leo,0000,0000,0000,,He's still asleep.
+Dialogue: 0,0:03:19.05,0:03:22.28,main,Leo,0000,0000,0000,,We still don't know what happened \Nto him when he was captured
+Dialogue: 0,0:03:22.28,0:03:26.07,main,Leo,0000,0000,0000,,by the Eye of the Midnight Sun during \Ntheir attack on the royal capital.
+Dialogue: 0,0:03:26.07,0:03:28.40,main,Leo,0000,0000,0000,,Whatever they did,\NI'm sure it was underhanded.
+Dialogue: 0,0:03:29.64,0:03:33.33,main,Leo,0000,0000,0000,,Yet even then, my brother would just say...
+Dialogue: 0,0:03:34.03,0:03:38.71,main,Leo,0000,0000,0000,,"The reason I was unable to defeat \Nthem was my own weakness."
+Dialogue: 0,0:03:41.12,0:03:45.88,main,Leo,0000,0000,0000,,I will train even harder, \Ncatch up to all of you,
+Dialogue: 0,0:03:45.88,0:03:46.80,main,Leo,0000,0000,0000,,and surpass you!
+Dialogue: 0,0:03:46.80,0:03:48.52,main,Noelle,0000,0000,0000,,Leopold...
+Dialogue: 0,0:03:48.52,0:03:52.15,main,Asta,0000,0000,0000,,I will get revenge for Captain Fuegoleon,\N no matter what!
+Dialogue: 0,0:03:53.00,0:03:57.56,main,Asta,0000,0000,0000,,Captain Fuegoleon didn't laugh at \Nmy dream to become the Wizard King.
+Dialogue: 0,0:03:58.05,0:04:00.40,main,Asta,0000,0000,0000,,He even called me a rival.
+Dialogue: 0,0:04:00.97,0:04:04.53,main,Asta,0000,0000,0000,,The reason I'm here right now \Nis because of Captain Fuegoleon.
+Dialogue: 0,0:04:05.35,0:04:06.53,main,Noelle,0000,0000,0000,,Me, too.
+Dialogue: 0,0:04:07.05,0:04:09.45,flashback,Fuego,0000,0000,0000,,Being weak is nothing to be ashamed of.
+Dialogue: 0,0:04:09.85,0:04:11.54,flashback,Fuego,0000,0000,0000,,However, staying weak is!
+Dialogue: 0,0:04:13.54,0:04:16.29,main,Noelle,0000,0000,0000,,Those words helped me grow stronger.
+Dialogue: 0,0:04:19.43,0:04:22.13,main,Leo,0000,0000,0000,,Asta, Noelle, I'm counting on you.
+Dialogue: 0,0:04:22.13,0:04:25.09,main,Asta,0000,0000,0000,,Yeah! For the sake of returning \Npeace to this country...
+Dialogue: 0,0:04:25.47,0:04:28.09,main,Both,0000,0000,0000,,...we'll defeat the Eye of the Midnight Sun!
+Dialogue: 0,0:04:33.25,0:04:35.51,main,Asta,0000,0000,0000,,Next time, let's fight together, Leo!
+Dialogue: 0,0:04:35.51,0:04:37.44,main,Leo,0000,0000,0000,,Of course! Be careful.
+Dialogue: 0,0:04:37.44,0:04:38.24,main,Asta,0000,0000,0000,,Yeah!
+Dialogue: 0,0:04:38.24,0:04:39.22,main,Noelle,0000,0000,0000,,We'll come by again.
+Dialogue: 0,0:04:47.31,0:04:52.36,main,Asta,0000,0000,0000,,I hope Captain Fuegoleon \Nand Finral both wake up soon.
+Dialogue: 0,0:04:53.16,0:04:54.29,main,Noelle,0000,0000,0000,,Not to mention...
+Dialogue: 0,0:04:54.60,0:04:57.30,main,Noelle,0000,0000,0000,,The eerie feeling I got from that mana...
+Dialogue: 0,0:04:57.30,0:05:00.29,main,Noelle,0000,0000,0000,,The Eye of the Midnight \NSun might be behind that.
+Dialogue: 0,0:05:01.64,0:05:03.21,main,Noelle,0000,0000,0000,,We have to defeat them.
+Dialogue: 0,0:05:03.21,0:05:04.48,main,Asta,0000,0000,0000,,Yeah...
+Dialogue: 0,0:05:05.37,0:05:09.20,main,Asta,0000,0000,0000,,But something's been bugging me.
+Dialogue: 0,0:05:09.20,0:05:10.22,main,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:10.22,0:05:13.21,main,Asta,0000,0000,0000,,You remember what that hairy gorilla said?
+Dialogue: 0,0:05:14.00,0:05:16.31,main,Asta,0000,0000,0000,,For some reason, they can't forgive us, either.
+Dialogue: 0,0:05:16.79,0:05:19.73,main,Asta,0000,0000,0000,,We're fighting each other because \Nwe can't forgive each other.
+Dialogue: 0,0:05:20.23,0:05:24.12,main,Asta,0000,0000,0000,,And I mean, if we could forgive each \Nother, we wouldn't have to fight...
+Dialogue: 0,0:05:24.77,0:05:26.47,main,Asta,0000,0000,0000,,So that means...
+Dialogue: 0,0:05:30.21,0:05:33.18,main,Asta,0000,0000,0000,,Even {\i1}I {\i0}have no idea what I'm trying to say!
+Dialogue: 0,0:05:33.18,0:05:35.60,main,noelle,0000,0000,0000,,That's what you get for thinking \Nso hard when you're so stupid.
+Dialogue: 0,0:05:35.60,0:05:37.19,main,Asta,0000,0000,0000,,Don't call me stupid!
+Dialogue: 0,0:05:37.19,0:05:40.60,main,Asta,0000,0000,0000,,Then again, Captain Yami \Ntold me the same thing!
+Dialogue: 0,0:05:40.60,0:05:42.75,main,Asta,0000,0000,0000,,All right! At times like this,\N I need to work out!
+Dialogue: 0,0:05:42.75,0:05:44.26,main,Asta,0000,0000,0000,,First, my abs!
+Dialogue: 0,0:05:45.34,0:05:47.76,main,Asta,0000,0000,0000,,Next, my back muscles!
+Dialogue: 0,0:05:48.15,0:05:49.38,main,Noelle,0000,0000,0000,,You meathead.
+Dialogue: 0,0:05:50.89,0:05:53.77,main,Asta,0000,0000,0000,,Everything's cramping at once!
+Dialogue: 0,0:05:53.77,0:05:55.00,main,Yuno,0000,0000,0000,,You can't be serious.
+Dialogue: 0,0:05:55.77,0:05:59.26,main,Asta,0000,0000,0000,,Yuno! Mimosa and Mr. Glasses, too!
+Dialogue: 0,0:05:59.26,0:06:02.27,main,Noelle,0000,0000,0000,,Did you come to visit Fuegoleon, too?
+Dialogue: 0,0:06:02.27,0:06:04.28,main,Klaus,0000,0000,0000,,No, we're here for another reason.
+Dialogue: 0,0:06:04.28,0:06:10.44,top,Klaus,0000,0000,0000,,The Golden Dawn had the most members pass \Nthe Royal Knights Entrance Exam, after all.
+Dialogue: 0,0:06:04.56,0:06:07.00,main,Mimosa,0000,0000,0000,,Asta! Are you all right?!
+Dialogue: 0,0:06:08.87,0:06:10.44,main,Asta,0000,0000,0000,,No need to worry about me!
+Dialogue: 0,0:06:10.44,0:06:12.99,main,Asta,0000,0000,0000,,I've trained every single muscle in my body!
+Dialogue: 0,0:06:11.17,0:06:15.62,top,Klaus,0000,0000,0000,,We've been having fiery meetings with \NCaptain Mereoleona these past few days
+Dialogue: 0,0:06:12.99,0:06:15.62,main,Yuno,0000,0000,0000,,The only thing you haven't \Ntrained is your brain.
+Dialogue: 0,0:06:15.62,0:06:17.88,top,Klaus,0000,0000,0000,,so we don't let anyone down.
+Dialogue: 0,0:06:15.62,0:06:18.96,main,Asta,0000,0000,0000,,Yup, exactly! It's super weak!
+Dialogue: 0,0:06:18.96,0:06:20.62,main,Asta,0000,0000,0000,,Hey, don't make fun of me!
+Dialogue: 0,0:06:20.95,0:06:24.96,main,Yuno,0000,0000,0000,,If there's a spell to make someone smarter,\N could someone use it on Asta?
+Dialogue: 0,0:06:24.96,0:06:26.89,main,Bell,0000,0000,0000,,Oh, you're so nice, Yuno!
+Dialogue: 0,0:06:26.89,0:06:29.49,main,Asta,0000,0000,0000,,Don't make weird requests like that!
+Dialogue: 0,0:06:30.16,0:06:32.40,main,Mimosa,0000,0000,0000,,I'm terribly sorry. I can't think of any.
+Dialogue: 0,0:06:32.40,0:06:34.05,main,Asta,0000,0000,0000,,I'm actually kinda disappointed!
+Dialogue: 0,0:06:34.37,0:06:35.95,main,Klaus,0000,0000,0000,,Honestly...
+Dialogue: 0,0:06:35.95,0:06:39.31,main,Klaus,0000,0000,0000,,We have a big battle ahead of us,\N and you show no sense of urgency.
+Dialogue: 0,0:06:39.97,0:06:42.60,main,Klaus,0000,0000,0000,,What if an enemy spy finds out our plan?
+Dialogue: 0,0:06:43.55,0:06:44.81,main,Asta,0000,0000,0000,,A spy?
+Dialogue: 0,0:06:48.79,0:06:51.15,main,Klaus,0000,0000,0000,,It's entirely plausible.
+Dialogue: 0,0:06:51.68,0:06:54.20,main,Klaus,0000,0000,0000,,They were able to bribe the \NCaptain of the Purple Orcas
+Dialogue: 0,0:06:54.20,0:06:57.16,main,Klaus,0000,0000,0000,,to help them out with their \Nattack on the royal capital.
+Dialogue: 0,0:06:57.49,0:07:00.16,main,Klaus,0000,0000,0000,,You can never be too cautious.
+Dialogue: 0,0:07:00.16,0:07:01.81,main,Noelle,0000,0000,0000,,True.
+Dialogue: 0,0:07:01.81,0:07:03.67,main,Asta,0000,0000,0000,,We've gotta be careful.
+Dialogue: 0,0:07:05.69,0:07:09.53,main,Klaus,0000,0000,0000,,If you two are also heading to the \Nroyal capital, would you like a ride?
+Dialogue: 0,0:07:09.53,0:07:10.92,main,Klaus,0000,0000,0000,,On my vessel.
+Dialogue: 0,0:07:12.40,0:07:15.47,main,Asta,0000,0000,0000,,Wow, really? Awesome! Thanks!
+Dialogue: 0,0:07:15.47,0:07:18.10,main,Noelle,0000,0000,0000,,Well, if you insist...
+Dialogue: 0,0:07:21.35,0:07:24.35,sign_10111_106_Venue_for_the_Ro,Sign,0000,0000,0000,,{\blur3}Royal Capital\N{\fs30}Lodging House
+Dialogue: 0,0:07:21.92,0:07:24.35,top,Asta,0000,0000,0000,,So good!
+Dialogue: 0,0:07:24.35,0:07:26.61,main,Asta,0000,0000,0000,,So good! So good!
+Dialogue: 0,0:07:27.23,0:07:30.86,main,Asta,0000,0000,0000,,The food in the royal capital \Nis on another level!
+Dialogue: 0,0:07:31.56,0:07:32.36,main,Mimosa,0000,0000,0000,,Oh, dear.
+Dialogue: 0,0:07:32.80,0:07:35.40,main,Mimosa,0000,0000,0000,,Asta, you have some sauce on your mouth.
+Dialogue: 0,0:07:36.63,0:07:39.29,main,Mimosa,0000,0000,0000,,Forgive me! I'm being too forward!
+Dialogue: 0,0:07:39.29,0:07:40.75,main,Asta,0000,0000,0000,,Thanks, Mimosa!
+Dialogue: 0,0:07:40.75,0:07:42.57,main,Klaus,0000,0000,0000,,You're eating entirely too much.
+Dialogue: 0,0:07:42.57,0:07:44.73,main,Klaus,0000,0000,0000,,I thought you were going to be more cautious.
+Dialogue: 0,0:07:44.73,0:07:47.69,main,Noelle,0000,0000,0000,,Y-Yeah! Look at you, \Ngetting your mouth wiped like a baby.
+Dialogue: 0,0:07:47.69,0:07:51.32,main,Noelle,0000,0000,0000,,N-Not that I care the slightest bit!
+Dialogue: 0,0:07:51.32,0:07:53.81,main,Asta,0000,0000,0000,,But I am on my guard.
+Dialogue: 0,0:07:53.81,0:07:56.55,main,Asta,0000,0000,0000,,Normally, I'd eat at least twice this much!
+Dialogue: 0,0:07:59.24,0:08:00.84,main,Yuno,0000,0000,0000,,You can't be serious.
+Dialogue: 0,0:08:00.84,0:08:02.24,main,Klaus,0000,0000,0000,,I'm worried.
+Dialogue: 0,0:08:03.09,0:08:04.73,italics,Klaus,0000,0000,0000,,It's not just Asta.
+Dialogue: 0,0:08:04.73,0:08:09.16,italics,Klaus,0000,0000,0000,,They may be talented, but there are \Na lot of troublemakers among them.
+Dialogue: 0,0:08:11.37,0:08:13.10,main,Luck,0000,0000,0000,,I can't wait to fight some people!
+Dialogue: 0,0:08:13.10,0:08:15.53,main,Luck,0000,0000,0000,,I'm gonna beat them to \Na pulp and squash them.
+Dialogue: 0,0:08:19.07,0:08:20.83,italics,Rill,0000,0000,0000,,Zora is all by himself!
+Dialogue: 0,0:08:21.19,0:08:24.58,italics,Rill,0000,0000,0000,,He must be too shy to talk to the others.
+Dialogue: 0,0:08:24.58,0:08:27.08,italics,Rill,0000,0000,0000,,I need to be the one to break the ice!
+Dialogue: 0,0:08:28.28,0:08:30.34,main,Rill,0000,0000,0000,,Take a look at this!
+Dialogue: 0,0:08:30.34,0:08:32.88,main,Rill,0000,0000,0000,,This is what your face looks like!
+Dialogue: 0,0:08:37.93,0:08:40.42,main,Rill,0000,0000,0000,,It stinks so bad!
+Dialogue: 0,0:08:40.42,0:08:42.18,main,Fragil,0000,0000,0000,,C-Captain Rill?!
+Dialogue: 0,0:08:47.41,0:08:49.69,main,Kirsch,0000,0000,0000,,All of you lack manners.
+Dialogue: 0,0:08:52.45,0:08:55.01,main,Kirsch,0000,0000,0000,,Meals are meant to be enjoyed \Nin a much more elegant,
+Dialogue: 0,0:08:55.01,0:08:57.83,main,Kirsch,0000,0000,0000,,beautiful, and distinguished fashion.
+Dialogue: 0,0:09:05.53,0:09:09.07,main,Kirsch,0000,0000,0000,,You dare run away from me because \Nyou don't want to be eaten?
+Dialogue: 0,0:09:09.07,0:09:11.75,main,Kirsch,0000,0000,0000,,What a repulsive mushroom.
+Dialogue: 0,0:09:11.75,0:09:13.45,main,Kirsch,0000,0000,0000,,Hey! Wait!
+Dialogue: 0,0:09:14.03,0:09:16.63,main,Kirsch,0000,0000,0000,,You... repulsive... mushroom!
+Dialogue: 0,0:09:16.63,0:09:19.43,main,Mush,0000,0000,0000,,Don't eat my brethren!
+Dialogue: 0,0:09:22.77,0:09:27.18,main,Hamon,0000,0000,0000,,Everyone, it appears that Miss Puli \Nwants to give us the gift of song.
+Dialogue: 0,0:09:42.75,0:09:47.29,main,Puli,0000,0000,0000,,Puli, Puli, Puli, my skin's so pretty!
+Dialogue: 0,0:09:47.29,0:09:51.04,top,Puli,0000,0000,0000,,I'm a lovely lady who sings so sweetly!
+Dialogue: 0,0:09:48.63,0:09:51.04,main,Asta,0000,0000,0000,,What the hell is this song?!
+Dialogue: 0,0:09:51.04,0:09:55.17,top,Puli,0000,0000,0000,,Puli, Puli, Puli, I'm a lovely lady
+Dialogue: 0,0:09:52.52,0:09:54.47,main,Noelle,0000,0000,0000,,How bad a singer can one be?
+Dialogue: 0,0:09:54.47,0:09:57.34,main,Klaus,0000,0000,0000,,As rude as this sounds,\N I want to murder someone.
+Dialogue: 0,0:09:55.17,0:09:59.50,top,Puli,0000,0000,0000,,with supple cheeks!
+Dialogue: 0,0:09:57.34,0:09:59.40,main,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:09:59.50,0:10:03.26,top,Puli,0000,0000,0000,,Puli poo pariponpen!
+Dialogue: 0,0:10:00.01,0:10:04.33,italics,Spy,0000,0000,0000,,I can't get any useful information \Nwhile I'm sticking to that guy!
+Dialogue: 0,0:10:03.26,0:10:07.27,top,Puli,0000,0000,0000,,Pushka, pushka...
+Dialogue: 0,0:10:14.96,0:10:18.59,main,Mere,0000,0000,0000,,What's the matter, \NCaptain of the Silver Eagles?
+Dialogue: 0,0:10:19.11,0:10:22.28,main,Nozel,0000,0000,0000,,You're taking three days \Nto start this operation.
+Dialogue: 0,0:10:22.28,0:10:23.87,main,Nozel,0000,0000,0000,,You're being awfully cautious.
+Dialogue: 0,0:10:24.56,0:10:26.01,main,Mere,0000,0000,0000,,What are you getting at?
+Dialogue: 0,0:10:26.51,0:10:28.58,main,Mere,0000,0000,0000,,Do you think I'm hesitating?
+Dialogue: 0,0:10:29.99,0:10:33.54,main,Nozel,0000,0000,0000,,No. It appears I needn't worry.
+Dialogue: 0,0:10:34.85,0:10:36.71,main,Mere,0000,0000,0000,,You always were perceptive.
+Dialogue: 0,0:10:37.59,0:10:43.03,main,Mere,0000,0000,0000,,I set a trap to find out how much \Nthe enemy knows of our plans.
+Dialogue: 0,0:10:44.09,0:10:46.31,main,Mere,0000,0000,0000,,Well, let's hear it.
+Dialogue: 0,0:10:47.09,0:10:50.73,main,Mere,0000,0000,0000,,Did you really think you could \Ntrick me with such a foolish spell?
+Dialogue: 0,0:10:56.93,0:10:58.57,main,Spy,0000,0000,0000,,Damn it!
+Dialogue: 0,0:11:04.31,0:11:05.87,main,Mere,0000,0000,0000,,You're not getting away.
+Dialogue: 0,0:11:14.08,0:11:16.31,main,Asta,0000,0000,0000,,A spy from the Eye of the Midnight Sun?!
+Dialogue: 0,0:11:16.31,0:11:18.63,main,Noelle,0000,0000,0000,,I can't believe there really was one...
+Dialogue: 0,0:11:19.01,0:11:20.97,main,Mush,0000,0000,0000,,Mushroom is shocked!
+Dialogue: 0,0:11:21.45,0:11:23.08,main,Mere,0000,0000,0000,,Second-Place Rookie,
+Dialogue: 0,0:11:23.08,0:11:25.97,main,Mere,0000,0000,0000,,apparently, he was following you.
+Dialogue: 0,0:11:27.16,0:11:29.65,main,Klaus,0000,0000,0000,,To think I hadn't noticed...
+Dialogue: 0,0:11:29.65,0:11:31.10,main,Klaus,0000,0000,0000,,How disgraceful.
+Dialogue: 0,0:11:31.93,0:11:34.73,main,Mere,0000,0000,0000,,I questioned him without killing him,
+Dialogue: 0,0:11:34.73,0:11:38.04,main,Mere,0000,0000,0000,,but apparently, our enemy hasn't \Nnoticed any of our movements.
+Dialogue: 0,0:11:38.86,0:11:42.23,main,Mere,0000,0000,0000,,Therefore, we will be moving up \Nthe operation's start time.
+Dialogue: 0,0:11:42.23,0:11:45.64,main,Mere,0000,0000,0000,,We strike the Eye of the Midnight \NSun's hideout tomorrow morning.
+Dialogue: 0,0:11:46.99,0:11:48.37,main,Fragil,0000,0000,0000,,T-Tomorrow?
+Dialogue: 0,0:11:48.37,0:11:50.33,main,Puli,0000,0000,0000,,Not in three days?
+Dialogue: 0,0:11:50.67,0:11:54.50,main,Bell,0000,0000,0000,,I don't want Yuno to see \Nme right after I wake up!
+Dialogue: 0,0:11:55.35,0:11:58.09,main,Mere,0000,0000,0000,,Make sure you all get plenty of rest tonight.
+Dialogue: 0,0:11:58.57,0:11:59.52,main,Mere,0000,0000,0000,,That is all.
+Dialogue: 0,0:12:06.51,0:12:10.69,main,Guy,0000,0000,0000,,It appears Lady Mereoleona intended \Nall along to depart immediately
+Dialogue: 0,0:12:10.69,0:12:13.07,main,Guy,0000,0000,0000,,as soon as she captured the enemy spy.
+Dialogue: 0,0:12:14.00,0:12:17.93,main,Guy,0000,0000,0000,,So if you want to fool your enemies, \Nyou must first fool your friends.
+Dialogue: 0,0:12:17.93,0:12:21.03,main,Guy,0000,0000,0000,,But tomorrow morning?
+Dialogue: 0,0:12:23.16,0:12:25.16,main,Zora,0000,0000,0000,,What a scary lady.
+Dialogue: 0,0:12:29.07,0:12:31.25,main,Zora,0000,0000,0000,,What's up, shitty shrimp junior?
+Dialogue: 0,0:12:31.25,0:12:32.83,main,Zora,0000,0000,0000,,You scared?
+Dialogue: 0,0:12:34.21,0:12:35.83,main,Asta,0000,0000,0000,,It's the exact opposite.
+Dialogue: 0,0:12:37.07,0:12:39.59,main,Asta,0000,0000,0000,,The reason I want to become Wizard King
+Dialogue: 0,0:12:39.59,0:12:41.62,main,Asta,0000,0000,0000,,is so that everyone who lives here
+Dialogue: 0,0:12:41.62,0:12:45.36,main,Asta,0000,0000,0000,,can have a free country \Nwhere they can always smile.
+Dialogue: 0,0:12:46.76,0:12:50.33,main,Asta,0000,0000,0000,,I'm going to stop their rampage,\N no matter what!
+Dialogue: 0,0:12:50.33,0:12:52.85,main,Yuno,0000,0000,0000,,You'd better not go on a \Nrampage and hold us back.
+Dialogue: 0,0:12:53.28,0:12:55.48,main,Asta,0000,0000,0000,,I'm never going to lose to you!
+Dialogue: 0,0:12:56.77,0:12:58.15,main,Yuno,0000,0000,0000,,I'm the one who's going to win.
+Dialogue: 0,0:12:59.19,0:13:00.48,main,Noelle,0000,0000,0000,,It's finally time.
+Dialogue: 0,0:13:00.48,0:13:01.48,main,Mimosa,0000,0000,0000,,Yes.
+Dialogue: 0,0:13:02.21,0:13:05.61,main,Klaus,0000,0000,0000,,Tomorrow is when we finally settle this.
+Dialogue: 0,0:13:05.99,0:13:07.11,main,Asta,0000,0000,0000,,We're going to...
+Dialogue: 0,0:13:07.60,0:13:09.85,main,All,0000,0000,0000,,...defeat the Eye of the Midnight Sun!
+Dialogue: 0,0:13:34.18,0:13:39.21,sign_10111_106_Venue_for_the_Ro,Sign,0000,0000,0000,,{\blur3\fad(1028,1)}Gravito Stones Floating Dungeon\N{\fs30}The Eye of the Midnight Sun's Hideout
+Dialogue: 0,0:13:35.32,0:13:39.21,top,Asta,0000,0000,0000,,Holy crap! There's a castle \Nfloating in the sky!
+Dialogue: 0,0:13:39.21,0:13:42.56,main,Noelle,0000,0000,0000,,That's the Eye of the \NMidnight Sun's hideout.
+Dialogue: 0,0:13:45.11,0:13:50.28,main,Mere,0000,0000,0000,,Well, there aren't many who would \Nset foot in the strong magic regions.
+Dialogue: 0,0:13:51.25,0:13:55.22,main,Mere,0000,0000,0000,,And since it's hidden by this \Nmagical fog, it's even harder to spot.
+Dialogue: 0,0:13:55.22,0:13:57.54,main,Mere,0000,0000,0000,,Anyone would have difficulty finding it.
+Dialogue: 0,0:13:58.29,0:14:01.92,main,Mere,0000,0000,0000,,You figured all that out, and that's \Nwhy you had people search this area.
+Dialogue: 0,0:14:01.92,0:14:06.17,main,Mere,0000,0000,0000,,You've gotten better, \NCaptain of the Silver Eagles.
+Dialogue: 0,0:14:06.17,0:14:09.05,main,Nozel,0000,0000,0000,,I just happened to have \Npeople searching dungeons,
+Dialogue: 0,0:14:09.05,0:14:12.39,main,Nozel,0000,0000,0000,,and we coincidentally found \Nout it was their hideout.
+Dialogue: 0,0:14:12.39,0:14:17.14,main,Mere,0000,0000,0000,,Oh? So what brought the Captain of \Nthe Silver Eagles himself here, then?
+Dialogue: 0,0:14:19.31,0:14:20.89,main,Nozel,0000,0000,0000,,That's enough idle chatter.
+Dialogue: 0,0:14:21.59,0:14:24.40,main,Nozel,0000,0000,0000,,You can use your spell from \Nthis distance, can't you?
+Dialogue: 0,0:14:24.40,0:14:25.47,main,Shiren,0000,0000,0000,,Indeed.
+Dialogue: 0,0:14:39.00,0:14:43.42,main,Shiren,0000,0000,0000,,Stone Creation Magic: \NStone Model of the World.
+Dialogue: 0,0:14:43.42,0:14:45.55,main,Asta,0000,0000,0000,,That's so cool!
+Dialogue: 0,0:14:45.55,0:14:49.75,main,Mere,0000,0000,0000,,I see. It's like an ants' nest that \Nallows entry from anywhere.
+Dialogue: 0,0:14:49.75,0:14:51.93,main,Mere,0000,0000,0000,,Seems simple enough to infiltrate.
+Dialogue: 0,0:14:53.04,0:14:56.76,main,Mere,0000,0000,0000,,I see there are plenty of guys \Naround Senior Magic Knight level.
+Dialogue: 0,0:14:57.48,0:15:00.91,main,Mere,0000,0000,0000,,There's someone with very \Npowerful magic in the middle.
+Dialogue: 0,0:15:00.91,0:15:02.91,main,Mere,0000,0000,0000,,Must be their boss.
+Dialogue: 0,0:15:04.05,0:15:06.82,main,Asta,0000,0000,0000,,So that's where Licht is...
+Dialogue: 0,0:15:07.20,0:15:10.24,main,Guy,0000,0000,0000,,Captain Nozel, what is our plan?
+Dialogue: 0,0:15:10.24,0:15:13.39,main,Nozel,0000,0000,0000,,I am not the Captain of the Royal Knights.
+Dialogue: 0,0:15:13.95,0:15:16.22,main,nozel,0000,0000,0000,,The one who'll decide that is Mereoleona.
+Dialogue: 0,0:15:16.22,0:15:17.91,main,,0000,0000,0000,,Y-Yes, of course.
+Dialogue: 0,0:15:18.63,0:15:20.13,main,Mere,0000,0000,0000,,Listen up, all of you!
+Dialogue: 0,0:15:20.13,0:15:23.17,main,Mere,0000,0000,0000,,If we want to ambush the enemy and \Nthrow them into a state of chaos,
+Dialogue: 0,0:15:23.57,0:15:26.12,main,Mere,0000,0000,0000,,we can't let them know \Nhow many of us there are,
+Dialogue: 0,0:15:26.12,0:15:28.65,main,Mere,0000,0000,0000,,so splitting up is the best option.
+Dialogue: 0,0:15:29.24,0:15:32.52,main,Mere,0000,0000,0000,,But the fact that there are so many entrances
+Dialogue: 0,0:15:32.52,0:15:35.62,main,Mere,0000,0000,0000,,means that the enemy is \Nconfident in their defense.
+Dialogue: 0,0:15:35.62,0:15:39.93,main,Mere,0000,0000,0000,,The more we split up, the more that \Nmay work against us and overwhelm us.
+Dialogue: 0,0:15:39.93,0:15:42.81,main,Mere,0000,0000,0000,,So where does that lead us?
+Dialogue: 0,0:15:42.81,0:15:43.91,main,Asta,0000,0000,0000,,Ooh, me!
+Dialogue: 0,0:15:43.91,0:15:47.48,main,Asta,0000,0000,0000,,We'll overwhelm the enemy even \Nmore with sheer willpower!
+Dialogue: 0,0:15:48.03,0:15:51.49,main,Yuno,0000,0000,0000,,We don't need willpower. \NI'll overwhelm them myself.
+Dialogue: 0,0:15:51.49,0:15:54.74,main,Luck,0000,0000,0000,,I wanna mash them all up!
+Dialogue: 0,0:15:55.52,0:15:59.42,main,Kirsch,0000,0000,0000,,I shall defeat them beautifully on my own.
+Dialogue: 0,0:15:59.42,0:16:00.99,main,Mimosa,0000,0000,0000,,I wish you'd just disappear.
+Dialogue: 0,0:16:00.99,0:16:03.04,main,Noelle,0000,0000,0000,,I'm surrounded by idiots.
+Dialogue: 0,0:16:03.04,0:16:04.81,main,Klaus,0000,0000,0000,,What's important is balance.
+Dialogue: 0,0:16:05.89,0:16:09.92,main,Klaus,0000,0000,0000,,The most effective way to get through \Nthe enemy's defense while split up
+Dialogue: 0,0:16:09.92,0:16:12.86,main,Klaus,0000,0000,0000,,is to divide into five teams of four.
+Dialogue: 0,0:16:12.86,0:16:14.42,main,Klaus,0000,0000,0000,,Is that what you're thinking?
+Dialogue: 0,0:16:14.42,0:16:15.84,main,Mere,0000,0000,0000,,Exactly.
+Dialogue: 0,0:16:16.61,0:16:19.39,main,Mere,0000,0000,0000,,We will now split up into \Nfive groups and proceed.
+Dialogue: 0,0:16:19.78,0:16:24.26,main,Zora,0000,0000,0000,,I'll settle for anyone, as long as I don't \Nend up with the crazy stupid shrimp.
+Dialogue: 0,0:16:24.26,0:16:29.95,main,Asta,0000,0000,0000,,Say what?! That's {\i1}my{\i0} line, \Nyou cool masked jerk!
+Dialogue: 0,0:16:30.67,0:16:31.67,main,Asta,0000,0000,0000,,Wait.
+Dialogue: 0,0:16:31.67,0:16:34.88,main,Asta,0000,0000,0000,,No one would want to team up with you anyway,
+Dialogue: 0,0:16:34.88,0:16:37.48,main,Asta,0000,0000,0000,,so I don't mind teaming \Nup with you after all.
+Dialogue: 0,0:16:37.48,0:16:41.37,main,Zora,0000,0000,0000,,Why do you sound like you're taking \Npity on me, you little shit?
+Dialogue: 0,0:16:42.37,0:16:45.62,main,Mere,0000,0000,0000,,You're coming with me, \Nyou damn problem children.
+Dialogue: 0,0:16:46.32,0:16:47.85,main,Zora,0000,0000,0000,,Hello there, Lady Royal.
+Dialogue: 0,0:16:47.85,0:16:51.92,main,Zora,0000,0000,0000,,Please accept this rainbow stinkbug \Nas a token of our friendship.
+Dialogue: 0,0:16:51.92,0:16:52.83,main,Asta,0000,0000,0000,,You idiot!
+Dialogue: 0,0:16:57.51,0:17:00.77,main,Mere,0000,0000,0000,,A stench this weak has no effect on me.
+Dialogue: 0,0:17:02.96,0:17:08.24,main,Zora,0000,0000,0000,,You sure you want two peasants \Nhanging around you, Lady Royal?
+Dialogue: 0,0:17:08.24,0:17:10.65,main,Asta,0000,0000,0000,,What?! You're a peasant, too?
+Dialogue: 0,0:17:10.65,0:17:13.70,main,Mere,0000,0000,0000,,I don't care if you're a peasant or royalty.
+Dialogue: 0,0:17:13.70,0:17:16.93,main,Mere,0000,0000,0000,,I've never given a rat's ass \Nabout differences in status.
+Dialogue: 0,0:17:16.93,0:17:19.28,main,Mere,0000,0000,0000,,All that matters is if you're weak or strong.
+Dialogue: 0,0:17:20.04,0:17:22.53,main,Mere,0000,0000,0000,,You're here because you're strong,\N are you not?
+Dialogue: 0,0:17:24.60,0:17:26.93,italics,Mere,0000,0000,0000,,The fools that Yami selected...
+Dialogue: 0,0:17:27.72,0:17:30.13,main,Mere,0000,0000,0000,,Don't let me down.
+Dialogue: 0,0:17:30.13,0:17:31.46,main,Asta,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:17:31.46,0:17:35.88,main,Zora,0000,0000,0000,,Sure thing. Guess I'll \Nbe careful, Lady Captain.
+Dialogue: 0,0:17:36.25,0:17:39.69,main,Mere,0000,0000,0000,,The rest of you should also be proud \Nto be chosen as Royal Knights,
+Dialogue: 0,0:17:39.69,0:17:42.04,main,Mere,0000,0000,0000,,and use your strengths to the fullest.
+Dialogue: 0,0:17:43.73,0:17:45.52,main,Mere,0000,0000,0000,,I will now assign your positions.
+Dialogue: 0,0:17:45.52,0:17:50.90,sign_25640_274_Group_1_En_Ringa,Sign,0000,0000,0000,,{\blur3}Group 1\N{\fs20}En Ringard   Nils Ragus   Nozel Silva   Shiren Tium
+Dialogue: 0,0:17:46.44,0:17:49.03,top,Mere,0000,0000,0000,,Group 1 will attack from the upper left.
+Dialogue: 0,0:17:49.03,0:17:50.10,top,All,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:17:50.10,0:17:50.90,top,Shiren,0000,0000,0000,,As you wish.
+Dialogue: 0,0:17:50.90,0:17:55.15,sign_25640_274_Group_1_En_Ringa,Sign,0000,0000,0000,,{\blur3}Group 2\N{\fs20}Ben Benfunk   Luck Voltia   Noelle Silva   Kirsch Vermillion
+Dialogue: 0,0:17:51.64,0:17:53.40,top,Mere,0000,0000,0000,,Group 2 will attack from the lower left.
+Dialogue: 0,0:17:53.40,0:17:54.40,top,Luck,0000,0000,0000,,'Kay!
+Dialogue: 0,0:17:53.40,0:17:54.40,top,All,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:17:55.15,0:17:58.65,sign_25640_274_Group_1_En_Ringa,Sign,0000,0000,0000,,{\blur3}Group 3\N{\fs20}Ruben Shagger   Rill Boismortier   Fragil Tormenta   Puli Angel
+Dialogue: 0,0:17:55.52,0:17:57.71,top,Mere,0000,0000,0000,,Group 3 will attack from the upper right.
+Dialogue: 0,0:17:57.71,0:17:58.65,top,All,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:17:58.65,0:18:00.88,top,Mere,0000,0000,0000,,Group 4 will attack from the lower right.
+Dialogue: 0,0:17:58.65,0:18:01.91,sign_25640_274_Group_1_En_Ringa,Sign,0000,0000,0000,,{\blur3}Group 4 \N{\fs20}Klaus Lunettes   Mimosa Vermillion   Yuno   Hamon Caseus
+Dialogue: 0,0:18:00.88,0:18:01.91,top,All,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:18:01.91,0:18:08.41,sign_25640_274_Group_1_En_Ringa,Sign,0000,0000,0000,,{\blur3}Group 5\N{\fs20}Asta   Mereoleona Vermillion   Zora Ideale
+Dialogue: 0,0:18:03.00,0:18:06.22,top,Mere,0000,0000,0000,,And we're going to attack front and center.
+Dialogue: 0,0:18:06.22,0:18:07.12,top,Asta,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:18:09.01,0:18:11.17,main,Mere,0000,0000,0000,,The spatial magic user will stand by here.
+Dialogue: 0,0:18:11.64,0:18:14.17,main,Cob,0000,0000,0000,,Roger-dodger-roger!
+Dialogue: 0,0:18:14.76,0:18:16.92,main,Mere,0000,0000,0000,,You'd better put your all into this.
+Dialogue: 0,0:18:17.28,0:18:18.35,main,Mere,0000,0000,0000,,Let's go!
+Dialogue: 0,0:18:28.61,0:18:33.90,main,Guy,0000,0000,0000,,Do you know why you're in this mess?
+Dialogue: 0,0:18:34.84,0:18:40.00,main,Guy,0000,0000,0000,,It's because you're a citizen \Nof the Clover Kingdom.
+Dialogue: 0,0:18:41.24,0:18:45.33,main,Guy,0000,0000,0000,,I was a citizen there myself, \Nuntil not so long ago.
+Dialogue: 0,0:18:45.33,0:18:46.45,main,Guy,0000,0000,0000,,But...
+Dialogue: 0,0:18:47.15,0:18:49.45,main,Guy,0000,0000,0000,,I was different.
+Dialogue: 0,0:18:52.13,0:18:56.30,main,Guy,0000,0000,0000,,Lord Licht gave me my true name.
+Dialogue: 0,0:19:00.27,0:19:05.01,main,Guy,0000,0000,0000,,We're special, you see.
+Dialogue: 0,0:19:07.11,0:19:14.13,main,Guy,0000,0000,0000,,So we can do whatever we \Nwant to trash like you.
+Dialogue: 0,0:19:23.72,0:19:25.55,main,Luck,0000,0000,0000,,He's way too weak.
+Dialogue: 0,0:19:25.55,0:19:27.88,main,Luck,0000,0000,0000,,There are stronger guys, right?
+Dialogue: 0,0:19:27.88,0:19:31.96,main,Kirsch,0000,0000,0000,,Do leave me some chances \Nto strike beautifully.
+Dialogue: 0,0:19:32.39,0:19:33.94,main,Noelle,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:19:33.94,0:19:35.55,main,Lady,0000,0000,0000,,Thank you so much.
+Dialogue: 0,0:19:37.87,0:19:41.16,flashback,Mere,0000,0000,0000,,I'm sure you don't need detailed plans.
+Dialogue: 0,0:19:41.85,0:19:45.01,flashback,Mere,0000,0000,0000,,Take down any enemies you encounter \Nas you proceed toward the center.
+Dialogue: 0,0:19:45.64,0:19:46.76,flashback,Mere,0000,0000,0000,,You may do that
+Dialogue: 0,0:19:46.76,0:19:49.16,flashback,Mere,0000,0000,0000,,however you prefer!
+Dialogue: 0,0:19:52.08,0:19:55.27,main,Mere,0000,0000,0000,,I don't care what you do \Nas long as you don't lose.
+Dialogue: 0,0:19:58.24,0:20:00.68,main,Mere,0000,0000,0000,,Ah, the ants show themselves at last.
+Dialogue: 0,0:20:03.56,0:20:10.29,main,Mere,0000,0000,0000,,I hear you caused quite a mess at \Nthe royal capital while I was away.
+Dialogue: 0,0:20:12.00,0:20:17.04,main,Nozel,0000,0000,0000,,You will not escape like you \Ndid from a certain cave.
+Dialogue: 0,0:20:17.43,0:20:20.53,main,Mere,0000,0000,0000,,Eye of the Midnight Sun, we've come...
+Dialogue: 0,0:20:20.53,0:20:21.76,main,Nozel,0000,0000,0000,,...to get our revenge.
+Dialogue: 0,0:20:21.76,0:20:25.80,main,Nozel,0000,0000,0000,,How dare you do that to my rival...
+Dialogue: 0,0:20:25.80,0:20:27.84,main,Mere,0000,0000,0000,,To my foolish little brother...
+Dialogue: 0,0:20:28.51,0:20:30.68,main,Both,0000,0000,0000,,You shall pay dearly!
+Dialogue: 0,0:20:31.17,0:20:34.10,main,Both,0000,0000,0000,,I will be the one to take your leader's head!
+Dialogue: 0,0:20:36.60,0:20:39.03,main,Asta,0000,0000,0000,,H-Holy crap!
+Dialogue: 0,0:20:39.03,0:20:41.11,main,Asta,0000,0000,0000,,Wait, do we even need to be here?!
+Dialogue: 0,0:20:47.16,0:20:50.69,main,Raia,0000,0000,0000,,Looks like someone dangerous showed up.
+Dialogue: 0,0:20:50.69,0:20:53.12,main,Raia,0000,0000,0000,,Licht is gone right now, too.
+Dialogue: 0,0:20:57.19,0:21:00.55,main,Raia,0000,0000,0000,,Guess I shouldn't be so lazy \Nabout this and just go.
+Dialogue: 0,0:22:32.14,0:22:36.64,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:32.80,0:22:35.57,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:36.14,0:22:40.14,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Lazy Raia!
+Dialogue: 0,0:22:37.20,0:22:39.01,main,Sign,0000,0000,0000,,Lazy Raia!
+Dialogue: 0,0:22:40.14,0:22:42.33,main,Guy,0000,0000,0000,,Lord Raia! Lord Raia!
+Dialogue: 0,0:22:44.11,0:22:46.15,main,Raia,0000,0000,0000,,What's up? Why are you so panicked?
+Dialogue: 0,0:22:46.15,0:22:47.35,main,Guy,0000,0000,0000,,We're being attacked!
+Dialogue: 0,0:22:47.35,0:22:49.33,main,Raia,0000,0000,0000,,Sounds like it.
+Dialogue: 0,0:22:49.33,0:22:52.80,main,Raia,0000,0000,0000,,But it's such a pain to deal with them.
+Dialogue: 0,0:22:52.80,0:22:54.63,main,Guy,0000,0000,0000,,What?! Please don't be like that!
+Dialogue: 0,0:22:54.63,0:22:56.16,main,Raia,0000,0000,0000,,It's a pain to get up.
+Dialogue: 0,0:22:56.51,0:22:57.83,main,Guy,0000,0000,0000,,I shall sit you up.
+Dialogue: 0,0:22:57.83,0:23:00.33,main,Raia,0000,0000,0000,,It's a pain to put shoes on.
+Dialogue: 0,0:23:00.33,0:23:01.85,main,Guy,0000,0000,0000,,I shall do that, too!
+Dialogue: 0,0:23:02.49,0:23:04.50,main,Raia,0000,0000,0000,,It's a pain to stand up.
+Dialogue: 0,0:23:04.50,0:23:05.67,main,Guy,0000,0000,0000,,Up you go.
+Dialogue: 0,0:23:06.52,0:23:10.32,main,Raia,0000,0000,0000,,Walking is a huge pain! \NYeah, I'm not gonna do it.
+Dialogue: 0,0:23:10.32,0:23:11.26,main,Guy,0000,0000,0000,,What?!
+Dialogue: 0,0:23:11.26,0:23:13.08,main,Guy,0000,0000,0000,,Please reconsider!
+Dialogue: 0,0:23:14.97,0:23:18.79,main,Raia,0000,0000,0000,,I think I was sleeping with my mouth open,\N because my throat hurts...
+Dialogue: 0,0:23:18.79,0:23:20.27,main,Guy,0000,0000,0000,,I'll give you this lollipop!
+Dialogue: 0,0:23:20.59,0:23:22.02,main,Raia,0000,0000,0000,,What flavor is it?
+Dialogue: 0,0:23:22.02,0:23:24.02,main,Guy,0000,0000,0000,,A-Apple...
+Dialogue: 0,0:23:26.56,0:23:29.53,main,Raia,0000,0000,0000,,I guess I shouldn't be so \Nlazy about this and just go.
+Dialogue: 0,0:23:30.72,0:23:33.40,main,Guy,0000,0000,0000,,What would've happened if \Nit was an orange lollipop?
+Dialogue: 0,0:23:35.84,0:23:39.96,main,Raia,0000,0000,0000,,Come to think of it, I wonder how \NValtos and the others are doing.
+Dialogue: 0,0:23:39.96,0:23:44.78,main,Asta,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 89:\N"The Black Bulls Hideout."
+Dialogue: 0,0:23:41.25,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 89\N\N{\fs18} The Black Bulls Hideout
+Dialogue: 0,0:23:44.78,0:23:48.09,main,Raia,0000,0000,0000,,Make sure you find what \Nwe're looking for, Val.

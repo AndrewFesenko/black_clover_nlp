@@ -1,0 +1,383 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FFFB,&H000000FF,&H1900122E,&H000D1728,-1,0,0,0,100,100,0,0,1,1,0,8,0030,0030,0090,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+ 
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.34,0:00:07.04,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:07.54,0:00:10.38,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:10.38,0:00:12.95,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:13.39,0:00:15.30,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:16.29,0:00:18.87,italics,Nar,0000,0000,0000,,With guts and hard work, \Nhe made it into the Magic Knights,
+Dialogue: 0,0:00:18.87,0:00:21.77,italics,Nar,0000,0000,0000,,and he never gave up, \Ndespite how much he got hurt.
+Dialogue: 0,0:00:21.77,0:00:24.61,italics,Nar,0000,0000,0000,,He continues to diligently aim for the top!
+Dialogue: 0,0:00:26.30,0:00:27.79,italics,Nar,0000,0000,0000,,Even if you are a peasant,
+Dialogue: 0,0:00:27.79,0:00:29.63,italics,Nar,0000,0000,0000,,or even if you're poor...
+Dialogue: 0,0:00:29.93,0:00:32.38,italics,Nar,0000,0000,0000,,Anyone in this world can still shine!
+Dialogue: 0,0:00:32.72,0:00:34.80,italics,Nar,0000,0000,0000,,He's working hard to prove that,
+Dialogue: 0,0:00:35.18,0:00:37.78,italics,Nar,0000,0000,0000,,and to become the Wizard King!
+Dialogue: 0,0:00:40.53,0:00:44.39,italics,Nar,0000,0000,0000,,Mereoleona showed up at the \NBlack Bulls' hideout without warning,
+Dialogue: 0,0:00:44.69,0:00:47.40,italics,Nar,0000,0000,0000,,stealing away Asta and the others.
+Dialogue: 0,0:00:47.90,0:00:51.32,italics,Nar,0000,0000,0000,,Their destination was the strong \Nmagic region, the Yultim Volcano.
+Dialogue: 0,0:00:51.32,0:00:53.07,italics,Nar,0000,0000,0000,,This was where Asta and Noelle
+Dialogue: 0,0:00:53.07,0:00:56.61,italics,Nar,0000,0000,0000,,had trained with the \NCrimson Lion Kings before.
+Dialogue: 0,0:00:57.06,0:01:01.45,italics,Nar,0000,0000,0000,,Mereoleona and Fuegoleon announced that \Nthey would be training here yet again,
+Dialogue: 0,0:01:01.45,0:01:03.95,italics,Nar,0000,0000,0000,,in order to prepare to fight the devil.
+Dialogue: 0,0:01:03.95,0:01:07.04,main,Asta,0000,0000,0000,,Let's haul ass to the hot springs at the top!
+Dialogue: 0,0:01:07.04,0:01:07.87,main,Mere,0000,0000,0000,,Hold it.
+Dialogue: 0,0:01:07.87,0:01:09.06,main,Asta,0000,0000,0000,,Wha?!
+Dialogue: 0,0:01:09.06,0:01:11.29,main,Mere,0000,0000,0000,,You won't be climbing the volcano this time.
+Dialogue: 0,0:01:11.29,0:01:14.29,main,Mere,0000,0000,0000,,You'll be heading underneath the volcano...
+Dialogue: 0,0:01:14.29,0:01:16.30,main,Mere,0000,0000,0000,,Into the Yultim Underground Cave!
+Dialogue: 0,0:01:16.30,0:01:20.55,italics,Nar,0000,0000,0000,,They ended up facing an intensely fiery \Nmana unlike any they faced before
+Dialogue: 0,0:01:20.55,0:01:24.68,italics,Nar,0000,0000,0000,,as they headed toward their goal,\N the hot springs.
+Dialogue: 0,0:01:24.68,0:01:25.54,italics,Nar,0000,0000,0000,,But...
+Dialogue: 0,0:01:32.22,0:01:33.53,main,Asta,0000,0000,0000,,Take this!
+Dialogue: 0,0:01:33.53,0:01:37.54,main,Leopold,0000,0000,0000,,Flame Magic: Spiral Flames!
+Dialogue: 0,0:01:38.16,0:01:42.38,italics,Nar,0000,0000,0000,,Leopold's powerful attack was enough \Nto make the spider monster back down,
+Dialogue: 0,0:01:42.38,0:01:45.69,italics,Nar,0000,0000,0000,,but then they discovered \Nthe cave's surprising secret.
+Dialogue: 0,0:01:47.29,0:01:49.25,main,Asta,0000,0000,0000,,Don't tell me that's...
+Dialogue: 0,0:01:49.25,0:01:52.85,main,Mere,0000,0000,0000,,A dungeon, eh? Things are getting exciting.
+Dialogue: 0,0:02:12.27,0:02:16.86,Ep Title,Title,0000,0000,0000,,{\fad(210,1871)\t(210,2419,\fscx120\fscy120)}The Lion Awakens, Continued
+Dialogue: 0,0:03:39.11,0:03:41.39,main,Ben,0000,0000,0000,,Lady Mereoleona, what is that?
+Dialogue: 0,0:03:41.39,0:03:42.61,main,Mere,0000,0000,0000,,You're late!
+Dialogue: 0,0:03:42.91,0:03:47.59,main,Mere,0000,0000,0000,,Did you enjoy your nice little stroll with \Nthe Black Bulls, you pathetic fools?!
+Dialogue: 0,0:03:47.59,0:03:49.87,main,Mere,0000,0000,0000,,And you call yourselves Crimson Lion Kings?!
+Dialogue: 0,0:03:50.74,0:03:52.29,main,Ben,0000,0000,0000,,We're terribly sorry.
+Dialogue: 0,0:03:52.80,0:03:56.90,italics,Ben,0000,0000,0000,,If it were just just Vice Captain Randall \Nand me, we could've gotten here faster.
+Dialogue: 0,0:03:56.90,0:03:59.13,italics,Forti,0000,0000,0000,,We are unworthy.
+Dialogue: 0,0:03:59.13,0:04:02.81,main,Mere,0000,0000,0000,,And... who gave you permission to eat?
+Dialogue: 0,0:04:00.51,0:04:02.81,top,Charmy,0000,0000,0000,,Munchy, munchy, munchy...
+Dialogue: 0,0:04:03.41,0:04:07.05,main,Asta,0000,0000,0000,,Watch it, Miz Charmy! \NYou gotta read the room!
+Dialogue: 0,0:04:07.36,0:04:10.56,main,Fuegoleon,0000,0000,0000,,We've already reported to the royal \Ncapital that we found a dungeon.
+Dialogue: 0,0:04:11.02,0:04:12.94,main,Fuegoleon,0000,0000,0000,,Stand by for further instructions.
+Dialogue: 0,0:04:12.94,0:04:13.97,main,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:04:18.73,0:04:19.86,main,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:19.86,0:04:23.36,main,Asta,0000,0000,0000,,You guys were attacked by \Nthat giant spider, too?
+Dialogue: 0,0:04:23.36,0:04:24.16,main,Charmy,0000,0000,0000,,Yup.
+Dialogue: 0,0:04:24.16,0:04:27.64,main,Magna,0000,0000,0000,,Who would've thought it'd \Nrun away into a dungeon?
+Dialogue: 0,0:04:27.64,0:04:29.09,main,Luck,0000,0000,0000,,Isn't it exciting?
+Dialogue: 0,0:04:29.09,0:04:30.12,main,Magna,0000,0000,0000,,How?!
+Dialogue: 0,0:04:31.45,0:04:34.47,italics,Leopold,0000,0000,0000,,I was a fool to let that spider escape.
+Dialogue: 0,0:04:34.47,0:04:36.29,italics,Leopold,0000,0000,0000,,I cannot let it end like this!
+Dialogue: 0,0:04:37.91,0:04:38.89,main,Leopold,0000,0000,0000,,Sister!
+Dialogue: 0,0:04:39.63,0:04:41.88,main,Leopold,0000,0000,0000,,Let us explore the dungeon!
+Dialogue: 0,0:04:43.15,0:04:44.68,main,Mere,0000,0000,0000,,Don't get cocky!
+Dialogue: 0,0:04:44.68,0:04:48.96,main,Mere,0000,0000,0000,,You're the foolish, inexperienced \Nweakling who let that bug escape!
+Dialogue: 0,0:04:48.96,0:04:52.06,main,Mere,0000,0000,0000,,You have some nerve saying that to me!
+Dialogue: 0,0:04:52.06,0:04:54.48,main,Leopold,0000,0000,0000,,I promise that I will succeed next time!
+Dialogue: 0,0:04:55.04,0:04:57.14,main,Mere,0000,0000,0000,,There is no next time in battle!
+Dialogue: 0,0:05:01.03,0:05:05.61,main,Mere,0000,0000,0000,,Go whip yourself back into \Nshape in that dungeon!
+Dialogue: 0,0:05:05.93,0:05:06.91,main,Leopold,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:05:06.91,0:05:09.53,italics,Asta,0000,0000,0000,,I see she's still as fired up as ever!
+Dialogue: 0,0:05:09.53,0:05:11.79,italics,Noelle,0000,0000,0000,,So she's letting him go\Ninto the dungeon after all.
+Dialogue: 0,0:05:11.79,0:05:13.79,main,Fuegoleon,0000,0000,0000,,Eyes up here!
+Dialogue: 0,0:05:13.79,0:05:17.02,italics,Marx,0000,0000,0000,,Captain Fuegoleon filled me in on the situation.
+Dialogue: 0,0:05:17.67,0:05:22.30,italics,Marx,0000,0000,0000,,It appears that a rather powerful magic \Nitem lies deep within that dungeon.
+Dialogue: 0,0:05:24.37,0:05:28.40,italics,Marx,0000,0000,0000,,According to a book that Master \NJulius found in the library,
+Dialogue: 0,0:05:28.40,0:05:31.99,italics,Marx,0000,0000,0000,,that magic item was sealed away deep in
+Dialogue: 0,0:05:31.99,0:05:35.52,italics,Marx,0000,0000,0000,,the Yultim Volcano by those who \Nfeared it would be used for evil.
+Dialogue: 0,0:05:35.91,0:05:39.62,italics,Marx,0000,0000,0000,,Otherwise, it's shrouded in mystery.\N Little is known about it.
+Dialogue: 0,0:05:40.30,0:05:42.45,italics,Julius,0000,0000,0000,,Yes, that's right!
+Dialogue: 0,0:05:42.45,0:05:43.73,italics,Marx,0000,0000,0000,,Honestly!
+Dialogue: 0,0:05:43.98,0:05:45.25,main,Marx,0000,0000,0000,,Could you please be quiet?!
+Dialogue: 0,0:05:45.25,0:05:49.90,main,Julius,0000,0000,0000,,Oh, sorry about that. But won't it be exciting \Nto find out what the magic item is?
+Dialogue: 0,0:05:49.90,0:05:50.70,main,Marx,0000,0000,0000,,Shh!
+Dialogue: 0,0:05:50.98,0:05:52.98,italics,Julius,0000,0000,0000,,Let me head over there, too.
+Dialogue: 0,0:05:52.98,0:05:54.45,italics,Marx,0000,0000,0000,,Absolutely not!
+Dialogue: 0,0:05:54.45,0:05:56.29,italics,Julius,0000,0000,0000,,What? But I'll wear a disguise!
+Dialogue: 0,0:05:56.29,0:05:58.45,italics,Marx,0000,0000,0000,,That's not the issue here.
+Dialogue: 0,0:05:58.45,0:05:59.95,main,Ben,0000,0000,0000,,Who's he talking to?
+Dialogue: 0,0:05:59.95,0:06:00.85,main,Forti,0000,0000,0000,,No idea...
+Dialogue: 0,0:06:00.85,0:06:02.36,italics,Asta,0000,0000,0000,,It's the Wizard King!
+Dialogue: 0,0:06:02.36,0:06:03.50,italics,Noelle,0000,0000,0000,,It sure is.
+Dialogue: 0,0:06:03.50,0:06:08.02,italics,Marx,0000,0000,0000,,A-Anyway, the magic item and any other \Ntreasure you happen to find in the dungeon
+Dialogue: 0,0:06:08.02,0:06:11.55,italics,Marx,0000,0000,0000,,will be essential to getting \Nthis kingdom back on its feet.
+Dialogue: 0,0:06:11.55,0:06:13.89,italics,Marx,0000,0000,0000,,I'm counting on all of you to investigate it.
+Dialogue: 0,0:06:14.18,0:06:15.49,main,Fuegoleon,0000,0000,0000,,Understood.
+Dialogue: 0,0:06:15.49,0:06:16.60,main,Fuegoleon,0000,0000,0000,,Now, then—
+Dialogue: 0,0:06:16.60,0:06:18.37,main,Mere,0000,0000,0000,,Listen up, you fools!
+Dialogue: 0,0:06:18.37,0:06:21.51,main,Mere,0000,0000,0000,,You will carry out this investigation \Nwith your pride as the Magic Knights
+Dialogue: 0,0:06:21.51,0:06:23.07,main,Mere,0000,0000,0000,,who protect this kingdom on the line!
+Dialogue: 0,0:06:23.07,0:06:24.40,main,All,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:06:24.69,0:06:29.28,main,Fuegoleon,0000,0000,0000,,Sister, as the current Captain of the \NCrimson Lion Kings, I'll tell them the rest.
+Dialogue: 0,0:06:29.28,0:06:32.13,main,Mere,0000,0000,0000,,Right. Hurry up and tell them the plan.
+Dialogue: 0,0:06:33.94,0:06:35.68,main,Fuegoleon,0000,0000,0000,,The first group to go in will be
+Dialogue: 0,0:06:35.68,0:06:36.94,main,Fuegoleon,0000,0000,0000,,Asta, Noelle,
+Dialogue: 0,0:06:36.94,0:06:38.17,main,Fuegleon,0000,0000,0000,,Leo, Randall,
+Dialogue: 0,0:06:38.17,0:06:41.92,main,Fuegoleon,0000,0000,0000,,Luck, and Magna. You will search for \Nthe location where the magic item sleeps.
+Dialogue: 0,0:06:42.15,0:06:46.17,main,Fuegoleon,0000,0000,0000,,The rest of you will rendezvous with the \Nfirst group as soon as your mana has recovered.
+Dialogue: 0,0:06:46.17,0:06:48.78,main,Julius,0000,0000,0000,,And I'm going to sneak a peek...
+Dialogue: 0,0:06:48.78,0:06:50.59,main,Marx,0000,0000,0000,,You absolutely will not.
+Dialogue: 0,0:06:50.86,0:06:52.62,main,Asta,0000,0000,0000,,All right, let's go!
+Dialogue: 0,0:06:52.62,0:06:53.60,main,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:07:03.90,0:07:05.69,italics,Asta,0000,0000,0000,,So hot...
+Dialogue: 0,0:07:15.50,0:07:19.12,main,Magna,0000,0000,0000,,It's so damn hot! It's nothing \Nlike the heat from earlier.
+Dialogue: 0,0:07:19.12,0:07:21.94,main,Luck,0000,0000,0000,,I still don't sense that spider's mana.
+Dialogue: 0,0:07:21.94,0:07:22.79,main,Luck,0000,0000,0000,,But...
+Dialogue: 0,0:07:30.34,0:07:32.14,main,Leopold,0000,0000,0000,,Well done, my rival!
+Dialogue: 0,0:07:32.14,0:07:34.13,main,Leopold,0000,0000,0000,,I see you've already taken out the first one!
+Dialogue: 0,0:07:34.13,0:07:36.06,main,Asta,0000,0000,0000,,That wasn't my intention at all!
+Dialogue: 0,0:07:39.45,0:07:42.60,italics,Randall,0000,0000,0000,,We'll be in trouble if we get \Nstalled here for too long.
+Dialogue: 0,0:07:52.73,0:07:56.27,italics,Noelle,0000,0000,0000,,He held back just enough so that \Nthe trap spells wouldn't activate.
+Dialogue: 0,0:07:56.27,0:07:59.37,italics,Noelle,0000,0000,0000,,I can't believe he pulled off such \Na high-level spell so easily.
+Dialogue: 0,0:07:59.62,0:08:02.62,italics,Asta,0000,0000,0000,,He's definitely the Vice Captain \Nof the Crimson Lion Kings!
+Dialogue: 0,0:08:02.62,0:08:06.04,main,Magna,0000,0000,0000,,Now we can clearly see where all the traps are!
+Dialogue: 0,0:08:06.56,0:08:08.25,main,Luck,0000,0000,0000,,Catch you guys later!
+Dialogue: 0,0:08:08.25,0:08:11.26,italics,Luck,0000,0000,0000,,Lightning Creation Magic: Holy Lightning Boots!
+Dialogue: 0,0:08:11.58,0:08:12.80,main,Magna,0000,0000,0000,,Now, hold on a second!
+Dialogue: 0,0:08:13.32,0:08:16.30,italics,Magna,0000,0000,0000,,Flame Reinforcement Magic: Risky Stolen Base!
+Dialogue: 0,0:08:21.82,0:08:24.10,main,Magna,0000,0000,0000,,Hey! Stop stepping on those on purpose!
+Dialogue: 0,0:08:25.48,0:08:28.01,main,Leopold,0000,0000,0000,,Only two more paths remain!
+Dialogue: 0,0:08:28.01,0:08:32.30,main,Leopold,0000,0000,0000,,My rival, let us compete to see which \None of us finds the magic item first!
+Dialogue: 0,0:08:32.30,0:08:33.70,main,Asta,0000,0000,0000,,Heck yeah!
+Dialogue: 0,0:08:42.51,0:08:46.30,italics,Randall,0000,0000,0000,,How can he move so well in this \Nspace that's filled with so much mana?
+Dialogue: 0,0:08:46.75,0:08:49.68,main,Leopold,0000,0000,0000,,Vice Captain Randall, let us hurry!
+Dialogue: 0,0:08:49.68,0:08:50.75,main,Randall,0000,0000,0000,,Sure.
+Dialogue: 0,0:08:50.75,0:08:51.99,main,Randall,0000,0000,0000,,But I must say,
+Dialogue: 0,0:08:51.99,0:08:55.84,main,Randall,0000,0000,0000,,I guess it's obvious that you've trained \Nharder than any other member of our squad.
+Dialogue: 0,0:08:55.84,0:09:00.66,main,Leopold,0000,0000,0000,,This is still not enough to catch \Nup to and someday exceed my rival!
+Dialogue: 0,0:09:01.99,0:09:07.48,italics,Leopold,0000,0000,0000,,In the last battle, Asta not only \Nfought with a devil, but defeated it!
+Dialogue: 0,0:09:07.48,0:09:11.50,italics,Leopold,0000,0000,0000,,I heard that the other Black Bulls also \Nfought valiantly in the last battle.
+Dialogue: 0,0:09:11.78,0:09:13.92,main,Leopold,0000,0000,0000,,This is not enough.
+Dialogue: 0,0:09:13.92,0:09:14.95,italics,Randall,0000,0000,0000,,I see now.
+Dialogue: 0,0:09:15.20,0:09:18.06,italics,Randall,0000,0000,0000,,So that's why Captain Fuegoleon \Nand Lady Mereoleona
+Dialogue: 0,0:09:18.06,0:09:21.45,italics,Randall,0000,0000,0000,,invited the Black Bulls to this training.
+Dialogue: 0,0:09:21.45,0:09:26.71,main,Randall,0000,0000,0000,,Leo! I think you came close to a \Nrealization in that last battle yourself.
+Dialogue: 0,0:09:27.07,0:09:31.40,main,Randall,0000,0000,0000,,When you fought against me after \Nmy body was taken over by an elf.
+Dialogue: 0,0:09:35.26,0:09:39.49,main,Leopold,0000,0000,0000,,What in the world is this \Nincredibly violent mana?
+Dialogue: 0,0:09:40.01,0:09:41.08,main,Randall,0000,0000,0000,,Let's go see.
+Dialogue: 0,0:09:58.36,0:10:00.89,main,Asta,0000,0000,0000,,Noelle! This is only going to get worse!
+Dialogue: 0,0:10:00.89,0:10:02.39,main,Asta,0000,0000,0000,,Let's just break through!
+Dialogue: 0,0:10:02.65,0:10:06.90,main,Noelle,0000,0000,0000,,We're in a dungeon! That might \Nbe easy for a meathead like you,
+Dialogue: 0,0:10:06.90,0:10:08.55,main,Noelle,0000,0000,0000,,but you're asking me for the impossible!
+Dialogue: 0,0:10:08.55,0:10:10.29,main,Asta,0000,0000,0000,,Then let me carry you!
+Dialogue: 0,0:10:10.29,0:10:11.21,main,Noelle,0000,0000,0000,,Huh?!
+Dialogue: 0,0:10:11.21,0:10:14.86,main,Asta,0000,0000,0000,,I'll carry you on my back to get us \Noutta here, so just back me up!
+Dialogue: 0,0:10:14.86,0:10:18.71,main,Noelle,0000,0000,0000,,C-C-C-Carry me on your back?! \NWh-What are you saying?!
+Dialogue: 0,0:10:18.71,0:10:20.26,main,Noelle,0000,0000,0000,,I'm royalty!
+Dialogue: 0,0:10:21.30,0:10:23.31,main,Asta,0000,0000,0000,,Noelle!
+Dialogue: 0,0:10:23.31,0:10:24.97,main,Noelle,0000,0000,0000,,A-Asta?
+Dialogue: 0,0:10:27.38,0:10:29.29,italics,Noelle,0000,0000,0000,,Wait, why are we turning around?
+Dialogue: 0,0:10:32.30,0:10:34.77,main,Asta,0000,0000,0000,,We're pulling back for now!
+Dialogue: 0,0:10:45.34,0:10:46.51,main,Leopold,0000,0000,0000,,This is...
+Dialogue: 0,0:10:46.51,0:10:47.33,main,Randall,0000,0000,0000,,Look.
+Dialogue: 0,0:10:48.73,0:10:51.37,main,Leopold,0000,0000,0000,,Those must be the golems that \Nwere guarding this place.
+Dialogue: 0,0:10:51.92,0:10:53.07,main,Randall,0000,0000,0000,,Be careful.
+Dialogue: 0,0:10:53.07,0:10:57.38,main,Randall,0000,0000,0000,,That shock wave almost made it seem \Nas if it was telling us where it is.
+Dialogue: 0,0:10:57.75,0:11:00.57,main,Randall,0000,0000,0000,,It might actually be trying to lure us in.
+Dialogue: 0,0:11:08.35,0:11:10.73,main,Leopold,0000,0000,0000,,There you are! I won't let you escape again!
+Dialogue: 0,0:11:23.15,0:11:25.15,main,Randall,0000,0000,0000,,That conniving little...
+Dialogue: 0,0:11:25.15,0:11:26.62,main,Leopold,0000,0000,0000,,Well, this is interesting.
+Dialogue: 0,0:11:28.25,0:11:32.10,main,Leopold,0000,0000,0000,,I will burn them all to ashes \Nwith my raging inferno!
+Dialogue: 0,0:11:39.73,0:11:42.99,main,Ben,0000,0000,0000,,We've neutralized all of the \Ntrap spells by the entrance.
+Dialogue: 0,0:11:42.99,0:11:46.39,main,Mere,0000,0000,0000,,All right. Recover your mana, \Nand then widen the search.
+Dialogue: 0,0:11:46.39,0:11:47.22,main,Ben,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:11:47.49,0:11:49.81,main,Charmy,0000,0000,0000,,Go on, eat up!
+Dialogue: 0,0:11:49.81,0:11:51.49,main,Gordon,0000,0000,0000,,Did you find anything?
+Dialogue: 0,0:11:52.11,0:11:53.46,main,Noelle,0000,0000,0000,,Not a thing.
+Dialogue: 0,0:11:53.46,0:11:56.78,main,Noelle,0000,0000,0000,,Because of Asta, we ended up having \Nto run away from lava. It was awful.
+Dialogue: 0,0:11:56.78,0:11:57.98,main,Asta,0000,0000,0000,,That's {\i1}my{\i0} fault?!
+Dialogue: 0,0:11:57.98,0:12:02.34,main,Magna,0000,0000,0000,,We came up empty-handed, too. Though we \Ndid find a bunch of weird-ass treasure chests.
+Dialogue: 0,0:12:02.34,0:12:03.28,main,Luck,0000,0000,0000,,Here you go!
+Dialogue: 0,0:12:04.19,0:12:05.16,main,Noelle,0000,0000,0000,,What in the world?
+Dialogue: 0,0:12:05.79,0:12:08.83,main,Magna,0000,0000,0000,,Why the hell did you bring that \Nback?! Don't you dare open it!
+Dialogue: 0,0:12:11.57,0:12:14.25,main,Three,0000,0000,0000,,Close that thing already!
+Dialogue: 0,0:12:14.51,0:12:15.86,main,Charmy,0000,0000,0000,,Is that yummy?
+Dialogue: 0,0:12:15.86,0:12:17.85,main,Gordon,0000,0000,0000,,Y-You probably shouldn't find out.
+Dialogue: 0,0:12:19.65,0:12:20.84,main,Asta,0000,0000,0000,,What was that?
+Dialogue: 0,0:12:23.02,0:12:26.94,main,Fuegoleon,0000,0000,0000,,The only ones from the first group who \Nhaven't returned are Randall and Leo.
+Dialogue: 0,0:12:27.54,0:12:30.68,main,Mereoleona,0000,0000,0000,,Sounds like they hit the jackpot.
+Dialogue: 0,0:12:41.14,0:12:42.33,main,Randall,0000,0000,0000,,Let's do this, Leo!
+Dialogue: 0,0:12:42.33,0:12:43.15,main,Leopold,0000,0000,0000,,Right!
+Dialogue: 0,0:12:48.67,0:12:50.16,main,Both,0000,0000,0000,,Go up in flames!
+Dialogue: 0,0:12:56.14,0:12:58.06,main,Randall,0000,0000,0000,,There are just too many.
+Dialogue: 0,0:12:58.06,0:13:02.81,main,Leopold,0000,0000,0000,,We are the proud Crimson Lion Kings! \NRunning from our enemies is not an option!
+Dialogue: 0,0:13:03.50,0:13:04.30,main,Randall,0000,0000,0000,,Wait!
+Dialogue: 0,0:13:17.82,0:13:18.94,main,Randall,0000,0000,0000,,Leo!
+Dialogue: 0,0:13:24.65,0:13:26.11,main,Leopold,0000,0000,0000,,Randall!
+Dialogue: 0,0:13:26.71,0:13:29.12,main,Randall,0000,0000,0000,,Leo, fall back.
+Dialogue: 0,0:13:30.06,0:13:32.40,main,Randall,0000,0000,0000,,You have to survive this.
+Dialogue: 0,0:13:33.14,0:13:36.86,flashback,Gareth,0000,0000,0000,,Leo, you're going to lead this squad one day.
+Dialogue: 0,0:13:36.86,0:13:39.47,flashback,Guy,0000,0000,0000,,We'll buy you some time.
+Dialogue: 0,0:13:39.47,0:13:42.68,flashback,Guy,0000,0000,0000,,Take everyone who can't \Nfight right now and survive!
+Dialogue: 0,0:13:43.70,0:13:45.76,italics,Leopold,0000,0000,0000,,It's just like last time.
+Dialogue: 0,0:13:45.76,0:13:48.77,italics,Leopold,0000,0000,0000,,Why did I bother to train so hard?
+Dialogue: 0,0:14:01.78,0:14:03.46,main,Leopold,0000,0000,0000,,This is...
+Dialogue: 0,0:14:03.46,0:14:08.20,flashback,Randall,0000,0000,0000,,Leo! I think you came close to a \Nrealization in that last battle yourself.
+Dialogue: 0,0:14:10.06,0:14:13.37,italics,Leopold,0000,0000,0000,,That's right... I was fighting \Nwithin the powerful mana
+Dialogue: 0,0:14:13.37,0:14:15.45,italics,Leopold,0000,0000,0000,,that Randall created during that fight.
+Dialogue: 0,0:14:16.20,0:14:18.12,italics,Leopold,0000,0000,0000,,None of my attacks seemed to work,
+Dialogue: 0,0:14:18.12,0:14:22.93,italics,Leopold,0000,0000,0000,,but I learned to read his mana and \Ncalmly control my flames!
+Dialogue: 0,0:14:26.72,0:14:28.30,main,Asta,0000,0000,0000,,Leo!
+Dialogue: 0,0:14:30.45,0:14:31.46,main,Asta,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:14:31.46,0:14:32.55,main,Leopold,0000,0000,0000,,Asta!
+Dialogue: 0,0:14:38.44,0:14:41.17,main,Magna,0000,0000,0000,,All right, let's get a little wild!
+Dialogue: 0,0:14:41.17,0:14:43.81,main,Luck,0000,0000,0000,,Hope you guys are ready, because \NI'm killing you even if you're not!
+Dialogue: 0,0:14:43.81,0:14:46.10,main,Charmy,0000,0000,0000,,One never forgets their grudge \Nwhen it comes to food!
+Dialogue: 0,0:14:46.10,0:14:49.59,main,Charmy,0000,0000,0000,,You will pay for eating all those \Nnever-before-seen ingredients!
+Dialogue: 0,0:14:49.59,0:14:51.70,main,Gordon,0000,0000,0000,,How dare you do that to my friend?
+Dialogue: 0,0:14:51.70,0:14:53.70,main,Noelle,0000,0000,0000,,All right, let's begin our counterattack!
+Dialogue: 0,0:14:53.95,0:14:57.20,main,Noelle,0000,0000,0000,,Water Creation Magic: Sea Dragon's Roar!
+Dialogue: 0,0:14:59.55,0:15:03.71,italics,Noelle,0000,0000,0000,,My spell seems more powerful... \NCould it be from all my training?
+Dialogue: 0,0:15:03.71,0:15:09.47,main,Magna,0000,0000,0000,,Eat this! Flame Magic: \NGargantuan Exploding Fireball!
+Dialogue: 0,0:15:09.74,0:15:12.57,main,Luck,0000,0000,0000,,Lightning Magic: Thunderbolt Destruction!
+Dialogue: 0,0:15:13.54,0:15:16.47,main,Gordon,0000,0000,0000,,Poison Curse Magic: \NDwelling of the Poison Cloud!
+Dialogue: 0,0:15:16.95,0:15:20.61,main,Charmy,0000,0000,0000,,Cotton Creation Magic: \NStrike of the Sleeping Sheep!
+Dialogue: 0,0:15:21.03,0:15:22.98,main,Gordon,0000,0000,0000,,Secure Leopold and Randall!
+Dialogue: 0,0:15:22.98,0:15:23.98,main,Charmy,0000,0000,0000,,Roger!
+Dialogue: 0,0:15:29.74,0:15:31.20,main,Magna,0000,0000,0000,,There are even more of them?
+Dialogue: 0,0:15:31.20,0:15:34.99,main,Asta,0000,0000,0000,,We've gotta do something about that \Nspider controlling them with its web!
+Dialogue: 0,0:15:34.99,0:15:36.49,main,Asta,0000,0000,0000,,Let's do this one more time!
+Dialogue: 0,0:15:36.77,0:15:37.95,main,Leopold,0000,0000,0000,,No.
+Dialogue: 0,0:15:37.95,0:15:39.32,main,Leopold,0000,0000,0000,,I'll go.
+Dialogue: 0,0:15:43.42,0:15:47.08,italics,Leopold,0000,0000,0000,,I'm going to use what I realized \Nthen, right here and now.
+Dialogue: 0,0:15:53.26,0:15:58.26,italics,Nar,0000,0000,0000,,By heightening his senses to their limits \Nand calmly reading the flow of mana,
+Dialogue: 0,0:15:58.26,0:16:00.93,italics,Nar,0000,0000,0000,,Leopold can momentarily use \Nthe mana around him in his favor,
+Dialogue: 0,0:16:00.93,0:16:04.94,italics,Nar,0000,0000,0000,,which allows him to\Nexplosively increase his mana!
+Dialogue: 0,0:16:29.46,0:16:31.70,main,Asta,0000,0000,0000,,Th-That was amazing!
+Dialogue: 0,0:16:32.42,0:16:33.65,main,Asta,0000,0000,0000,,Leo!
+Dialogue: 0,0:16:40.02,0:16:42.36,italics,Nero,0000,0000,0000,,So this is the spider's original form.
+Dialogue: 0,0:16:43.05,0:16:48.17,italics,Nero,0000,0000,0000,,It appears that the magic item here \Nmakes the user's life force go berserk,
+Dialogue: 0,0:16:48.17,0:16:50.88,italics,Nero,0000,0000,0000,,and turns them into a monster.
+Dialogue: 0,0:16:57.85,0:17:00.29,main,Fuegoleon,0000,0000,0000,,Excellent work finding the treasure room.
+Dialogue: 0,0:17:00.29,0:17:02.75,main,Fuegoleon,0000,0000,0000,,All of the hardships you dealt with here
+Dialogue: 0,0:17:02.75,0:17:05.82,main,Fuegoleon,0000,0000,0000,,will surely aid you in the \Nfight against the devil!
+Dialogue: 0,0:17:05.82,0:17:06.62,main,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:17:06.89,0:17:10.97,main,Magna,0000,0000,0000,,I think I'm starting to get the \Nhang of this Mana Skin thing!
+Dialogue: 0,0:17:10.97,0:17:13.80,main,Noelle,0000,0000,0000,,And I could actually see that \Nmy spells were more powerful.
+Dialogue: 0,0:17:13.80,0:17:19.44,main,Asta,0000,0000,0000,,Speaking of spells, that last spell \NLeo used was frickin' insane!
+Dialogue: 0,0:17:19.44,0:17:21.13,italics,Leopold,0000,0000,0000,,I was preoccupied with \Nwhat was going on.
+Dialogue: 0,0:17:21.13,0:17:22.81,italics,Leopold,0000,0000,0000,,What {\i0}was{\i1} that spell?
+Dialogue: 0,0:17:22.81,0:17:26.13,italics,Leopold,0000,0000,0000,,If I can learn to use that spell at will...
+Dialogue: 0,0:17:27.97,0:17:29.94,main,Leopold,0000,0000,0000,,Praise me even more, my rival!
+Dialogue: 0,0:17:29.94,0:17:33.40,main,Leopold,0000,0000,0000,,I will learn how to fully use that \Nspell and become stronger than you!
+Dialogue: 0,0:17:33.65,0:17:36.15,main,Asta,0000,0000,0000,,In that case, I'll become \Neven stronger than that!
+Dialogue: 0,0:17:36.15,0:17:39.22,main,Leopold,0000,0000,0000,,That only means I'll become \Neven stronger yet again!
+Dialogue: 0,0:17:39.22,0:17:41.40,main,Asta,0000,0000,0000,,And then, I'll get even more \Nand more and more stronger!
+Dialogue: 0,0:17:41.40,0:17:43.93,main,Leopold,0000,0000,0000,,Then I'll become even more and \Nmore and more and more stronger!
+Dialogue: 0,0:17:43.93,0:17:47.24,main,Both,0000,0000,0000,,More, more, more, more, more...
+Dialogue: 0,0:17:47.24,0:17:48.22,main,Mereoleona,0000,0000,0000,,Quit your shouting!
+Dialogue: 0,0:17:48.22,0:17:49.29,main,Both,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:17:49.81,0:17:51.72,main,Mereoleona,0000,0000,0000,,This discussion isn't over yet.
+Dialogue: 0,0:17:51.72,0:17:53.80,main,Mereoleona,0000,0000,0000,,Show me the magic item that you acquired.
+Dialogue: 0,0:17:53.80,0:17:55.67,main,Asta,0000,0000,0000,,Oh, here you go.
+Dialogue: 0,0:17:56.82,0:17:58.22,main,Mereoleona,0000,0000,0000,,What is that garbage?
+Dialogue: 0,0:17:58.22,0:18:00.35,main,Asta,0000,0000,0000,,Huh? It's the magic item we were after.
+Dialogue: 0,0:18:01.15,0:18:03.81,main,Mereoleona,0000,0000,0000,,You absolute fools!
+Dialogue: 0,0:18:04.85,0:18:08.53,main,Mereoleona,0000,0000,0000,,Retrieving the magic item was the \Nnumber one goal of this mission!
+Dialogue: 0,0:18:08.53,0:18:11.36,main,Mereoleona,0000,0000,0000,,How dare you reduce it to cinders?!
+Dialogue: 0,0:18:11.59,0:18:12.57,main,Asta,0000,0000,0000,,Right...
+Dialogue: 0,0:18:12.57,0:18:14.66,main,Leopold,0000,0000,0000,,We're terribly sorry.
+Dialogue: 0,0:18:14.66,0:18:18.20,main,Mereoleona,0000,0000,0000,,You two are going to go search every \Ncorner of that dungeon on your own.
+Dialogue: 0,0:18:18.20,0:18:20.55,main,Mereoleona,0000,0000,0000,,I will not allow you to return empty-handed!
+Dialogue: 0,0:18:20.55,0:18:21.37,main,Both,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:18:21.37,0:18:25.46,main,Asta,0000,0000,0000,,Uh, wait. You're joking, right?
+Dialogue: 0,0:18:25.46,0:18:26.35,italics,Noelle,0000,0000,0000,,She's serious.
+Dialogue: 0,0:18:26.35,0:18:27.37,italics,Ben,0000,0000,0000,,She's completely serious.
+Dialogue: 0,0:18:27.37,0:18:29.06,italics,Randall,0000,0000,0000,,Pretty sure she's dead serious.
+Dialogue: 0,0:18:30.01,0:18:32.47,main,Mereoleona,0000,0000,0000,,The rest of you fools head to the hot springs!
+Dialogue: 0,0:18:32.47,0:18:33.71,main,All,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:18:37.77,0:18:38.88,main,Charmy,0000,0000,0000,,Have a drink.
+Dialogue: 0,0:18:39.55,0:18:41.41,main,Charmy,0000,0000,0000,,Go on, down the hatch.
+Dialogue: 0,0:18:41.41,0:18:44.13,main,Charmy,0000,0000,0000,,A special drink that'll quench any thirst,
+Dialogue: 0,0:18:44.13,0:18:49.56,main,Charmy,0000,0000,0000,,made from the extracts of every single \Ningredient I found in that dungeon.
+Dialogue: 0,0:18:52.69,0:18:55.47,italics,Noelle,0000,0000,0000,,I guess I get to enjoy this nice bath again.
+Dialogue: 0,0:18:55.47,0:18:57.60,main,Mereoleona,0000,0000,0000,,Looks like you've gotten closer.
+Dialogue: 0,0:18:57.60,0:18:58.42,main,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:58.42,0:18:59.73,main,Mereoleona,0000,0000,0000,,To your mother, that is.
+Dialogue: 0,0:19:01.02,0:19:03.61,main,Mereoleona,0000,0000,0000,,Your form in our last battle...
+Dialogue: 0,0:19:03.61,0:19:07.45,main,Mereoleona,0000,0000,0000,,It reminded me of Lady Acier, who was \Ncalled the Steel Warrior Princess.
+Dialogue: 0,0:19:07.90,0:19:10.60,main,Mereoleona,0000,0000,0000,,But you've still got a ways to go.
+Dialogue: 0,0:19:10.60,0:19:13.12,main,Mereoleona,0000,0000,0000,,Your magic is not up to par yet.
+Dialogue: 0,0:19:13.46,0:19:15.52,main,Noelle,0000,0000,0000,,Er, right.
+Dialogue: 0,0:19:16.59,0:19:22.89,flashback,Dorothy,0000,0000,0000,,Your mother, Acier Silva, lost her\N life due to a devil's curse.
+Dialogue: 0,0:19:23.30,0:19:26.89,flashback,Dorothy,0000,0000,0000,,Because those who speak of \Nit will share the same fate.
+Dialogue: 0,0:19:27.14,0:19:32.01,flashback,Dorothy,0000,0000,0000,,That's the nature of the curse \Nthat befell your mother.
+Dialogue: 0,0:19:33.30,0:19:36.41,main,Noelle,0000,0000,0000,,But I want to become even stronger.
+Dialogue: 0,0:19:36.41,0:19:38.74,main,Noelle,0000,0000,0000,,I must become stronger!
+Dialogue: 0,0:19:39.15,0:19:40.18,main,Mereoleona,0000,0000,0000,,I see.
+Dialogue: 0,0:19:41.11,0:19:45.66,main,Noelle,0000,0000,0000,,U-Um... Would you tell me more about my mother?
+Dialogue: 0,0:19:46.31,0:19:47.67,main,Mereoleona,0000,0000,0000,,That might take a while.
+Dialogue: 0,0:19:47.67,0:19:49.50,main,Noelle,0000,0000,0000,,That's fine!
+Dialogue: 0,0:19:49.75,0:19:51.66,main,Luck,0000,0000,0000,,Doesn't this feel great?
+Dialogue: 0,0:19:51.66,0:19:55.26,main,Magna,0000,0000,0000,,You know, the Captain of the Crimson \NLion Kings is the total opposite
+Dialogue: 0,0:19:55.26,0:19:57.86,main,Magna,0000,0000,0000,,of Captain Yami. Way too uptight.
+Dialogue: 0,0:19:57.86,0:20:02.22,main,Fuegoleon,0000,0000,0000,,Listen well! Hot springs are far \Nmore profound than you realize!
+Dialogue: 0,0:20:02.22,0:20:03.05,main,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:20:03.39,0:20:05.64,main,Fuegoleon,0000,0000,0000,,Stay calm, even if you become overheated.
+Dialogue: 0,0:20:05.64,0:20:08.47,main,Fuegoleon,0000,0000,0000,,Learn to determine when \Nyou have warmed up enough,
+Dialogue: 0,0:20:08.47,0:20:12.56,main,Fuegoleon,0000,0000,0000,,discipline your body and soul with cold water,\N and then return to the bath.
+Dialogue: 0,0:20:12.90,0:20:16.05,main,Fuegoleon,0000,0000,0000,,Consider this an opportunity \Nto train in facing yourself!
+Dialogue: 0,0:20:16.05,0:20:17.03,main,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:20:17.03,0:20:20.86,main,Fuegoleon,0000,0000,0000,,You must never forget to cleanse \Nyour body before soaking.
+Dialogue: 0,0:20:20.86,0:20:23.07,main,Fuegoleon,0000,0000,0000,,Never let your towel touch the water.
+Dialogue: 0,0:20:23.07,0:20:25.38,top,Fuegoleon,0000,0000,0000,,When you're done using \Nthe shower and bathing area,
+Dialogue: 0,0:20:25.38,0:20:27.30,italics,Ben,0000,0000,0000,,I-I'm at my limit...
+Dialogue: 0,0:20:25.38,0:20:27.62,top,Fuegoleon,0000,0000,0000,,make sure to rinse them off with hot water.
+Dialogue: 0,0:20:27.30,0:20:30.33,italics,Forti,0000,0000,0000,,How much longer is he going to keep talking?
+Dialogue: 0,0:20:27.62,0:20:30.33,top,Fuegoleon,0000,0000,0000,,Make sure you leave things as you found them.
+Dialogue: 0,0:20:30.67,0:20:32.66,italics,Gordon,0000,0000,0000,,I wonder if Asta and Leopold are back yet.
+Dialogue: 0,0:20:32.66,0:20:37.12,italics,Gordon,0000,0000,0000,,Nothing beats washing each other's backs \Nto deepen your friendship at a hot spring.
+Dialogue: 0,0:20:39.57,0:20:43.93,main,Asta,0000,0000,0000,,So we kept looking until morning \Nand still didn't find anything.
+Dialogue: 0,0:20:44.17,0:20:46.13,main,Asta,0000,0000,0000,,Was the bath that nice?
+Dialogue: 0,0:20:46.13,0:20:48.26,main,Magna,0000,0000,0000,,I managed to sweat all my exhaustion away.
+Dialogue: 0,0:20:48.26,0:20:52.43,main,Charmy,0000,0000,0000,,All the collagen from the ingredients \NI found made my skin silky smooth!
+Dialogue: 0,0:20:53.06,0:20:57.40,italics,Noelle,0000,0000,0000,,True. If the place wasn't in a strong \Nmagic region, I'd like to visit every day.
+Dialogue: 0,0:20:57.40,0:20:59.52,main,Asta,0000,0000,0000,,Your skin's all silky smooth, too, Noelle.
+Dialogue: 0,0:20:59.52,0:21:01.03,main,Noelle,0000,0000,0000,,Y-You're way too close!
+Dialogue: 0,0:21:01.89,0:21:05.32,main,Lucky,0000,0000,0000,,That was a lot of fun, wasn't it? I wonder \Nwhen our next training session will be!
+Dialogue: 0,0:21:05.95,0:21:07.44,main,Magna,0000,0000,0000,,The hell are you talking about?
+Dialogue: 0,0:21:07.44,0:21:09.96,main,Magna,0000,0000,0000,,She just dragged us away \Noutta nowhere. It totally sucked.
+Dialogue: 0,0:21:09.96,0:21:11.95,main,Magna,0000,0000,0000,,I hope I don't even see her face for a while.
+Dialogue: 0,0:21:11.95,0:21:13.98,main,Lucky,0000,0000,0000,,Wouldn't it be funny if she was waiting inside?
+Dialogue: 0,0:21:13.98,0:21:15.71,main,Magna,0000,0000,0000,,Like that'd ever happ—
+Dialogue: 0,0:21:19.54,0:21:20.64,main,Mere,0000,0000,0000,,You're late!
+Dialogue: 0,0:21:20.64,0:21:23.12,italics,All,0000,0000,0000,,She's actually here!
+Dialogue: 0,0:22:53.89,0:22:58.43,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:54.77,0:22:57.76,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:57.93,0:23:01.94,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Reinvestigation
+Dialogue: 0,0:22:58.98,0:23:00.76,main,All,0000,0000,0000,,Reinvestigation!
+Dialogue: 0,0:23:01.94,0:23:04.19,main,Asta,0000,0000,0000,,Where the heck is the treasure?!
+Dialogue: 0,0:23:04.19,0:23:06.85,main,Asta,0000,0000,0000,,There's nothing but super-weird treasure chests!
+Dialogue: 0,0:23:07.70,0:23:11.11,main,Leopold,0000,0000,0000,,Behold, my rival! I have \Nfound an amazing treasure!
+Dialogue: 0,0:23:11.11,0:23:13.32,main,Leopold,0000,0000,0000,,Look at how long its legs are!
+Dialogue: 0,0:23:13.32,0:23:16.24,main,Asta,0000,0000,0000,,Whoa, holy crap! In that case...
+Dialogue: 0,0:23:16.24,0:23:18.84,main,Asta,0000,0000,0000,,I found one that's all buff and hairy!
+Dialogue: 0,0:23:18.84,0:23:19.64,main,Leopold,0000,0000,0000,,What?!
+Dialogue: 0,0:23:19.64,0:23:22.10,main,Asta,0000,0000,0000,,{\i1}And{\i0} it'll even do squats with me!
+Dialogue: 0,0:23:22.10,0:23:28.42,main,Leopold,0000,0000,0000,,Impressive, my rival. Let us compete to see \Nwho can find the ultimate treasure chest!
+Dialogue: 0,0:23:28.42,0:23:30.37,main,Asta,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:23:30.37,0:23:33.57,top,Asta and Leopold,0000,0000,0000,,Where is it?! Where is it?! \NWhere is it?! Where is it?!
+Dialogue: 0,0:23:31.63,0:23:33.57,italics,Nar,0000,0000,0000,,Forgetting the reason they went in,
+Dialogue: 0,0:23:33.57,0:23:37.76,italics,Nar,0000,0000,0000,,Asta and Leopold ran around \Nthe dungeon until morning.
+Dialogue: 0,0:23:39.78,0:23:43.06,main,Fuegoleon,0000,0000,0000,,Today is such an important day \Nfor the House of Vermillion that
+Dialogue: 0,0:23:43.06,0:23:44.15,main,Fuegoleon,0000,0000,0000,,it may mean life or death!
+Dialogue: 0,0:23:44.15,0:23:47.10,main,Fuegoleon,0000,0000,0000,,Yes! We will be welcoming {\i1}her{\i0}!
+Dialogue: 0,0:23:47.10,0:23:51.19,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 134: \N"Those Who Have Been Gathered."
+Dialogue: 0,0:23:48.03,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 134\N\N{\fs18}Those Who Have Been Gathered
+Dialogue: 0,0:23:51.19,0:23:53.45,main,Fuegoleon,0000,0000,0000,,Let us welcome her with everything we have!

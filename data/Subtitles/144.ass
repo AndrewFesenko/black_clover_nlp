@@ -1,0 +1,368 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00E678C2,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+ 
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.28,0:00:06.90,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:06.90,0:00:08.64,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:08.64,0:00:10.74,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:10.74,0:00:12.00,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:12.00,0:00:16.62,italics,Nar,0000,0000,0000,,He puts in blood, sweat, and tears \Nin hopes of becoming the Wizard King.
+Dialogue: 0,0:00:17.04,0:00:22.57,italics,Nar,0000,0000,0000,,But there are also those in the kingdom \Nwho possess at least a little bit of mana,
+Dialogue: 0,0:00:22.57,0:00:26.73,italics,Nar,0000,0000,0000,,yet can barely use any magic at all.
+Dialogue: 0,0:00:27.79,0:00:32.38,italics,Nar,0000,0000,0000,,The very few out of the population, \Nthose who live in the shadows...
+Dialogue: 0,0:00:36.73,0:00:40.80,italics,Nar,0000,0000,0000,,They are also trying to survive.
+Dialogue: 0,0:02:04.45,0:02:09.27,Ep Title,Sign,0000,0000,0000,,{\fs22\move(315,95,315,90)\t(1,4650,\fs24)\fad(1000,1)}Those Who Wish for the Devil's Demise
+Dialogue: 0,0:02:25.97,0:02:28.46,flashback,Vide,0000,0000,0000,,I-Is that a no?
+Dialogue: 0,0:02:30.83,0:02:33.84,flashback,Vide,0000,0000,0000,,Wh-What did you say? I couldn't hear you.
+Dialogue: 0,0:02:34.60,0:02:37.30,flashback,Dazu,0000,0000,0000,,Are you sure I'm good enough?
+Dialogue: 0,0:02:37.70,0:02:40.80,flashback,Vide,0000,0000,0000,,Of course! Dazu, I...
+Dialogue: 0,0:02:41.97,0:02:44.13,flashback,Vide,0000,0000,0000,,I want you to be my wife.
+Dialogue: 0,0:03:00.82,0:03:03.20,flashback,Meshu,0000,0000,0000,,You're so hardworking, Dazu.
+Dialogue: 0,0:03:03.20,0:03:04.41,flashback,Dazu,0000,0000,0000,,Mother.
+Dialogue: 0,0:03:05.47,0:03:07.22,flashback,Meshu,0000,0000,0000,,You don't even use magic,
+Dialogue: 0,0:03:07.83,0:03:11.21,flashback,Meshu,0000,0000,0000,,but you still manage to do just \Nas much work as the rest of us.
+Dialogue: 0,0:03:22.81,0:03:23.89,main,Finral,0000,0000,0000,,Yami...
+Dialogue: 0,0:03:24.77,0:03:28.48,main,Yami,0000,0000,0000,,Yeah... I wonder how many \Nmore graves popped up
+Dialogue: 0,0:03:28.48,0:03:31.06,main,Yami,0000,0000,0000,,after the Eye of the Midnight Sun attacked.
+Dialogue: 0,0:03:39.65,0:03:42.12,main,Finral,0000,0000,0000,,H-Hey there, miss...
+Dialogue: 0,0:03:42.91,0:03:45.36,main,Finral,0000,0000,0000,,There's something we'd like to ask you.
+Dialogue: 0,0:03:46.20,0:03:47.45,main,Dazu,0000,0000,0000,,What's that?
+Dialogue: 0,0:03:47.91,0:03:49.70,main,Finral,0000,0000,0000,,Have you seen this girl before?
+Dialogue: 0,0:03:52.30,0:03:56.67,main,Finral,0000,0000,0000,,Also, did you happen to see a really cute \Ngirl with horns growing out of her head?
+Dialogue: 0,0:03:56.67,0:03:59.73,main,Dazu,0000,0000,0000,,Horns? What do you mean?
+Dialogue: 0,0:04:00.17,0:04:01.38,main,Yami,0000,0000,0000,,Then...
+Dialogue: 0,0:04:01.61,0:04:03.25,main,Yami,0000,0000,0000,,Maybe you've heard something
+Dialogue: 0,0:04:03.25,0:04:06.39,main,Yami,0000,0000,0000,,about a group of people who \Nhate devils getting together?
+Dialogue: 0,0:04:07.36,0:04:10.22,main,Dazu,0000,0000,0000,,Is there anyone who doesn't hate the devil?
+Dialogue: 0,0:04:11.35,0:04:14.62,main,Dazu,0000,0000,0000,,You're talking about what caused \Nthe tragedy here recently, right?
+Dialogue: 0,0:04:16.13,0:04:17.44,main,Yami,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:18.13,0:04:21.36,main,Dazu,0000,0000,0000,,You're Magic Knights, aren't you?
+Dialogue: 0,0:04:21.36,0:04:22.28,main,Yami,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:22.85,0:04:27.41,main,Dazu,0000,0000,0000,,My husband and his mother died that day.
+Dialogue: 0,0:04:28.17,0:04:30.79,main,Dazu,0000,0000,0000,,Why didn't you come to help us?
+Dialogue: 0,0:04:33.35,0:04:37.33,main,Finral,0000,0000,0000,,We were stretched too thin ourselves. \NThe whole kingdom was a mess...
+Dialogue: 0,0:04:37.77,0:04:39.25,main,Yami,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:04:40.71,0:04:43.76,main,Yami,0000,0000,0000,,I'm sorry we couldn't protect your family.
+Dialogue: 0,0:04:46.70,0:04:48.01,main,Dazu,0000,0000,0000,,If you'll excuse me.
+Dialogue: 0,0:05:03.19,0:05:06.88,main,Villager A,0000,0000,0000,,That silver hair and cross... \NThey must be from the Silva family.
+Dialogue: 0,0:05:06.88,0:05:09.86,main,Villager B,0000,0000,0000,,What are royals doing here?
+Dialogue: 0,0:05:09.86,0:05:12.12,main,Villager C,0000,0000,0000,,Hey, don't stare so much.
+Dialogue: 0,0:05:13.25,0:05:14.75,main,Noelle,0000,0000,0000,,Hey, I have a question.
+Dialogue: 0,0:05:15.02,0:05:17.24,main,Noelle,0000,0000,0000,,Have you seen this girl?
+Dialogue: 0,0:05:17.24,0:05:19.25,main,Guy A,0000,0000,0000,,Huh? I, uh...
+Dialogue: 0,0:05:20.42,0:05:21.75,main,Guy A,0000,0000,0000,,She's really cute.
+Dialogue: 0,0:05:22.16,0:05:26.21,main,Noelle,0000,0000,0000,,We're looking for her and another \Ngirl with horns on her head.
+Dialogue: 0,0:05:26.21,0:05:27.98,main,Noelle,0000,0000,0000,,If you've seen them, tell me.
+Dialogue: 0,0:05:28.48,0:05:30.24,main,Man A,0000,0000,0000,,What do you mean by horns?
+Dialogue: 0,0:05:30.71,0:05:33.29,main,Noelle,0000,0000,0000,,So you haven't seen them? Okay, then.
+Dialogue: 0,0:05:33.29,0:05:34.64,main,Man A,0000,0000,0000,,R-Right...
+Dialogue: 0,0:05:35.16,0:05:36.91,main,Noelle,0000,0000,0000,,Hey, I have a question for you.
+Dialogue: 0,0:05:36.91,0:05:37.94,main,Man B,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:37.94,0:05:39.40,main,Noelle,0000,0000,0000,,Have you seen this girl?
+Dialogue: 0,0:05:39.94,0:05:42.91,main,Man B,0000,0000,0000,,No, I haven't. Please excuse me.
+Dialogue: 0,0:05:42.91,0:05:44.40,main,Noelle,0000,0000,0000,,Take a closer look!
+Dialogue: 0,0:05:44.70,0:05:47.15,main,Man B,0000,0000,0000,,Sorry, I'm a bit busy.
+Dialogue: 0,0:05:47.15,0:05:49.53,main,Man B,0000,0000,0000,,My house was destroyed, \Nand I have to rebuild it.
+Dialogue: 0,0:05:49.80,0:05:52.24,main,Man B,0000,0000,0000,,I just have so much to do.
+Dialogue: 0,0:05:52.24,0:05:53.16,main,Noelle,0000,0000,0000,,Wait!
+Dialogue: 0,0:05:53.71,0:05:54.72,main,Nozel,0000,0000,0000,,Don't chase them.
+Dialogue: 0,0:05:56.04,0:05:57.43,main,Noelle,0000,0000,0000,,Nozel...
+Dialogue: 0,0:05:58.09,0:05:59.79,main,Nozel,0000,0000,0000,,The people of this town...
+Dialogue: 0,0:06:00.55,0:06:02.32,main,Nozel,0000,0000,0000,,They're not making it obvious,
+Dialogue: 0,0:06:02.32,0:06:04.82,main,Nozel,0000,0000,0000,,but many of them hold a grudge \Nagainst the Magic Knights
+Dialogue: 0,0:06:04.82,0:06:07.40,main,Nozel,0000,0000,0000,,and resent how the kingdom has handled things.
+Dialogue: 0,0:06:08.87,0:06:10.67,main,Nozel,0000,0000,0000,,I can't blame them.
+Dialogue: 0,0:06:10.67,0:06:15.54,main,Nozel,0000,0000,0000,,When this town was in danger, \Nwe couldn't do anything for them.
+Dialogue: 0,0:06:16.28,0:06:18.36,main,Noelle,0000,0000,0000,,You're right...
+Dialogue: 0,0:06:18.89,0:06:22.48,main,Nozel,0000,0000,0000,,We won't be able to get any useful \Ninformation by being forceful.
+Dialogue: 0,0:06:22.48,0:06:25.19,main,Noelle,0000,0000,0000,,But if we don't hurry, Nero and Marie will be...
+Dialogue: 0,0:06:25.51,0:06:29.38,main,Nozel,0000,0000,0000,,We are indeed in a hurry, but no \Ngood ever came out of panicking.
+Dialogue: 0,0:06:29.84,0:06:33.70,main,Nozel,0000,0000,0000,,If you're a true Magic Knight, you need \Nto remain calm in these situations.
+Dialogue: 0,0:06:34.35,0:06:35.17,main,Noelle,0000,0000,0000,,Right...
+Dialogue: 0,0:06:35.75,0:06:39.44,main,Nozel,0000,0000,0000,,Questioning them isn't the only thing \Nwe can do. Let's try something else.
+Dialogue: 0,0:06:39.44,0:06:40.24,main,Noelle,0000,0000,0000,,Right!
+Dialogue: 0,0:06:47.12,0:06:48.35,main,Gauche,0000,0000,0000,,Marie!
+Dialogue: 0,0:06:49.21,0:06:50.68,main,Man C,0000,0000,0000,,Hey! What are you doing?
+Dialogue: 0,0:06:56.24,0:06:57.68,main,Gauche,0000,0000,0000,,You're not Marie...
+Dialogue: 0,0:06:57.68,0:06:59.79,main,Man C,0000,0000,0000,,What are you trying to do to my daughter?
+Dialogue: 0,0:06:59.79,0:07:00.98,main,Gauche,0000,0000,0000,,Sorry!
+Dialogue: 0,0:07:00.98,0:07:02.90,main,Gauche,0000,0000,0000,,But I'm a bit desperate here!
+Dialogue: 0,0:07:04.73,0:07:08.65,italics,Gordon,0000,0000,0000,,I have to back him up since he's\N my partner in the G-G Duo!
+Dialogue: 0,0:07:10.23,0:07:12.61,main,Gordon,0000,0000,0000,,Please forgive us. You can have this, okay?
+Dialogue: 0,0:07:17.18,0:07:19.79,main,Man C,0000,0000,0000,,Stay away from my daughter, you creeps!
+Dialogue: 0,0:07:21.11,0:07:23.88,main,Gordon,0000,0000,0000,,Try not to mistake someone \Nelse for Marie again.
+Dialogue: 0,0:07:23.88,0:07:25.93,main,Gauche,0000,0000,0000,,Shut your trap!
+Dialogue: 0,0:07:25.93,0:07:30.05,main,Gauche,0000,0000,0000,,If I sense it might be Marie, I'm going to act!
+Dialogue: 0,0:07:30.44,0:07:32.68,main,Gauche,0000,0000,0000,,Damn it! Marie!
+Dialogue: 0,0:07:32.68,0:07:37.64,main,Gauche,0000,0000,0000,,Where are you?! My angel Marie! Answer me!
+Dialogue: 0,0:07:38.24,0:07:40.93,main,Gordon,0000,0000,0000,,You can't shout like that!
+Dialogue: 0,0:07:41.14,0:07:42.60,main,Maggie,0000,0000,0000,,You called?
+Dialogue: 0,0:07:43.95,0:07:44.87,main,Gauche,0000,0000,0000,,The hell?
+Dialogue: 0,0:07:45.29,0:07:48.44,main,Maggie,0000,0000,0000,,You just called my name.
+Dialogue: 0,0:07:48.44,0:07:51.10,main,Maggie,0000,0000,0000,,And you called me an angel.
+Dialogue: 0,0:07:51.55,0:07:55.65,main,Maggie,0000,0000,0000,,No one's ever called me that, \Neven when I was younger.
+Dialogue: 0,0:07:55.65,0:07:58.45,main,Gauche,0000,0000,0000,,What the hell are you yapping \Nabout, you old hag?
+Dialogue: 0,0:07:58.45,0:08:01.57,main,Gordon,0000,0000,0000,,Um, what is your name?
+Dialogue: 0,0:08:02.22,0:08:04.82,main,Maggie,0000,0000,0000,,My name's Maggie.
+Dialogue: 0,0:08:04.82,0:08:07.54,main,Gauche,0000,0000,0000,,We're looking for {\i1}Marie{\i0}!
+Dialogue: 0,0:08:07.54,0:08:10.09,main,Maggie,0000,0000,0000,,Oh, my. I guess that's different.
+Dialogue: 0,0:08:10.09,0:08:11.38,main,Gordon,0000,0000,0000,,So close...
+Dialogue: 0,0:08:26.16,0:08:27.57,main,Bow,0000,0000,0000,,Something must've happened.
+Dialogue: 0,0:08:28.17,0:08:29.27,main,Dazu,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:31.18,0:08:32.44,main,Bow,0000,0000,0000,,We can talk down below.
+Dialogue: 0,0:08:36.03,0:08:37.89,main,Mask C,0000,0000,0000,,Welcome back, Dazu.
+Dialogue: 0,0:08:37.89,0:08:38.96,main,Mask D,0000,0000,0000,,Good work out there.
+Dialogue: 0,0:08:39.49,0:08:40.87,main,Dazu,0000,0000,0000,,Thank you.
+Dialogue: 0,0:08:40.87,0:08:43.88,main,Kabwe,0000,0000,0000,,How long are we going to hide down here?
+Dialogue: 0,0:08:44.30,0:08:47.35,main,Onoby,0000,0000,0000,,We should just execute these two already.
+Dialogue: 0,0:08:47.35,0:08:50.89,main,Dazu,0000,0000,0000,,There's an even bigger \Nproblem on our hands now.
+Dialogue: 0,0:08:51.80,0:08:53.76,main,Dazu,0000,0000,0000,,The Magic Knights are here.
+Dialogue: 0,0:08:53.99,0:08:55.05,main,Kabwe,0000,0000,0000,,What?
+Dialogue: 0,0:08:55.05,0:08:57.02,main,Mask E,0000,0000,0000,,Did they track us?
+Dialogue: 0,0:08:57.02,0:08:58.80,main,Mask D,0000,0000,0000,,No, that's not possible.
+Dialogue: 0,0:08:58.80,0:09:03.14,main,Mask D,0000,0000,0000,,Master Kabwe's transparency spell \Nmade us disappear flawlessly.
+Dialogue: 0,0:09:03.38,0:09:06.02,main,Kabwe,0000,0000,0000,,Maybe they planted something...
+Dialogue: 0,0:09:09.61,0:09:12.15,main,Kabwe,0000,0000,0000,,Transparency Magic: Detection Decoder.
+Dialogue: 0,0:09:13.90,0:09:15.15,main,Siona,0000,0000,0000,,There it is!
+Dialogue: 0,0:09:15.15,0:09:16.15,main,Kabwe,0000,0000,0000,,This is...
+Dialogue: 0,0:09:16.58,0:09:19.66,main,Kabwe,0000,0000,0000,,A magic item to keep tabs \Non one who is devil-possessed!
+Dialogue: 0,0:09:20.38,0:09:22.33,main,Kabwe,0000,0000,0000,,What's it doing here?
+Dialogue: 0,0:09:22.80,0:09:25.04,main,Onoby,0000,0000,0000,,Curses! How underhanded!
+Dialogue: 0,0:09:25.04,0:09:26.54,main,Dazu,0000,0000,0000,,Please wait.
+Dialogue: 0,0:09:27.25,0:09:28.66,main,Dazu,0000,0000,0000,,I have an idea.
+Dialogue: 0,0:09:36.71,0:09:39.38,main,Yami,0000,0000,0000,,Hey, did you guys get any information?
+Dialogue: 0,0:09:39.38,0:09:43.02,main,Noelle,0000,0000,0000,,The townspeople wouldn't \Ntell us anything useful.
+Dialogue: 0,0:09:43.67,0:09:47.75,main,Noelle,0000,0000,0000,,We tried to find somewhere they'd use as \Na hideout, but nothing has turned up.
+Dialogue: 0,0:09:48.22,0:09:51.81,main,Nozel,0000,0000,0000,,I'm trying to track mana, \Nbut can't pinpoint a target.
+Dialogue: 0,0:09:52.23,0:09:53.03,main,Nozel,0000,0000,0000,,And...
+Dialogue: 0,0:09:55.44,0:09:57.95,main,Finral,0000,0000,0000,,The signal still seems unstable.
+Dialogue: 0,0:09:57.95,0:10:02.79,main,Nozel,0000,0000,0000,,On top of that, we don't know when they'll \Nnotice that communication magic item.
+Dialogue: 0,0:10:02.79,0:10:05.83,main,Noelle,0000,0000,0000,,We need to find those two \Nbefore they find it.
+Dialogue: 0,0:10:05.83,0:10:07.85,main,Yami,0000,0000,0000,,What about you two?
+Dialogue: 0,0:10:08.10,0:10:10.67,main,Gordon,0000,0000,0000,,We were talking with an old woman.
+Dialogue: 0,0:10:10.67,0:10:12.58,main,Gauche,0000,0000,0000,,She wasn't so bad.
+Dialogue: 0,0:10:12.58,0:10:14.80,main,Yami,0000,0000,0000,,Why the hell did you two even come here?
+Dialogue: 0,0:10:14.80,0:10:16.44,main,Gauche,0000,0000,0000,,I'm serious about this!
+Dialogue: 0,0:10:16.44,0:10:22.30,main,Gauche,0000,0000,0000,,I'm just doing whatever will find those \Nassholes who took Marie the fastest!
+Dialogue: 0,0:10:23.52,0:10:24.81,main,Yami,0000,0000,0000,,What's up, Bangs?
+Dialogue: 0,0:10:25.20,0:10:26.43,main,Nozel,0000,0000,0000,,They're on the move.
+Dialogue: 0,0:10:26.73,0:10:27.85,main,Gauche,0000,0000,0000,,Where?!
+Dialogue: 0,0:10:28.37,0:10:30.04,main,Finral,0000,0000,0000,,Did they let down their defense?
+Dialogue: 0,0:10:30.53,0:10:33.36,main,Yami,0000,0000,0000,,I'm not sure, but this is weird.
+Dialogue: 0,0:10:33.66,0:10:37.98,main,Nozel,0000,0000,0000,,I'm sure they realize we're in town.
+Dialogue: 0,0:10:37.98,0:10:40.04,main,Nozel,0000,0000,0000,,This could be a diversion.
+Dialogue: 0,0:10:40.56,0:10:44.53,main,Yami,0000,0000,0000,,All right. Gordon and I will \Ninvestigate this town a bit more.
+Dialogue: 0,0:10:44.53,0:10:47.40,main,Yami,0000,0000,0000,,You guys can borrow my wheels.
+Dialogue: 0,0:10:47.40,0:10:50.12,main,Nozel,0000,0000,0000,,Very well. That'll make \Ngetting back somewhat easier.
+Dialogue: 0,0:10:50.84,0:10:53.50,italics,Finral,0000,0000,0000,,Even Captain Nozel's using \Nme as an errand boy?!
+Dialogue: 0,0:10:53.82,0:10:55.38,main,Nozel,0000,0000,0000,,Get on. We're going after them.
+Dialogue: 0,0:11:02.04,0:11:03.60,main,Bow,0000,0000,0000,,That worked like a charm.
+Dialogue: 0,0:11:03.89,0:11:06.35,main,Dazu,0000,0000,0000,,This should buy us some time.
+Dialogue: 0,0:11:06.35,0:11:08.93,main,Onoby,0000,0000,0000,,Curse those Magic Knights.
+Dialogue: 0,0:11:09.35,0:11:11.73,main,Siona,0000,0000,0000,,During the attack by the \NEye of the Midnight Sun,
+Dialogue: 0,0:11:11.98,0:11:14.61,main,Siona,0000,0000,0000,,many of the Magic Knights \Nhad their bodies taken over
+Dialogue: 0,0:11:14.61,0:11:16.73,main,Siona,0000,0000,0000,,and contributed to the \Ndestruction of this kingdom.
+Dialogue: 0,0:11:17.40,0:11:19.24,main,Siona,0000,0000,0000,,They're absolutely unforgivable!
+Dialogue: 0,0:11:19.24,0:11:21.32,main,Mask E,0000,0000,0000,,You're exactly right.
+Dialogue: 0,0:11:21.32,0:11:24.97,main,Mask F,0000,0000,0000,,The Magic Knights only defend each other.
+Dialogue: 0,0:11:24.97,0:11:28.63,main,Mask G,0000,0000,0000,,We mean nothing to them!
+Dialogue: 0,0:11:29.54,0:11:33.33,main,Mask C,0000,0000,0000,,Let's show them the true meaning of justice!
+Dialogue: 0,0:11:33.33,0:11:35.01,main,Kabwe,0000,0000,0000,,Of course.
+Dialogue: 0,0:11:35.01,0:11:37.14,main,Kabwe,0000,0000,0000,,We're standing up for the \Nrights of our fellow citizens,
+Dialogue: 0,0:11:37.14,0:11:40.03,main,Kabwe,0000,0000,0000,,and to regain peace and \Nharmony in this kingdom.
+Dialogue: 0,0:11:40.88,0:11:44.18,main,Kabwe,0000,0000,0000,,Now... In order to exact our justice,
+Dialogue: 0,0:11:44.18,0:11:47.22,main,Kabwe,0000,0000,0000,,let us execute these two servants \Nof the devil immediately.
+Dialogue: 0,0:11:47.22,0:11:48.53,main,Onoby,0000,0000,0000,,Agreed!
+Dialogue: 0,0:11:48.53,0:11:51.83,main,Onoby,0000,0000,0000,,We'll put their corpses on \Ndisplay and show the world
+Dialogue: 0,0:11:51.83,0:11:56.48,main,Onoby,0000,0000,0000,,the Magic Knights' negligence, \Narrogance, and deceit!
+Dialogue: 0,0:11:56.48,0:12:00.80,main,Siona,0000,0000,0000,,There's no future in this kingdom for \Nthe Magic Knights who aid the devils!
+Dialogue: 0,0:12:00.80,0:12:03.68,main,Kabwe,0000,0000,0000,,Exactly! From now on, we will be the ones
+Dialogue: 0,0:12:03.68,0:12:07.12,main,Kabwe,0000,0000,0000,,who maintain the peace and \Ntranquility of the Clover Kingdom!
+Dialogue: 0,0:12:07.70,0:12:10.83,main,Dazu,0000,0000,0000,,I think we should hold off on the executions.
+Dialogue: 0,0:12:12.14,0:12:14.58,main,Onoby,0000,0000,0000,,How can you say that right now?!
+Dialogue: 0,0:12:14.88,0:12:17.19,main,Dazu,0000,0000,0000,,I feel exactly the same way as all of you.
+Dialogue: 0,0:12:17.77,0:12:20.34,main,Dazu,0000,0000,0000,,I cannot forgive anyone \Nwho sides with the devil.
+Dialogue: 0,0:12:20.76,0:12:22.75,main,Dazu,0000,0000,0000,,But if we hang on to those two,
+Dialogue: 0,0:12:22.75,0:12:26.19,main,Dazu,0000,0000,0000,,we'll be able to lure out the \Ndevil-possessed boy, Asta.
+Dialogue: 0,0:12:27.44,0:12:29.68,main,Dazu,0000,0000,0000,,Wouldn't the masses side more with
+Dialogue: 0,0:12:29.68,0:12:33.06,main,Dazu,0000,0000,0000,,Master Kabwe if we disposed \Nof all three of them at once?
+Dialogue: 0,0:12:35.03,0:12:39.46,main,Mask C,0000,0000,0000,,True. If we use them as bait, \Nthe Black Bulls should act.
+Dialogue: 0,0:12:39.98,0:12:43.11,main,Mask F,0000,0000,0000,,Asta the Devil-Possessed... \NHe's who we're really after.
+Dialogue: 0,0:12:43.95,0:12:45.16,main,Kabwe,0000,0000,0000,,True...
+Dialogue: 0,0:12:45.41,0:12:48.87,main,Kabwe,0000,0000,0000,,We might as well call Asta a devil himself.
+Dialogue: 0,0:12:49.31,0:12:53.16,main,Kabwe,0000,0000,0000,,We cannot exact justice until we execute him.
+Dialogue: 0,0:12:53.40,0:12:55.58,main,Dazu,0000,0000,0000,,Yes, you're exactly right.
+Dialogue: 0,0:12:56.42,0:12:59.68,main,Dazu,0000,0000,0000,,Now, let us figure out a way to capture Asta.
+Dialogue: 0,0:13:00.12,0:13:01.71,main,Kabwe,0000,0000,0000,,Let me think...
+Dialogue: 0,0:13:12.71,0:13:14.25,main,Nozel,0000,0000,0000,,They stopped moving.
+Dialogue: 0,0:13:14.97,0:13:16.63,main,Noelle,0000,0000,0000,,There's no one here?
+Dialogue: 0,0:13:16.63,0:13:17.81,main,Nozel,0000,0000,0000,,In there.
+Dialogue: 0,0:13:18.51,0:13:19.61,main,Gauche,0000,0000,0000,,Marie!
+Dialogue: 0,0:13:19.61,0:13:22.74,main,Gauche,0000,0000,0000,,We've come to save you! Answer me!
+Dialogue: 0,0:13:33.86,0:13:34.88,main,Noelle,0000,0000,0000,,This is...
+Dialogue: 0,0:13:35.49,0:13:36.90,main,Nozel,0000,0000,0000,,They put one over on us.
+Dialogue: 0,0:13:37.42,0:13:40.42,main,Finral,0000,0000,0000,,Then Nero and Marie are...
+Dialogue: 0,0:13:40.84,0:13:42.09,main,Gauche,0000,0000,0000,,Damn it!
+Dialogue: 0,0:13:43.00,0:13:46.36,main,Nozel,0000,0000,0000,,We'll regroup with Yami and Gordon \Nand return to the royal capital for now.
+Dialogue: 0,0:13:46.36,0:13:48.26,main,Nozel,0000,0000,0000,,We need to rethink our plan.
+Dialogue: 0,0:13:56.39,0:13:57.64,main,Bow,0000,0000,0000,,It'll be okay.
+Dialogue: 0,0:13:59.08,0:14:01.03,main,Dazu,0000,0000,0000,,Do you think this will all work out?
+Dialogue: 0,0:14:01.03,0:14:04.48,main,Bow,0000,0000,0000,,Everything's been working out \Nfor us ever since that day.
+Dialogue: 0,0:14:05.58,0:14:07.49,main,Dazu,0000,0000,0000,,It's all thanks to you, Bow.
+Dialogue: 0,0:14:09.01,0:14:10.30,main,Bow,0000,0000,0000,,No, it's not.
+Dialogue: 0,0:14:11.93,0:14:18.62,main,Bow,0000,0000,0000,,If I hadn't met you, my life wouldn't \Nbe going anywhere right now.
+Dialogue: 0,0:14:19.82,0:14:22.70,main,Dazu,0000,0000,0000,,If I didn't have you,
+Dialogue: 0,0:14:22.70,0:14:26.13,main,Dazu,0000,0000,0000,,I would've felt nothing but despair \Nat everything in this world.
+Dialogue: 0,0:14:26.88,0:14:31.89,main,Bow,0000,0000,0000,,You can do it. Because you're my hope.
+Dialogue: 0,0:14:33.28,0:14:36.44,main,Dazu,0000,0000,0000,,I'm sure this will all work \Nout with you by my side, Bow.
+Dialogue: 0,0:14:52.05,0:14:54.45,main,Asta,0000,0000,0000,,What? Where am I?
+Dialogue: 0,0:14:54.45,0:14:56.08,main,Owen,0000,0000,0000,,Are you awake?
+Dialogue: 0,0:14:56.08,0:14:58.09,main,Owen,0000,0000,0000,,This is a breakroom in the palace.
+Dialogue: 0,0:14:58.50,0:14:59.86,main,Asta,0000,0000,0000,,Owen...
+Dialogue: 0,0:15:01.63,0:15:03.67,main,Asta,0000,0000,0000,,That's right! Nero was...
+Dialogue: 0,0:15:04.12,0:15:05.58,main,Owen,0000,0000,0000,,Hey, wait!
+Dialogue: 0,0:15:10.77,0:15:14.57,main,Yami,0000,0000,0000,,You need to confirm what's going on \Nbefore you go runnin' off like that, kid.
+Dialogue: 0,0:15:15.04,0:15:16.56,main,Asta,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:15:17.89,0:15:21.58,main,Owen,0000,0000,0000,,I managed to rid your body of the drug \Nthey used on you, so you can go now.
+Dialogue: 0,0:15:21.58,0:15:23.06,main,Asta,0000,0000,0000,,Thank you!
+Dialogue: 0,0:15:23.06,0:15:27.77,main,Asta,0000,0000,0000,,So those guys called the Devil \NPanickers took Nero and Marie?
+Dialogue: 0,0:15:27.77,0:15:33.07,main,Noelle,0000,0000,0000,,The Devil Banishers. You were\N almost taken yourself.
+Dialogue: 0,0:15:33.49,0:15:37.87,main,Asta,0000,0000,0000,,You saved me, didn't you? \NThanks a bunch, Noelle!
+Dialogue: 0,0:15:37.87,0:15:41.25,main,Noelle,0000,0000,0000,,I-It's not like I was trying to save you.
+Dialogue: 0,0:15:41.25,0:15:44.19,main,Noelle,0000,0000,0000,,It's just that those weirdos were \Ndoing something that seemed odd...
+Dialogue: 0,0:15:44.19,0:15:46.88,main,Noelle,0000,0000,0000,,But I wasn't able to protect Nero.
+Dialogue: 0,0:15:47.15,0:15:51.47,main,Asta,0000,0000,0000,,That's not your fault! It's because I \Nwasn't strong enough that Nero was...
+Dialogue: 0,0:15:51.75,0:15:54.91,main,Yami,0000,0000,0000,,There's no point in talking about that now.
+Dialogue: 0,0:15:54.91,0:16:00.18,main,Yami,0000,0000,0000,,Since we got Owen's okay, \Nyou guys head back to the hideout.
+Dialogue: 0,0:16:00.18,0:16:03.31,main,Asta,0000,0000,0000,,No! I'm going out to look for them right now!
+Dialogue: 0,0:16:04.64,0:16:08.14,main,Yami,0000,0000,0000,,Didn't you hear a word we just said?
+Dialogue: 0,0:16:08.14,0:16:12.77,main,Yami,0000,0000,0000,,We don't have any clues right now, \Nso we have no way of finding them.
+Dialogue: 0,0:16:12.77,0:16:14.82,main,Asta,0000,0000,0000,,That's right!
+Dialogue: 0,0:16:15.28,0:16:16.91,main,Yami,0000,0000,0000,,I'm counting on you.
+Dialogue: 0,0:16:17.17,0:16:19.16,main,Finral,0000,0000,0000,,Where are you going, Yami?
+Dialogue: 0,0:16:19.70,0:16:23.38,main,Yami,0000,0000,0000,,A captain's gotta do his \Ncaptainly duties sometimes.
+Dialogue: 0,0:16:23.38,0:16:24.75,main,Yami,0000,0000,0000,,Oh, yeah.
+Dialogue: 0,0:16:24.97,0:16:27.24,main,Yami,0000,0000,0000,,I already warned him myself,
+Dialogue: 0,0:16:27.24,0:16:30.28,main,Yami,0000,0000,0000,,but if Gauche decides to freak out,\N use force if necessary to stop him.
+Dialogue: 0,0:16:30.28,0:16:33.26,main,Yami,0000,0000,0000,,I don't care how, as long as \Nhe's still breathing some. Got it?
+Dialogue: 0,0:16:33.96,0:16:35.27,main,Asta,0000,0000,0000,,Okay...
+Dialogue: 0,0:16:37.34,0:16:38.97,main,Marx,0000,0000,0000,,Everyone is here.
+Dialogue: 0,0:16:39.82,0:16:43.52,main,Marx,0000,0000,0000,,The Golden Dawn and Aqua Deer \Nare securing our borders.
+Dialogue: 0,0:16:43.75,0:16:46.28,main,Marx,0000,0000,0000,,The Coral Peacocks and Purple Orcas
+Dialogue: 0,0:16:46.28,0:16:48.89,main,Marx,0000,0000,0000,,are aiding in the restoration \Nof high-priority locations.
+Dialogue: 0,0:16:49.32,0:16:53.22,main,Julius,0000,0000,0000,,We can't just abandon those duties right now.
+Dialogue: 0,0:16:53.76,0:16:57.57,main,Julius,0000,0000,0000,,So if we can solve this with everyone \Nwho's here right now, it'd be for the best.
+Dialogue: 0,0:16:57.91,0:17:00.70,main,Damnatio,0000,0000,0000,,There's something I'd like to say first.
+Dialogue: 0,0:17:00.70,0:17:05.40,main,Damnatio,0000,0000,0000,,There is a high likelihood that my \Nsubordinates orchestrated this whole thing.
+Dialogue: 0,0:17:05.88,0:17:09.46,main,Damnatio,0000,0000,0000,,And because of that, I will \Noffer you any information I can.
+Dialogue: 0,0:17:09.99,0:17:12.25,main,Julius,0000,0000,0000,,Are you all okay with that?
+Dialogue: 0,0:17:12.69,0:17:17.47,main,Fuegoleon,0000,0000,0000,,Our top priority right now is to \Ntake back the two who were taken.
+Dialogue: 0,0:17:17.47,0:17:22.43,main,Nozel,0000,0000,0000,,We can investigate your \Nsubordinates' involvement later.
+Dialogue: 0,0:17:22.43,0:17:23.98,main,Julius,0000,0000,0000,,Yes, you're right.
+Dialogue: 0,0:17:24.68,0:17:28.81,main,Marx,0000,0000,0000,,Chairman Damnatio, if you would fill us in.
+Dialogue: 0,0:17:31.40,0:17:34.93,main,Damnatio,0000,0000,0000,,The first is Kabwe Carillon, 38 years old.
+Dialogue: 0,0:17:35.34,0:17:40.03,main,Damnatio,0000,0000,0000,,He uses transparency magic that allows \Nhim and those around him to disappear.
+Dialogue: 0,0:17:40.78,0:17:45.79,main,Damnatio,0000,0000,0000,,But unlike the former Captain of the \NPurple Orcas, he cannot conceal his mana.
+Dialogue: 0,0:17:46.63,0:17:50.22,main,Damnatio,0000,0000,0000,,The second is Onoby Sinho, 31 years old.
+Dialogue: 0,0:17:50.22,0:17:52.44,main,Damnatio,0000,0000,0000,,He uses barrier magic that allows him to
+Dialogue: 0,0:17:52.44,0:17:55.80,main,Damnatio,0000,0000,0000,,put up a barrier with a radius \Nabout five times his height.
+Dialogue: 0,0:17:55.80,0:17:59.80,main,Damnatio,0000,0000,0000,,If anyone tries to forcefully destroy \Nthis barrier, it will explode.
+Dialogue: 0,0:18:00.55,0:18:03.81,main,Damnatio,0000,0000,0000,,The third is Siona Caverly, 29 years old.
+Dialogue: 0,0:18:04.36,0:18:08.73,main,Damnatio,0000,0000,0000,,She is a paper magic user who \Ncan control any thickness
+Dialogue: 0,0:18:08.73,0:18:10.31,main,Damnatio,0000,0000,0000,,and length of paper at will.
+Dialogue: 0,0:18:10.77,0:18:13.57,main,Jack,0000,0000,0000,,None of them sound like \Nthey're worth slicing up.
+Dialogue: 0,0:18:13.92,0:18:18.57,main,Marx,0000,0000,0000,,We don't know for sure if they're involved \Nwith the Devil Banishers just yet.
+Dialogue: 0,0:18:18.57,0:18:22.13,main,Yami,0000,0000,0000,,Once we get proof they're involved, \Nyou can slice them up all you want,
+Dialogue: 0,0:18:22.13,0:18:27.33,main,Yami,0000,0000,0000,,but for now, help us figure out how we're \Ngonna save those girls, Beanpole Monster.
+Dialogue: 0,0:18:27.58,0:18:32.55,main,Nozel,0000,0000,0000,,The Black Bull who has been captured\N possesses arcane stage magic.
+Dialogue: 0,0:18:32.55,0:18:36.15,main,Nozel,0000,0000,0000,,Since she stands a chance against the devil,\Nshe is key in our strategy to fight it.
+Dialogue: 0,0:18:36.15,0:18:38.09,main,Nozel,0000,0000,0000,,We cannot lose her.
+Dialogue: 0,0:18:38.09,0:18:42.53,main,Charlotte,0000,0000,0000,,The other captive is also an \Nimportant citizen of this kingdom.
+Dialogue: 0,0:18:42.53,0:18:45.01,main,Charlotte,0000,0000,0000,,We must get her back unharmed.
+Dialogue: 0,0:18:45.36,0:18:48.46,main,Yami,0000,0000,0000,,Great thing to say, Prickly Queen.
+Dialogue: 0,0:18:48.46,0:18:51.11,main,Yami,0000,0000,0000,,You're way smarter than \Na certain beanpole we know.
+Dialogue: 0,0:18:51.11,0:18:52.44,main,Jack,0000,0000,0000,,Shut up.
+Dialogue: 0,0:18:52.92,0:18:57.94,italics,Charlotte,0000,0000,0000,,Yami praised me! Wait, now's not \Nthe time to be happy about that.
+Dialogue: 0,0:18:57.94,0:19:00.03,main,Fuegoleon,0000,0000,0000,,Even if it was an ambush, it's hard to believe
+Dialogue: 0,0:19:00.03,0:19:02.94,main,Fuegoleon,0000,0000,0000,,that Asta would let someone who's \Nnot a fighter get the best of him.
+Dialogue: 0,0:19:03.33,0:19:05.96,main,Yami,0000,0000,0000,,Well, they used a method he's \Nnever had to deal with before.
+Dialogue: 0,0:19:06.81,0:19:09.71,main,Marx,0000,0000,0000,,They used a sleeping potion on Asta.
+Dialogue: 0,0:19:09.94,0:19:13.50,main,Jack,0000,0000,0000,,Well, that's pretty dirty.
+Dialogue: 0,0:19:13.74,0:19:17.88,main,Yami,0000,0000,0000,,Our kid's trained, so he can dispel \Nany spells if he's attacked by magic
+Dialogue: 0,0:19:17.88,0:19:21.84,main,Yami,0000,0000,0000,,and smack anyone back if \Nthey physically hit him.
+Dialogue: 0,0:19:21.84,0:19:27.83,main,Yami,0000,0000,0000,,So basically, he's only fought people \Nface-to-face up until now, so that was fine.
+Dialogue: 0,0:19:27.83,0:19:31.73,main,Nozel,0000,0000,0000,,It would appear they have someone \Nrather intelligent in their ranks.
+Dialogue: 0,0:19:31.96,0:19:35.93,main,Nozel,0000,0000,0000,,There is also the fact that they \Nused that magic item against us.
+Dialogue: 0,0:19:35.93,0:19:39.25,main,Jack,0000,0000,0000,,So those guys call themselves \Nthe Devil Banishers.
+Dialogue: 0,0:19:39.25,0:19:42.77,main,Jack,0000,0000,0000,,They want to get rid of the devil, don't they?
+Dialogue: 0,0:19:42.77,0:19:43.57,main,Marx,0000,0000,0000,,Yes.
+Dialogue: 0,0:19:43.88,0:19:48.58,main,Jack,0000,0000,0000,,So why haven't they offed their captives\N already? I'm sure they've had the chance.
+Dialogue: 0,0:19:48.81,0:19:52.71,main,Damnatio,0000,0000,0000,,If we assume my subordinates are \Nindeed involved in this matter...
+Dialogue: 0,0:19:53.31,0:19:57.74,main,Damnatio,0000,0000,0000,,Among the three, Kabwe has an \Nextremely strong sense of justice,
+Dialogue: 0,0:19:57.74,0:20:00.57,main,Damnatio,0000,0000,0000,,and after the incident with \Nthe Eye of the Midnight Sun,
+Dialogue: 0,0:20:00.57,0:20:02.97,main,Damnatio,0000,0000,0000,,he grew to hate the devil even more.
+Dialogue: 0,0:20:03.24,0:20:06.61,main,Damnatio,0000,0000,0000,,He was quite exasperated \Nthat the execution of the
+Dialogue: 0,0:20:06.61,0:20:08.26,main,Damnatio,0000,0000,0000,,devil-possessed had been delayed.
+Dialogue: 0,0:20:08.26,0:20:10.95,main,Jack,0000,0000,0000,,Then wouldn't he kill them even quicker?
+Dialogue: 0,0:20:10.95,0:20:14.81,main,Jack,0000,0000,0000,,Why would they bother wasting \Ntime with sleeping potions?
+Dialogue: 0,0:20:14.81,0:20:17.23,main,Nozel,0000,0000,0000,,I'm sure they had their reasons.
+Dialogue: 0,0:20:17.23,0:20:18.27,main,Jack,0000,0000,0000,,Like what?
+Dialogue: 0,0:20:18.61,0:20:20.48,main,Damnatio,0000,0000,0000,,If Kabwe is leading them,
+Dialogue: 0,0:20:20.48,0:20:24.40,main,Damnatio,0000,0000,0000,,he would much prefer this be an actual \Nexecution rather than an assassination.
+Dialogue: 0,0:20:24.91,0:20:27.21,main,Damnatio,0000,0000,0000,,I'm sure he will try to take \Ntheir lives in front of
+Dialogue: 0,0:20:27.21,0:20:29.54,main,Damnatio,0000,0000,0000,,the masses in the name of justice.
+Dialogue: 0,0:20:30.02,0:20:35.54,main,Damnatio,0000,0000,0000,,So that he can gain the approval of the masses \Nand justify his own brand of justice.
+Dialogue: 0,0:20:35.83,0:20:37.67,main,Charlotte,0000,0000,0000,,So he fancies himself a revolutionary.
+Dialogue: 0,0:20:37.99,0:20:41.96,main,Damnatio,0000,0000,0000,,That seems like a rather effective \Nway to carry out their goal.
+Dialogue: 0,0:20:41.96,0:20:44.93,main,Jack,0000,0000,0000,,Tch. Man, these assholes are a pain.
+Dialogue: 0,0:20:44.93,0:20:50.34,main,Fuegoleon,0000,0000,0000,,But going with that assumption, it's very \Nlikely the captives are still alive.
+Dialogue: 0,0:20:50.80,0:20:51.78,main,Yami,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:51.78,0:20:54.69,main,Charlotte,0000,0000,0000,,If they actually carried out \Na public execution...
+Dialogue: 0,0:20:54.69,0:20:58.31,main,Nozel,0000,0000,0000,,I'm sure there are citizens who \Nwould agree with their justice.
+Dialogue: 0,0:20:58.31,0:21:01.39,main,Nozel,0000,0000,0000,,Even I have seen those who are unhappy \Nwith this kingdom's governance
+Dialogue: 0,0:21:01.39,0:21:04.82,main,Nozel,0000,0000,0000,,ever since the attack by the \NEye of the Midnight Sun.
+Dialogue: 0,0:21:05.07,0:21:08.16,main,Julius,0000,0000,0000,,The wounds from that attack have yet to heal.
+Dialogue: 0,0:21:08.16,0:21:12.93,main,Julius,0000,0000,0000,,People still remember how \Nfearsome the devil was.
+Dialogue: 0,0:21:12.93,0:21:18.77,main,Marx,0000,0000,0000,,If this keeps going, there might be an \Nuprising caused by a large group of rebels.
+Dialogue: 0,0:21:18.77,0:21:21.94,main,Julius,0000,0000,0000,,We must prepare for the imminent threat \Nfrom outside our kingdom right now,
+Dialogue: 0,0:21:21.94,0:21:24.97,main,Julius,0000,0000,0000,,so we need to do everything \Nwe can to avoid conflict within.
+Dialogue: 0,0:21:25.31,0:21:29.02,main,Julius,0000,0000,0000,,That's just another reason we need \Nto put an end to their schemes.
+Dialogue: 0,0:21:29.47,0:21:32.68,main,Fuegoleon,0000,0000,0000,,If they're going to go through \Nwith this public execution,
+Dialogue: 0,0:21:32.68,0:21:35.35,main,Fuegoleon,0000,0000,0000,,they will appear before us.
+Dialogue: 0,0:21:35.85,0:21:38.86,main,Yami,0000,0000,0000,,What's important is what we do then.
+Dialogue: 0,0:21:38.86,0:21:42.38,main,Julius,0000,0000,0000,,Yes. I'd like you all to proceed with caution.
+Dialogue: 0,0:21:42.97,0:21:46.51,main,Julius,0000,0000,0000,,There's still something off about all of this.
+Dialogue: 0,0:21:46.51,0:21:50.11,main,Julius,0000,0000,0000,,It feels like we might be overlooking something.
+Dialogue: 0,0:21:56.91,0:21:59.92,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\fad(906,1)\blur3}The City of Lehart
+Dialogue: 0,0:22:02.34,0:22:08.24,sign_31705_338_At_noon_today__w,Sign,0000,0000,0000,,{\fad(940,1999)\blur3}At noon today, we will be executing two of the devil's servants
+Dialogue: 0,0:23:39.60,0:23:43.06,main,Gauche,0000,0000,0000,,Execution?! Like hell I'm \Never gonna let that happen!
+Dialogue: 0,0:23:43.06,0:23:47.07,main,Gauche,0000,0000,0000,,I'll personally send anyone \Nwho scares Marie to hell!
+Dialogue: 0,0:23:47.53,0:23:50.95,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, \NPage 145: "Rescue."
+Dialogue: 0,0:23:48.73,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 145\N\N{\fs18} Rescue
+Dialogue: 0,0:23:50.95,0:23:53.66,main,Gauche,0000,0000,0000,,Your brother's coming for you, my angel!

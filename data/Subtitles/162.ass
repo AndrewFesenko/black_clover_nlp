@@ -1,0 +1,337 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H000400D6,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.50,0:00:07.88,italics,Nar,0000,0000,0000,,And in the clover's fifth leaf resides...
+Dialogue: 0,0:00:07.88,0:00:09.34,italics,Nar,0000,0000,0000,,a devil.
+Dialogue: 0,0:00:10.26,0:00:12.42,italics,Nar,0000,0000,0000,,What Asta, who was born without magic,
+Dialogue: 0,0:00:12.42,0:00:14.76,italics,Nar,0000,0000,0000,,gained from the five-leaf grimoire was
+Dialogue: 0,0:00:14.76,0:00:18.89,italics,Nar,0000,0000,0000,,the power of anti-magic, \Nwhich nullifies any magic.
+Dialogue: 0,0:00:20.06,0:00:23.85,italics,Nar,0000,0000,0000,,Meanwhile, the Dark Triad \Nof the Spade Kingdom
+Dialogue: 0,0:00:23.85,0:00:26.86,italics,Nar,0000,0000,0000,,also possessed the powers of \Nthe devils from the underworld,
+Dialogue: 0,0:00:26.86,0:00:29.73,italics,Nar,0000,0000,0000,,and began invading the other kingdoms.
+Dialogue: 0,0:00:30.69,0:00:33.78,italics,Nar,0000,0000,0000,,Asta continued to fight \Nwhile believing in himself,
+Dialogue: 0,0:00:34.45,0:00:38.37,italics,Nar,0000,0000,0000,,along with his friends... \Nto protect this world!
+Dialogue: 0,0:00:43.54,0:00:47.00,italics,Nar,0000,0000,0000,,Zenon, one of the members of the \NDark Triad from the Spade Kingdom,
+Dialogue: 0,0:00:47.00,0:00:51.46,italics,Nar,0000,0000,0000,,attacked the Golden Dawn's headquarters \Nalong with some of the Dark Disciples.
+Dialogue: 0,0:00:51.70,0:00:53.17,main,Yuno,0000,0000,0000,,What do you think you're doing...
+Dialogue: 0,0:00:53.87,0:00:55.09,main,Yuno,0000,0000,0000,,to my comrades?!
+Dialogue: 0,0:00:56.29,0:00:59.68,italics,Nar,0000,0000,0000,,Yuno let his rage explode after \Nseeing his comrades injured,
+Dialogue: 0,0:00:59.68,0:01:01.62,italics,Nar,0000,0000,0000,,and he defeated the Dark Disciples.
+Dialogue: 0,0:01:02.95,0:01:05.22,main,Zenon,0000,0000,0000,,55%.
+Dialogue: 0,0:01:05.50,0:01:07.92,main,Zenon,0000,0000,0000,,It's not that you're weak.
+Dialogue: 0,0:01:09.80,0:01:13.81,main,Zenon,0000,0000,0000,,It's just that I'm far superior.
+Dialogue: 0,0:01:17.74,0:01:20.60,italics,Nar,0000,0000,0000,,It looked as though Yuno had died,
+Dialogue: 0,0:01:20.60,0:01:24.29,italics,Nar,0000,0000,0000,,but thanks to the spell Vangeance \Nleft behind, the Budding of Yggdrasil,
+Dialogue: 0,0:01:24.29,0:01:25.91,italics,Nar,0000,0000,0000,,he came back to life.
+Dialogue: 0,0:02:53.92,0:02:57.18,Ep Title,Sign,0000,0000,0000,,{\t(1,1134,\c&H0900AD&)}The Great War Breaks Out
+Dialogue: 0,0:03:09.16,0:03:11.92,main,Dante,0000,0000,0000,,Humans are evil creatures.
+Dialogue: 0,0:03:12.50,0:03:13.42,main,Dante,0000,0000,0000,,Rage,
+Dialogue: 0,0:03:14.33,0:03:15.29,main,Dante,0000,0000,0000,,fear,
+Dialogue: 0,0:03:16.00,0:03:16.75,main,Dante,0000,0000,0000,,hatred,
+Dialogue: 0,0:03:17.63,0:03:18.67,main,Dante,0000,0000,0000,,revenge,
+Dialogue: 0,0:03:19.51,0:03:20.47,main,Dante,0000,0000,0000,,and destruction...
+Dialogue: 0,0:03:21.88,0:03:24.93,main,Dante,0000,0000,0000,,The true nature of humans is evil.
+Dialogue: 0,0:03:25.93,0:03:30.48,main,Dante,0000,0000,0000,,And we have grown bored of this world.
+Dialogue: 0,0:03:31.44,0:03:32.52,main,Dante,0000,0000,0000,,Now, then...
+Dialogue: 0,0:03:33.85,0:03:36.19,main,Dante,0000,0000,0000,,I guess I should get going, as well.
+Dialogue: 0,0:03:37.73,0:03:40.19,main,Dante,0000,0000,0000,,I can't wait to see what \Nkind of human he is...
+Dialogue: 0,0:03:40.78,0:03:44.45,main,Dante,0000,0000,0000,,Arcane stage... Yami Sukehiro.
+Dialogue: 0,0:03:47.45,0:03:49.41,main,Vanica,0000,0000,0000,,This is awesome!
+Dialogue: 0,0:03:50.79,0:03:55.38,main,Vanica,0000,0000,0000,,Aw, I wonder how Loropechika \Nand her friends are doing.
+Dialogue: 0,0:03:55.38,0:03:57.71,main,Vanica,0000,0000,0000,,I hope they're super energetic!
+Dialogue: 0,0:03:58.38,0:04:00.21,main,Vanica,0000,0000,0000,,They'd be even more fun to destroy then.
+Dialogue: 0,0:04:04.93,0:04:06.97,main,Charmy,0000,0000,0000,,So yummy...
+Dialogue: 0,0:04:06.97,0:04:10.14,main,Charmy,0000,0000,0000,,The Heart Kingdom's food is so yummy.
+Dialogue: 0,0:04:10.14,0:04:13.39,main,Loropechika,0000,0000,0000,,So cute... Charmy's so cute.
+Dialogue: 0,0:04:13.39,0:04:17.38,main,Mimosa,0000,0000,0000,,Oh, dear. It looks like one troublemaker \Ntook a liking to another.
+Dialogue: 0,0:04:17.69,0:04:19.44,main,Noelle,0000,0000,0000,,Hey, Loropechika!
+Dialogue: 0,0:04:19.44,0:04:22.11,main,Noelle,0000,0000,0000,,No more spoiling Charmy.
+Dialogue: 0,0:04:22.11,0:04:23.99,main,Noelle,0000,0000,0000,,She's about to burst.
+Dialogue: 0,0:04:24.28,0:04:25.61,main,Loropechika,0000,0000,0000,,Don't you worry.
+Dialogue: 0,0:04:25.61,0:04:28.74,main,Loropechika,0000,0000,0000,,Charmy's cute no matter what shape she's in.
+Dialogue: 0,0:04:28.74,0:04:33.01,main,Charmy,0000,0000,0000,,I will always be a glutton no matter \Nwhat shape I'm in, and nothing more.
+Dialogue: 0,0:04:34.00,0:04:38.77,main,Leopold,0000,0000,0000,,I'm not exactly sure why she \Ncame to the Heart Kingdom.
+Dialogue: 0,0:04:38.99,0:04:40.67,main,Noelle,0000,0000,0000,,Honestly...
+Dialogue: 0,0:04:40.67,0:04:45.26,main,Noelle,0000,0000,0000,,Our battle with the Spade Kingdom's \Ngoing to happen any day now.
+Dialogue: 0,0:04:46.22,0:04:48.78,main,Luck,0000,0000,0000,,I'm ready to go anytime.
+Dialogue: 0,0:04:48.78,0:04:50.06,main,Leopold,0000,0000,0000,,As am I!
+Dialogue: 0,0:04:50.06,0:04:53.81,main,Leopold,0000,0000,0000,,We have conquered all of the towns \Nalong the Spade Kingdom's border,
+Dialogue: 0,0:04:53.81,0:04:56.03,main,Leopold,0000,0000,0000,,so we now have a foothold.
+Dialogue: 0,0:04:56.27,0:04:59.27,main,Mimosa,0000,0000,0000,,But we must keep in step.
+Dialogue: 0,0:04:59.27,0:05:01.23,main,Mimosa,0000,0000,0000,,That's also why Rill and Charlotte
+Dialogue: 0,0:05:01.23,0:05:04.90,main,Mimosa,0000,0000,0000,,have returned to the Clover \NKingdom for a captains' meeting.
+Dialogue: 0,0:05:04.90,0:05:10.83,main,Leopold,0000,0000,0000,,But it's also difficult trying \Nto hold in these raging emotions.
+Dialogue: 0,0:05:11.29,0:05:16.83,main,Luck,0000,0000,0000,,Wanna fight me, then? I haven't \Ngotten to fight you for real yet.
+Dialogue: 0,0:05:17.83,0:05:19.84,main,Leopold,0000,0000,0000,,Indeed, you're right!
+Dialogue: 0,0:05:19.84,0:05:23.92,main,Leopold,0000,0000,0000,,While we're at it, let us include \NAsta and have a three-way battle!
+Dialogue: 0,0:05:23.92,0:05:25.55,main,Noelle,0000,0000,0000,,Asta's not here, though.
+Dialogue: 0,0:05:25.55,0:05:26.30,main,Leopold,0000,0000,0000,,What?!
+Dialogue: 0,0:05:26.55,0:05:31.31,main,Noelle,0000,0000,0000,,Training's calmed down for now, so he wanted \Nto take some gifts back to our hideout.
+Dialogue: 0,0:05:31.31,0:05:33.43,main,Noelle,0000,0000,0000,,He went back home with Finral for now.
+Dialogue: 0,0:05:35.39,0:05:40.31,main,Loropechika,0000,0000,0000,,It's better to relax \Nbefore the battle begins.
+Dialogue: 0,0:05:40.31,0:05:43.07,main,Loropechika,0000,0000,0000,,Why don't you all have \Nsomething to eat, as well?
+Dialogue: 0,0:05:46.95,0:05:51.07,main,Charmy,0000,0000,0000,,This is all mine, by the way.
+Dialogue: 0,0:05:51.78,0:05:54.62,main,Loropechika,0000,0000,0000,,The rest of you, please eat something else.
+Dialogue: 0,0:05:54.62,0:05:58.97,main,Loropechika,0000,0000,0000,,Apparently every last \Nmorsel here is for Charmy.
+Dialogue: 0,0:05:59.21,0:06:01.54,main,Noelle,0000,0000,0000,,I told you to stop spoiling her!
+Dialogue: 0,0:06:05.96,0:06:06.97,main,Loropechika,0000,0000,0000,,Undine!
+Dialogue: 0,0:06:06.97,0:06:07.72,main,Undine,0000,0000,0000,,Yes.
+Dialogue: 0,0:06:08.13,0:06:09.80,main,Noelle,0000,0000,0000,,What's wrong, Loropechika?
+Dialogue: 0,0:06:10.76,0:06:11.89,main,Loropechika,0000,0000,0000,,We're under attack.
+Dialogue: 0,0:06:12.64,0:06:13.97,main,Loropechika,0000,0000,0000,,In total...
+Dialogue: 0,0:06:14.22,0:06:17.10,main,Loropechika,0000,0000,0000,,There are six in various locations \Nthroughout the kingdom.
+Dialogue: 0,0:06:17.10,0:06:18.48,main,Leopold,0000,0000,0000,,When did they...
+Dialogue: 0,0:06:19.19,0:06:23.27,main,Undine,0000,0000,0000,,They got through the Mana \NZone barrier with ease.
+Dialogue: 0,0:06:23.98,0:06:26.28,main,Loropechika,0000,0000,0000,,We've told all of the Spirit Guardians
+Dialogue: 0,0:06:26.28,0:06:29.82,main,Loropechika,0000,0000,0000,,the locations of the enemies \Nthrough Undine's clones.
+Dialogue: 0,0:06:30.32,0:06:32.95,main,Undine,0000,0000,0000,,They've gone to defend immediately.
+Dialogue: 0,0:06:32.95,0:06:33.99,main,Loropechika,0000,0000,0000,,But...
+Dialogue: 0,0:06:34.79,0:06:39.33,main,Loropechika,0000,0000,0000,,All six have the devil's power, \Nand they're all stage zero.
+Dialogue: 0,0:06:40.00,0:06:43.52,main,Loropechika,0000,0000,0000,,Even the Spirit Guardians may \Nhave trouble against them.
+Dialogue: 0,0:06:43.74,0:06:47.01,main,Loropdehicka,0000,0000,0000,,Depending on how this goes, \NI may need to ask for your help.
+Dialogue: 0,0:06:47.01,0:06:48.26,main,Undine,0000,0000,0000,,Loropechika!
+Dialogue: 0,0:06:49.67,0:06:51.55,main,Loropechika,0000,0000,0000,,This extraordinary magic...
+Dialogue: 0,0:06:53.97,0:06:56.35,main,Loropechika,0000,0000,0000,,It belongs to the Dark Triad's Vanica,
+Dialogue: 0,0:06:57.10,0:07:00.02,main,Loropechika,0000,0000,0000,,the devil-possessed who hosts Megicula.
+Dialogue: 0,0:07:03.02,0:07:04.23,main,Noelle,0000,0000,0000,,Megicula...
+Dialogue: 0,0:07:09.86,0:07:11.28,main,Vanica,0000,0000,0000,,Nice!
+Dialogue: 0,0:07:11.34,0:07:15.30,sign_26668_324_Black_Bulls__Hid,Vanica,0000,0000,0000,,{\blur3\fad(779,1)}Dark Disciple\N{\fs34}Robero Ringert
+Dialogue: 0,0:07:11.57,0:07:15.62,top,Vanica,0000,0000,0000,,From the looks of it, we've probably \Nkilled about a hundred of them.
+Dialogue: 0,0:07:16.58,0:07:19.54,main,Robero,0000,0000,0000,,Lady Vanica, we should—
+Dialogue: 0,0:07:20.04,0:07:21.25,main,Vanica,0000,0000,0000,,Not yet.
+Dialogue: 0,0:07:21.71,0:07:26.96,main,Vanica,0000,0000,0000,,The more filth we kill in this kingdom, \Nthe more serious Loropechika will get.
+Dialogue: 0,0:07:27.59,0:07:29.97,main,Vanica,0000,0000,0000,,That makes things way more fun!
+Dialogue: 0,0:07:29.97,0:07:32.93,main,Robero,0000,0000,0000,,As you wish, Lady Vanica...
+Dialogue: 0,0:07:35.39,0:07:38.72,main,,0000,0000,0000,,Please... step on me more!
+Dialogue: 0,0:07:39.35,0:07:40.18,main,Vanica,0000,0000,0000,,Gross.
+Dialogue: 0,0:07:44.65,0:07:48.73,italics,Nar,0000,0000,0000,,The neutral zone between the Clover \NKingdom and the Spade Kingdom.
+Dialogue: 0,0:07:50.49,0:07:55.57,italics,Nar,0000,0000,0000,,The Black Bulls' hideout was placed \Nhere as a front line of defense.
+Dialogue: 0,0:07:56.66,0:07:58.49,main,Asta,0000,0000,0000,,Hey, guys!
+Dialogue: 0,0:07:58.49,0:08:00.25,main,Asta,0000,0000,0000,,I've brought gifts!
+Dialogue: 0,0:08:01.20,0:08:06.13,main,Vanessa,0000,0000,0000,,Well, aren't you thoughtful \Nafter being gone for so long?
+Dialogue: 0,0:08:06.13,0:08:10.30,main,Vanessa,0000,0000,0000,,There are no good drinking \Nsnacks anywhere around here.
+Dialogue: 0,0:08:10.30,0:08:13.92,main,Grey,0000,0000,0000,,W-W-Welcome home!
+Dialogue: 0,0:08:14.18,0:08:17.05,main,Gauche,0000,0000,0000,,More importantly, I lack Marie essence.
+Dialogue: 0,0:08:17.05,0:08:19.93,main,Asta,0000,0000,0000,,Yeah, I can't really do anything about that.
+Dialogue: 0,0:08:19.93,0:08:23.81,main,Finral,0000,0000,0000,,Hey, the captains' meeting \Nshould be done soon.
+Dialogue: 0,0:08:23.81,0:08:26.35,main,Finral,0000,0000,0000,,Guess I'd better go pick up Yami.
+Dialogue: 0,0:08:26.35,0:08:28.69,main,Asta,0000,0000,0000,,Must be rough always going back and forth.
+Dialogue: 0,0:08:28.69,0:08:31.19,main,Asta,0000,0000,0000,,Thanks for everything you do, Finral.
+Dialogue: 0,0:08:31.19,0:08:34.20,main,Finral,0000,0000,0000,,Yeah, I'm freakin' exhausted.
+Dialogue: 0,0:08:34.61,0:08:38.91,main,Finral,0000,0000,0000,,It's pretty far, so I'm gonna make a few \Nstops along the way. It'll take a while.
+Dialogue: 0,0:08:38.91,0:08:40.08,main,Asta,0000,0000,0000,,Roger!
+Dialogue: 0,0:08:40.08,0:08:41.54,main,Finral,0000,0000,0000,,See you guys later.
+Dialogue: 0,0:08:42.08,0:08:46.58,main,Asta,0000,0000,0000,,How do you think Gordon's doing \Nwith his curse magic studies?
+Dialogue: 0,0:08:47.92,0:08:49.21,main,Gauche,0000,0000,0000,,How the hell would I know?
+Dialogue: 0,0:08:49.21,0:08:52.67,main,Gauche,0000,0000,0000,,I just know that I'm never \Ngoing near that house again.
+Dialogue: 0,0:09:00.10,0:09:01.85,main,Gordon,0000,0000,0000,,This is hard.
+Dialogue: 0,0:09:01.85,0:09:03.73,main,Nathan,0000,0000,0000,,You can do it, son.
+Dialogue: 0,0:09:03.73,0:09:05.56,main,Roxanne,0000,0000,0000,,I believe in you.
+Dialogue: 0,0:09:11.15,0:09:13.07,main,Jonna,0000,0000,0000,,Gordon, I've brought your dinner.
+Dialogue: 0,0:09:13.07,0:09:14.11,main,Nathan,0000,0000,0000,,This is...
+Dialogue: 0,0:09:14.36,0:09:19.45,main,Nathan,0000,0000,0000,,This is the same sandwich you made \Nme when we went on our first date!
+Dialogue: 0,0:09:22.66,0:09:25.21,main,Nathan,0000,0000,0000,,This takes me back to the good old days.
+Dialogue: 0,0:09:25.91,0:09:29.29,main,Jonna,0000,0000,0000,,You were eighteen. I was seventeen.
+Dialogue: 0,0:09:29.75,0:09:31.71,main,Jonna,0000,0000,0000,,It was destiny.
+Dialogue: 0,0:09:36.01,0:09:39.26,main,Roxanne,0000,0000,0000,,Tell me more about how \Nyou met, Mama, Papa.
+Dialogue: 0,0:09:39.26,0:09:40.51,main,Nathan,0000,0000,0000,,Of course.
+Dialogue: 0,0:09:41.10,0:09:43.27,main,Gordon,0000,0000,0000,,I'm just going to concentrate on my studies.
+Dialogue: 0,0:09:47.64,0:09:49.90,main,Asta,0000,0000,0000,,Is Henry resting?
+Dialogue: 0,0:09:50.48,0:09:52.65,main,Vanessa,0000,0000,0000,,Apparently, he's lacking mana.
+Dialogue: 0,0:09:53.15,0:09:57.11,main,Vanessa,0000,0000,0000,,A good number of us aren't here \Nbecause of training and such.
+Dialogue: 0,0:09:57.11,0:09:58.86,main,Vanessa,0000,0000,0000,,And since Charmy's gone right now,
+Dialogue: 0,0:09:58.86,0:10:01.58,main,Vanessa,0000,0000,0000,,we have no way of eating \Nmana recovery food.
+Dialogue: 0,0:10:02.28,0:10:07.08,main,Asta,0000,0000,0000,,Charmy's totally hooked on the \Nfood in the Heart Kingdom.
+Dialogue: 0,0:10:07.08,0:10:10.25,main,Vanessa,0000,0000,0000,,I guess Charmy's just \NCharmy wherever she goes.
+Dialogue: 0,0:10:10.25,0:10:12.25,main,Asta,0000,0000,0000,,By the way, where's Magna?
+Dialogue: 0,0:10:12.25,0:10:14.13,main,Vanessa,0000,0000,0000,,Oh, Magna...
+Dialogue: 0,0:10:14.13,0:10:17.22,main,Vanessa,0000,0000,0000,,Just when I thought he was \Nback from the Heart Kingdom,
+Dialogue: 0,0:10:17.22,0:10:20.80,main,Vanessa,0000,0000,0000,,he went off somewhere with Zora.
+Dialogue: 0,0:10:20.80,0:10:24.06,main,Vanessa,0000,0000,0000,,Maybe they get along since \Nthey both look so mean.
+Dialogue: 0,0:10:25.22,0:10:27.93,main,Henry,0000,0000,0000,,Every...one...
+Dialogue: 0,0:10:26.52,0:10:27.93,main,Asta,0000,0000,0000,,Henry?
+Dialogue: 0,0:10:27.93,0:10:28.81,main,Gauche,0000,0000,0000,,The hell?
+Dialogue: 0,0:10:29.56,0:10:30.81,main,Gauche,0000,0000,0000,,Did something happen?
+Dialogue: 0,0:10:32.56,0:10:35.07,main,Asta,0000,0000,0000,,The hideout is... floating!
+Dialogue: 0,0:10:36.74,0:10:39.40,main,Dante,0000,0000,0000,,It looks like Yami Sukehiro \Nisn't home right now.
+Dialogue: 0,0:10:40.11,0:10:45.62,main,Dante,0000,0000,0000,,I guess I'll play with all of \Nyou while I await his return.
+Dialogue: 0,0:10:46.08,0:10:47.91,main,Asta,0000,0000,0000,,An attack from the Spade Kingdom?!
+Dialogue: 0,0:10:47.91,0:10:49.83,main,Vanessa,0000,0000,0000,,He's the one making the hideout float?
+Dialogue: 0,0:10:49.83,0:10:51.08,main,Grey,0000,0000,0000,,By himself?
+Dialogue: 0,0:10:52.83,0:10:53.92,main,Vanessa,0000,0000,0000,,Rouge!
+Dialogue: 0,0:10:56.34,0:10:57.34,main,Dante,0000,0000,0000,,Oh?
+Dialogue: 0,0:10:57.63,0:11:01.10,main,Henry,0000,0000,0000,,Here... we... go!
+Dialogue: 0,0:11:03.18,0:11:06.14,italics,Henry,0000,0000,0000,,Recombination Magic: The Raging Black Bull.
+Dialogue: 0,0:11:07.68,0:11:11.23,main,Gauche,0000,0000,0000,,Well, he looks threatening enough. \NGuess I don't need to hold back!
+Dialogue: 0,0:11:11.23,0:11:13.44,main,Gauche,0000,0000,0000,,Large Reflect Refrain!
+Dialogue: 0,0:11:14.11,0:11:15.86,main,Henry,0000,0000,0000,,Mana Rocket Punch!
+Dialogue: 0,0:11:17.78,0:11:18.86,main,Dante,0000,0000,0000,,Insolence.
+Dialogue: 0,0:11:20.70,0:11:24.12,main,Dante,0000,0000,0000,,Gravity Magic: Presence of the Demon King.
+Dialogue: 0,0:11:28.16,0:11:30.16,main,Gauche,0000,0000,0000,,What the hell kind of magic is that?!
+Dialogue: 0,0:11:30.62,0:11:32.75,main,Gauche,0000,0000,0000,,The trees in the area are breaking in half!
+Dialogue: 0,0:11:33.29,0:11:36.50,main,Vanessa,0000,0000,0000,,If we didn't have Rouge, \Nwe'd end up like that, too.
+Dialogue: 0,0:11:37.59,0:11:42.01,main,Dante,0000,0000,0000,,Ah, you're still in your original shapes \Ndespite being hit by my spell.
+Dialogue: 0,0:11:43.43,0:11:48.26,main,Dante,0000,0000,0000,,Apparently, one of you has magic \Nthat can manipulate natural laws.
+Dialogue: 0,0:11:48.68,0:11:52.10,main,Dante,0000,0000,0000,,To think there was another besides \NYami Sukehiro at the arcane stage.
+Dialogue: 0,0:11:53.52,0:11:54.77,main,Dante,0000,0000,0000,,Excellent.
+Dialogue: 0,0:11:59.86,0:12:02.15,main,Asta,0000,0000,0000,,You're gonna have to deal with me!
+Dialogue: 0,0:12:02.53,0:12:05.53,main,Dante,0000,0000,0000,,Well, aren't you a lively one?
+Dialogue: 0,0:12:05.53,0:12:09.04,main,Dante,0000,0000,0000,,Let's see how much you're \Nable to entertain me.
+Dialogue: 0,0:12:19.09,0:12:20.73,main,Asta,0000,0000,0000,,Black Slash!
+Dialogue: 0,0:12:22.73,0:12:26.06,main,Dante,0000,0000,0000,,Gravity Magic: Presence of the Demon King.
+Dialogue: 0,0:12:29.70,0:12:33.33,main,Dante,0000,0000,0000,,He negated my magic and then attacked.
+Dialogue: 0,0:12:33.91,0:12:35.00,main,Dante,0000,0000,0000,,Not bad.
+Dialogue: 0,0:12:46.88,0:12:49.59,main,Dante,0000,0000,0000,,Magic that interferes with natural laws...
+Dialogue: 0,0:12:49.59,0:12:52.60,main,Dante,0000,0000,0000,,I didn't expect it to be enough \Nto overturn death.
+Dialogue: 0,0:13:00.10,0:13:02.76,main,Dante,0000,0000,0000,,You must be that cat's owner.
+Dialogue: 0,0:13:03.44,0:13:05.24,main,Vanessa,0000,0000,0000,,You two, get behind Rouge!
+Dialogue: 0,0:13:05.24,0:13:07.32,main,Asta,0000,0000,0000,,Fight me!
+Dialogue: 0,0:13:09.49,0:13:10.45,main,Vanessa,0000,0000,0000,,Asta!
+Dialogue: 0,0:13:12.03,0:13:16.20,italics,Vanessa,0000,0000,0000,,His magic... Not only is it powerful,\Nbut its range is too vast.
+Dialogue: 0,0:13:19.00,0:13:21.71,main,Dante,0000,0000,0000,,On top of using magic that \Ninterferes with natural laws,
+Dialogue: 0,0:13:21.71,0:13:24.30,main,Dante,0000,0000,0000,,you are absolutely beautiful. \NStunning, really.
+Dialogue: 0,0:13:25.13,0:13:28.88,main,Dante,0000,0000,0000,,You are worthy of Dante of the Dark Triad.
+Dialogue: 0,0:13:29.18,0:13:32.89,italics,Vanessa,0000,0000,0000,,The Dark Triad? From the Spade Kingdom?!
+Dialogue: 0,0:13:32.89,0:13:36.77,italics,Gauche,0000,0000,0000,,So he's the one ruling \Nover the Spade Kingdom?
+Dialogue: 0,0:13:37.14,0:13:41.19,main,Dante,0000,0000,0000,,You there. Be my woman.
+Dialogue: 0,0:13:41.19,0:13:42.27,main,Vanessa,0000,0000,0000,,What?!
+Dialogue: 0,0:13:42.27,0:13:44.77,main,Gauche,0000,0000,0000,,The hell? You can't be serious!
+Dialogue: 0,0:13:46.07,0:13:48.49,main,Dante,0000,0000,0000,,Oh, I am very serious.
+Dialogue: 0,0:13:48.49,0:13:50.80,main,Asta,0000,0000,0000,,So you're the evil boss, huh?!
+Dialogue: 0,0:13:52.99,0:13:54.95,main,Dante,0000,0000,0000,,Well, that was quite the surprise.
+Dialogue: 0,0:13:54.95,0:13:58.41,main,Dante,0000,0000,0000,,To think there was a devil-possessed \Nin the Clover Kingdom, too.
+Dialogue: 0,0:13:59.12,0:14:00.92,main,Asta,0000,0000,0000,,Black Divider!
+Dialogue: 0,0:14:08.47,0:14:10.71,main,Asta,0000,0000,0000,,Black Meteorite!
+Dialogue: 0,0:14:14.35,0:14:15.31,main,Asta,0000,0000,0000,,I can't hit him!
+Dialogue: 0,0:14:15.85,0:14:20.85,main,Vanessa,0000,0000,0000,,He dodged an anti-magic spell \Nmade to track mana... and so easily.
+Dialogue: 0,0:14:22.19,0:14:23.48,main,Grey,0000,0000,0000,,What do we do?
+Dialogue: 0,0:14:26.90,0:14:28.36,main,Gauche,0000,0000,0000,,If he's able to dodge,
+Dialogue: 0,0:14:28.36,0:14:31.11,main,Gauche,0000,0000,0000,,we just gotta keep attacking \Nuntil he can't dodge anymore!
+Dialogue: 0,0:14:31.36,0:14:33.78,main,Gauche,0000,0000,0000,,How nice of him to show up here for us.
+Dialogue: 0,0:14:34.24,0:14:38.49,main,Gauche,0000,0000,0000,,If we defeat him here, this whole \Npain-in-the-ass ordeal will be over.
+Dialogue: 0,0:14:39.16,0:14:40.20,main,Gauche,0000,0000,0000,,Asta!
+Dialogue: 0,0:14:40.62,0:14:41.88,main,Asta,0000,0000,0000,,Gauche!
+Dialogue: 0,0:14:41.88,0:14:43.92,main,Gauche,0000,0000,0000,,Look... at me!
+Dialogue: 0,0:14:44.79,0:14:47.62,main,Gauche,0000,0000,0000,,Mirror Magic: Mirror Brigade!
+Dialogue: 0,0:14:51.13,0:14:53.55,main,Both,0000,0000,0000,,Mirror Meteorites!
+Dialogue: 0,0:14:54.51,0:14:56.89,main,Asta,0000,0000,0000,,Take this!
+Dialogue: 0,0:14:57.52,0:15:02.60,main,Gauche,0000,0000,0000,,With that much anti-magic going\Naround, and all at super speed,
+Dialogue: 0,0:15:03.23,0:15:05.36,main,Gauche,0000,0000,0000,,he has no way to block or dodge them!
+Dialogue: 0,0:15:08.07,0:15:09.65,main,Dante,0000,0000,0000,,50%.
+Dialogue: 0,0:15:15.66,0:15:16.66,main,Gauche,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:15:16.66,0:15:18.40,main,Gauche,0000,0000,0000,,He warped space?!
+Dialogue: 0,0:15:19.58,0:15:20.45,main,Asta,0000,0000,0000,,What just...
+Dialogue: 0,0:15:26.33,0:15:28.71,main,Dante,0000,0000,0000,,Let us talk for a while.
+Dialogue: 0,0:15:29.21,0:15:33.42,main,Dante,0000,0000,0000,,Though we have different ranks, \Nwe are both possessed by devils.
+Dialogue: 0,0:15:33.42,0:15:36.03,main,Dante,0000,0000,0000,,I'm sure we can see eye to eye.
+Dialogue: 0,0:15:37.30,0:15:39.06,main,Asta,0000,0000,0000,,We're nothing alike!
+Dialogue: 0,0:15:39.56,0:15:44.27,main,Asta,0000,0000,0000,,All those terrible things you're \Ndoing to your own people...
+Dialogue: 0,0:15:44.94,0:15:47.27,main,Asta,0000,0000,0000,,I'll never see eye to eye with you!
+Dialogue: 0,0:15:48.52,0:15:51.61,main,Dante,0000,0000,0000,,I have no idea what you're talking about,
+Dialogue: 0,0:15:52.11,0:15:56.80,main,Dante,0000,0000,0000,,but if you're speaking ill of me, \NI will take it as a compliment.
+Dialogue: 0,0:15:57.45,0:15:59.78,main,Dante,0000,0000,0000,,Animals have no malice.
+Dialogue: 0,0:16:00.37,0:16:03.75,main,Dante,0000,0000,0000,,It is the supreme emotion \Nthat only humans have.
+Dialogue: 0,0:16:04.83,0:16:08.63,main,Dante,0000,0000,0000,,I'm sure you're very \Nfamiliar with it yourself.
+Dialogue: 0,0:16:08.63,0:16:11.00,main,Dante,0000,0000,0000,,Rage, hatred,
+Dialogue: 0,0:16:11.00,0:16:13.72,main,Dante,0000,0000,0000,,revenge, and destruction...
+Dialogue: 0,0:16:13.92,0:16:15.59,main,Dante,0000,0000,0000,,The power of malice.
+Dialogue: 0,0:16:16.09,0:16:19.22,main,Dante,0000,0000,0000,,When you unleash those feelings of malice,
+Dialogue: 0,0:16:19.97,0:16:22.27,main,Dante,0000,0000,0000,,you are the most human.
+Dialogue: 0,0:16:22.77,0:16:27.65,main,Dante,0000,0000,0000,,Evil is humanity's true form.
+Dialogue: 0,0:16:29.36,0:16:30.61,main,Asta,0000,0000,0000,,You're wrong!
+Dialogue: 0,0:16:31.11,0:16:34.86,main,Asta,0000,0000,0000,,Even I have times when \NI'm filled with bad thoughts.
+Dialogue: 0,0:16:35.70,0:16:38.49,main,Asta,0000,0000,0000,,Sometimes that even makes me more powerful!
+Dialogue: 0,0:16:38.49,0:16:45.71,main,Asta,0000,0000,0000,,But I have a strong heart that allows \Nme to control that and use it for good!
+Dialogue: 0,0:16:45.71,0:16:47.99,main,Asta,0000,0000,0000,,That's what it means to be human!
+Dialogue: 0,0:16:48.88,0:16:53.96,main,Dante,0000,0000,0000,,It appears that you're a rather \Nunique devil-possessed.
+Dialogue: 0,0:16:58.13,0:17:02.00,main,Vanessa,0000,0000,0000,,As long as I'm here, I won't \Nlet any of my friends die!
+Dialogue: 0,0:17:03.14,0:17:04.25,main,Dante,0000,0000,0000,,Honestly...
+Dialogue: 0,0:17:04.81,0:17:07.73,main,Dante,0000,0000,0000,,You are my woman.
+Dialogue: 0,0:17:08.19,0:17:11.56,main,Dante,0000,0000,0000,,That means you can't use \Nthat power for anyone else,
+Dialogue: 0,0:17:12.11,0:17:13.50,main,Dante,0000,0000,0000,,you bad little girl.
+Dialogue: 0,0:17:15.22,0:17:17.24,main,Dante,0000,0000,0000,,60%.
+Dialogue: 0,0:17:21.91,0:17:26.83,main,Vanessa,0000,0000,0000,,No... I trained and worked \Nso hard to increase my mana,
+Dialogue: 0,0:17:27.50,0:17:30.29,main,Vanessa,0000,0000,0000,,and it was all expended in an instant.
+Dialogue: 0,0:17:34.09,0:17:39.43,italics,Henry,0000,0000,0000,,This isn't good. I don't have enough mana\N to move the Black Bull... any longer...
+Dialogue: 0,0:17:46.85,0:17:48.81,italics,Gauche,0000,0000,0000,,I can't... move...
+Dialogue: 0,0:17:49.81,0:17:53.29,italics,Gauche,0000,0000,0000,,We're being pinned down from every direction!
+Dialogue: 0,0:17:53.77,0:17:56.03,italics,Grey,0000,0000,0000,,I have to do something...
+Dialogue: 0,0:17:59.28,0:18:03.06,main,Dante,0000,0000,0000,,Gravity Magic: Evil God's Pressure Craft.
+Dialogue: 0,0:18:04.78,0:18:06.04,main,Dante,0000,0000,0000,,You leave me no choice.
+Dialogue: 0,0:18:08.50,0:18:12.33,main,Dante,0000,0000,0000,,I'll awaken your true feelings for you.
+Dialogue: 0,0:18:12.71,0:18:13.63,main,Asta,0000,0000,0000,,Don't...
+Dialogue: 0,0:18:15.84,0:18:17.05,main,Asta,0000,0000,0000,,Stop...
+Dialogue: 0,0:18:19.09,0:18:20.08,main,Asta,0000,0000,0000,,Stop...
+Dialogue: 0,0:18:22.01,0:18:24.83,main,Asta,0000,0000,0000,,Stop!
+Dialogue: 0,0:18:31.09,0:18:32.56,main,Vanessa and Grey,0000,0000,0000,,Gauche!
+Dialogue: 0,0:18:38.36,0:18:41.86,flashback,Asta's mother,0000,0000,0000,,My beloved... son...
+Dialogue: 0,0:18:54.13,0:18:55.87,main,Dante,0000,0000,0000,,Now that's what truly makes you...
+Dialogue: 0,0:18:57.17,0:18:58.46,main,Dante,0000,0000,0000,,human!
+Dialogue: 0,0:19:01.22,0:19:05.80,italics,Vanessa,0000,0000,0000,,Asta's attack managed to erase that \Nguy's magic in this whole area.
+Dialogue: 0,0:19:14.00,0:19:17.25,main,Dante,0000,0000,0000,,Now, then... Let's see how you do.
+Dialogue: 0,0:19:25.78,0:19:30.78,main,Dante,0000,0000,0000,,Attacks like that will never reach me.
+Dialogue: 0,0:19:31.66,0:19:38.28,main,Dante,0000,0000,0000,,I wanted to chat a bit, but it appears \Nyou're too busy losing yourself.
+Dialogue: 0,0:19:38.67,0:19:42.30,main,Dante,0000,0000,0000,,Who might that devil be,
+Dialogue: 0,0:19:42.30,0:19:43.63,main,Dante,0000,0000,0000,,Lucifero?
+Dialogue: 0,0:19:44.72,0:19:50.81,main,Lucifero,0000,0000,0000,,I do not know. If there are any high-ranking \Ndevils in this world right now,
+Dialogue: 0,0:19:50.81,0:19:53.64,main,Lucifero,0000,0000,0000,,it would probably be Zagred, \Nwho left the underworld.
+Dialogue: 0,0:19:53.64,0:19:56.31,main,Lucifero,0000,0000,0000,,But it doesn't appear to be him.
+Dialogue: 0,0:19:56.81,0:20:00.61,main,Lucifero,0000,0000,0000,,A makeshift power like \Nbeing able to erase magic
+Dialogue: 0,0:20:00.61,0:20:04.07,main,Lucifero,0000,0000,0000,,is probably the work of a low-ranking \Nnothing with only trifling mana.
+Dialogue: 0,0:20:04.49,0:20:08.70,main,Dante,0000,0000,0000,,So that means he's no match for us,
+Dialogue: 0,0:20:08.70,0:20:11.70,main,Dante,0000,0000,0000,,the ones possessed by \Nthe highest-ranking devils...
+Dialogue: 0,0:20:12.58,0:20:14.91,main,Dante,0000,0000,0000,,The Dark Triad!
+Dialogue: 0,0:20:40.56,0:20:42.47,italics,Vanessa,0000,0000,0000,,What in the world is this battle?!
+Dialogue: 0,0:20:43.15,0:20:47.15,italics,Vanessa,0000,0000,0000,,Asta... Are his devil powers going berserk?
+Dialogue: 0,0:20:47.74,0:20:50.98,italics,Vanessa,0000,0000,0000,,But right now, we have no \Nchoice but to rely on Asta.
+Dialogue: 0,0:20:51.91,0:20:55.00,italics,Vanessa,0000,0000,0000,,This isn't good. He won't last long.
+Dialogue: 0,0:20:55.75,0:20:58.50,italics,Vanessa,0000,0000,0000,,Nero, who can seal wounds, isn't here.
+Dialogue: 0,0:20:59.47,0:21:02.61,italics,Vanessa,0000,0000,0000,,Even if she was, this might be too...
+Dialogue: 0,0:21:02.84,0:21:04.01,main,Grey,0000,0000,0000,,Gauche...
+Dialogue: 0,0:21:05.01,0:21:06.13,main,Grey,0000,0000,0000,,Gauche...
+Dialogue: 0,0:21:08.43,0:21:09.59,main,Grey,0000,0000,0000,,I couldn't...
+Dialogue: 0,0:21:10.14,0:21:12.01,main,Grey,0000,0000,0000,,I couldn't do anything...
+Dialogue: 0,0:21:14.60,0:21:20.48,main,Grey,0000,0000,0000,,My transformation magic... \Nis absolutely useless!
+Dialogue: 0,0:21:24.57,0:21:27.39,main,Dante,0000,0000,0000,,I'm impressed that you can still \Ndo all this in that state.
+Dialogue: 0,0:21:28.11,0:21:30.32,main,Dante,0000,0000,0000,,I guess I'll finish you now.
+Dialogue: 0,0:21:39.47,0:21:42.49,main,Dante,0000,0000,0000,,Goodness. You're still not giving up.
+Dialogue: 0,0:21:43.03,0:21:45.28,main,Dante,0000,0000,0000,,Anything you do is futile.
+Dialogue: 0,0:21:51.34,0:21:53.61,italics,Dante,0000,0000,0000,,He managed to predict...
+Dialogue: 0,0:21:54.29,0:21:55.52,italics,Dante,0000,0000,0000,,where I'd show up?
+Dialogue: 0,0:22:01.15,0:22:03.01,main,Dante,0000,0000,0000,,How dare you...
+Dialogue: 0,0:22:06.42,0:22:07.98,main,Dante,0000,0000,0000,,mark me?
+Dialogue: 0,0:23:39.92,0:23:41.87,Default,Grey,0000,0000,0000,,Please don't die, Gauche!
+Dialogue: 0,0:23:41.87,0:23:43.98,Default,Grey,0000,0000,0000,,After all, you're my...
+Dialogue: 0,0:23:43.98,0:23:44.77,Default,Asta,0000,0000,0000,,Your what?
+Dialogue: 0,0:23:44.77,0:23:46.47,Default,Grey,0000,0000,0000,,I-I'm so embarrassed!
+Dialogue: 0,0:23:46.47,0:23:51.22,Default,Grey,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 163: \N"Dante VS The Captain of the Black Bulls."
+Dialogue: 0,0:23:47.42,1:00:00.80,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(196,1)}Page 162\N\N{\fs18}
+Dialogue: 0,0:23:51.22,0:23:51.94,Default,Asta,0000,0000,0000,,What is he, now?
+Dialogue: 0,0:23:51.94,0:23:53.73,Default,Grey,0000,0000,0000,,I'm so embarrassed!

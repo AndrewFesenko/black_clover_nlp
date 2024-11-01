@@ -1,0 +1,375 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0080,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,0030,0030,0018,1
+Style: sign_4456_19_Village_in_the_B,Times New Roman,30,&H00FDFCF9,&H000000FF,&H0018150F,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0116,0116,0085,1
+Style: sign_19920_225_Wizard_King_Gran,Times New Roman,12,&H00E9EEEE,&H000000FF,&H00293934,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0030,0030,0020,1
+Style: sign_5959_41_The_Golden_Dawn_,Times New Roman,30,&H00FDFCF9,&H000000FF,&H00070B08,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0085,1
+Style: sign_7329_57_Black_Bulls__Bas,Times New Roman,30,&H00FDFCF9,&H000000FF,&H000F0F10,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0085,1
+Style: sign_12510_122_City_in_the_Comm,Times New Roman,24,&H00FDFCF9,&H000000FF,&H000B0D0D,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0080,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.69,0:00:06.79,italics,Nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.11,0:00:15.31,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.52,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:53.39,0:00:54.75,main,Thief 3,0000,0000,0000,,He's so strong...
+Dialogue: 0,0:00:54.75,0:00:57.30,main,Thief 2,0000,0000,0000,,What the hell was that magic?
+Dialogue: 0,0:00:57.64,0:00:59.62,main,Gauche,0000,0000,0000,,So, how would you like to die?
+Dialogue: 0,0:00:59.62,0:01:05.02,main,Thief 1,0000,0000,0000,,P-Please spare us! We'll never \Nattack the village again!
+Dialogue: 0,0:01:05.02,0:01:07.15,main,Gauche,0000,0000,0000,,I won't kill you this time.
+Dialogue: 0,0:01:07.15,0:01:08.18,main,Thief 1,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:08.18,0:01:09.81,main,Gauche,0000,0000,0000,,Because today is...
+Dialogue: 0,0:01:13.51,0:01:15.73,main,Gauche,0000,0000,0000,,Marie's birthday.
+Dialogue: 0,0:01:16.82,0:01:17.82,main,Thief 1,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:17.82,0:01:20.87,main,Gauche,0000,0000,0000,,Come on. Celebrate Marie's birthday with me.
+Dialogue: 0,0:01:20.87,0:01:22.20,main,Thief 1,0000,0000,0000,,Who the heck is that?!
+Dialogue: 0,0:01:22.20,0:01:25.11,main,Gauche,0000,0000,0000,,Rejoice greatly, rejoice \Nwith all your might,
+Dialogue: 0,0:01:25.11,0:01:26.31,main,Gauche,0000,0000,0000,,and then die.
+Dialogue: 0,0:01:26.31,0:01:28.76,main,Thief 1,0000,0000,0000,,I'm going to die anyway?!
+Dialogue: 0,0:01:45.28,0:01:48.94,Ep Title,Sign,0000,0000,0000,,{\fad(500,1)}The Mirror Mage
+Dialogue: 0,0:03:01.97,0:03:05.22,sign_4456_19_Village_in_the_B,Sign,0000,0000,0000,,Village in the Boonies: Hage
+Dialogue: 0,0:03:07.52,0:03:08.89,main,Lily,0000,0000,0000,,Father!
+Dialogue: 0,0:03:08.89,0:03:11.14,main,Lily,0000,0000,0000,,They sent money again this month.
+Dialogue: 0,0:03:12.35,0:03:13.64,main,Father,0000,0000,0000,,Great!
+Dialogue: 0,0:03:15.45,0:03:17.45,main,Nash,0000,0000,0000,,Are they doing well?
+Dialogue: 0,0:03:17.45,0:03:19.83,main,Rekka,0000,0000,0000,,We'll be able to eat lots of tatoes again.
+Dialogue: 0,0:03:19.83,0:03:21.15,main,Both,0000,0000,0000,,Yay!
+Dialogue: 0,0:03:21.15,0:03:28.16,sign_19920_225_Wizard_King_Gran,Sign,0000,0000,0000,,Wizard King\NGrand Magic Knight\N1st-5th Class Senior Magic Knight\N1st-5th Class Intermediate Magic Knight\N1st Class Junior Magic Knight\N2nd Class Junior Magic Knight\N3rd Class Junior Magic Knight\N4th Class Junior Magic Knight\N5th Class Junior Magic Knight
+Dialogue: 0,0:03:21.93,0:03:25.36,main,Lily,0000,0000,0000,,Apparently Yuno became a\Nfirst-class junior Magic Knight.
+Dialogue: 0,0:03:25.36,0:03:28.16,main,Nash,0000,0000,0000,,That's awesome! It's only been \Ntwo months since he joined!
+Dialogue: 0,0:03:28.16,0:03:31.21,main,Father,0000,0000,0000,,Yuno is the hope of Hage!
+Dialogue: 0,0:03:31.21,0:03:32.27,main,Arlu,0000,0000,0000,,What about Asta?
+Dialogue: 0,0:03:32.27,0:03:36.24,main,Father,0000,0000,0000,,I'm sure he's trying too hard \Nand being a burden to everyone.
+Dialogue: 0,0:03:36.24,0:03:39.42,main,Father,0000,0000,0000,,Asta, you can come home at any time!
+Dialogue: 0,0:03:39.42,0:03:45.13,main,Lily,0000,0000,0000,,Let's see... "Hello, Sister Lily, \Nbrats at the church, and Mayor."
+Dialogue: 0,0:03:45.13,0:03:47.68,main,Father,0000,0000,0000,,What about me?!
+Dialogue: 0,0:03:47.68,0:03:51.43,sign_19920_225_Wizard_King_Gran,Sign,0000,0000,0000,,Wizard King\NGrand Magic Knight\N1st-5th Class Senior Magic Knight\N1st-5th Class Intermediate Magic Knight\N1st Class Junior Magic Knight\N2nd Class Junior Magic Knight\N3rd Class Junior Magic Knight\N4th Class Junior Magic Knight\N5th Class Junior Magic Knight
+Dialogue: 0,0:03:48.39,0:03:51.43,main,Lily,0000,0000,0000,,Asta's also become a \Nthird-class junior Magic Knight?!
+Dialogue: 0,0:03:51.43,0:03:53.31,main,All,0000,0000,0000,,What?!
+Dialogue: 0,0:03:54.65,0:03:57.56,italics,Nash,0000,0000,0000,,I see... I guess Asta's working hard, too.
+Dialogue: 0,0:03:58.64,0:04:00.32,main,Father,0000,0000,0000,,To think our Asta is finally...
+Dialogue: 0,0:04:00.76,0:04:04.65,main,Father,0000,0000,0000,,Both of you stay healthy, and do your best!
+Dialogue: 0,0:04:04.65,0:04:07.66,sign_5959_41_The_Golden_Dawn_,Sign,0000,0000,0000,,The Golden Dawn's Headquarters
+Dialogue: 0,0:04:09.55,0:04:10.79,main,Klaus,0000,0000,0000,,Yuno.
+Dialogue: 0,0:04:11.41,0:04:14.55,main,Klaus,0000,0000,0000,,I heard you moved up to\Nfirst-class junior Magic Knight.
+Dialogue: 0,0:04:14.55,0:04:15.92,main,Mimosa,0000,0000,0000,,Congratulations.
+Dialogue: 0,0:04:16.67,0:04:18.04,main,Yuno,0000,0000,0000,,It's no big deal.
+Dialogue: 0,0:04:18.04,0:04:19.17,main,Klaus,0000,0000,0000,,Exactly.
+Dialogue: 0,0:04:19.17,0:04:21.61,main,Klaus,0000,0000,0000,,We wouldn't want you to get too cocky.
+Dialogue: 0,0:04:21.61,0:04:25.17,main,Klaus,0000,0000,0000,,I still far surpass you in \Nboth rank and experience.
+Dialogue: 0,0:04:30.41,0:04:31.57,main,Mimosa,0000,0000,0000,,Klaus?
+Dialogue: 0,0:04:33.88,0:04:35.64,main,Klaus,0000,0000,0000,,Take this.
+Dialogue: 0,0:04:37.89,0:04:40.65,main,Klaus,0000,0000,0000,,A little gift from your senior\Nin honor of your promotion.
+Dialogue: 0,0:04:41.07,0:04:44.19,main,Klaus,0000,0000,0000,,You sent all of your pay \Nback home, didn't you?
+Dialogue: 0,0:04:46.48,0:04:49.16,main,Mimosa,0000,0000,0000,,Klaus is so shy.
+Dialogue: 0,0:04:49.61,0:04:53.84,main,Mimosa,0000,0000,0000,,He was so happy when he heard \Nyou had been promoted
+Dialogue: 0,0:04:53.84,0:04:55.91,main,Mimosa,0000,0000,0000,,that his glasses were sparkling with joy.
+Dialogue: 0,0:04:56.76,0:04:58.16,main,Yuno,0000,0000,0000,,It's a bit smothering.
+Dialogue: 0,0:05:01.79,0:05:04.84,sign_7329_57_Black_Bulls__Bas,Sign,0000,0000,0000,,Black Bulls' Base
+Dialogue: 0,0:05:05.29,0:05:09.22,main,Yami,0000,0000,0000,,All right, all eyes up here.
+Dialogue: 0,0:05:09.22,0:05:12.22,main,Yami,0000,0000,0000,,We just got paid, so no work today.
+Dialogue: 0,0:05:12.60,0:05:14.85,main,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:05:14.85,0:05:17.85,main,Asta,0000,0000,0000,,All right! I'm gonna train real hard!
+Dialogue: 0,0:05:19.52,0:05:21.65,main,Magna,0000,0000,0000,,Thanks, Mr. Yami!
+Dialogue: 0,0:05:21.65,0:05:23.27,main,Magna,0000,0000,0000,,Awesome decision, sir!
+Dialogue: 0,0:05:23.63,0:05:26.05,main,Vanessa,0000,0000,0000,,Let's drink! The night's still young.
+Dialogue: 0,0:05:26.57,0:05:29.39,main,Charmy,0000,0000,0000,,Time for second breakfast!
+Dialogue: 0,0:05:29.39,0:05:30.99,main,Charmy,0000,0000,0000,,Munchy, munchy, munchy...
+Dialogue: 0,0:05:31.37,0:05:32.98,main,Finral,0000,0000,0000,,I'm gonna hit on all the girls!
+Dialogue: 0,0:05:32.98,0:05:34.59,main,Finral,0000,0000,0000,,Ocean girls? Mountain girls?
+Dialogue: 0,0:05:34.59,0:05:38.00,main,Finral,0000,0000,0000,,All the girls meet... me!
+Dialogue: 0,0:05:39.75,0:05:43.88,main,Yami,0000,0000,0000,,By the way, Gauche, good job \Nhandling that many guys yesterday.
+Dialogue: 0,0:05:44.29,0:05:49.18,main,Gauche,0000,0000,0000,,Today's my sister's birthday, so could I have \Nthe next year off, until her next birthday?
+Dialogue: 0,0:05:49.18,0:05:50.12,main,Yami,0000,0000,0000,,No.
+Dialogue: 0,0:05:50.12,0:05:53.63,main,Luck,0000,0000,0000,,I'm so bored! I wonder if anyone \Nwill attack the royal capital again.
+Dialogue: 0,0:05:53.63,0:05:55.82,main,Luck,0000,0000,0000,,Hey! Maybe I'll attack it!
+Dialogue: 0,0:05:55.82,0:05:57.27,main,Yami,0000,0000,0000,,That's a bigger no.
+Dialogue: 0,0:05:57.27,0:05:59.52,main,Gordon,0000,0000,0000,,Your luck with money goes \Nup if you polish gold.
+Dialogue: 0,0:05:59.52,0:06:02.00,main,Noelle,0000,0000,0000,,None of these guys intend to work at all...
+Dialogue: 0,0:06:04.80,0:06:08.37,main,Charmy,0000,0000,0000,,Cotton Creation Magic: Sheep Cooks!
+Dialogue: 0,0:06:21.87,0:06:24.04,main,Charmy,0000,0000,0000,,Time to eat!
+Dialogue: 0,0:06:25.11,0:06:28.12,main,Charmy,0000,0000,0000,,Munchy, munchy, munchy...
+Dialogue: 0,0:06:26.40,0:06:28.12,main,Asta,0000,0000,0000,,You've got tatoes!
+Dialogue: 0,0:06:28.12,0:06:33.28,main,Charmy,0000,0000,0000,,I procured the local specialty from my \Nmeal-saving prince's hometown, Hage Village!
+Dialogue: 0,0:06:33.28,0:06:34.64,main,Charmy,0000,0000,0000,,Dig in, everyone!
+Dialogue: 0,0:06:34.64,0:06:37.89,main,Asta,0000,0000,0000,,Thanks! So good!
+Dialogue: 0,0:06:38.58,0:06:41.92,main,Yami,0000,0000,0000,,It's so dry. Must be full of fiber.
+Dialogue: 0,0:06:43.55,0:06:45.15,main,Luck,0000,0000,0000,,It's so flaky.
+Dialogue: 0,0:06:45.76,0:06:48.61,main,Magna,0000,0000,0000,,It completely dried out my mouth.
+Dialogue: 0,0:06:49.24,0:06:51.75,main,Vanessa,0000,0000,0000,,So dry...
+Dialogue: 0,0:06:55.07,0:06:56.63,main,Charmy,0000,0000,0000,,Munchy, munchy...
+Dialogue: 0,0:06:56.63,0:07:01.71,main,Charmy,0000,0000,0000,,My love for my meal-saving prince \Nprovides the best seasoning!
+Dialogue: 0,0:07:02.43,0:07:06.71,main,Gauche,0000,0000,0000,,I wonder what I should get my \Ngoddess Marie for her birthday.
+Dialogue: 0,0:07:07.16,0:07:10.90,main,Finral,0000,0000,0000,,All right! I'm gonna get all the cuties—
+Dialogue: 0,0:07:10.90,0:07:11.72,main,Yami,0000,0000,0000,,Hold it.
+Dialogue: 0,0:07:11.72,0:07:13.53,main,Finral,0000,0000,0000,,Oh, right...
+Dialogue: 0,0:07:13.53,0:07:17.11,main,Finral,0000,0000,0000,,You want to do some gambling, so you \Nwant me to take you into town again?
+Dialogue: 0,0:07:17.11,0:07:18.56,main,Yami,0000,0000,0000,,No, before that...
+Dialogue: 0,0:07:19.80,0:07:24.31,main,Yami,0000,0000,0000,,Not sure if it's the fiber working, \Nbut I'm about to hit my limit right now.
+Dialogue: 0,0:07:24.31,0:07:27.82,main,Finral,0000,0000,0000,,That is the one limit you may not hit!
+Dialogue: 0,0:07:27.82,0:07:29.48,main,Finral,0000,0000,0000,,Evil, begone!
+Dialogue: 0,0:07:32.59,0:07:33.91,main,Noelle,0000,0000,0000,,Honestly...
+Dialogue: 0,0:07:33.91,0:07:37.51,main,Noelle,0000,0000,0000,,How am I supposed to find anything to do \Nwhen we get a day off on such short notice?
+Dialogue: 0,0:07:37.51,0:07:38.99,main,Asta,0000,0000,0000,,Magna!
+Dialogue: 0,0:07:38.99,0:07:40.51,main,Asta,0000,0000,0000,,If you have some time,
+Dialogue: 0,0:07:40.51,0:07:43.75,main,Asta,0000,0000,0000,,I was wondering if you could drop me off \Nsomewhere on your super-awesome broom!
+Dialogue: 0,0:07:44.91,0:07:49.50,main,Magna,0000,0000,0000,,I can't say no to my cute little underling.\NWhere do you wanna go?
+Dialogue: 0,0:07:49.86,0:07:51.18,main,Asta,0000,0000,0000,,To Nean!
+Dialogue: 0,0:07:51.18,0:07:53.01,italics,Noelle,0000,0000,0000,,I-Isn't that...
+Dialogue: 0,0:07:53.97,0:07:56.85,italics,Noelle,0000,0000,0000,,The place where those guys had the mixer?
+Dialogue: 0,0:07:59.63,0:08:01.56,main,Magna,0000,0000,0000,,And what are you gonna do there?
+Dialogue: 0,0:08:01.56,0:08:02.96,main,Asta,0000,0000,0000,,Well...
+Dialogue: 0,0:08:02.96,0:08:04.14,italics,Noelle,0000,0000,0000,,Well?
+Dialogue: 0,0:08:04.14,0:08:05.94,main,Asta,0000,0000,0000,,I'll tell you on the way!
+Dialogue: 0,0:08:05.94,0:08:07.80,italics,Noelle,0000,0000,0000,,What the heck?!
+Dialogue: 0,0:08:07.80,0:08:10.87,italics,Noelle,0000,0000,0000,,I-It's not like I care what he does.
+Dialogue: 0,0:08:10.87,0:08:13.90,italics,Noelle,0000,0000,0000,,A-And I have absolutely no interest \Nin who he's going to see!
+Dialogue: 0,0:08:14.30,0:08:16.07,main,Magna,0000,0000,0000,,Get on. Let's get going.
+Dialogue: 0,0:08:16.07,0:08:17.43,main,Asta,0000,0000,0000,,Huh? Right now?
+Dialogue: 0,0:08:17.43,0:08:19.15,main,Magna,0000,0000,0000,,Otherwise, we're not going.
+Dialogue: 0,0:08:19.15,0:08:20.19,main,Asta,0000,0000,0000,,Let's go!
+Dialogue: 0,0:08:20.67,0:08:23.47,main,Magna,0000,0000,0000,,Hold on tight!
+Dialogue: 0,0:08:29.08,0:08:33.36,main,Noelle,0000,0000,0000,,O-Okay, so I {\i1}do{\i0} want to know!
+Dialogue: 0,0:08:35.15,0:08:39.89,sign_12510_122_City_in_the_Comm,Sign,0000,0000,0000,,{\fad(751,1)}City in the Common Realm: Nean
+Dialogue: 0,0:08:42.39,0:08:45.89,italics,Gauche,0000,0000,0000,,To my dear, beloved little sister Marie...
+Dialogue: 0,0:08:45.89,0:08:49.40,italics,Gauche,0000,0000,0000,,I just arrived in the city you live in.
+Dialogue: 0,0:08:50.20,0:08:54.55,italics,Gauche,0000,0000,0000,,My job as a Magic Knight is rough, but if\Nit's for you, it's not really rough at all.
+Dialogue: 0,0:08:55.05,0:08:57.66,italics,Gauche,0000,0000,0000,,I can even buy you presents with my pay.
+Dialogue: 0,0:09:07.80,0:09:11.75,italics,Gauche,0000,0000,0000,,A former convict like myself is\Nonly able to live a proper life
+Dialogue: 0,0:09:12.52,0:09:17.73,italics,Gauche,0000,0000,0000,,for the sake of your angelic cuteness, \NMarie. It's all thanks to you.
+Dialogue: 0,0:09:20.17,0:09:23.03,italics,Gauche,0000,0000,0000,,Ah, already, my nose won't stop bleeding.
+Dialogue: 0,0:09:23.69,0:09:24.93,main,Shop,0000,0000,0000,,Lord Gauche!
+Dialogue: 0,0:09:25.65,0:09:26.93,main,Shop,0000,0000,0000,,We've been waiting for you!
+Dialogue: 0,0:09:26.93,0:09:31.44,main,Shop,0000,0000,0000,,Come in! We've got plenty of birthday \Npresents for you to choose from!
+Dialogue: 0,0:09:32.04,0:09:33.34,main,Gauche,0000,0000,0000,,Hurry up and show me around.
+Dialogue: 0,0:09:34.10,0:09:34.96,main,Shop,0000,0000,0000,,Right away!
+Dialogue: 0,0:09:35.36,0:09:36.75,main,Shop,0000,0000,0000,,First up, we have these!
+Dialogue: 0,0:09:36.75,0:09:40.29,main,Shop,0000,0000,0000,,All little girls love plushies, \Nand plushies love little girls!
+Dialogue: 0,0:09:40.29,0:09:42.95,main,Shop,0000,0000,0000,,I'm sure her delight will\Nshow in her angelic smile.
+Dialogue: 0,0:09:46.09,0:09:48.46,main,Marie,0000,0000,0000,,Thank you, Brother!
+Dialogue: 0,0:09:51.31,0:09:53.20,main,Gauche,0000,0000,0000,,I-I'll take them all...
+Dialogue: 0,0:09:53.20,0:09:54.21,main,Shop,0000,0000,0000,,Thank you, sir!
+Dialogue: 0,0:09:54.21,0:09:55.61,main,Shop,0000,0000,0000,,Next, we have this.
+Dialogue: 0,0:09:55.61,0:09:59.93,main,Shop,0000,0000,0000,,I'm sure the little darling will enjoy \Nher days playing house as she fantasizes
+Dialogue: 0,0:09:59.93,0:10:02.67,main,Shop,0000,0000,0000,,about living in a mansion like \Nthis with her beloved brother.
+Dialogue: 0,0:10:05.52,0:10:07.73,main,Marie,0000,0000,0000,,Brother!
+Dialogue: 0,0:10:08.67,0:10:10.23,main,Marie,0000,0000,0000,,Welcome home!
+Dialogue: 0,0:10:13.43,0:10:14.99,main,Gauche,0000,0000,0000,,I'll take that, too.
+Dialogue: 0,0:10:14.99,0:10:16.07,main,Shop,0000,0000,0000,,Thank you, sir!
+Dialogue: 0,0:10:16.07,0:10:20.95,main,Shop,0000,0000,0000,,Lastly, we have this! With this outfit, \Nyour little sister can be a real angel!
+Dialogue: 0,0:10:24.28,0:10:26.00,main,Marie,0000,0000,0000,,Brother...
+Dialogue: 0,0:10:26.00,0:10:27.08,main,Marie,0000,0000,0000,,I love you!
+Dialogue: 0,0:10:31.63,0:10:33.71,main,Gauche,0000,0000,0000,,Give me everything in the shop.
+Dialogue: 0,0:10:33.71,0:10:36.12,main,Shop,0000,0000,0000,,Thank you, sir!
+Dialogue: 0,0:10:39.24,0:10:42.97,main,Magna,0000,0000,0000,,What?! You're going to see a \Nchick you met at the mixer?!
+Dialogue: 0,0:10:42.97,0:10:47.43,main,Asta,0000,0000,0000,,Yup! I promised Rebecca that I would \Nplay with her little siblings.
+Dialogue: 0,0:10:47.43,0:10:52.60,main,Magna,0000,0000,0000,,M-Man, you're already meeting \Nher family? Way to go!
+Dialogue: 0,0:10:52.60,0:10:53.94,main,Magna,0000,0000,0000,,Don't mess this up.
+Dialogue: 0,0:10:53.94,0:10:55.66,main,Asta,0000,0000,0000,,Got it!
+Dialogue: 0,0:10:55.66,0:10:57.20,main,Magna,0000,0000,0000,,There it is!
+Dialogue: 0,0:10:57.20,0:11:01.51,main,Asta,0000,0000,0000,,All right! I'm going to play \Nwith all the strength I've got!
+Dialogue: 0,0:11:01.51,0:11:03.91,main,Magna,0000,0000,0000,,Don't get too crazy!
+Dialogue: 0,0:11:13.81,0:11:16.67,italics,Gauche,0000,0000,0000,,To my dear, beloved little sister Marie...
+Dialogue: 0,0:11:17.52,0:11:20.71,italics,Gauche,0000,0000,0000,,Please forgive your brother for \Nbeing late due to his anemia.
+Dialogue: 0,0:11:21.48,0:11:27.35,italics,Gauche,0000,0000,0000,,I bought you lots of birthday \Npresents. Please be happy!
+Dialogue: 0,0:11:28.36,0:11:32.44,italics,Gauche,0000,0000,0000,,I used up all of my pay, but no\N price is too high for Marie.
+Dialogue: 0,0:11:34.47,0:11:37.73,italics,Gauche,0000,0000,0000,,I will be able to see my \Nlittle angel Marie soon...
+Dialogue: 0,0:11:38.49,0:11:42.48,italics,Gauche,0000,0000,0000,,I'll be able to see her smile... \NOh, my beloved Marie.
+Dialogue: 0,0:11:43.25,0:11:45.24,italics,Gauche,0000,0000,0000,,Marie... Marie... Ma—
+Dialogue: 0,0:11:51.25,0:11:53.74,main,Asta,0000,0000,0000,,How do you like that, Marie?
+Dialogue: 0,0:11:53.74,0:11:57.31,main,Marie,0000,0000,0000,,This is fun! You're so strong, Asta!
+Dialogue: 0,0:11:58.50,0:11:59.87,main,Pim,0000,0000,0000,,Me, too!
+Dialogue: 0,0:11:59.87,0:12:00.96,main,Marco,0000,0000,0000,,And me!
+Dialogue: 0,0:12:00.96,0:12:03.36,main,Asta,0000,0000,0000,,All right! Are you read—
+Dialogue: 0,0:12:04.61,0:12:06.14,main,Marie,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:12:06.14,0:12:08.71,main,Gauche,0000,0000,0000,,Get away from her this instant, you trash!
+Dialogue: 0,0:12:10.01,0:12:13.01,main,Asta,0000,0000,0000,,Hey, you're my senior with the sister complex\Nwho's always getting nosebleeds!
+Dialogue: 0,0:12:13.01,0:12:15.51,main,Gauche,0000,0000,0000,,Don't call me a guy with a sister complex \Nand nosebleeds, meathead runt!
+Dialogue: 0,0:12:15.51,0:12:16.85,main,Gauche,0000,0000,0000,,I'll stomp you to death!
+Dialogue: 0,0:12:17.28,0:12:20.77,main,Asta,0000,0000,0000,,I train hard, so you'll have \Nto try harder than that!
+Dialogue: 0,0:12:20.77,0:12:22.32,italics,Gauche,0000,0000,0000,,He's so annoying.
+Dialogue: 0,0:12:22.72,0:12:28.28,main,Gauche,0000,0000,0000,,I'm only able to see my sister,\Nwho lives at the church, once a month!
+Dialogue: 0,0:12:28.28,0:12:31.39,main,Gauche,0000,0000,0000,,Today is the one day that I get \Nto release my pent-up feelings,
+Dialogue: 0,0:12:31.39,0:12:34.71,main,Gauche,0000,0000,0000,,worship the heck out of my sister, \Nand do all kinds of things with her,
+Dialogue: 0,0:12:34.71,0:12:37.71,main,Gauche,0000,0000,0000,,so why are you worshiping her first, huh?!
+Dialogue: 0,0:12:37.71,0:12:40.54,main,Asta,0000,0000,0000,,See? You do have a sister \Ncomplex and a nosebleed!
+Dialogue: 0,0:12:40.94,0:12:44.05,main,Asta,0000,0000,0000,,So wait, she's your sister?
+Dialogue: 0,0:12:44.05,0:12:47.07,main,Gauche,0000,0000,0000,,Don't you dare point at my angel.
+Dialogue: 0,0:12:47.07,0:12:49.25,main,Gauche,0000,0000,0000,,I showed you her picture before!
+Dialogue: 0,0:12:49.25,0:12:50.60,main,Asta,0000,0000,0000,,Did you?
+Dialogue: 0,0:12:50.91,0:12:54.75,main,Asta,0000,0000,0000,,I was just visiting Rebecca, \Nand she just happened to be here.
+Dialogue: 0,0:12:54.75,0:12:55.85,main,Rebecca,0000,0000,0000,,Hi...
+Dialogue: 0,0:12:55.85,0:12:57.99,main,Pim,0000,0000,0000,,That guy is scary.
+Dialogue: 0,0:12:57.99,0:13:00.27,main,Marco,0000,0000,0000,,What does he mean by "all kinds of things"?
+Dialogue: 0,0:13:00.27,0:13:01.28,main,Rebecca,0000,0000,0000,,Shh!
+Dialogue: 0,0:13:01.28,0:13:03.61,main,Asta,0000,0000,0000,,Man, Marie sure is cute.
+Dialogue: 0,0:13:03.93,0:13:09.37,main,Gauche,0000,0000,0000,,Of course she is! More importantly, why \Ndo you have your eye on my little sister?
+Dialogue: 0,0:13:10.01,0:13:11.58,main,Marie,0000,0000,0000,,Stop!
+Dialogue: 0,0:13:11.58,0:13:14.17,main,Marie,0000,0000,0000,,Please don't be so mean, Brother!
+Dialogue: 0,0:13:14.17,0:13:16.87,main,Marie,0000,0000,0000,,I'm going to marry him!
+Dialogue: 0,0:13:16.87,0:13:21.12,italics,Marie,0000,0000,0000,,I'm going to marry him... I'm going to \Nmarry him... I'm going to marry him....
+Dialogue: 0,0:13:28.64,0:13:30.52,italics,Noelle,0000,0000,0000,,Marry him?!
+Dialogue: 0,0:13:30.52,0:13:34.14,italics,Noelle,0000,0000,0000,,I ended up following him because I was \Ncurious, but what the heck's going on?!
+Dialogue: 0,0:13:34.59,0:13:37.14,main,Guy,0000,0000,0000,,Um... May I ask for the fare now?
+Dialogue: 0,0:13:37.14,0:13:38.71,main,Noelle,0000,0000,0000,,Will this do?
+Dialogue: 0,0:13:39.51,0:13:40.60,italics,Guy,0000,0000,0000,,That's too much!
+Dialogue: 0,0:13:40.97,0:13:43.90,main,Gauche,0000,0000,0000,,I'll kill you... I'll kill you... I'll kill you...
+Dialogue: 0,0:13:42.68,0:13:43.90,main,Asta,0000,0000,0000,,Huh? What was that?
+Dialogue: 0,0:13:43.90,0:13:46.48,main,Gauche,0000,0000,0000,,I'll kill you... I'll kill you... I'll kill you...
+Dialogue: 0,0:13:46.48,0:13:47.99,main,Asta,0000,0000,0000,,I'll kill you!
+Dialogue: 0,0:13:50.74,0:13:52.35,main,Gauche,0000,0000,0000,,Mirror Magic:
+Dialogue: 0,0:13:53.24,0:13:54.85,main,Gauche,0000,0000,0000,,Reflect Ray!
+Dialogue: 0,0:13:58.25,0:13:59.96,main,Asta,0000,0000,0000,,Wh-What the heck's up with that spell?!
+Dialogue: 0,0:14:00.31,0:14:01.88,main,Gauche,0000,0000,0000,,I'll kill you!
+Dialogue: 0,0:14:05.15,0:14:07.17,main,Marie,0000,0000,0000,,Brother, stop!
+Dialogue: 0,0:14:07.17,0:14:09.88,main,Theresa,0000,0000,0000,,It sure is noisy out here.
+Dialogue: 0,0:14:11.73,0:14:15.35,main,Theresa,0000,0000,0000,,Marie, it's time. We must \Ngo back to the church.
+Dialogue: 0,0:14:15.69,0:14:16.62,main,Marie,0000,0000,0000,,Sister!
+Dialogue: 0,0:14:16.62,0:14:17.47,main,Gauche,0000,0000,0000,,Tch.
+Dialogue: 0,0:14:17.47,0:14:19.55,main,Theresa,0000,0000,0000,,Oh, so you came, Gauche.
+Dialogue: 0,0:14:19.55,0:14:20.64,main,Gauche,0000,0000,0000,,You old hag!
+Dialogue: 0,0:14:21.02,0:14:23.61,main,Theresa,0000,0000,0000,,It's not "old hag," it's "Sister."
+Dialogue: 0,0:14:24.69,0:14:26.80,main,Gauche,0000,0000,0000,,Marie's about to go on a date with me.
+Dialogue: 0,0:14:26.80,0:14:28.82,main,Gauche,0000,0000,0000,,Go back to the church by \Nyourself, Sister Old Hag.
+Dialogue: 0,0:14:28.82,0:14:31.18,main,Theresa,0000,0000,0000,,Not happening. It's time.
+Dialogue: 0,0:14:31.18,0:14:33.62,main,Theresa,0000,0000,0000,,You go home, you sister complex punk.
+Dialogue: 0,0:14:33.62,0:14:39.12,main,Theresa,0000,0000,0000,,In any case, it's not good for Marie \Nto spend time with a guy like you.
+Dialogue: 0,0:14:39.45,0:14:44.13,main,Theresa,0000,0000,0000,,Your attitude's always terrible. You have\Nmean eyes and a filthy mouth.
+Dialogue: 0,0:14:44.13,0:14:45.95,main,Gauche,0000,0000,0000,,What did you say, you shitty old hag?
+Dialogue: 0,0:14:45.95,0:14:46.91,main,Theresa,0000,0000,0000,,See? Filthy.
+Dialogue: 0,0:14:46.91,0:14:48.13,main,Gauche,0000,0000,0000,,Shut up. Die.
+Dialogue: 0,0:14:48.76,0:14:51.20,main,Theresa,0000,0000,0000,,You've got some nerve, \Nsaying that to an old lady
+Dialogue: 0,0:14:51.20,0:14:53.32,main,Theresa,0000,0000,0000,,who's not long for this world, you fool.
+Dialogue: 0,0:14:53.32,0:14:55.72,main,Gauche,0000,0000,0000,,Yeah, right, dumbass. \NSays the old she-demon who'll
+Dialogue: 0,0:14:55.72,0:14:57.18,main,Gauche,0000,0000,0000,,probably live another hundred years.
+Dialogue: 0,0:14:57.18,0:15:00.31,main,Theresa,0000,0000,0000,,Don't talk to people like \Nthey're monsters, you thug!
+Dialogue: 0,0:15:00.31,0:15:02.10,main,Gauche,0000,0000,0000,,Shut up, gangster hag!
+Dialogue: 0,0:15:02.44,0:15:04.25,main,Asta,0000,0000,0000,,Gauche!
+Dialogue: 0,0:15:04.25,0:15:06.67,main,Asta,0000,0000,0000,,How can you talk to your elders like that?!
+Dialogue: 0,0:15:06.67,0:15:07.79,main,Asta,0000,0000,0000,,You shouldn't!
+Dialogue: 0,0:15:07.79,0:15:10.49,main,Gauche,0000,0000,0000,,You stay out of this!
+Dialogue: 0,0:15:10.49,0:15:12.26,main,Theresa,0000,0000,0000,,Anyway, go on home.
+Dialogue: 0,0:15:12.26,0:15:13.59,main,Theresa,0000,0000,0000,,Let's go, Marie.
+Dialogue: 0,0:15:13.59,0:15:16.72,main,Marie,0000,0000,0000,,Brother, Asta! See you later!
+Dialogue: 0,0:15:19.97,0:15:22.42,main,Gauche,0000,0000,0000,,M-Marie!
+Dialogue: 0,0:15:22.42,0:15:24.25,main,Kids,0000,0000,0000,,See ya!
+Dialogue: 0,0:15:23.04,0:15:24.88,main,Asta,0000,0000,0000,,See you later!
+Dialogue: 0,0:15:25.65,0:15:28.09,main,Asta,0000,0000,0000,,You okay, sister complex guy?
+Dialogue: 0,0:15:25.65,0:15:28.64,top,Asta,0000,0000,0000,,M-Ma... Ma... Ma...
+Dialogue: 0,0:15:30.01,0:15:31.64,main,Marco,0000,0000,0000,,What a weirdo.
+Dialogue: 0,0:15:31.64,0:15:36.51,main,Rebecca,0000,0000,0000,,Why don't you come in and have dinner at\Nour place while you wait for him to wake up?
+Dialogue: 0,0:15:37.08,0:15:39.96,main,Rebecca,0000,0000,0000,,You're welcome to spend \Nthe night... if you want.
+Dialogue: 0,0:15:39.96,0:15:41.20,main,Asta,0000,0000,0000,,Really?!
+Dialogue: 0,0:15:41.20,0:15:42.00,main,Marco,0000,0000,0000,,Yeah!
+Dialogue: 0,0:15:42.00,0:15:43.02,main,Pim,0000,0000,0000,,Yeah, come over!
+Dialogue: 0,0:15:44.53,0:15:46.61,italics,Noelle,0000,0000,0000,,S-S-Spend the night?!
+Dialogue: 0,0:15:46.96,0:15:50.45,italics,Noelle,0000,0000,0000,,He's going to spend the night at the home \Nof a girl he just met?! Is he stupid?!
+Dialogue: 0,0:15:50.45,0:15:52.11,italics,Noelle,0000,0000,0000,,How stupid can he be?!
+Dialogue: 0,0:15:52.11,0:15:55.72,main,Marie,0000,0000,0000,,And Asta is so funny!
+Dialogue: 0,0:15:55.72,0:15:57.54,main,Theresa,0000,0000,0000,,That really loud boy?
+Dialogue: 0,0:15:57.54,0:15:58.69,main,Marie,0000,0000,0000,,Yeah!
+Dialogue: 0,0:16:04.57,0:16:05.42,main,Asta,0000,0000,0000,,S...
+Dialogue: 0,0:16:05.42,0:16:07.92,main,Asta,0000,0000,0000,,So good!
+Dialogue: 0,0:16:07.92,0:16:09.49,main,Pim,0000,0000,0000,,Isn't it?
+Dialogue: 0,0:16:10.93,0:16:12.44,main,Asta,0000,0000,0000,,This is so good!
+Dialogue: 0,0:16:13.48,0:16:16.19,main,Luca,0000,0000,0000,,Would you like some moguro fruit?
+Dialogue: 0,0:16:18.49,0:16:19.76,main,Luca,0000,0000,0000,,So fast!
+Dialogue: 0,0:16:19.76,0:16:23.27,main,Asta,0000,0000,0000,,All these dishes are so good \Nthat I can't put my spoon down!
+Dialogue: 0,0:16:23.27,0:16:25.55,main,Rebecca,0000,0000,0000,,Really? I'm glad to hear it!
+Dialogue: 0,0:16:26.43,0:16:29.85,main,Asta,0000,0000,0000,,You'll be a great wife one day, Rebecca!
+Dialogue: 0,0:16:29.85,0:16:31.45,main,Rebecca,0000,0000,0000,,It's no big deal...
+Dialogue: 0,0:16:34.24,0:16:38.78,italics,Noelle,0000,0000,0000,,What are you talking about?! There's more to\Nbeing a good wife than just being a good cook!
+Dialogue: 0,0:16:45.81,0:16:48.83,main,Marco,0000,0000,0000,,Sissy, are you going to marry Asta?
+Dialogue: 0,0:16:48.83,0:16:51.59,main,Rebecca,0000,0000,0000,,N-No, Marco!
+Dialogue: 0,0:16:51.59,0:16:55.15,italics,Noelle,0000,0000,0000,,Of course she's not!
+Dialogue: 0,0:16:59.07,0:17:02.10,main,Luca,0000,0000,0000,,You should totally jump him tonight, Sis!
+Dialogue: 0,0:17:06.52,0:17:09.26,main,Rebecca,0000,0000,0000,,You idiot! What are you saying, Luca?!
+Dialogue: 0,0:17:09.26,0:17:10.06,main,Pem,0000,0000,0000,,Goo goo.
+Dialogue: 0,0:17:10.06,0:17:13.28,main,Rebecca,0000,0000,0000,,Y-You too, Pem?! Do you even \Nknow what you're saying?!
+Dialogue: 0,0:17:13.84,0:17:17.79,italics,Rebecca,0000,0000,0000,,J-Jump him? No, you dummy, dummy, dummy!
+Dialogue: 0,0:17:29.76,0:17:32.30,italics,Noelle,0000,0000,0000,,What's going on? What is this?
+Dialogue: 0,0:17:32.30,0:17:35.80,italics,Noelle,0000,0000,0000,,It's not even winter! Why is it so cold?
+Dialogue: 0,0:17:37.23,0:17:38.30,main,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:18.83,0:18:20.84,flashback,Luca,0000,0000,0000,,You should totally jump him tonight!
+Dialogue: 0,0:18:20.84,0:18:21.86,flashback,Pem,0000,0000,0000,,Goo goo.
+Dialogue: 0,0:18:21.86,0:18:23.10,flashback,Rebecca,0000,0000,0000,,Y-You too, Pem?!
+Dialogue: 0,0:18:24.20,0:18:26.53,italics,Rebecca,0000,0000,0000,,You dummy! Dummy, dummy, dummy!
+Dialogue: 0,0:18:26.53,0:18:29.35,italics,Rebecca,0000,0000,0000,,I-I would never do anything like that!
+Dialogue: 0,0:18:30.87,0:18:36.57,italics,Rebecca,0000,0000,0000,,I-I'm just going to check and see if \NLuca and Marco are actually asleep...
+Dialogue: 0,0:19:02.29,0:19:03.68,main,Gauche,0000,0000,0000,,Asta...
+Dialogue: 0,0:19:04.61,0:19:06.71,main,Gauche,0000,0000,0000,,Die, Asta.
+Dialogue: 0,0:19:07.64,0:19:10.04,main,Gauche,0000,0000,0000,,Mirror Magic: Reflect Ray.
+Dialogue: 0,0:19:15.69,0:19:17.73,main,Asta,0000,0000,0000,,Hot!
+Dialogue: 0,0:19:17.73,0:19:19.88,main,Asta,0000,0000,0000,,G-Gauche?!
+Dialogue: 0,0:19:20.74,0:19:22.11,main,Gauche,0000,0000,0000,,Die, Asta.
+Dialogue: 0,0:19:22.11,0:19:24.28,main,Asta,0000,0000,0000,,Why? Wait, what? What's going on?
+Dialogue: 0,0:19:24.28,0:19:25.33,main,Asta,0000,0000,0000,,Huh? What?!
+Dialogue: 0,0:19:25.33,0:19:30.12,main,Gauche,0000,0000,0000,,I won't allow you to marry Marie. I'll make \Nsure it doesn't happen by killing you.
+Dialogue: 0,0:19:30.12,0:19:31.62,main,Asta,0000,0000,0000,,What?!
+Dialogue: 0,0:19:32.75,0:19:35.46,main,Asta,0000,0000,0000,,Kids say stuff like that all the time!
+Dialogue: 0,0:19:35.46,0:19:38.13,main,Asta,0000,0000,0000,,Only cowards attack people in their sleep!
+Dialogue: 0,0:19:40.71,0:19:44.17,main,Gauche,0000,0000,0000,,I don't care if it's cowardly or not,\Nas long as I can kill you.
+Dialogue: 0,0:19:44.93,0:19:46.39,main,Gauche,0000,0000,0000,,Mirror Magic:
+Dialogue: 0,0:19:47.77,0:19:49.09,main,Gauche,0000,0000,0000,,Real Double.
+Dialogue: 0,0:19:50.48,0:19:52.41,italics,Asta,0000,0000,0000,,Now there are two Gauches?!
+Dialogue: 0,0:19:52.41,0:19:55.73,italics,Asta,0000,0000,0000,,First he shoots beams out of a mirror,\Nand now this? What's up with his magic?
+Dialogue: 0,0:19:56.04,0:19:57.73,main,Gauche,0000,0000,0000,,Your crime...
+Dialogue: 0,0:19:58.24,0:20:00.57,main,Gauche,0000,0000,0000,,is the fact that you met my little sister.
+Dialogue: 0,0:20:00.57,0:20:04.82,main,Asta,0000,0000,0000,,Wouldn't that make most people criminals?!
+Dialogue: 0,0:20:04.82,0:20:06.32,main,Gauche,0000,0000,0000,,Shut up. Die.
+Dialogue: 0,0:20:10.01,0:20:12.41,main,Asta,0000,0000,0000,,That's not even your house!
+Dialogue: 0,0:20:22.23,0:20:25.66,main,Asta,0000,0000,0000,,S-Snow? When did it pile up so much?
+Dialogue: 0,0:20:25.66,0:20:27.22,main,Asta,0000,0000,0000,,It's not even the season for that yet.
+Dialogue: 0,0:20:27.22,0:20:30.53,main,Gauche,0000,0000,0000,,I don't care about that. Just die.
+Dialogue: 0,0:20:31.69,0:20:34.35,main,Rebecca,0000,0000,0000,,Hey! What do you two think you're doing?!
+Dialogue: 0,0:20:34.75,0:20:37.23,main,Asta,0000,0000,0000,,Rebecca! I'm so sorry!
+Dialogue: 0,0:20:37.87,0:20:39.34,main,Rebecca,0000,0000,0000,,Now's not the time for that!
+Dialogue: 0,0:20:39.34,0:20:41.44,main,Rebecca,0000,0000,0000,,The kids are gone!
+Dialogue: 0,0:20:41.44,0:20:42.81,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:42.81,0:20:44.69,main,Lady,0000,0000,0000,,Urian, where are you?
+Dialogue: 0,0:20:44.69,0:20:46.20,main,Guy,0000,0000,0000,,Chris!
+Dialogue: 0,0:20:46.20,0:20:47.03,main,Guy,0000,0000,0000,,Hey!
+Dialogue: 0,0:20:47.03,0:20:48.20,main,Lady,0000,0000,0000,,Von is gone!
+Dialogue: 0,0:21:10.75,0:21:12.47,main,Neige,0000,0000,0000,,Starting today,
+Dialogue: 0,0:21:12.96,0:21:14.71,main,Neige,0000,0000,0000,,you're all my friends.
+Dialogue: 0,0:22:49.03,0:22:53.49,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:49.93,0:22:52.80,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:52.99,0:22:56.99,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Double Gauche
+Dialogue: 0,0:22:54.00,0:22:55.47,main,gauche,0000,0000,0000,,Double Gauche.
+Dialogue: 0,0:22:57.64,0:22:59.12,main,Marie,0000,0000,0000,,Brother!
+Dialogue: 0,0:22:59.51,0:23:01.69,main,Marie,0000,0000,0000,,Spin me around like Asta did!
+Dialogue: 0,0:23:04.40,0:23:06.88,sign_33285_329_I_ll____kill_him,Caption,0000,0000,0000,,I'll... kill him!!
+Dialogue: 0,0:23:04.80,0:23:06.88,main,Brother,0000,0000,0000,,Spin... Marie around?!
+Dialogue: 0,0:23:08.79,0:23:09.88,main,Marie,0000,0000,0000,,Brother?!
+Dialogue: 0,0:23:10.45,0:23:14.84,main,Gauche,0000,0000,0000,,I can't disappoint Marie... \NI'll have to rely on my clone...
+Dialogue: 0,0:23:15.43,0:23:18.64,main,Gauche,0000,0000,0000,,Mirror Magic: Real Double!
+Dialogue: 0,0:23:19.23,0:23:20.83,main,Gauche,0000,0000,0000,,Spin her around...
+Dialogue: 0,0:23:21.29,0:23:23.35,main,Gauche,0000,0000,0000,,I can't put Marie in danger.
+Dialogue: 0,0:23:23.35,0:23:24.90,main,Gauche,0000,0000,0000,,That's true!
+Dialogue: 0,0:23:25.23,0:23:27.02,main,Gauche,0000,0000,0000,,Then I'll just have to do it for her.
+Dialogue: 0,0:23:27.41,0:23:30.05,main,Gauches,0000,0000,0000,,See? We're spinning!
+Dialogue: 0,0:23:30.89,0:23:32.19,main,Marie,0000,0000,0000,,You're not doing it right.
+Dialogue: 0,0:23:35.82,0:23:38.11,main,Who,0000,0000,0000,,What? The ABCs of cooking?
+Dialogue: 0,0:23:38.11,0:23:42.91,main,,0000,0000,0000,,{\b1}A{\b0}ll will {\b1}B{\b0}ow down before my {\b1}C{\b0}ooking!
+Dialogue: 0,0:23:42.91,0:23:46.12,main,Asta,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 31: \N"Pursuit Over the Snow."
+Dialogue: 0,0:23:43.92,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 31\N\N{\fs18}Pursuit Over the Snow
+Dialogue: 0,0:23:46.12,0:23:49.88,main,Who,0000,0000,0000,,But now's not the time for that!\NThe kids are in trouble!

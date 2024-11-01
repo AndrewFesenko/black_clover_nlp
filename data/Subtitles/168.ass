@@ -1,0 +1,347 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H000400D6,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.43,0:00:07.82,italics,Nar,0000,0000,0000,,And in the clover's fifth leaf resides...
+Dialogue: 0,0:00:07.82,0:00:09.19,italics,Nar,0000,0000,0000,,a devil.
+Dialogue: 0,0:00:10.02,0:00:12.36,italics,Nar,0000,0000,0000,,What Asta, who was born without magic,
+Dialogue: 0,0:00:12.36,0:00:14.74,italics,Nar,0000,0000,0000,,gained from the five-leaf grimoire was
+Dialogue: 0,0:00:14.74,0:00:18.74,italics,Nar,0000,0000,0000,,the power of anti-magic, \Nwhich nullifies any magic.
+Dialogue: 0,0:00:20.00,0:00:23.88,italics,Nar,0000,0000,0000,,Meanwhile, the Dark Triad \Nof the Spade Kingdom
+Dialogue: 0,0:00:23.88,0:00:26.77,italics,Nar,0000,0000,0000,,also possessed the powers of \Nthe devils from the underworld,
+Dialogue: 0,0:00:26.77,0:00:29.71,italics,Nar,0000,0000,0000,,and began invading the other kingdoms.
+Dialogue: 0,0:00:30.71,0:00:33.75,italics,Nar,0000,0000,0000,,Asta continued to fight \Nwhile believing in himself,
+Dialogue: 0,0:00:34.41,0:00:38.39,italics,Nar,0000,0000,0000,,along with his friends... \Nto protect this world!
+Dialogue: 0,0:02:03.95,0:02:07.23,Ep Title,Sign,0000,0000,0000,,{\t(1,1134,\c&H0900AD&)}Stirrings of the Strongest
+Dialogue: 0,0:02:19.61,0:02:22.94,main,Owen,0000,0000,0000,,Right around the same time \Nall of you were fighting,
+Dialogue: 0,0:02:22.94,0:02:25.70,main,Owen,0000,0000,0000,,the Golden Dawn's headquarters was attacked.
+Dialogue: 0,0:02:25.95,0:02:27.83,main,Owen,0000,0000,0000,,They've been almost completely annihilated.
+Dialogue: 0,0:02:30.22,0:02:33.32,main,Owen,0000,0000,0000,,I'm glad all of you are safe.
+Dialogue: 0,0:02:35.89,0:02:39.97,main,Finral,0000,0000,0000,,Asta and Yami protected us.
+Dialogue: 0,0:02:42.61,0:02:44.56,main,Finral,0000,0000,0000,,What's Asta's prognosis?
+Dialogue: 0,0:02:45.06,0:02:46.82,main,Owen,0000,0000,0000,,Thankfully, he'll live.
+Dialogue: 0,0:02:47.29,0:02:48.35,main,Owen,0000,0000,0000,,It's just...
+Dialogue: 0,0:02:48.58,0:02:52.09,main,Owen,0000,0000,0000,,I don't know what we can do \Nfor his right arm right now.
+Dialogue: 0,0:02:52.53,0:02:54.83,main,Owen,0000,0000,0000,,I have no idea what will come of it.
+Dialogue: 0,0:02:55.86,0:02:59.86,main,Grey,0000,0000,0000,,U-Um... Could you take a look at Gauche, too?
+Dialogue: 0,0:03:00.25,0:03:01.45,main,Owen,0000,0000,0000,,At Gauche?
+Dialogue: 0,0:03:01.45,0:03:04.51,main,Gauche,0000,0000,0000,,The wound's healed, and I feel fine.
+Dialogue: 0,0:03:04.51,0:03:07.66,main,Grey,0000,0000,0000,,B-But you should get examined properly!
+Dialogue: 0,0:03:08.01,0:03:09.68,main,Owen,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:03:09.68,0:03:12.92,main,Grey,0000,0000,0000,,Gauche was run through with a giant sword,
+Dialogue: 0,0:03:12.92,0:03:15.96,main,Grey,0000,0000,0000,,a-and I healed him with my magic, but...
+Dialogue: 0,0:03:15.96,0:03:20.53,main,Owen,0000,0000,0000,,You did? But don't you \Nuse transformation magic?
+Dialogue: 0,0:03:23.18,0:03:25.70,main,Owen,0000,0000,0000,,All right, I'll have a look.
+Dialogue: 0,0:03:31.10,0:03:34.65,main,Owen,0000,0000,0000,,You really got run through with a giant sword?
+Dialogue: 0,0:03:34.65,0:03:35.73,main,Gauche,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:36.07,0:03:40.99,main,Owen,0000,0000,0000,,I wouldn't even call this healing. \NHis tissues themselves have been rebuilt.
+Dialogue: 0,0:03:42.03,0:03:46.78,main,Owen,0000,0000,0000,,The true nature of your magic \Nmight not be transformation.
+Dialogue: 0,0:03:47.99,0:03:50.37,main,Gauche,0000,0000,0000,,Then what kind of magic is it?
+Dialogue: 0,0:03:50.37,0:03:53.67,main,Owen,0000,0000,0000,,I hate to say this, but I have no clue.
+Dialogue: 0,0:03:53.96,0:03:58.17,main,Owen,0000,0000,0000,,Grey will have to find that out for herself.
+Dialogue: 0,0:03:58.17,0:03:59.08,main,Grey,0000,0000,0000,,Right...
+Dialogue: 0,0:04:00.03,0:04:03.40,main,Owen,0000,0000,0000,,We'll have Asta continue to rest here.
+Dialogue: 0,0:04:03.81,0:04:06.93,main,Owen,0000,0000,0000,,The rest of you can return \Nto the Black Bulls' hideout.
+Dialogue: 0,0:04:07.15,0:04:10.62,main,Owen,0000,0000,0000,,There's going to be an emergency Magic Knights\N Squad Captains' meeting in the morning.
+Dialogue: 0,0:04:11.13,0:04:15.88,main,Owen,0000,0000,0000,,The best thing you can do right now is rest.
+Dialogue: 0,0:04:52.64,0:04:55.80,italics,Asta,0000,0000,0000,,What? My body won't move.
+Dialogue: 0,0:04:58.69,0:05:00.36,main,Nacht,0000,0000,0000,,Where do you think you're going?
+Dialogue: 0,0:05:01.35,0:05:04.95,italics,Asta,0000,0000,0000,,Who is that? Is his magic \Nthe reason why I can't move?
+Dialogue: 0,0:05:04.95,0:05:06.70,main,Nacht,0000,0000,0000,,You should probably head back in.
+Dialogue: 0,0:05:07.07,0:05:10.37,main,Asta,0000,0000,0000,,I have to go save Captain Yami!
+Dialogue: 0,0:05:10.37,0:05:11.52,main,Nacht,0000,0000,0000,,That's not going to happen.
+Dialogue: 0,0:05:12.86,0:05:15.61,main,Nacht,0000,0000,0000,,The place you're trying to get to
+Dialogue: 0,0:05:15.61,0:05:19.17,main,Nacht,0000,0000,0000,,has not only the devil-possessed \Nyou didn't stand a chance against,
+Dialogue: 0,0:05:19.17,0:05:23.09,main,Nacht,0000,0000,0000,,but two others who are equally as powerful.
+Dialogue: 0,0:05:24.68,0:05:27.81,main,Nacht,0000,0000,0000,,Your devil's forsaken you, too.
+Dialogue: 0,0:05:27.81,0:05:30.60,main,Nacht,0000,0000,0000,,And you don't know what's \Ngoing on with your right arm.
+Dialogue: 0,0:05:30.93,0:05:32.97,italics,Asta,0000,0000,0000,,How does he—
+Dialogue: 0,0:05:33.57,0:05:37.07,main,Nacht,0000,0000,0000,,Going in your condition \Nisn't brave or anything.
+Dialogue: 0,0:05:37.07,0:05:38.94,main,Nacht,0000,0000,0000,,It's ignorant and reckless.
+Dialogue: 0,0:05:39.29,0:05:42.14,main,Asta,0000,0000,0000,,Still... I have to go!
+Dialogue: 0,0:05:42.14,0:05:47.82,main,Asta,0000,0000,0000,,While I... While I'm here, Captain Yami is...
+Dialogue: 0,0:05:48.03,0:05:51.10,main,Nacht,0000,0000,0000,,Just leave him.
+Dialogue: 0,0:05:52.70,0:05:54.49,main,Asta,0000,0000,0000,,I don't know who the hell you are...
+Dialogue: 0,0:05:55.12,0:05:57.50,main,Asta,0000,0000,0000,,but what the hell do you \Nknow about Captain Yami?!
+Dialogue: 0,0:05:57.86,0:05:59.79,main,Nacht,0000,0000,0000,,Oh, I know him very well.
+Dialogue: 0,0:05:59.79,0:06:00.85,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:01.39,0:06:03.99,main,Nacht,0000,0000,0000,,He's boorish, violent, and vicious.
+Dialogue: 0,0:06:03.99,0:06:07.05,main,Nacht,0000,0000,0000,,He's irresponsible, immoral, and insincere.
+Dialogue: 0,0:06:07.80,0:06:09.80,main,Nacht,0000,0000,0000,,He's honestly pretty worthless.
+Dialogue: 0,0:06:21.94,0:06:24.32,flashback,Yami,0000,0000,0000,,I can't win this one without you...
+Dialogue: 0,0:06:24.81,0:06:26.04,flashback,Yami,0000,0000,0000,,Asta!
+Dialogue: 0,0:06:27.80,0:06:33.08,main,Asta,0000,0000,0000,,You don't know anything! \NCaptain Yami risked his life for us!
+Dialogue: 0,0:06:33.38,0:06:37.08,main,Nacht,0000,0000,0000,,But if he lost, he's nothing more than a fool.
+Dialogue: 0,0:06:37.08,0:06:38.43,main,Asta,0000,0000,0000,,Demon-Destroyer!
+Dialogue: 0,0:06:50.18,0:06:55.01,main,Nacht,0000,0000,0000,,If you can't even defeat me, \Nthere's no way you can save Yami.
+Dialogue: 0,0:06:57.18,0:06:58.27,flashback,Devil,0000,0000,0000,,That's because...
+Dialogue: 0,0:06:59.06,0:07:00.81,flashback,Devil,0000,0000,0000,,you're weak.
+Dialogue: 0,0:07:05.53,0:07:06.53,main,Asta,0000,0000,0000,,If only...
+Dialogue: 0,0:07:07.25,0:07:09.96,main,Asta,0000,0000,0000,,I was stronger...
+Dialogue: 0,0:07:14.09,0:07:16.36,main,Nacht,0000,0000,0000,,You're such a fool.
+Dialogue: 0,0:07:19.78,0:07:21.96,main,Nacht,0000,0000,0000,,But you're a good person.
+Dialogue: 0,0:07:22.69,0:07:23.86,main,Nacht,0000,0000,0000,,I like you.
+Dialogue: 0,0:07:25.51,0:07:28.80,main,Nacht,0000,0000,0000,,Don't worry. Yami's still alive.
+Dialogue: 0,0:07:30.07,0:07:31.09,main,Asta,0000,0000,0000,,Weg?
+Dialogue: 0,0:07:31.78,0:07:34.22,main,Asta,0000,0000,0000,,Who... are you?
+Dialogue: 0,0:07:35.42,0:07:39.45,main,Nacht,0000,0000,0000,,I am the Vice Captain of \Nthe Black Bulls, Nacht.
+Dialogue: 0,0:07:42.13,0:07:47.54,main,Nacht,0000,0000,0000,,If you so desire, I'll show you \Nhow to use the devil's powers.
+Dialogue: 0,0:07:48.42,0:07:52.74,italics,Asta,0000,0000,0000,,The Black Bulls? How to \Nuse the devil's powers?
+Dialogue: 0,0:07:53.33,0:07:57.08,main,Gimodelo,0000,0000,0000,,Hey, Nacht. Who's the shrimp?
+Dialogue: 0,0:07:57.08,0:07:59.58,italics,Asta,0000,0000,0000,,This ki... That's a devil!
+Dialogue: 0,0:07:59.58,0:08:03.80,main,Nacht,0000,0000,0000,,Gimodelo, I regret to inform you that \Nyou're even shorter than he is.
+Dialogue: 0,0:08:03.80,0:08:09.55,main,Gimodelo,0000,0000,0000,,Oh, come on. You know that \Nthis isn't my true form.
+Dialogue: 0,0:08:09.85,0:08:12.04,italics,Asta,0000,0000,0000,,He's having a casual conversation \Nwith that devil.
+Dialogue: 0,0:08:13.04,0:08:15.64,main,Asta,0000,0000,0000,,You're devil-possessed, too?
+Dialogue: 0,0:08:15.64,0:08:19.24,main,Nacht,0000,0000,0000,,I am. This is my devil, Gimodelo.
+Dialogue: 0,0:08:23.13,0:08:25.72,main,Asta,0000,0000,0000,,You really do belong to the Black Bulls.
+Dialogue: 0,0:08:25.72,0:08:27.90,main,Asta,0000,0000,0000,,Wait, you're really the vice captain?!
+Dialogue: 0,0:08:28.56,0:08:32.56,main,Nacht,0000,0000,0000,,Yes, though Yami just \Ndecided that on his own.
+Dialogue: 0,0:08:32.56,0:08:34.66,main,Gimo,0000,0000,0000,,Aw, but I wanna talk—
+Dialogue: 0,0:08:35.13,0:08:36.63,main,Asta,0000,0000,0000,,Captain Yami?
+Dialogue: 0,0:08:36.63,0:08:39.03,main,Nacht,0000,0000,0000,,I can't blame you all for \Nnot knowing about me.
+Dialogue: 0,0:08:39.59,0:08:42.42,main,Nacht,0000,0000,0000,,I've only been in the hideout once.
+Dialogue: 0,0:08:42.93,0:08:44.06,main,Asta,0000,0000,0000,,But why?!
+Dialogue: 0,0:08:44.74,0:08:46.71,main,Nacht,0000,0000,0000,,Because I hate Yami.
+Dialogue: 0,0:08:46.71,0:08:47.72,main,Asta,0000,0000,0000,,Huh?!
+Dialogue: 0,0:08:48.33,0:08:52.71,main,Nacht,0000,0000,0000,,As annoying as it is, \Npeople like him are rather tough.
+Dialogue: 0,0:08:53.45,0:08:55.97,main,Nacht,0000,0000,0000,,There's still time before he'll die.
+Dialogue: 0,0:08:57.66,0:08:59.47,main,Asta,0000,0000,0000,,How do you know that?!
+Dialogue: 0,0:09:00.21,0:09:03.85,main,Nacht,0000,0000,0000,,Because I've been undercover in the \NSpade Kingdom for a very long time.
+Dialogue: 0,0:09:08.20,0:09:12.78,main,Asta,0000,0000,0000,,I still don't really know you, \Nor even know if I can trust you...
+Dialogue: 0,0:09:12.78,0:09:13.80,main,Asta,0000,0000,0000,,But...
+Dialogue: 0,0:09:14.88,0:09:18.26,main,Asta,0000,0000,0000,,You're the only one that \NI can rely on right now!
+Dialogue: 0,0:09:19.01,0:09:23.24,main,Asta,0000,0000,0000,,Please! Show me how to use my devil powers!
+Dialogue: 0,0:09:24.88,0:09:26.36,main,Nacht,0000,0000,0000,,Nice and straightforward.
+Dialogue: 0,0:09:27.02,0:09:28.89,main,Nacht,0000,0000,0000,,I like people like you.
+Dialogue: 0,0:09:28.89,0:09:30.77,main,Asta,0000,0000,0000,,Th-Thanks!
+Dialogue: 0,0:09:30.77,0:09:35.92,main,Nacht,0000,0000,0000,,But for the time being, I can't say \Nthat I sense any talent in you.
+Dialogue: 0,0:09:35.92,0:09:39.52,main,Asta,0000,0000,0000,,What?! Y-You say such mean things \Nwith a smile on your face!
+Dialogue: 0,0:09:39.52,0:09:43.12,main,Nacht,0000,0000,0000,,But I'm sure things will work out if you \Ncan figure out how to use your powers.
+Dialogue: 0,0:09:43.12,0:09:44.18,main,Asta,0000,0000,0000,,Then let's get started—
+Dialogue: 0,0:09:45.02,0:09:47.19,main,Nacht,0000,0000,0000,,Nope. You need some good rest first.
+Dialogue: 0,0:09:47.41,0:09:48.30,main,Asta,0000,0000,0000,,Huh?!
+Dialogue: 0,0:09:48.84,0:09:53.34,main,Nacht,0000,0000,0000,,There's somewhere I'd like to go with \Nyou tomorrow, so just rest for tonight.
+Dialogue: 0,0:09:53.34,0:09:56.14,main,Asta,0000,0000,0000,,How the heck am I supposed \Nto sleep in this situation?!
+Dialogue: 0,0:09:56.14,0:09:58.60,main,Nacht,0000,0000,0000,,I don't like selfish people.
+Dialogue: 0,0:10:08.85,0:10:11.46,main,Marx,0000,0000,0000,,It looks like you're all here.
+Dialogue: 0,0:10:15.98,0:10:19.55,main,Marx,0000,0000,0000,,Then let's get this emergency \Ncaptains' meeting started.
+Dialogue: 0,0:10:35.37,0:10:39.15,main,Marx,0000,0000,0000,,That concludes the report from \Nthe members of the Black Bulls.
+Dialogue: 0,0:10:39.15,0:10:44.30,main,Julius,0000,0000,0000,,The Tree of Qliphoth, which connects \Nthis world to the underworld...
+Dialogue: 0,0:10:44.30,0:10:48.16,main,Julius,0000,0000,0000,,In order to create it, \Nthey need Yami and Vangeance.
+Dialogue: 0,0:10:48.48,0:10:51.50,main,Rill,0000,0000,0000,,I can't believe those two were kidnapped.
+Dialogue: 0,0:10:52.48,0:10:54.86,main,Charlotte,0000,0000,0000,,They probably let their guard down.
+Dialogue: 0,0:10:54.86,0:10:58.25,main,Charlotte,0000,0000,0000,,And they're Magic Knights \NSquad Captains. Unbelievable.
+Dialogue: 0,0:10:58.25,0:10:59.84,main,Charlotte,0000,0000,0000,,Such pathetic men.
+Dialogue: 0,0:11:00.54,0:11:03.76,italics,Charlotte,0000,0000,0000,,No... No! Yami's been...
+Dialogue: 0,0:11:03.76,0:11:07.02,italics,Charlotte,0000,0000,0000,,Is he all right? Is he alive?
+Dialogue: 0,0:11:07.02,0:11:10.13,italics,Charlotte,0000,0000,0000,,I haven't even gotten to tell \Nhim that I love him yet!
+Dialogue: 0,0:11:11.19,0:11:13.00,main,Yuno,0000,0000,0000,,We did everything we could.
+Dialogue: 0,0:11:14.00,0:11:16.21,main,Yuno,0000,0000,0000,,But it wasn't enough.
+Dialogue: 0,0:11:16.21,0:11:19.15,main,Yuno,0000,0000,0000,,Even worse, our enemy wasn't \Neven fighting seriously.
+Dialogue: 0,0:11:19.15,0:11:22.22,main,Jack,0000,0000,0000,,Well, isn't that interesting?
+Dialogue: 0,0:11:22.22,0:11:25.37,main,Jack,0000,0000,0000,,I bet you got scared and overestimated him,
+Dialogue: 0,0:11:25.37,0:11:29.62,main,Jack,0000,0000,0000,,Mr. Vice Captain of the \NGolden Dawn who almost died!
+Dialogue: 0,0:11:29.62,0:11:31.00,main,Fuego,0000,0000,0000,,Jack, don't.
+Dialogue: 0,0:11:31.60,0:11:35.54,main,Fuego,0000,0000,0000,,Even as we speak, our world may become \Nconnected with the underworld.
+Dialogue: 0,0:11:36.46,0:11:38.88,main,Jack,0000,0000,0000,,Then what? The world's finished?
+Dialogue: 0,0:11:39.27,0:11:42.37,main,Fuego,0000,0000,0000,,We must act to prevent that from happening.
+Dialogue: 0,0:11:42.37,0:11:45.47,main,Fuego,0000,0000,0000,,But there are too many unknowns.
+Dialogue: 0,0:11:46.40,0:11:50.73,main,Jack,0000,0000,0000,,So basically, all we've got are guesses,\N since we don't know anything.
+Dialogue: 0,0:11:51.21,0:11:52.37,main,Jack,0000,0000,0000,,This is stupid.
+Dialogue: 0,0:11:53.05,0:11:56.37,main,Jack,0000,0000,0000,,Nothing's gonna come out of this meeting.
+Dialogue: 0,0:11:56.37,0:11:57.69,main,Jack,0000,0000,0000,,I'm out.
+Dialogue: 0,0:11:57.69,0:11:58.77,main,Nozel,0000,0000,0000,,Stop.
+Dialogue: 0,0:12:00.70,0:12:04.07,main,Nozel,0000,0000,0000,,You'd better not be thinking about \Ninfiltrating the Spade Kingdom on your own.
+Dialogue: 0,0:12:04.41,0:12:08.08,main,Jack,0000,0000,0000,,What? Why would I go there for that idiot?
+Dialogue: 0,0:12:08.08,0:12:11.58,main,Jack,0000,0000,0000,,Even if I did, it wouldn't concern any of you.
+Dialogue: 0,0:12:11.79,0:12:14.87,main,Charlotte,0000,0000,0000,,You fool! Of course it would!
+Dialogue: 0,0:12:14.87,0:12:17.67,main,Charlotte,0000,0000,0000,,You can't be allowed to do something \Nso reckless as a captain!
+Dialogue: 0,0:12:18.18,0:12:20.92,italics,Charlotte,0000,0000,0000,,I want to go save Yami, too!
+Dialogue: 0,0:12:21.83,0:12:24.63,main,Jack,0000,0000,0000,,You guys can sit here picking \Nyour noses as long as you want.
+Dialogue: 0,0:12:25.16,0:12:29.18,main,Nozel,0000,0000,0000,,I want to kill that fool just as much as you do!
+Dialogue: 0,0:12:29.57,0:12:32.02,main,Fuego,0000,0000,0000,,All of you, settle down!
+Dialogue: 0,0:12:35.57,0:12:36.67,main,Marx,0000,0000,0000,,Lord Julius...
+Dialogue: 0,0:12:37.31,0:12:39.98,main,Nacht,0000,0000,0000,,Well, I'm glad you all seem motivated, at least.
+Dialogue: 0,0:12:41.03,0:12:46.24,main,Nacht,0000,0000,0000,,But... I dislike people who \Ncan't even hold a proper meeting.
+Dialogue: 0,0:12:46.24,0:12:48.36,main,Asta,0000,0000,0000,,H-Heya...
+Dialogue: 0,0:12:48.36,0:12:50.66,main,Nacht,0000,0000,0000,,Could you quiet down a bit...
+Dialogue: 0,0:12:50.66,0:12:52.57,main,Nacht,0000,0000,0000,,Captains?
+Dialogue: 0,0:12:53.13,0:12:54.25,italics,Yuno,0000,0000,0000,,Asta...
+Dialogue: 0,0:12:54.25,0:12:55.75,main,Charlotte,0000,0000,0000,,Who are you?
+Dialogue: 0,0:12:56.06,0:12:57.54,main,Charlotte,0000,0000,0000,,An intruder?!
+Dialogue: 0,0:12:57.75,0:12:58.79,main,Nacht,0000,0000,0000,,Oh?
+Dialogue: 0,0:13:03.05,0:13:06.30,main,Nacht,0000,0000,0000,,I'm pretty sure I have every \Nright to be at this meeting.
+Dialogue: 0,0:13:08.33,0:13:11.77,main,Asta,0000,0000,0000,,Four devils?! There were others?
+Dialogue: 0,0:13:12.12,0:13:15.60,italics,Fuego,0000,0000,0000,,Devils? This man is devil-possessed?
+Dialogue: 0,0:13:15.82,0:13:18.15,main,Nozel,0000,0000,0000,,Who are you?
+Dialogue: 0,0:13:18.37,0:13:22.78,main,Julius,0000,0000,0000,,He's a vice captain... with the Black Bulls.
+Dialogue: 0,0:13:22.78,0:13:23.99,main,Marx,0000,0000,0000,,Lord Julius?
+Dialogue: 0,0:13:24.20,0:13:27.42,main,Julius,0000,0000,0000,,He's been acting as a spy \Nin the Spade Kingdom,
+Dialogue: 0,0:13:27.42,0:13:30.24,main,Julius,0000,0000,0000,,though I didn't know that \Nhe was devil-possessed.
+Dialogue: 0,0:13:30.79,0:13:33.00,main,Charlotte,0000,0000,0000,,The Vice Captain of the Black Bulls?
+Dialogue: 0,0:13:33.41,0:13:35.69,main,Owl,0000,0000,0000,,A spy in the Spade Kingdom?
+Dialogue: 0,0:13:36.12,0:13:40.63,italics,Fuego,0000,0000,0000,,I guess anyone could be the \Nvice captain of Yami's squad.
+Dialogue: 0,0:13:41.09,0:13:43.38,italics,Jack,0000,0000,0000,,I've seen this asshole before.
+Dialogue: 0,0:13:46.13,0:13:50.30,main,Jack,0000,0000,0000,,Wait, you're... But your magic is...
+Dialogue: 0,0:13:50.30,0:13:52.47,main,Nacht,0000,0000,0000,,That man doesn't exist anymore.
+Dialogue: 0,0:13:55.72,0:14:00.23,main,Nacht,0000,0000,0000,,We're wasting time, so I'm going \Nto get straight to the point.
+Dialogue: 0,0:14:00.96,0:14:02.73,main,Nacht,0000,0000,0000,,Everyone, please sit down.
+Dialogue: 0,0:14:05.05,0:14:09.18,main,Nacht,0000,0000,0000,,As you all know, the gate to the underworld \Nis about to open in the Spade Kingdom.
+Dialogue: 0,0:14:09.77,0:14:13.04,main,Nacht,0000,0000,0000,,And to make that happen, \NI'm sure the preparations for
+Dialogue: 0,0:14:13.04,0:14:15.52,main,Nacht,0000,0000,0000,,the ritual of the advent of \NQliphoth are underway.
+Dialogue: 0,0:14:16.26,0:14:20.88,main,Nacht,0000,0000,0000,,Yami and Vangeance will be offered as \Nsacrifices for the core of that ritual.
+Dialogue: 0,0:14:22.34,0:14:23.92,italics,Asta,0000,0000,0000,,Captain Yami...
+Dialogue: 0,0:14:24.53,0:14:29.13,main,Nacht,0000,0000,0000,,From that point on, over seven days, \Nthe advent of Qliphoth will begin.
+Dialogue: 0,0:14:29.55,0:14:33.56,main,Nacht,0000,0000,0000,,Seven levels, seven gates, will open one by one.
+Dialogue: 0,0:14:34.01,0:14:38.88,main,Nacht,0000,0000,0000,,Ten devils compatible with the Qliphoth \Nare scattered throughout them.
+Dialogue: 0,0:14:38.88,0:14:42.71,main,Nacht,0000,0000,0000,,The deeper the level, the stronger the devil.
+Dialogue: 0,0:14:43.40,0:14:46.78,main,Nacht,0000,0000,0000,,The upper devils are equal to the Dark Triad.
+Dialogue: 0,0:14:46.78,0:14:49.57,main,Nacht,0000,0000,0000,,The devils lower than that are far superior.
+Dialogue: 0,0:14:49.57,0:14:50.85,main,Nacht,0000,0000,0000,,And...
+Dialogue: 0,0:14:52.08,0:14:56.87,main,Nacht,0000,0000,0000,,If the final devil, Lucifero, \Nappears, this world is done for.
+Dialogue: 0,0:14:57.58,0:15:01.12,main,Nacht,0000,0000,0000,,As the catalysts of the advent, \NYami and Vangeance will also die.
+Dialogue: 0,0:15:01.55,0:15:05.55,main,Nacht,0000,0000,0000,,Conversely, until the gates fully open,\N they will both live.
+Dialogue: 0,0:15:06.96,0:15:11.35,italics,Nozel,0000,0000,0000,,He managed to gain this much \Ninformation on his own?
+Dialogue: 0,0:15:11.35,0:15:14.76,italics,Nozel,0000,0000,0000,,From the very heart of the enemy's country,\N the most dangerous area...
+Dialogue: 0,0:15:15.06,0:15:18.52,main,Rill,0000,0000,0000,,Why is the Dark Triad trying \Nto do something so dangerous?
+Dialogue: 0,0:15:18.86,0:15:21.32,main,Nacht,0000,0000,0000,,I'm sure we wouldn't be able to understand.
+Dialogue: 0,0:15:22.54,0:15:27.29,main,Nacht,0000,0000,0000,,You're all Magic Knights. I'm sure you've \Nseen it more than you'd ever want...
+Dialogue: 0,0:15:27.93,0:15:31.34,main,Nacht,0000,0000,0000,,Ones who will hurt others without \Nhesitation to satisfy their desires.
+Dialogue: 0,0:15:31.34,0:15:33.28,main,Nacht,0000,0000,0000,,They only care about themselves.
+Dialogue: 0,0:15:33.28,0:15:36.21,main,Nacht,0000,0000,0000,,Absolute trash who won't \Nfeel a shred of guilt.
+Dialogue: 0,0:15:37.29,0:15:42.75,main,Nacht,0000,0000,0000,,I don't want to understand how the \Nultimate form of that trash thinks,
+Dialogue: 0,0:15:42.75,0:15:44.00,main,Nacht,0000,0000,0000,,nor do I care.
+Dialogue: 0,0:15:44.82,0:15:49.21,main,Nacht,0000,0000,0000,,Irrational evil... \NThere's nothing that I hate more.
+Dialogue: 0,0:15:51.54,0:15:55.96,main,Nacht,0000,0000,0000,,Even if God and the devils \Nforgive them, I never will.
+Dialogue: 0,0:15:58.86,0:16:02.13,main,Nacht,0000,0000,0000,,That being said, I can't \Ndefeat the Dark Triad.
+Dialogue: 0,0:16:03.09,0:16:07.97,main,Nacht,0000,0000,0000,,I'm aware of my own limits. I can \Nonly do what's within my abilities.
+Dialogue: 0,0:16:08.66,0:16:09.90,main,Nacht,0000,0000,0000,,And that's why...
+Dialogue: 0,0:16:10.62,0:16:12.14,main,Nacht,0000,0000,0000,,I'm going to make him our ultimate warrior.
+Dialogue: 0,0:16:12.14,0:16:13.11,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:14.89,0:16:17.31,main,Nacht,0000,0000,0000,,Anti-magic has that much potential.
+Dialogue: 0,0:16:18.69,0:16:21.74,main,Nacht,0000,0000,0000,,In three days, the gate to the \Nunderworld will be opened.
+Dialogue: 0,0:16:22.87,0:16:25.68,main,Nacht,0000,0000,0000,,Before that happens, we're going \Nto take back Yami and Vangeance
+Dialogue: 0,0:16:25.68,0:16:27.75,main,Nacht,0000,0000,0000,,and destroy the Tree of Qliphoth.
+Dialogue: 0,0:16:28.72,0:16:33.12,main,Nacht,0000,0000,0000,,With my magic, we'll be able to infiltrate \Ntheir castle without being noticed.
+Dialogue: 0,0:16:33.12,0:16:36.93,main,Nacht,0000,0000,0000,,We will then attack the Dark Triad\N and take each of them down.
+Dialogue: 0,0:16:37.96,0:16:40.40,main,Nacht,0000,0000,0000,,Dante has gravity and body magic.
+Dialogue: 0,0:16:40.89,0:16:43.37,main,Nacht,0000,0000,0000,,Vanica has curse-warding and blood magic.
+Dialogue: 0,0:16:43.86,0:16:46.15,main,Nacht,0000,0000,0000,,Zenon has spatial and bone magic.
+Dialogue: 0,0:16:46.73,0:16:47.69,italics,Yuno,0000,0000,0000,,Zenon?
+Dialogue: 0,0:16:47.95,0:16:51.44,main,Nacht,0000,0000,0000,,But my magic won't allow me \Nto take that many people.
+Dialogue: 0,0:16:51.73,0:16:53.12,main,Nacht,0000,0000,0000,,We will need to gather forces
+Dialogue: 0,0:16:53.12,0:16:57.20,main,Nacht,0000,0000,0000,,that have a chance against the devils,\N with Asta at our center.
+Dialogue: 0,0:16:58.00,0:17:02.58,main,Jack,0000,0000,0000,,Hell yeah. You'd better believe you're \Npicking from the captains first.
+Dialogue: 0,0:17:03.42,0:17:04.96,main,Yuno,0000,0000,0000,,Let me go.
+Dialogue: 0,0:17:05.77,0:17:09.99,main,Yuno,0000,0000,0000,,I know I'm being impudent, but please.
+Dialogue: 0,0:17:10.46,0:17:13.05,main,Jack,0000,0000,0000,,Huh? What are you, stupid?
+Dialogue: 0,0:17:13.05,0:17:15.84,main,Jack,0000,0000,0000,,Like we'd send anyone who's \Nalready lost to them.
+Dialogue: 0,0:17:16.67,0:17:19.57,main,Fuego,0000,0000,0000,,Yuno, I understand how you feel,
+Dialogue: 0,0:17:20.00,0:17:23.93,main,Fuego,0000,0000,0000,,but staying behind and protecting the \NClover Kingdom is also an important job.
+Dialogue: 0,0:17:24.20,0:17:25.03,italics,Asta,0000,0000,0000,,Yuno...
+Dialogue: 0,0:17:25.93,0:17:28.10,main,Nacht,0000,0000,0000,,There's actually something I want to ask you.
+Dialogue: 0,0:17:29.61,0:17:34.65,main,Nacht,0000,0000,0000,,There is a resistance that fights against \Nthe Dark Triad in the Spade Kingdom.
+Dialogue: 0,0:17:35.81,0:17:39.78,main,Nacht,0000,0000,0000,,The other day, one of them \Nsnuck into the Clover Kingdom.
+Dialogue: 0,0:17:40.40,0:17:42.41,main,Nacht,0000,0000,0000,,They're at your hideout \Nright now, aren't they?
+Dialogue: 0,0:17:42.70,0:17:43.58,main,Jack,0000,0000,0000,,What?
+Dialogue: 0,0:17:45.04,0:17:47.96,main,Nacht,0000,0000,0000,,Just who are you?
+Dialogue: 0,0:17:51.39,0:17:52.46,main,Yuno,0000,0000,0000,,Apparently,
+Dialogue: 0,0:17:53.49,0:17:55.59,main,Yuno,0000,0000,0000,,I'm the Prince of the Spade Kingdom.
+Dialogue: 0,0:17:58.01,0:18:00.66,main,Asta,0000,0000,0000,,What?!
+Dialogue: 0,0:18:00.66,0:18:03.13,main,Asta,0000,0000,0000,,The Prince of the Spade Kingdom?!
+Dialogue: 0,0:18:03.13,0:18:05.27,main,Asta,0000,0000,0000,,Yuno, are you s-serious?!
+Dialogue: 0,0:18:05.60,0:18:09.09,main,Yuno,0000,0000,0000,,Yeah. When the revolt against \Nthe royal family happened,
+Dialogue: 0,0:18:09.09,0:18:13.27,main,Yuno,0000,0000,0000,,I was a newborn, and someone apparently\N escaped with me to the Clover Kingdom.
+Dialogue: 0,0:18:13.27,0:18:18.03,italics,Nozel,0000,0000,0000,,I see. If he's royalty, then his \Ntremendous amount of mana makes sense.
+Dialogue: 0,0:18:18.83,0:18:23.28,main,Yuno,0000,0000,0000,,The man who's with me now served \Nthe previous royal family.
+Dialogue: 0,0:18:23.78,0:18:26.51,main,Yuno,0000,0000,0000,,He should know a great deal \Nabout the enemy and the castle.
+Dialogue: 0,0:18:27.39,0:18:29.83,main,Jack,0000,0000,0000,,That's even more reason not \Nto let you handle this.
+Dialogue: 0,0:18:29.83,0:18:33.04,main,Jack,0000,0000,0000,,That guy could be an enemy spy!
+Dialogue: 0,0:18:33.25,0:18:37.05,main,Jack,0000,0000,0000,,Not to mention, there's even\N a chance {\i1}you{\i0} might a spy.
+Dialogue: 0,0:18:37.85,0:18:40.30,main,Yuno,0000,0000,0000,,If I don't save him, there's no point.
+Dialogue: 0,0:18:40.83,0:18:44.32,main,Yuno,0000,0000,0000,,It's not just me. \NEver since the elf incident,
+Dialogue: 0,0:18:44.32,0:18:48.56,main,Yuno,0000,0000,0000,,you've all been suspicious \Nof Captain Vangeance.
+Dialogue: 0,0:18:49.49,0:18:52.23,main,Yuno,0000,0000,0000,,And I can't blame you for that,
+Dialogue: 0,0:18:52.52,0:18:57.06,main,Yuno,0000,0000,0000,,because he wasn't able to choose \Nbetween the humans and the elves.
+Dialogue: 0,0:18:57.91,0:19:01.44,main,Yuno,0000,0000,0000,,And that's exactly why, even though \Nhe's hurting, he's constantly fighting
+Dialogue: 0,0:19:01.44,0:19:03.59,main,Yuno,0000,0000,0000,,more earnestly than anyone \Nelse as a Magic Knight.
+Dialogue: 0,0:19:04.70,0:19:10.83,main,Yuno,0000,0000,0000,,After I lost to that guy, there's something\N I remember as I was blacking out.
+Dialogue: 0,0:19:11.77,0:19:17.34,main,Yuno,0000,0000,0000,,Captain Vangeance was fighting while \Nprotecting the members of the Golden Dawn.
+Dialogue: 0,0:19:17.98,0:19:21.12,flashback,Zenon,0000,0000,0000,,You should probably get rid \Nof some of your baggage
+Dialogue: 0,0:19:21.12,0:19:23.27,flashback,Zenon,0000,0000,0000,,so you can concentrate on the fight more,
+Dialogue: 0,0:19:23.27,0:19:25.35,flashback,Zenon,0000,0000,0000,,but you won't.
+Dialogue: 0,0:19:25.75,0:19:29.18,flashback,Zenon,0000,0000,0000,,And that's exactly why you're going to lose.
+Dialogue: 0,0:19:30.10,0:19:32.10,flashback,William,0000,0000,0000,,Of course I won't abandon them.
+Dialogue: 0,0:19:32.69,0:19:35.30,flashback,William,0000,0000,0000,,I made them walk down a path of thorns.
+Dialogue: 0,0:19:35.30,0:19:40.24,flashback,William,0000,0000,0000,,Even so, they rose again without \Ncursing me and forged ahead.
+Dialogue: 0,0:19:41.01,0:19:44.41,flashback,William,0000,0000,0000,,They are my pride and joy! They are my dream!
+Dialogue: 0,0:19:45.25,0:19:50.37,main,Yuno,0000,0000,0000,,It's because he fought while protecting \Nus that Captain Vangeance was captured.
+Dialogue: 0,0:19:50.69,0:19:54.75,main,Yuno,0000,0000,0000,,Even if he's a traitor who turned his \Nback on this kingdom once to all of you,
+Dialogue: 0,0:19:55.00,0:19:59.35,main,Yuno,0000,0000,0000,,to us, he's the kindest and most \Nreliable captain we could ask for!
+Dialogue: 0,0:19:59.92,0:20:00.97,main,Asta,0000,0000,0000,,Yuno...
+Dialogue: 0,0:20:01.47,0:20:04.84,main,Yuno,0000,0000,0000,,That guy thinks he annihilated \Neveryone in the Golden Dawn.
+Dialogue: 0,0:20:04.84,0:20:09.96,main,Yuno,0000,0000,0000,,But we're still alive... \Nbecause of Captain Vangeance's magic!
+Dialogue: 0,0:20:10.85,0:20:12.60,main,Yuno,0000,0000,0000,,This isn't over yet!
+Dialogue: 0,0:20:12.95,0:20:18.36,main,Yuno,0000,0000,0000,,The Golden Dawn is the greatest \NMagic Knights Squad in the Clover Kingdom!
+Dialogue: 0,0:20:18.59,0:20:22.84,main,Yuno,0000,0000,0000,,I'm going to prove that Captain Vangeance \Ndid the right thing when he protected us,
+Dialogue: 0,0:20:22.84,0:20:26.37,main,Yuno,0000,0000,0000,,and just how powerful we are!
+Dialogue: 0,0:20:27.05,0:20:30.19,main,Yuno,0000,0000,0000,,I will be the one who \Nsaves Captain Vangeance!
+Dialogue: 0,0:20:30.54,0:20:32.68,italics,Jack,0000,0000,0000,,What the hell's up with this mana?
+Dialogue: 0,0:20:33.14,0:20:36.40,main,Jack,0000,0000,0000,,Hey, shut your mouth alr—
+Dialogue: 0,0:20:36.40,0:20:38.59,main,Bell,0000,0000,0000,,Hey, could {\i1}you{\i0} shut up already?
+Dialogue: 0,0:20:39.51,0:20:41.97,main,Bell,0000,0000,0000,,I'm storing up mana here
+Dialogue: 0,0:20:43.18,0:20:45.58,main,Bell,0000,0000,0000,,so we can take down that bony bastard!
+Dialogue: 0,0:20:46.57,0:20:48.75,main,Bell,0000,0000,0000,,Yuno's not going to lose again!
+Dialogue: 0,0:20:49.56,0:20:53.16,main,Nacht,0000,0000,0000,,Very well. I don't hate people like you.
+Dialogue: 0,0:20:53.60,0:20:55.44,main,Asta,0000,0000,0000,,Who cares if you're the \NPrince of the Spade Kingdom
+Dialogue: 0,0:20:55.44,0:20:57.41,main,Asta,0000,0000,0000,,or the Vice Captain of the Golden Dawn?
+Dialogue: 0,0:20:57.41,0:20:58.82,main,Asta,0000,0000,0000,,You'll always be Yuno!
+Dialogue: 0,0:20:59.83,0:21:02.48,main,Nacht,0000,0000,0000,,Now, we'll be leaving for the \NSpade Kingdom three days from now,
+Dialogue: 0,0:21:02.48,0:21:04.03,main,Nacht,0000,0000,0000,,early in the morning.
+Dialogue: 0,0:21:04.03,0:21:06.57,main,Nacht,0000,0000,0000,,I will send you details of our plan later.
+Dialogue: 0,0:21:07.24,0:21:09.83,main,Nacht,0000,0000,0000,,This time, we'll be the ones who attack.
+Dialogue: 0,0:21:10.43,0:21:14.95,italics,Asta,0000,0000,0000,,I don't have time to cry when \NYuno's being this serious.
+Dialogue: 0,0:21:14.95,0:21:18.70,italics,Asta,0000,0000,0000,,If I lost because I was weak, that just \Nmeans I need to get stronger!
+Dialogue: 0,0:21:18.70,0:21:19.59,italics,Asta,0000,0000,0000,,No...
+Dialogue: 0,0:21:19.94,0:21:22.97,italics,Asta,0000,0000,0000,,I'm going to surpass my limits \Nand become the most powerful!
+Dialogue: 0,0:21:24.21,0:21:27.68,main,Asta,0000,0000,0000,,Let's defeat the Dark Triad \Nand rescue our captains!
+Dialogue: 0,0:21:28.32,0:21:29.12,main,Yuno,0000,0000,0000,,Yeah!
+Dialogue: 0,0:21:30.09,0:21:33.93,main,Fuego,0000,0000,0000,,Then we should also ask the \NHeart Kingdom for help.
+Dialogue: 0,0:21:33.93,0:21:36.60,main,Marx,0000,0000,0000,,Actually, I haven't been able to \Nget a hold of them since yesterday.
+Dialogue: 0,0:21:36.93,0:21:40.73,main,Rill,0000,0000,0000,,What?! Did something happen \Nto Charmy and the others?
+Dialogue: 0,0:21:40.73,0:21:45.09,main,Nacht,0000,0000,0000,,Each member of the Dark Triad \Nleft their castle yesterday.
+Dialogue: 0,0:21:45.09,0:21:49.27,main,Nacht,0000,0000,0000,,Vanica might have attacked the Heart Kingdom.
+Dialogue: 0,0:21:49.27,0:21:50.44,main,Asta,0000,0000,0000,,What?
+Dialogue: 0,0:22:05.21,0:22:06.57,main,Noelle,0000,0000,0000,,You're...
+Dialogue: 0,0:23:39.84,0:23:41.85,main,Asta,0000,0000,0000,,I can't believe the \NVice Captain of the Black Bulls
+Dialogue: 0,0:23:41.85,0:23:44.19,main,Asta,0000,0000,0000,,is someone who can use the devil's powers.
+Dialogue: 0,0:23:44.19,0:23:47.66,main,Asta,0000,0000,0000,,What kind of training are we \Ngoing to do to make me the best?
+Dialogue: 0,0:23:48.78,0:23:53.44,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 169:\N"The Devil-Binding Ritual."
+Dialogue: 0,0:23:50.32,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 169\N\N{\fs18} The Devil-Binding Ritual

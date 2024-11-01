@@ -1,0 +1,286 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0100,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,0030,0030,0018,1
+Style: sign_33635_243_Udon,Trebuchet MS,24,&H0029302B,&H000000FF,&H00DDF5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0030,0450,0020,1
+Style: sign_33635_244_Somen,Trebuchet MS,24,&H0029302B,&H000000FF,&H00DDF5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0250,0250,0080,1
+Style: sign_33635_245_Hiyamugi,Trebuchet MS,24,&H0029302B,&H000000FF,&H00DDF5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,9,0450,0030,0020,1
+Style: sign_33726_246_Hawk,Trebuchet MS,24,&H00171717,&H000000FF,&H00F1E7E7,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,4,0030,0320,0020,1
+Style: sign_33726_247_Eagle,Trebuchet MS,24,&H00171717,&H000000FF,&H00F1E7E7,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0320,0030,0030,1
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.82,0:00:06.84,italics,nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.15,0:00:15.30,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.48,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:30.87,0:00:35.36,italics,Nar,0000,0000,0000,,Vetto from the Eye of the Midnight Sun \Nsuddenly appeared before Asta and the others.
+Dialogue: 0,0:00:35.36,0:00:39.28,italics,Nar,0000,0000,0000,,He came to steal the magic stone \Nthat was in the Underwater Temple.
+Dialogue: 0,0:00:39.28,0:00:40.83,main,Asta,0000,0000,0000,,Let's go, Kiato!
+Dialogue: 0,0:00:40.83,0:00:42.12,main,Kiato,0000,0000,0000,,You got it, Asta!
+Dialogue: 0,0:00:48.96,0:00:50.13,main,Vetto,0000,0000,0000,,How boring.
+Dialogue: 0,0:00:50.13,0:00:52.67,main,Vetto,0000,0000,0000,,Slow movements and weak attacks.
+Dialogue: 0,0:00:52.99,0:00:57.93,main,Vetto,0000,0000,0000,,I suppose I can't expect more from \Nno-magic trash and hick scum.
+Dialogue: 0,0:00:58.25,0:01:00.80,main,Asta,0000,0000,0000,,You sure know how to hurt a \Nguy's feelings, you hairy gorilla.
+Dialogue: 0,0:01:01.24,0:01:05.23,main,Both,0000,0000,0000,,We'll show you what happens when \Ntrash and scum get serious!
+Dialogue: 0,0:01:06.39,0:01:11.98,italics,Nar,0000,0000,0000,,Asta and Kiato struggled,\Nbut Vetto was just too strong.
+Dialogue: 0,0:01:11.98,0:01:14.23,main,Vetto,0000,0000,0000,,Did you get your hopes up?
+Dialogue: 0,0:01:14.23,0:01:18.45,main,Vetto,0000,0000,0000,,These childish attacks won't work on me!
+Dialogue: 0,0:01:18.89,0:01:20.20,main,Asta,0000,0000,0000,,Not yet...
+Dialogue: 0,0:01:23.44,0:01:28.79,main,Vetto,0000,0000,0000,,No-magic trash! Prancing around \Nwith weapons too good for you...
+Dialogue: 0,0:01:28.79,0:01:31.25,main,Asta,0000,0000,0000,,So what?!
+Dialogue: 0,0:01:33.21,0:01:37.05,main,Vetto,0000,0000,0000,,You never had any hope of winning.
+Dialogue: 0,0:01:38.61,0:01:42.59,main,Vetto,0000,0000,0000,,Now... scream! Despair!
+Dialogue: 0,0:01:45.43,0:01:47.17,main,Asta,0000,0000,0000,,Ib I gwabe up...
+Dialogue: 0,0:01:47.17,0:01:49.23,main,Asta,0000,0000,0000,,Fu curd I brotec?
+Dialogue: 0,0:01:49.23,0:01:50.06,main,Vetto,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:56.26,0:02:00.07,main,Both,0000,0000,0000,,He said, "If I gave up, who could I protect?"
+Dialogue: 0,0:02:30.08,0:02:32.77,Ep Title,Sign,0000,0000,0000,,{\fad(1,480)}Awakening
+Dialogue: 0,0:03:35.67,0:03:36.67,main,Yami,0000,0000,0000,,Noelle...
+Dialogue: 0,0:03:36.67,0:03:37.88,main,Gifso,0000,0000,0000,,Kahono!
+Dialogue: 0,0:03:38.40,0:03:40.42,main,Vetto,0000,0000,0000,,I see that you two are next.
+Dialogue: 0,0:03:40.42,0:03:42.97,main,Vetto,0000,0000,0000,,Try to entertain me at least a little bit.
+Dialogue: 0,0:03:48.23,0:03:49.64,main,Kahono,0000,0000,0000,,Dad...
+Dialogue: 0,0:03:50.07,0:03:52.31,main,Noelle,0000,0000,0000,,Magna... Luck!
+Dialogue: 0,0:03:52.80,0:03:54.06,main,Noelle,0000,0000,0000,,Asta!
+Dialogue: 0,0:03:57.97,0:04:00.40,italics,Noelle,0000,0000,0000,,Everyone was defeated so easily...
+Dialogue: 0,0:04:00.80,0:04:03.65,italics,Noelle,0000,0000,0000,,Just how strong is this guy?
+Dialogue: 0,0:04:12.12,0:04:13.62,main,Asta,0000,0000,0000,,Not yet!
+Dialogue: 0,0:04:13.94,0:04:16.62,main,Vetto,0000,0000,0000,,Losers... can get lost!
+Dialogue: 0,0:04:17.92,0:04:19.04,main,Noelle,0000,0000,0000,,Asta!
+Dialogue: 0,0:04:20.74,0:04:23.83,main,Kahono,0000,0000,0000,,Song Magic: Rhythm Cushion!
+Dialogue: 0,0:04:23.83,0:04:26.02,main,Noelle,0000,0000,0000,,Thanks, Kahono.
+Dialogue: 0,0:04:26.02,0:04:27.72,main,Kahono,0000,0000,0000,,That'll just be a thousand yuls.
+Dialogue: 0,0:04:28.35,0:04:31.28,main,Noelle,0000,0000,0000,,I'll pay you back a hundredfold.
+Dialogue: 0,0:04:33.68,0:04:38.02,main,Noelle,0000,0000,0000,,Can you heal everyone with \Nyour song recovery magic?
+Dialogue: 0,0:04:38.02,0:04:43.36,main,Kahono,0000,0000,0000,,I can, but do you think that guy's \Ngoing to wait for me to finish singing?
+Dialogue: 0,0:04:47.44,0:04:48.24,main,Noelle,0000,0000,0000,,That's...
+Dialogue: 0,0:04:50.75,0:04:52.45,main,Kahono,0000,0000,0000,,Hey!
+Dialogue: 0,0:04:54.35,0:04:59.17,main,Kahono,0000,0000,0000,,Big Brother! Why are you sleeping?!
+Dialogue: 0,0:04:59.51,0:05:05.92,main,Kahono,0000,0000,0000,,What happened to our promise to become an \Nidol and dancer, and then become huge stars?!
+Dialogue: 0,0:05:06.35,0:05:09.93,main,Kahono,0000,0000,0000,,We were going to become sibling \Nidols who could sing and dance!
+Dialogue: 0,0:05:10.61,0:05:12.01,main,Kiato,0000,0000,0000,,That's right!
+Dialogue: 0,0:05:12.01,0:05:14.00,main,Noelle,0000,0000,0000,,Huh? He's your big brother?
+Dialogue: 0,0:05:14.00,0:05:17.52,main,Kahono,0000,0000,0000,,Yup. That moron over there \Nis my big brother, Kiato.
+Dialogue: 0,0:05:18.21,0:05:19.85,main,Kiato,0000,0000,0000,,Who are you calling a moron?!
+Dialogue: 0,0:05:19.85,0:05:20.86,main,Kiato,0000,0000,0000,,Ow...
+Dialogue: 0,0:05:21.81,0:05:25.07,italics,Kiato,0000,0000,0000,,If I hadn't softened the blow of \Nthat punch with my dance magic,
+Dialogue: 0,0:05:25.07,0:05:26.93,italics,Kiato,0000,0000,0000,,he would've taken my head off.
+Dialogue: 0,0:05:28.18,0:05:29.82,italics,Kiato,0000,0000,0000,,He's unbelievably strong.
+Dialogue: 0,0:05:29.82,0:05:30.62,italics,Kiato,0000,0000,0000,,But...
+Dialogue: 0,0:05:31.28,0:05:34.49,main,Kahono,0000,0000,0000,,The two of us dream of going to the surface!
+Dialogue: 0,0:05:34.85,0:05:39.71,main,Kiato,0000,0000,0000,,That's right! If we want to fulfill that dream, \Nwe can't just sit around napping!
+Dialogue: 0,0:05:39.71,0:05:41.03,main,Kiato,0000,0000,0000,,Let's go, Kahono!
+Dialogue: 0,0:05:41.03,0:05:41.88,main,Kahono,0000,0000,0000,,Yeah!
+Dialogue: 0,0:05:58.88,0:06:01.77,italics,Noelle,0000,0000,0000,,Her mana's getting stronger?
+Dialogue: 0,0:06:02.88,0:06:04.27,main,Both,0000,0000,0000,,Combo Spell:
+Dialogue: 0,0:06:06.56,0:06:08.15,main,Both,0000,0000,0000,,Sea God Slash!
+Dialogue: 0,0:06:10.61,0:06:13.41,italics,Kiato,0000,0000,0000,,Sea God Slash is a song \Nand dance combo spell.
+Dialogue: 0,0:06:14.43,0:06:18.41,italics,Kiato,0000,0000,0000,,Dancing to Kahono's song \Nreinforces my dance magic,
+Dialogue: 0,0:06:18.41,0:06:20.67,italics,Kiato,0000,0000,0000,,and unleashes magic slashing attacks!
+Dialogue: 0,0:06:24.11,0:06:25.04,main,Noelle,0000,0000,0000,,Amazing...
+Dialogue: 0,0:06:35.15,0:06:37.06,main,Gifso,0000,0000,0000,,Kiato! Kahono!
+Dialogue: 0,0:06:37.06,0:06:40.56,main,Gifso,0000,0000,0000,,You can do it! The two of you have got this!
+Dialogue: 0,0:06:41.35,0:06:45.31,main,Gifso,0000,0000,0000,,You've worked so hard ever \Nsince you were little.
+Dialogue: 0,0:07:04.11,0:07:06.93,flashback,Kiato,0000,0000,0000,,I guess that's enough for today.
+Dialogue: 0,0:07:06.93,0:07:11.82,flashback,Kahono,0000,0000,0000,,No way. We'll never get rich if \Nthis was enough to tire us out.
+Dialogue: 0,0:07:11.82,0:07:14.85,flashback,Kiato,0000,0000,0000,,You're right. We can't become stars that way.
+Dialogue: 0,0:07:14.85,0:07:21.25,flashback,Kahono,0000,0000,0000,,Yup. Besides, we need to make sure our \Nsong and dance will please the sea god.
+Dialogue: 0,0:07:21.25,0:07:22.98,flashback,Kiato,0000,0000,0000,,Yeah, so we need to work harder.
+Dialogue: 0,0:07:23.87,0:07:25.43,flashback,Kiato,0000,0000,0000,,Okay, let's do this.
+Dialogue: 0,0:07:25.43,0:07:26.23,flashback,Kahono,0000,0000,0000,,Yeah!
+Dialogue: 0,0:07:36.39,0:07:37.75,italics,Gifso,0000,0000,0000,,Your hard work...
+Dialogue: 0,0:07:39.35,0:07:40.75,italics,Gifso,0000,0000,0000,,...won't betray you!
+Dialogue: 0,0:07:46.58,0:07:49.92,main,Vetto,0000,0000,0000,,Oh? All this power
+Dialogue: 0,0:07:49.92,0:07:53.55,main,Vetto,0000,0000,0000,,from a little bird's song \Nand a mouse's dance.
+Dialogue: 0,0:07:54.03,0:07:57.26,main,Vetto,0000,0000,0000,,Frontier magic is truly intriguing.
+Dialogue: 0,0:07:57.60,0:08:00.77,italics,Kiato,0000,0000,0000,,That's right! This spell was \Ncreated because we're here!
+Dialogue: 0,0:08:01.47,0:08:04.14,italics,Kiato,0000,0000,0000,,We served the sea god, praying, \Nsinging and dancing...
+Dialogue: 0,0:08:04.79,0:08:09.65,italics,Kiato,0000,0000,0000,,We spent a long time that way, \Nweaving the magic into our lives!
+Dialogue: 0,0:08:10.08,0:08:13.36,italics,Kahono,0000,0000,0000,,That's right! Ever since we were \Nlittle, we've offered up this song
+Dialogue: 0,0:08:13.36,0:08:16.64,italics,Kahono,0000,0000,0000,,and dance to the sea god \Nand the rest of our people!
+Dialogue: 0,0:08:16.64,0:08:17.91,italics,Kahono,0000,0000,0000,,This spell...
+Dialogue: 0,0:08:18.30,0:08:20.99,italics,Kiato,0000,0000,0000,,...is our bond with the people
+Dialogue: 0,0:08:20.99,0:08:23.41,italics,Kiato,0000,0000,0000,,of the Underwater Temple!
+Dialogue: 0,0:08:24.37,0:08:25.70,main,Bg,0000,0000,0000,,You can do it!
+Dialogue: 0,0:08:25.70,0:08:27.21,main,Bg,0000,0000,0000,,Kiato! Kahono!
+Dialogue: 0,0:08:27.21,0:08:29.96,main,Gifso,0000,0000,0000,,Go, Kiato! Kahono!
+Dialogue: 0,0:08:29.96,0:08:32.83,italics,Kahono,0000,0000,0000,,We're not going to let you...
+Dialogue: 0,0:08:32.83,0:08:35.26,italics,Kiato,0000,0000,0000,,...break that bond!
+Dialogue: 0,0:08:39.30,0:08:40.26,italics,Noelle,0000,0000,0000,,Did they do it?
+Dialogue: 0,0:08:45.95,0:08:47.65,main,Vetto,0000,0000,0000,,So what?
+Dialogue: 0,0:08:50.06,0:08:51.52,main,Noelle,0000,0000,0000,,No way...
+Dialogue: 0,0:08:55.01,0:08:56.28,main,Gifso,0000,0000,0000,,Wha...
+Dialogue: 0,0:09:01.28,0:09:02.39,main,Noelle,0000,0000,0000,,Kiato!
+Dialogue: 0,0:09:16.58,0:09:17.63,main,Kahono,0000,0000,0000,,Big Brother!
+Dialogue: 0,0:09:25.73,0:09:27.06,main,Gifso,0000,0000,0000,,Kiato!
+Dialogue: 0,0:09:28.27,0:09:30.60,main,Gifso,0000,0000,0000,,Run, Kahono!
+Dialogue: 0,0:09:30.60,0:09:32.75,main,Vetto,0000,0000,0000,,Dreams? Bonds?
+Dialogue: 0,0:09:32.75,0:09:39.49,main,Vetto,0000,0000,0000,,People like you have no right \Nto talk about such things!
+Dialogue: 0,0:09:42.39,0:09:43.87,main,Noelle,0000,0000,0000,,Kahono!
+Dialogue: 0,0:09:49.33,0:09:50.56,main,Gifso,0000,0000,0000,,Curse you!
+Dialogue: 0,0:09:50.56,0:09:53.00,main,Gifso,0000,0000,0000,,Game Magic: Monster Toy!
+Dialogue: 0,0:09:56.83,0:10:00.22,main,Vetto,0000,0000,0000,,Every last one of you thinks\Nthis is some child's game.
+Dialogue: 0,0:10:09.65,0:10:13.31,italics,Vetto,0000,0000,0000,,We're the ones who truly \Nhave dreams and bonds...
+Dialogue: 0,0:10:13.77,0:10:16.63,italics,Vetto,0000,0000,0000,,We, the Eye of the Midnight Sun!
+Dialogue: 0,0:10:18.66,0:10:20.62,main,Vetto,0000,0000,0000,,The ones you broke...
+Dialogue: 0,0:10:20.62,0:10:24.03,main,Vetto,0000,0000,0000,,Our golden dreams and our bonds of blood!
+Dialogue: 0,0:10:24.48,0:10:28.30,main,Gifso,0000,0000,0000,,What is that fool talking about?
+Dialogue: 0,0:10:28.30,0:10:31.29,main,Gifso,0000,0000,0000,,You devil!
+Dialogue: 0,0:10:32.39,0:10:36.55,main,Vetto,0000,0000,0000,,Now you won't be able to perform your \Nsilly songs and dances ever again.
+Dialogue: 0,0:10:37.46,0:10:42.16,main,Vetto,0000,0000,0000,,In other words, your cheap little \Ndreams just went down the drain.
+Dialogue: 0,0:10:42.16,0:10:45.76,main,Vetto,0000,0000,0000,,Well, weakling? You grounded little bird...
+Dialogue: 0,0:10:46.10,0:10:49.68,main,Vetto,0000,0000,0000,,Did you get a good taste of despair?
+Dialogue: 0,0:10:58.51,0:11:00.78,main,Vetto,0000,0000,0000,,I don't like those eyes.
+Dialogue: 0,0:11:01.11,0:11:06.26,main,Vetto,0000,0000,0000,,In that case, I'll have to rip \Noff your wings one by one...
+Dialogue: 0,0:11:08.98,0:11:12.23,main,Vetto,0000,0000,0000,,A bird that can't sing has no reason to live.
+Dialogue: 0,0:11:12.66,0:11:13.67,main,Vetto,0000,0000,0000,,I'll just...
+Dialogue: 0,0:11:13.67,0:11:15.06,main,Noelle,0000,0000,0000,,Stop!
+Dialogue: 0,0:11:17.83,0:11:20.80,main,Noelle,0000,0000,0000,,Let her go!
+Dialogue: 0,0:11:21.46,0:11:24.55,main,Vetto,0000,0000,0000,,You think you can stop me with words?
+Dialogue: 0,0:11:27.09,0:11:30.22,italics,Noelle,0000,0000,0000,,If I miss, I might hit Kahono...
+Dialogue: 0,0:11:30.46,0:11:33.98,flashback,Vetto,0000,0000,0000,,You never had any hope of winning.
+Dialogue: 0,0:11:34.35,0:11:38.02,flashback,Vetto,0000,0000,0000,,Now... scream! Despair!
+Dialogue: 0,0:11:38.95,0:11:42.10,italics,Noelle,0000,0000,0000,,I couldn't attack earlier, either.
+Dialogue: 0,0:11:42.90,0:11:48.08,italics,Noelle,0000,0000,0000,,In any case, would my attacks \Neven work on someone like him?
+Dialogue: 0,0:11:52.16,0:11:58.03,main,Vetto,0000,0000,0000,,Are you finished? Then just \Nwatch from there, you loser.
+Dialogue: 0,0:12:05.27,0:12:09.56,italics,Noelle,0000,0000,0000,,Everyone's fighting, even though \Nthey're getting torn to pieces.
+Dialogue: 0,0:12:10.71,0:12:12.06,italics,Noelle,0000,0000,0000,,And yet, I...
+Dialogue: 0,0:12:12.61,0:12:13.87,italics,Noelle,0000,0000,0000,,I...
+Dialogue: 0,0:12:17.76,0:12:19.06,italics,Kahono,0000,0000,0000,,It's all right.
+Dialogue: 0,0:12:21.71,0:12:23.07,main,Noelle,0000,0000,0000,,Kahono?
+Dialogue: 0,0:12:26.75,0:12:29.42,italics,kahono,0000,0000,0000,,That immense power inside you...
+Dialogue: 0,0:12:29.42,0:12:32.33,italics,kahono,0000,0000,0000,,You'll be able to control it now, Noelle!
+Dialogue: 0,0:12:32.98,0:12:36.13,italics,Kahono,0000,0000,0000,,Because you're fighting to protect \Nwhat's important to you.
+Dialogue: 0,0:12:36.13,0:12:38.56,italics,Kahono,0000,0000,0000,,You're fighting to win!
+Dialogue: 0,0:12:39.38,0:12:41.71,main,Noelle,0000,0000,0000,,What's important to me?
+Dialogue: 0,0:12:46.43,0:12:49.71,italics,Kahono,0000,0000,0000,,You'll be fine! There's no doubt about it...
+Dialogue: 0,0:12:49.71,0:12:52.10,italics,Kahono,0000,0000,0000,,Because I'm your friend, and I say so!
+Dialogue: 0,0:13:16.19,0:13:17.16,main,Guy,0000,0000,0000,,Hey...
+Dialogue: 0,0:13:17.16,0:13:18.37,main,Guy 2,0000,0000,0000,,It's shaking?
+Dialogue: 0,0:13:20.82,0:13:22.39,main,Gifso,0000,0000,0000,,Wh-What's going on?
+Dialogue: 0,0:13:22.82,0:13:25.26,main,Yami,0000,0000,0000,,So you finally showed up,
+Dialogue: 0,0:13:25.65,0:13:26.74,main,Yami,0000,0000,0000,,Noelle!
+Dialogue: 0,0:13:29.17,0:13:30.47,main,Noelle,0000,0000,0000,,I'll tell you one more time.
+Dialogue: 0,0:13:30.95,0:13:33.56,italics,Vetto,0000,0000,0000,,What is this power?
+Dialogue: 0,0:13:34.53,0:13:37.94,main,Noelle,0000,0000,0000,,Let my friend go!
+Dialogue: 0,0:13:44.43,0:13:46.49,flashback,Fuegoleon,0000,0000,0000,,Black Bulls girl,
+Dialogue: 0,0:13:47.14,0:13:50.28,flashback,Fuegoleon,0000,0000,0000,,you're not letting what your \Nsiblings said get to you, are you?
+Dialogue: 0,0:13:51.70,0:13:55.08,flashback,Fuegoleon,0000,0000,0000,,There's no time for that on the battlefield!
+Dialogue: 0,0:13:55.39,0:13:58.66,flashback,Fuegoleon,0000,0000,0000,,One wrong decision and a life could be lost!
+Dialogue: 0,0:13:58.89,0:14:03.34,flashback,Fuegoleon,0000,0000,0000,,You're standing here right now \Nas a member of the Magic Knights!
+Dialogue: 0,0:14:04.27,0:14:07.48,flashback,Fuegoleon,0000,0000,0000,,If you joined the Magic Knights \Nof your own free will,
+Dialogue: 0,0:14:07.48,0:14:09.68,flashback,Fuegoleon,0000,0000,0000,,then steel yourself and get stronger!
+Dialogue: 0,0:14:10.42,0:14:11.84,flashback,Noelle,0000,0000,0000,,Steel myself?
+Dialogue: 0,0:14:12.32,0:14:14.48,flashback,Fuegoleon,0000,0000,0000,,Being weak is nothing to be ashamed of.
+Dialogue: 0,0:14:16.32,0:14:18.10,flashback,Fuegoleon,0000,0000,0000,,However, staying weak is!
+Dialogue: 0,0:14:27.79,0:14:31.24,main,Noelle,0000,0000,0000,,Let my friend go!
+Dialogue: 0,0:14:31.81,0:14:34.42,main,Vetto,0000,0000,0000,,This power...
+Dialogue: 0,0:14:34.42,0:14:36.74,main,Vetto,0000,0000,0000,,Girl, you're royalty?
+Dialogue: 0,0:14:37.13,0:14:38.96,main,Noelle,0000,0000,0000,,So what if I am?
+Dialogue: 0,0:14:38.96,0:14:41.25,main,Noelle,0000,0000,0000,,That has nothing to do with this!
+Dialogue: 0,0:14:41.84,0:14:45.06,main,Noelle,0000,0000,0000,,I'm Noelle Silva of the Black Bulls!
+Dialogue: 0,0:14:45.06,0:14:48.46,main,Noelle,0000,0000,0000,,How dare you hurt my friends and comrades?!
+Dialogue: 0,0:14:49.26,0:14:50.84,main,Vetto,0000,0000,0000,,I see...
+Dialogue: 0,0:14:51.09,0:14:52.01,italics,Vetto,0000,0000,0000,,I knew it.
+Dialogue: 0,0:14:52.48,0:14:55.28,main,Vetto,0000,0000,0000,,You're from the most corrupt clan!
+Dialogue: 0,0:14:55.83,0:14:57.19,main,Vetto,0000,0000,0000,,Very well!
+Dialogue: 0,0:15:05.87,0:15:08.60,main,Vetto,0000,0000,0000,,Come at me with all of your strength!
+Dialogue: 0,0:15:08.60,0:15:13.04,main,Vetto,0000,0000,0000,,I'll force you and that \Nsinful mana to your knees!
+Dialogue: 0,0:15:15.53,0:15:17.33,main,Noelle,0000,0000,0000,,I'll defeat you,
+Dialogue: 0,0:15:17.33,0:15:20.04,main,Noelle,0000,0000,0000,,whether you ask me to or not!
+Dialogue: 0,0:15:20.04,0:15:24.02,main,Noelle,0000,0000,0000,,Water Creation Magic: Sea Dragon's Roar!
+Dialogue: 0,0:16:16.75,0:16:18.72,main,Lady,0000,0000,0000,,Th-The sea god?
+Dialogue: 0,0:16:38.91,0:16:40.16,main,Noelle,0000,0000,0000,,I did it!
+Dialogue: 0,0:16:40.64,0:16:42.63,main,Yami,0000,0000,0000,,Take a look at that power!
+Dialogue: 0,0:16:42.63,0:16:46.75,main,Yami,0000,0000,0000,,Noelle, you little... I think you \Nmight've killed your limits there.
+Dialogue: 0,0:16:46.75,0:16:50.59,main,Gifso,0000,0000,0000,,She's the sea god incarnate... \NNo, she's a goddess!
+Dialogue: 0,0:16:50.92,0:16:54.71,italics,Yami,0000,0000,0000,,I always figured she had \Nincredible latent ability,
+Dialogue: 0,0:16:54.71,0:16:57.80,italics,Yami,0000,0000,0000,,but who would've thought she \Nwas such an attack mage?
+Dialogue: 0,0:17:10.15,0:17:11.54,flashback,Licht,0000,0000,0000,,Come live with me.
+Dialogue: 0,0:17:12.87,0:17:15.14,flashback,Licht,0000,0000,0000,,It's not you who should despair.
+Dialogue: 0,0:17:15.14,0:17:17.28,flashback,Licht,0000,0000,0000,,It's the people of the Clover Kingdom.
+Dialogue: 0,0:17:18.27,0:17:19.74,flashback,Licht,0000,0000,0000,,Remember...
+Dialogue: 0,0:17:19.74,0:17:22.10,flashbackitalics,Licht,0000,0000,0000,,your true self.
+Dialogue: 0,0:17:25.76,0:17:26.99,flashback,Guy,0000,0000,0000,,May you two be happy!
+Dialogue: 0,0:17:44.26,0:17:45.59,flashback,Lady,0000,0000,0000,,What...
+Dialogue: 0,0:17:45.59,0:17:46.47,flashback,Guy,0000,0000,0000,,This can't be!
+Dialogue: 0,0:17:46.47,0:17:47.27,flashback,Lady,0000,0000,0000,,The humans?!
+Dialogue: 0,0:18:04.90,0:18:06.99,main,Vetto,0000,0000,0000,,I'll kill them!
+Dialogue: 0,0:18:28.66,0:18:32.67,main,Vetto,0000,0000,0000,,Impressive... You managed \Nto draw me out, human.
+Dialogue: 0,0:18:33.31,0:18:35.07,italics,Noelle,0000,0000,0000,,What's with that eye?
+Dialogue: 0,0:18:35.07,0:18:39.07,italics,Noelle,0000,0000,0000,,And this eerie magic I've \Nnever felt before...
+Dialogue: 0,0:18:39.51,0:18:41.14,main,Vetto,0000,0000,0000,,Mythical Beast Magic...
+Dialogue: 0,0:18:56.08,0:18:57.88,main,Noelle,0000,0000,0000,,N-No way!
+Dialogue: 0,0:18:58.26,0:19:00.37,main,Gifso,0000,0000,0000,,What in the world is that?
+Dialogue: 0,0:19:00.37,0:19:02.85,main,Yami,0000,0000,0000,,He regrew the arm he lost?
+Dialogue: 0,0:19:02.85,0:19:04.89,main,Yami,0000,0000,0000,,There isn't any magic like that!
+Dialogue: 0,0:19:05.25,0:19:11.39,main,Gifso,0000,0000,0000,,The best that even the most powerful \Nrecovery spell can do is close wounds.
+Dialogue: 0,0:19:11.77,0:19:14.92,main,Yami,0000,0000,0000,,These guys aren't just terrorists.
+Dialogue: 0,0:19:14.92,0:19:18.03,main,Yami,0000,0000,0000,,They're something weirder... \NSomething abominable!
+Dialogue: 0,0:19:18.66,0:19:21.53,main,Yami,0000,0000,0000,,Run... Get out of there, Noelle!
+Dialogue: 0,0:19:25.63,0:19:27.03,italics,Noelle,0000,0000,0000,,Run?
+Dialogue: 0,0:19:35.39,0:19:36.67,main,Noelle,0000,0000,0000,,I...
+Dialogue: 0,0:19:42.18,0:19:43.05,main,Noelle,0000,0000,0000,,won't run!
+Dialogue: 0,0:19:43.69,0:19:46.67,main,Vetto,0000,0000,0000,,That's some fine resolve for an insect.
+Dialogue: 0,0:19:46.67,0:19:48.31,main,Vetto,0000,0000,0000,,Now, it's payback time.
+Dialogue: 0,0:19:49.11,0:19:50.65,main,Vetto,0000,0000,0000,,Vanish!
+Dialogue: 0,0:19:50.65,0:19:52.16,main,Vetto,0000,0000,0000,,Mythical Beast Magic...
+Dialogue: 0,0:19:56.06,0:19:57.39,main,Noelle,0000,0000,0000,,Sea Dragon's...
+Dialogue: 0,0:19:58.93,0:20:01.63,italics,Noelle,0000,0000,0000,,That last spell drained all my magic!
+Dialogue: 0,0:20:42.88,0:20:44.74,main,Noelle,0000,0000,0000,,A-Asta!
+Dialogue: 0,0:20:47.09,0:20:48.28,main,Yami,0000,0000,0000,,Kid!
+Dialogue: 0,0:20:48.76,0:20:50.13,main,Asta,0000,0000,0000,,Not yet...
+Dialogue: 0,0:20:50.66,0:20:53.79,main,Asta,0000,0000,0000,,Not yet, damn it!
+Dialogue: 0,0:20:54.32,0:20:58.17,main,Asta,0000,0000,0000,,We haven't given up yet!
+Dialogue: 0,0:20:59.18,0:21:02.17,main,Vetto,0000,0000,0000,,Not yet? Yes, not yet!
+Dialogue: 0,0:21:02.60,0:21:08.11,main,Vetto,0000,0000,0000,,Starting now, I'll show you true despair!
+Dialogue: 0,0:22:42.04,0:22:46.48,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:42.55,0:22:45.62,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:45.98,0:22:49.99,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Mythical Beast Magic!
+Dialogue: 0,0:22:46.66,0:22:49.99,main,Vetto,0000,0000,0000,,Mythical Beast Magic!
+Dialogue: 0,0:22:50.47,0:22:54.17,main,Noelle,0000,0000,0000,,Hey, what were you saying during \Nyour mythical beast magic spells?
+Dialogue: 0,0:22:54.17,0:22:56.81,main,Vetto,0000,0000,0000,,Very well, insect. I'll tell you.
+Dialogue: 0,0:22:56.81,0:22:59.12,main,Noelle,0000,0000,0000,,Who are you calling an insect?! I'm royalty!
+Dialogue: 0,0:22:59.74,0:23:01.67,main,Vetto,0000,0000,0000,,This is the spell!
+Dialogue: 0,0:23:02.00,0:23:03.49,main,Vetto,0000,0000,0000,,Easy, right? Read it.
+Dialogue: 0,0:23:03.49,0:23:04.88,main,Noelle,0000,0000,0000,,I can't read that.
+Dialogue: 0,0:23:04.88,0:23:06.91,main,Vetto,0000,0000,0000,,It's...
+Dialogue: 0,0:23:06.91,0:23:07.58,main,Noelle,0000,0000,0000,,Say what?
+Dialogue: 0,0:23:07.58,0:23:09.46,main,Vetto,0000,0000,0000,,It's...
+Dialogue: 0,0:23:09.91,0:23:12.27,main,Noelle,0000,0000,0000,,Peter Piper picked a peck of pickled peppers?
+Dialogue: 0,0:23:12.27,0:23:13.54,main,Vetto,0000,0000,0000,,That's not it at all!
+Dialogue: 0,0:23:13.54,0:23:16.10,main,Vetto,0000,0000,0000,,It's...
+Dialogue: 0,0:23:16.58,0:23:19.17,main,Noelle,0000,0000,0000,,The only difference between a \Nwhale and a dolphin is their size?
+Dialogue: 0,0:23:18.89,0:23:22.73,sign_33635_243_Udon,Sign,0000,0000,0000,,Udon
+Dialogue: 0,0:23:19.02,0:23:22.85,sign_33635_244_Somen,Sign,0000,0000,0000,,Somen
+Dialogue: 0,0:23:19.10,0:23:22.98,sign_33635_245_Hiyamugi,Sign,0000,0000,0000,,Hiyamugi
+Dialogue: 0,0:23:19.17,0:23:23.03,main,vetto,0000,0000,0000,,The only difference between udon, somen, \Nand hiyamugi is how thick they are!
+Dialogue: 0,0:23:22.64,0:23:26.69,sign_33726_246_Hawk,Sign,0000,0000,0000,,Hawk
+Dialogue: 0,0:23:22.94,0:23:26.69,sign_33726_247_Eagle,Sign,0000,0000,0000,,Eagle
+Dialogue: 0,0:23:23.03,0:23:25.38,main,Noelle,0000,0000,0000,,Apparently hawks and eagles \Nare the same birds, too.
+Dialogue: 0,0:23:25.38,0:23:26.69,main,Vetto,0000,0000,0000,,I did not know that!
+Dialogue: 0,0:23:27.92,0:23:31.63,main,Noelle,0000,0000,0000,,Of course I knew that! I'm a royal!
+Dialogue: 0,0:23:31.63,0:23:33.91,main,Vetto,0000,0000,0000,,What were we talking about again?
+Dialogue: 0,0:23:35.81,0:23:39.95,main,Vetto,0000,0000,0000,,Insects, I'm getting tired \Nof your incessant buzzing!
+Dialogue: 0,0:23:39.95,0:23:42.83,main,Vetto,0000,0000,0000,,I'll crush you with my own hands, one by one!
+Dialogue: 0,0:23:43.34,0:23:47.00,main,Vetto,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 47: "The Only Weapon."
+Dialogue: 0,0:23:44.29,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 47\N\N{\fs18} The Only Weapon
+Dialogue: 0,0:23:47.00,0:23:49.88,main,Vetto,0000,0000,0000,,My magic is Mythical Beast Magic!

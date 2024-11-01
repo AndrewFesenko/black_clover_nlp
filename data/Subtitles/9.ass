@@ -1,0 +1,366 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0080,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,0030,0030,0018,1
+Style: sign_4099_26_The_Beasts__Room,Times New Roman,30,&H00FDFDFF,&H000000FF,&H00212625,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0090,1
+Style: sign_26868_274_Crazy_Cyclone_,Times New Roman,30,&H00FDFDFF,&H000000FF,&H00212625,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0120,1
+Style: sign_23016_223_Noble_Realm,Times New Roman,15,&H000D1417,&H000000FF,&H00AEC5CE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0250,0250,0098,1
+
+
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.71,0:00:06.90,italics,Nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.08,0:00:15.30,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.52,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:32.17,0:00:35.87,main,Magna,0000,0000,0000,,And so, we're giving you your first mission.
+Dialogue: 0,0:00:35.87,0:00:37.37,main,Asta,0000,0000,0000,,Our first mission...
+Dialogue: 0,0:00:37.37,0:00:38.67,main,Noelle,0000,0000,0000,,...as Magic Knights.
+Dialogue: 0,0:00:38.67,0:00:40.21,main,Asta,0000,0000,0000,,Wh-What is it?
+Dialogue: 0,0:00:40.21,0:00:43.72,main,Noelle,0000,0000,0000,,It had better be something \Nworthy of me as a royal.
+Dialogue: 0,0:00:43.72,0:00:46.09,main,Magna,0000,0000,0000,,Yeah, you should be honored.
+Dialogue: 0,0:00:46.09,0:00:48.81,main,Magna,0000,0000,0000,,You'll be hunting wild boars\N in Saussy Village!
+Dialogue: 0,0:00:48.81,0:00:49.84,main,Asta,0000,0000,0000,,Wild...
+Dialogue: 0,0:00:49.84,0:00:50.88,main,Noelle,0000,0000,0000,,...boars?
+Dialogue: 0,0:00:51.29,0:00:52.67,main,Boar,0000,0000,0000,,Boar!
+Dialogue: 0,0:00:52.67,0:00:55.17,main,Noelle,0000,0000,0000,,What kind of lame mission is that?
+Dialogue: 0,0:00:55.53,0:00:57.51,main,Magna,0000,0000,0000,,What are you calling lame?!
+Dialogue: 0,0:00:57.51,0:01:00.22,main,Asta,0000,0000,0000,,I can beat a wild boar with my bare hands!
+Dialogue: 0,0:01:00.22,0:01:03.06,main,Magna,0000,0000,0000,,Don't you dare underestimate wild boars!
+Dialogue: 0,0:01:08.64,0:01:10.61,main,Yami,0000,0000,0000,,Are you going to go, or are you going to die?
+Dialogue: 0,0:01:10.61,0:01:11.90,main,Yami,0000,0000,0000,,Which will it be?
+Dialogue: 0,0:01:11.90,0:01:13.01,main,Both,0000,0000,0000,,We'll go!
+Dialogue: 0,0:01:14.15,0:01:17.84,main,Asta,0000,0000,0000,,Even if it's just hunting wild boars,\Nthis is our first mission as Magic Knights.
+Dialogue: 0,0:01:17.84,0:01:19.93,main,Asta,0000,0000,0000,,I'm so excited!
+Dialogue: 0,0:01:22.25,0:01:24.54,main,Noelle,0000,0000,0000,,I'm supposed to get rid of wild boars?
+Dialogue: 0,0:01:24.54,0:01:28.11,main,Magna,0000,0000,0000,,What? You're still complaining?
+Dialogue: 0,0:01:28.11,0:01:31.68,main,Noelle,0000,0000,0000,,I'm not complaining... It's just...
+Dialogue: 0,0:01:31.68,0:01:37.38,main,Noelle,0000,0000,0000,,I was just wondering if I should go,\Nsince I can't control my magical powers.
+Dialogue: 0,0:01:37.97,0:01:39.12,main,Magna,0000,0000,0000,,Her name is...
+Dialogue: 0,0:01:39.12,0:01:41.89,top,Magna,0000,0000,0000,,Crazy Cyclone!
+Dialogue: 0,0:01:40.15,0:01:41.89,sign_26868_274_Crazy_Cyclone_,Sign,0000,0000,0000,,{\fad(486,1)}Crazy Cyclone
+Dialogue: 0,0:01:41.89,0:01:44.97,main,Asta,0000,0000,0000,,So cool!
+Dialogue: 0,0:01:46.91,0:01:49.10,main,Magna,0000,0000,0000,,I know, right?! Isn't she a beaut?
+Dialogue: 0,0:01:49.10,0:01:50.24,main,Asta,0000,0000,0000,,Yeah, she is!
+Dialogue: 0,0:01:50.24,0:01:51.39,main,Noelle,0000,0000,0000,,Lame.
+Dialogue: 0,0:01:52.52,0:01:55.32,main,Magna,0000,0000,0000,,A man never goes back on his word!
+Dialogue: 0,0:01:55.32,0:01:57.52,main,Magna,0000,0000,0000,,Here we go!
+Dialogue: 0,0:01:57.52,0:02:00.41,main,Magna,0000,0000,0000,,Fly!
+Dialogue: 0,0:02:00.41,0:02:02.59,main,Asta,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:02:02.59,0:02:07.37,main,Asta,0000,0000,0000,,This is amazing, Magna! \NWe're one with the wind!
+Dialogue: 0,0:02:06.07,0:02:09.56,top,Magna,0000,0000,0000,,And if you don't want to die, \Nbetter squeeze up closer, Stupidsta!
+Dialogue: 0,0:02:09.56,0:02:10.75,main,Asta,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:02:12.12,0:02:15.75,main,Heath,0000,0000,0000,,So this is where the magic stone is located.
+Dialogue: 0,0:02:16.55,0:02:17.80,main,Heath,0000,0000,0000,,We're going to find it.
+Dialogue: 0,0:02:17.80,0:02:18.93,main,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:02:29.51,0:02:32.02,main,Heath,0000,0000,0000,,Be lost in the mist.
+Dialogue: 0,0:02:53.83,0:02:57.46,Ep Title,Sign,0000,0000,0000,,{\fad(250,750)}Beasts
+Dialogue: 0,0:02:56.61,0:03:02.01,italics,,0000,0000,0000,,Grey words can't make anything happen
+Dialogue: 0,0:03:02.01,0:03:04.55,italics,,0000,0000,0000,,I know, yeah I know
+Dialogue: 0,0:03:04.55,0:03:09.93,italics,,0000,0000,0000,,Wishing to fly freely across the sky
+Dialogue: 0,0:03:09.93,0:03:11.81,italics,,0000,0000,0000,,I dreamed it all my life
+Dialogue: 0,0:03:11.81,0:03:15.69,italics,,0000,0000,0000,,Step by step I go, though \Nit's a doubtful world 
+Dialogue: 0,0:03:15.69,0:03:17.82,italics,,0000,0000,0000,,Don't care how much I fall
+Dialogue: 0,0:03:17.82,0:03:21.69,italics,,0000,0000,0000,,Instinct is my guide, I never give up
+Dialogue: 0,0:03:22.14,0:03:27.45,italics,,0000,0000,0000,,To faraway future, I burst out running
+Dialogue: 0,0:03:27.78,0:03:32.62,italics,,0000,0000,0000,,Go beyond even the unseen fears
+Dialogue: 0,0:03:32.91,0:03:38.00,italics,,0000,0000,0000,,The vision I had, so I can be myself
+Dialogue: 0,0:03:38.00,0:03:43.26,italics,,0000,0000,0000,,Someday I will write the next page
+Dialogue: 0,0:03:43.26,0:03:46.76,italics,,0000,0000,0000,,You are my hope
+Dialogue: 0,0:03:46.76,0:03:49.51,italics,,0000,0000,0000,,Like that page from someday
+Dialogue: 0,0:03:49.51,0:03:51.85,italics,,0000,0000,0000,,I was able to meet you
+Dialogue: 0,0:03:51.85,0:03:54.81,italics,,0000,0000,0000,,I call this a miracle
+Dialogue: 0,0:04:14.91,0:04:18.08,main,Asta,0000,0000,0000,,A wild boar's after me! It's huge!
+Dialogue: 0,0:04:20.67,0:04:22.71,main,Asta,0000,0000,0000,,Actually, is that even a wild boar?!
+Dialogue: 0,0:04:22.71,0:04:25.17,main,Asta,0000,0000,0000,,Isn't it using some magic of its own?!
+Dialogue: 0,0:04:25.54,0:04:28.01,main,Asta,0000,0000,0000,,It's super fast!
+Dialogue: 0,0:04:33.23,0:04:35.69,main,Noelle,0000,0000,0000,,Shouldn't we rescue him?
+Dialogue: 0,0:04:35.69,0:04:38.79,main,Magna,0000,0000,0000,,I'm taking a break.
+Dialogue: 0,0:04:38.79,0:04:44.44,main,Magna,0000,0000,0000,,My magical powers are pretty much \Ndrained after flying you two this far.
+Dialogue: 0,0:04:48.83,0:04:52.48,main,Magna,0000,0000,0000,,I'm sure he'll be fine. He's pretty tough.
+Dialogue: 0,0:04:53.14,0:04:54.00,main,Noelle,0000,0000,0000,,But...
+Dialogue: 0,0:04:54.43,0:04:57.46,main,Magna,0000,0000,0000,,If you're so worried, you go save him.
+Dialogue: 0,0:05:11.17,0:05:12.35,main,Noelle,0000,0000,0000,,I can do this.
+Dialogue: 0,0:05:15.73,0:05:17.98,main,,0000,0000,0000,,Why me?!
+Dialogue: 0,0:05:30.33,0:05:32.56,main,Asta,0000,0000,0000,,I've got you now!
+Dialogue: 0,0:05:40.87,0:05:42.97,main,Asta,0000,0000,0000,,I finally got 'im.
+Dialogue: 0,0:05:42.97,0:05:44.88,main,Magna,0000,0000,0000,,Great job, Asta.
+Dialogue: 0,0:05:45.22,0:05:48.19,main,Magna,0000,0000,0000,,But it ain't over yet.
+Dialogue: 0,0:06:03.06,0:06:05.85,main,Magna,0000,0000,0000,,What a haul!
+Dialogue: 0,0:06:05.85,0:06:08.16,main,Noelle,0000,0000,0000,,You're pretty amazing.
+Dialogue: 0,0:06:09.59,0:06:13.07,main,Asta,0000,0000,0000,,Three or four wild boars ain't nothing.
+Dialogue: 0,0:06:13.07,0:06:15.43,main,Magna,0000,0000,0000,,You've got some impressive brute strength.
+Dialogue: 0,0:06:15.43,0:06:20.50,main,Magna,0000,0000,0000,,This should make Old Man Seihi happy. \NLet's have ourselves a wild boar party.
+Dialogue: 0,0:06:21.13,0:06:25.50,main,Noelle,0000,0000,0000,,This mayor of Saussy Village... \NSeihi? You know him?
+Dialogue: 0,0:06:25.81,0:06:29.18,main,Magna,0000,0000,0000,,Yeah. I've known him for a long time.
+Dialogue: 0,0:06:29.18,0:06:34.11,main,Magna,0000,0000,0000,,I'm from Rayaka Village, \Nwhich is just past here,
+Dialogue: 0,0:06:34.11,0:06:36.64,main,Magna,0000,0000,0000,,but I used to be a bit of a \Nhandful when I was a kid.
+Dialogue: 0,0:06:37.07,0:06:38.57,italics,Asta,0000,0000,0000,,Used to be?
+Dialogue: 0,0:06:38.57,0:06:39.64,italics,Noelle,0000,0000,0000,,Like you aren't now?
+Dialogue: 0,0:06:40.48,0:06:43.34,main,Magna,0000,0000,0000,,I got a big head after I got my grimoire
+Dialogue: 0,0:06:43.34,0:06:47.62,main,Magna,0000,0000,0000,,and went into Saussy Village with \Nthe intent of taking over, too.
+Dialogue: 0,0:06:47.62,0:06:48.90,main,Magna,0000,0000,0000,,And then...
+Dialogue: 0,0:06:52.40,0:06:53.57,flashback,Magna,0000,0000,0000,,Take that!
+Dialogue: 0,0:06:58.83,0:07:02.89,flashback,Seyhe,0000,0000,0000,,Hey, you little brat!\NWhat do you think you're doing?!
+Dialogue: 0,0:07:03.56,0:07:06.13,flashback,Magna,0000,0000,0000,,You wanna get hurt, old man?
+Dialogue: 0,0:07:06.52,0:07:09.13,flashback,Seyhe,0000,0000,0000,,You're the one that's gonna get hurt!
+Dialogue: 0,0:07:09.13,0:07:10.63,flashback,Magna,0000,0000,0000,,Take that!
+Dialogue: 0,0:07:14.99,0:07:16.85,flashback,Seyhe,0000,0000,0000,,Time for your punishment!
+Dialogue: 0,0:07:17.96,0:07:18.81,flashback,Magna,0000,0000,0000,,That's dangerous!
+Dialogue: 0,0:07:22.64,0:07:24.15,flashback,Seyhe,0000,0000,0000,,And now...
+Dialogue: 0,0:07:25.73,0:07:27.11,flashback,Magna,0000,0000,0000,,Wh-What the hell are you doing?
+Dialogue: 0,0:07:27.51,0:07:29.62,flashback,Seyhe,0000,0000,0000,,Time for an ass whoopin'!
+Dialogue: 0,0:07:29.62,0:07:32.78,flashback,Magna,0000,0000,0000,,Hey! Damn it!
+Dialogue: 0,0:07:33.68,0:07:37.70,main,Magna,0000,0000,0000,,Since then, I've challenged \Nthat old man many times.
+Dialogue: 0,0:07:46.93,0:07:50.59,flashback,Seyhe,0000,0000,0000,,Real men don't make trouble for others!
+Dialogue: 0,0:07:50.59,0:07:52.23,flashback,Seyhe,0000,0000,0000,,Take that!
+Dialogue: 0,0:07:53.27,0:07:57.35,flashback,Seyhe,0000,0000,0000,,Help the weak and humble the strong. \NThat's what a true man does.
+Dialogue: 0,0:07:57.77,0:07:59.14,flashback,Seyhe,0000,0000,0000,,Golden!
+Dialogue: 0,0:08:01.21,0:08:04.71,flashback,Seyhe,0000,0000,0000,,Real men don't make others worry about them.
+Dialogue: 0,0:08:05.85,0:08:08.55,main,Magna,0000,0000,0000,,He whooped my ass every time.
+Dialogue: 0,0:08:08.55,0:08:09.77,main,Noelle,0000,0000,0000,,He must be strong.
+Dialogue: 0,0:08:10.87,0:08:13.83,main,Magna,0000,0000,0000,,I found this out later, but Old Man Seihi
+Dialogue: 0,0:08:13.83,0:08:18.12,main,Magna,0000,0000,0000,,had enough magical power that he aspired \Nto be a Magic Knight when he was younger.
+Dialogue: 0,0:08:19.53,0:08:24.50,main,Magna,0000,0000,0000,,He's the one who suggested that I \Ntake the Magic Knights Entrance Exam.
+Dialogue: 0,0:08:24.50,0:08:28.71,flashback,Seyhe,0000,0000,0000,,Oh? Looks like you've improved a bit.
+Dialogue: 0,0:08:29.97,0:08:34.26,flashback,Magna,0000,0000,0000,,W-Well, I'm getting the hang \Nof using my grimoire.
+Dialogue: 0,0:08:34.26,0:08:39.76,flashback,Seyhe,0000,0000,0000,,In that case, why don't you try \Ntaking the Magic Knights Entrance Exam?
+Dialogue: 0,0:08:39.76,0:08:40.99,flashback,Magna,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:40.99,0:08:43.06,flashback,Magna,0000,0000,0000,,M-Me? Take the entrance exam?
+Dialogue: 0,0:08:43.06,0:08:45.65,flashback,Seyhe,0000,0000,0000,,You've got skill.
+Dialogue: 0,0:08:45.65,0:08:51.28,flashback,Magna,0000,0000,0000,,There's... no way that'll happen. \NI'm a commoner from the boonies.
+Dialogue: 0,0:08:51.28,0:08:53.08,flashback,Seyhe,0000,0000,0000,,Nothing's written in stone!
+Dialogue: 0,0:08:53.97,0:08:57.99,flashback,Seyhe,0000,0000,0000,,What does being from the boonies or being \Na commoner have to do with anything?
+Dialogue: 0,0:08:58.43,0:09:00.78,flashback,Seyhe,0000,0000,0000,,It's up to you to take hold of your own future.
+Dialogue: 0,0:09:01.21,0:09:05.02,flashback,Seyhe,0000,0000,0000,,I'm sure you'll be able to fulfill \Nthe dream I couldn't.
+Dialogue: 0,0:09:05.02,0:09:06.04,flashback,Magna,0000,0000,0000,,Old Man...
+Dialogue: 0,0:09:06.35,0:09:08.49,flashback,Seyhe,0000,0000,0000,,Be a man, Magna.
+Dialogue: 0,0:09:12.29,0:09:14.57,flashback,Magna,0000,0000,0000,,So what do Magic Knights do, anyway?
+Dialogue: 0,0:09:14.57,0:09:17.13,flashback,Seyhe,0000,0000,0000,,You don't even know that?!
+Dialogue: 0,0:09:20.48,0:09:23.53,main,Magna,0000,0000,0000,,It's all because of him that \NI'm here right now.
+Dialogue: 0,0:09:23.95,0:09:29.31,main,Magna,0000,0000,0000,,When I passed the Magic Knights Entrance Exam,\Nhe was happier for me than anyone.
+Dialogue: 0,0:09:29.31,0:09:31.01,main,Noelle,0000,0000,0000,,He must be a nice person.
+Dialogue: 0,0:09:31.01,0:09:32.28,main,Magna,0000,0000,0000,,Yeah.
+Dialogue: 0,0:09:32.28,0:09:33.63,main,Magna,0000,0000,0000,,And he went to the royal capital...
+Dialogue: 0,0:09:33.63,0:09:38.63,main,Magna,0000,0000,0000,,well, to get rich quick so he could \Nmake some money for his village,
+Dialogue: 0,0:09:38.63,0:09:41.82,main,Magna,0000,0000,0000,,but I think he also came to see me.
+Dialogue: 0,0:09:42.19,0:09:45.08,main,Magna,0000,0000,0000,,He did take me for every bit \Nof change I had, though!
+Dialogue: 0,0:09:45.87,0:09:49.53,main,Magna,0000,0000,0000,,But he's the one who showed me \Nwhat a real man should be.
+Dialogue: 0,0:09:50.00,0:09:54.23,main,Magna,0000,0000,0000,,I wanted to be like him, the person \NI respect most after Mister Yami...
+Dialogue: 0,0:09:57.57,0:09:59.16,main,Asta,0000,0000,0000,,Magna?
+Dialogue: 0,0:09:59.16,0:10:00.75,main,Magna,0000,0000,0000,,The hell is that?!
+Dialogue: 0,0:10:06.31,0:10:07.27,main,Magna,0000,0000,0000,,The village...
+Dialogue: 0,0:10:07.71,0:10:09.57,main,Noelle,0000,0000,0000,,It's covered in mist.
+Dialogue: 0,0:10:11.81,0:10:14.80,main,Asta,0000,0000,0000,,Wow, the weather sucks in that town.
+Dialogue: 0,0:10:14.80,0:10:17.24,main,Noelle,0000,0000,0000,,You idiot! That's magic.
+Dialogue: 0,0:10:17.24,0:10:18.82,main,Asta,0000,0000,0000,,What?!
+Dialogue: 0,0:10:18.82,0:10:22.80,sign_4099_26_The_Beasts__Room,Sign,0000,0000,0000,,{\fad(1,1035)}Saussy Village
+Dialogue: 0,0:10:24.19,0:10:25.99,main,Asta,0000,0000,0000,,A magical mist?
+Dialogue: 0,0:10:25.99,0:10:29.84,main,Noelle,0000,0000,0000,,Once we enter it, we probably \Nwon't be able to get anywhere.
+Dialogue: 0,0:10:30.37,0:10:34.54,main,Noelle,0000,0000,0000,,We'll lose our sense of direction and \Nend up wandering around in the mist.
+Dialogue: 0,0:10:36.12,0:10:39.51,main,Magna,0000,0000,0000,,Magic that can cover a whole village...
+Dialogue: 0,0:10:40.00,0:10:43.05,main,Magna,0000,0000,0000,,None of the villagers have magic this strong.
+Dialogue: 0,0:10:43.95,0:10:46.75,main,Magna,0000,0000,0000,,Of course, this isn't Old \NMan Seihi's magic, either.
+Dialogue: 0,0:10:46.75,0:10:48.27,main,Magna,0000,0000,0000,,What's going on?
+Dialogue: 0,0:10:48.69,0:10:49.64,main,Magna,0000,0000,0000,,Hey!
+Dialogue: 0,0:10:49.64,0:10:50.56,main,Asta,0000,0000,0000,,Yes, sir?
+Dialogue: 0,0:10:51.30,0:10:53.37,main,Magna,0000,0000,0000,,Cut through the mist with your sword.
+Dialogue: 0,0:10:53.37,0:10:54.87,main,Asta,0000,0000,0000,,Sure thing!
+Dialogue: 0,0:10:55.67,0:10:56.72,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:56.72,0:11:01.39,main,Asta,0000,0000,0000,,That's a dumb thing to say.\NYou can't cut through mist with a sword.
+Dialogue: 0,0:11:02.40,0:11:04.15,main,Magna,0000,0000,0000,,You're the dumb one!
+Dialogue: 0,0:11:04.15,0:11:07.08,main,Magna,0000,0000,0000,,Since it's magic, you can cut \Nthrough it with your sword!
+Dialogue: 0,0:11:07.08,0:11:11.25,main,Asta,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:11:17.47,0:11:20.29,main,Magna,0000,0000,0000,,Good. Now, let's go.
+Dialogue: 0,0:11:20.29,0:11:21.17,main,Asta,0000,0000,0000,,Right!
+Dialogue: 0,0:11:21.17,0:11:22.66,main,Magna,0000,0000,0000,,Take a right there.
+Dialogue: 0,0:11:22.66,0:11:23.74,main,Asta,0000,0000,0000,,Got it!
+Dialogue: 0,0:11:24.18,0:11:25.42,main,Magna,0000,0000,0000,,Take a left there.
+Dialogue: 0,0:11:25.42,0:11:26.39,main,,0000,0000,0000,,Right!
+Dialogue: 0,0:11:27.18,0:11:29.31,main,Noelle,0000,0000,0000,,You seem to know where you're going.
+Dialogue: 0,0:11:29.31,0:11:31.37,main,Magna,0000,0000,0000,,Well, yeah. Left.
+Dialogue: 0,0:11:34.12,0:11:35.27,main,Magna,0000,0000,0000,,Did you feel that?
+Dialogue: 0,0:11:35.27,0:11:38.94,main,Noelle,0000,0000,0000,,Yes. Powerful magic.
+Dialogue: 0,0:11:39.53,0:11:41.65,main,Magna,0000,0000,0000,,Straight ahead. Be careful.
+Dialogue: 0,0:11:43.47,0:11:44.95,main,Magna,0000,0000,0000,,We should end up in the square.
+Dialogue: 0,0:12:09.89,0:12:11.47,main,Heath,0000,0000,0000,,This is your execution.
+Dialogue: 0,0:12:15.97,0:12:17.98,main,Magna,0000,0000,0000,,Explosive Scattershot!
+Dialogue: 0,0:12:34.57,0:12:36.24,main,Nick,0000,0000,0000,,The Magic Knights...
+Dialogue: 0,0:12:36.24,0:12:37.96,main,Lu,0000,0000,0000,,They've come to save us!
+Dialogue: 0,0:12:40.91,0:12:42.49,main,Villager B,0000,0000,0000,,Magna, it's you!
+Dialogue: 0,0:12:42.49,0:12:45.13,main,Magna,0000,0000,0000,,Nick! What the heck's going on?
+Dialogue: 0,0:12:57.29,0:12:58.23,main,Magna,0000,0000,0000,,Old Man!
+Dialogue: 0,0:12:58.58,0:13:00.40,main,Magna,0000,0000,0000,,Hey! Wake up!
+Dialogue: 0,0:13:00.92,0:13:02.03,main,Magna,0000,0000,0000,,Old Man...
+Dialogue: 0,0:13:02.55,0:13:04.07,main,Villager C,0000,0000,0000,,The mayor...
+Dialogue: 0,0:13:04.07,0:13:05.67,main,Villager D,0000,0000,0000,,He tried to protect us.
+Dialogue: 0,0:13:07.15,0:13:10.66,main,Nick,0000,0000,0000,,Grandpa, they came. The Magic Knights...
+Dialogue: 0,0:13:11.27,0:13:13.99,main,Nick,0000,0000,0000,,Your prayers were answered.
+Dialogue: 0,0:13:14.43,0:13:17.24,italics,Asta,0000,0000,0000,,A person can just die... so easily?
+Dialogue: 0,0:13:20.17,0:13:22.67,main,Magna,0000,0000,0000,,Are you the bastard who did this?!
+Dialogue: 0,0:13:29.09,0:13:32.25,main,Heath,0000,0000,0000,,How dare you put me behind schedule?
+Dialogue: 0,0:13:33.68,0:13:37.94,main,Heath,0000,0000,0000,,You'll all be executed in ten seconds.
+Dialogue: 0,0:13:48.52,0:13:50.91,italics,Magna,0000,0000,0000,,Crap! I'm short on magic!
+Dialogue: 0,0:13:55.28,0:13:56.41,italics,Magna,0000,0000,0000,,Asta!
+Dialogue: 0,0:14:08.60,0:14:09.93,main,Asta,0000,0000,0000,,I won't forgive this!
+Dialogue: 0,0:14:20.35,0:14:22.98,main,Asta,0000,0000,0000,,How could you do something so cruel?
+Dialogue: 0,0:14:23.79,0:14:25.69,main,Asta,0000,0000,0000,,Who the heck are you guys?!
+Dialogue: 0,0:14:30.81,0:14:32.66,italics,Magna,0000,0000,0000,,They don't seem like spies \Nfrom the Diamond Kingdom
+Dialogue: 0,0:14:32.66,0:14:35.60,italics,Magna,0000,0000,0000,,or barbarians here to trash the village.
+Dialogue: 0,0:14:36.52,0:14:38.41,italics,Magna,0000,0000,0000,,Who are these guys?
+Dialogue: 0,0:14:40.83,0:14:44.25,main,Dejire,0000,0000,0000,,I don't recall hearing anything \Nabout Magic Knights showing up.
+Dialogue: 0,0:14:44.55,0:14:46.88,main,Gustave,0000,0000,0000,,Could they be out on some unofficial mission?
+Dialogue: 0,0:14:46.88,0:14:53.26,main,Dejire,0000,0000,0000,,And how did they get into the\Nvillage through our mist barrier?
+Dialogue: 0,0:14:53.26,0:14:55.63,main,Heath,0000,0000,0000,,The Black Bulls...
+Dialogue: 0,0:14:55.63,0:15:00.73,main,Heath,0000,0000,0000,,Crude heretics that don't fit in with \Nthe rest of the Magic Knights.
+Dialogue: 0,0:15:01.56,0:15:04.27,main,Heath,0000,0000,0000,,Dealing with them would be a waste of time.
+Dialogue: 0,0:15:04.95,0:15:06.02,main,Heath,0000,0000,0000,,Five minutes...
+Dialogue: 0,0:15:06.45,0:15:11.31,main,Heath,0000,0000,0000,,We'll get rid of the useless villagers \Nthat didn't know anything
+Dialogue: 0,0:15:11.31,0:15:13.07,main,Heath,0000,0000,0000,,and seek what we came here for.
+Dialogue: 0,0:15:13.07,0:15:15.19,main,Asta,0000,0000,0000,,Don't ignore me!
+Dialogue: 0,0:15:15.19,0:15:17.68,main,Dejire,0000,0000,0000,,Mist Magic: Whirlpool of Illusory Mist.
+Dialogue: 0,0:15:20.89,0:15:25.17,main,Dejire,0000,0000,0000,,You're a fool to think you could \Nget near Lord Heath so easily.
+Dialogue: 0,0:15:22.92,0:15:27.17,top,Asta,0000,0000,0000,,Damn you!
+Dialogue: 0,0:15:25.84,0:15:27.17,main,Dejire,0000,0000,0000,,Be lost in the mist.
+Dialogue: 0,0:15:27.17,0:15:29.17,main,Asta,0000,0000,0000,,No, I won't!
+Dialogue: 0,0:15:30.64,0:15:36.89,italics,Heath,0000,0000,0000,,He cut through my ice magic earlier.\NI don't know what kind of magic he uses...
+Dialogue: 0,0:15:37.93,0:15:41.05,main,Heath,0000,0000,0000,,But his sword negates magic.
+Dialogue: 0,0:15:41.77,0:15:44.45,main,Heath,0000,0000,0000,,We shouldn't let him get too close.
+Dialogue: 0,0:15:45.20,0:15:49.65,main,Asta,0000,0000,0000,,I'm asking you why you tried \Nto kill all these villagers!
+Dialogue: 0,0:15:52.79,0:15:56.35,main,Heath,0000,0000,0000,,This world is split into several regions.
+Dialogue: 0,0:15:56.09,0:16:04.62,sign_23016_221_Forsaken_Realm,Sign,0000,0000,0000,,{\fad(1552,1)}Forsaken Realm
+Dialogue: 0,0:15:56.09,0:16:04.62,sign_23016_222_Common_Realm,Sign,0000,0000,0000,,{\fad(1552,1)}Common Realm
+Dialogue: 0,0:15:56.09,0:16:04.62,sign_23016_223_Noble_Realm,Sign,0000,0000,0000,,{\fad(1552,1)}Noble Realm
+Dialogue: 0,0:15:56.09,0:16:04.62,sign_23016_224_Diamond__Kingdom,Sign,0000,0000,0000,,{\fad(1552,1)}Diamond\NKingdom
+Dialogue: 0,0:15:56.09,0:16:04.62,sign_23016_225_Heart__Kingdom_,Sign,0000,0000,0000,,{\fad(1552,1)}Heart\NKingdom
+Dialogue: 0,0:15:56.09,0:16:04.62,sign_23016_226_Saussy_,Sign,0000,0000,0000,,{\fad(1552,1)}Saussy
+Dialogue: 0,0:15:56.09,0:16:04.62,sign_23016_227_Rayaka_,Sign,0000,0000,0000,,{\fad(1552,1)}Rayaka
+Dialogue: 0,0:15:57.31,0:16:02.41,main,Heath,0000,0000,0000,,The Noble Realm where royalty lives,\Nthe Common Realm where the commoners live,
+Dialogue: 0,0:16:00.93,0:16:04.62,sign_23132_228_Spade_Kingdom,Sign,0000,0000,0000,,{\fad(1552,1)}Spade Kingdom
+Dialogue: 0,0:16:02.41,0:16:04.62,main,Heath,0000,0000,0000,,and the Forsaken Realm.
+Dialogue: 0,0:16:04.62,0:16:06.05,main,Magna,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:06.05,0:16:09.38,main,Heath,0000,0000,0000,,This village, Saussy, is located \Nin the Forsaken Realm.
+Dialogue: 0,0:16:09.38,0:16:12.39,main,Heath,0000,0000,0000,,Most of those who inhabit \Nthe Forsaken Realm are
+Dialogue: 0,0:16:12.39,0:16:17.39,main,Heath,0000,0000,0000,,an inferior race that can only use \Nenough magic to complete daily tasks.
+Dialogue: 0,0:16:18.99,0:16:21.85,main,Heath,0000,0000,0000,,They're basically mindless beasts.
+Dialogue: 0,0:16:23.43,0:16:26.56,main,Heath,0000,0000,0000,,I was only trying to get \Nrid of the mindless beasts
+Dialogue: 0,0:16:26.56,0:16:30.90,main,Heath,0000,0000,0000,,that might steal more of my precious time.
+Dialogue: 0,0:16:30.90,0:16:32.46,main,Asta,0000,0000,0000,,Beasts?
+Dialogue: 0,0:16:32.46,0:16:33.52,main,Heath,0000,0000,0000,,The three of you
+Dialogue: 0,0:16:33.52,0:16:36.91,main,Heath,0000,0000,0000,,also had enough magical power to \Njoin the Magic Knights, did you not?
+Dialogue: 0,0:16:37.71,0:16:41.05,main,Heath,0000,0000,0000,,You're only trying to save them \Nbecause it's your mission.
+Dialogue: 0,0:16:41.05,0:16:45.19,main,Heath,0000,0000,0000,,But in truth, they look like lowly \Nbeasts to you, do they not?
+Dialogue: 0,0:16:50.16,0:16:52.37,flashback,Villager A,0000,0000,0000,,Living in the upper realms must be nice.
+Dialogue: 0,0:16:52.37,0:16:55.55,flashback,Villager B,0000,0000,0000,,I'm sure they're living a life of luxury.
+Dialogue: 0,0:16:55.55,0:16:58.60,flashback,Asta,0000,0000,0000,,If you're so jealous,\Nyou should just go there.
+Dialogue: 0,0:16:58.60,0:17:00.81,flashback,Lily,0000,0000,0000,,It's not that easy.
+Dialogue: 0,0:17:00.81,0:17:02.06,flashback,Asta,0000,0000,0000,,Why not?
+Dialogue: 0,0:17:02.06,0:17:06.00,flashback,Lily,0000,0000,0000,,Only those who possess strong magical \Npowers can live in the realms above us.
+Dialogue: 0,0:17:06.00,0:17:08.81,flashback,Lily,0000,0000,0000,,There's prejudice against \Nthose who lack magical powers.
+Dialogue: 0,0:17:08.81,0:17:11.14,flashback,Lily,0000,0000,0000,,Even though we're all human.
+Dialogue: 0,0:17:11.14,0:17:17.40,flashback,Asta,0000,0000,0000,,Huh... Then after I join the Magic \NKnights and become the Wizard King,
+Dialogue: 0,0:17:17.40,0:17:22.28,flashback,Asta,0000,0000,0000,,I'll get rid of those prejudices and \Nmake our village flourish even more!
+Dialogue: 0,0:17:23.52,0:17:25.34,flashback,Lily,0000,0000,0000,,Thank you, Asta.
+Dialogue: 0,0:17:25.34,0:17:28.67,flashback,Nash,0000,0000,0000,,If the likes of you could manage that, \Nwe wouldn't be struggling.
+Dialogue: 0,0:17:28.67,0:17:31.92,flashback,Asta,0000,0000,0000,,What did you say, you brat?!\N I'm older than you!
+Dialogue: 0,0:17:31.92,0:17:36.68,flashback,Nash,0000,0000,0000,,You couldn't even join the Magic Knights, \Nlet alone become the Wizard King.
+Dialogue: 0,0:17:36.68,0:17:38.49,flashback,Nash,0000,0000,0000,,You don't even have any magical powers.
+Dialogue: 0,0:17:38.49,0:17:40.79,flashback,Asta,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:43.89,0:17:46.52,main,Asta,0000,0000,0000,,Those people you called beasts
+Dialogue: 0,0:17:46.92,0:17:49.51,main,Asta,0000,0000,0000,,are lives I have to protect!
+Dialogue: 0,0:17:51.52,0:17:56.69,main,Heath,0000,0000,0000,,I see. So the filthy beasts \Nare that valuable to you.
+Dialogue: 0,0:17:59.23,0:18:01.33,main,Asta,0000,0000,0000,,I'll send those icicles right back at y—
+Dialogue: 0,0:18:03.63,0:18:05.29,main,Noelle,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:18:18.84,0:18:23.33,main,Heath,0000,0000,0000,,Ice and Mist Compound Magic:\NEndless Ice Cage.
+Dialogue: 0,0:18:24.18,0:18:28.08,main,Heath,0000,0000,0000,,Do you think you can \Nprotect those beasts now?
+Dialogue: 0,0:18:30.56,0:18:34.72,main,Heath,0000,0000,0000,,I'm not very partial to the term "gradually,"
+Dialogue: 0,0:18:34.72,0:18:37.93,main,Heath,0000,0000,0000,,but this seems like it'll \Nbe the most effective.
+Dialogue: 0,0:18:40.07,0:18:41.57,main,Noelle,0000,0000,0000,,Asta!
+Dialogue: 0,0:18:41.88,0:18:43.12,main,Heath,0000,0000,0000,,Dissolve.
+Dialogue: 0,0:18:44.32,0:18:48.37,main,Heath,0000,0000,0000,,Not only can you negate magic,\Nyou can repel it, as well.
+Dialogue: 0,0:18:49.51,0:18:51.87,main,Heath,0000,0000,0000,,But that is not enough to defeat me.
+Dialogue: 0,0:18:52.25,0:18:55.72,main,Heath,0000,0000,0000,,The blades of ice will \Ncome one after another.
+Dialogue: 0,0:18:55.72,0:18:58.17,main,Heath,0000,0000,0000,,Now, just try and protect them.
+Dialogue: 0,0:19:00.10,0:19:01.85,main,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:19:02.15,0:19:05.60,italics,Magna,0000,0000,0000,,It's going to take everything Asta \Nand I have to protect the villagers.
+Dialogue: 0,0:19:05.95,0:19:09.90,italics,Magna,0000,0000,0000,,Not to mention, my powers \Nare reaching their limit.
+Dialogue: 0,0:19:09.90,0:19:14.10,italics,Magna,0000,0000,0000,,And they have four guys who are \Nat least Magic Knight level.
+Dialogue: 0,0:19:14.10,0:19:18.36,italics,Magna,0000,0000,0000,,And that guy's still hiding his true powers!
+Dialogue: 0,0:19:18.96,0:19:22.17,italics,Magna,0000,0000,0000,,This turned out to be one hell \Nof a first mission for those two!
+Dialogue: 0,0:19:22.17,0:19:24.36,italics,Magna,0000,0000,0000,,This isn't good!
+Dialogue: 0,0:19:24.36,0:19:28.96,main,Magna,0000,0000,0000,,But if I cut and run now, I'm not a real man!
+Dialogue: 0,0:19:30.49,0:19:34.31,main,Magna,0000,0000,0000,,It just so happens I'm a lowly \Ncommoner myself! I'll protect you!
+Dialogue: 0,0:19:34.31,0:19:35.69,main,Nick,0000,0000,0000,,Magna!
+Dialogue: 0,0:19:35.69,0:19:37.38,main,Heath,0000,0000,0000,,I wonder how long you'll last.
+Dialogue: 0,0:19:42.63,0:19:46.39,main,Heath,0000,0000,0000,,To think one of you can't \Neven control her powers...
+Dialogue: 0,0:19:46.39,0:19:50.89,main,Heath,0000,0000,0000,,I guess the Black Bulls were \Ntruly desperate for members.
+Dialogue: 0,0:19:53.27,0:19:57.02,main,Heath,0000,0000,0000,,These frail little beasts who can't \Neven protect themselves...
+Dialogue: 0,0:19:57.02,0:20:02.03,main,Heath,0000,0000,0000,,If you abandon them,\NI'll let you live, Magic Knights.
+Dialogue: 0,0:20:02.03,0:20:04.28,main,Asta,0000,0000,0000,,Like hell I'll abandon them!
+Dialogue: 0,0:20:04.67,0:20:08.53,main,Magna,0000,0000,0000,,A real man doesn't abandon anybody!
+Dialogue: 0,0:20:08.84,0:20:12.85,italics,Noelle,0000,0000,0000,,I'm... royalty.
+Dialogue: 0,0:20:12.85,0:20:15.46,italics,Noelle,0000,0000,0000,,I have more magical power \Nthan anyone else here.
+Dialogue: 0,0:20:15.46,0:20:17.37,main,Magna,0000,0000,0000,,Step back, Lady Noe!
+Dialogue: 0,0:20:17.91,0:20:20.13,italics,Noelle,0000,0000,0000,,And yet I'm just holding them back!
+Dialogue: 0,0:20:20.13,0:20:23.03,italics,Noelle,0000,0000,0000,,There's no reason for me to be here.
+Dialogue: 0,0:20:23.03,0:20:26.60,flashback,Heath,0000,0000,0000,,If you abandon them, I'll let you live...
+Dialogue: 0,0:20:28.64,0:20:31.66,italics,Noelle,0000,0000,0000,,That's right. I'm royalty.
+Dialogue: 0,0:20:31.66,0:20:34.64,italics,Noelle,0000,0000,0000,,I'm not supposed to die \Nin a village like this.
+Dialogue: 0,0:20:35.23,0:20:37.15,italics,Noelle,0000,0000,0000,,I should just run—
+Dialogue: 0,0:20:38.12,0:20:40.15,main,Lu,0000,0000,0000,,Miss Magic Knight...
+Dialogue: 0,0:20:43.01,0:20:44.41,main,Lu,0000,0000,0000,,Save us!
+Dialogue: 0,0:20:45.79,0:20:49.66,italics,Noelle,0000,0000,0000,,This little girl is asking for help.
+Dialogue: 0,0:20:50.69,0:20:52.56,italics,Noelle,0000,0000,0000,,I'm going to protect them!
+Dialogue: 0,0:20:57.79,0:21:00.67,italics,Noelle,0000,0000,0000,,A new spell?
+Dialogue: 0,0:21:05.01,0:21:06.22,italics,Noelle,0000,0000,0000,,There's no way...
+Dialogue: 0,0:21:06.55,0:21:07.85,italics,Noelle,0000,0000,0000,,I can run now!
+Dialogue: 0,0:21:31.25,0:21:34.45,main,Noelle,0000,0000,0000,,I'll protect them! I'm royalty,
+Dialogue: 0,0:21:34.83,0:21:38.04,main,Noelle,0000,0000,0000,,and a member of the Black Bulls!
+Dialogue: 0,0:21:46.97,0:21:53.03,italics,,0000,0000,0000,,No one can escape from here
+Dialogue: 0,0:21:54.08,0:21:59.78,italics,,0000,0000,0000,,Once again in the small closed off classroom
+Dialogue: 0,0:22:01.10,0:22:07.74,italics,,0000,0000,0000,,The star of the class was shining yet again
+Dialogue: 0,0:22:08.19,0:22:14.74,italics,,0000,0000,0000,,They shine so bright that I close my eyes
+Dialogue: 0,0:22:15.06,0:22:17.62,italics,,0000,0000,0000,,I've thought many times
+Dialogue: 0,0:22:17.62,0:22:21.29,italics,,0000,0000,0000,,That the revolution was within my hands
+Dialogue: 0,0:22:21.29,0:22:28.96,italics,,0000,0000,0000,,Isn't it strange? If you want \Nto laugh, go ahead and laugh
+Dialogue: 0,0:22:28.96,0:22:35.76,italics,,0000,0000,0000,,The rest of us who were left \Nbehind wanted to become something
+Dialogue: 0,0:22:35.76,0:22:43.02,italics,,0000,0000,0000,,We repeat the same morning over and over
+Dialogue: 0,0:22:43.02,0:22:49.90,italics,,0000,0000,0000,,You're the only one who \Ncan choose your tomorrow
+Dialogue: 0,0:22:49.90,0:22:54.91,italics,,0000,0000,0000,,Let's go beyond our current selves
+Dialogue: 0,0:23:08.98,0:23:13.43,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:23:10.27,0:23:13.03,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:23:12.93,0:23:16.97,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(526,1)}Separation and Reunion
+Dialogue: 0,0:23:13.65,0:23:16.97,main,Boar,0000,0000,0000,,Boar, boar, boar... boar, boar, boar.
+Dialogue: 0,0:23:16.97,0:23:19.81,main,Boar,0000,0000,0000,,Boar, boar, boar, boar...
+Dialogue: 0,0:23:19.81,0:23:22.56,sign_33655_326_I_m_sorry__I_des,Sign,0000,0000,0000,,I'm sorry\NI destroyed the fields!
+Dialogue: 0,0:23:20.20,0:23:23.12,main,Asta,0000,0000,0000,,Oh, all right. Just don't do it again!
+Dialogue: 0,0:23:22.71,0:23:23.79,sign_33724_328_I_won_t_,Sign,0000,0000,0000,,I won't!
+Dialogue: 0,0:23:23.65,0:23:26.29,main,Boar,0000,0000,0000,,Boar! Boar!
+Dialogue: 0,0:23:27.45,0:23:31.32,main,Boar,0000,0000,0000,,Boar!
+Dialogue: 0,0:23:29.35,0:23:31.32,main,Asta,0000,0000,0000,,Take care!
+Dialogue: 0,0:23:31.63,0:23:34.63,sign_33724_328_I_won_t_,Sign,0000,0000,0000,,{\fad(1,2034)}Check out\NBlack Clover\Nnext week, too!
+Dialogue: 0,0:23:31.78,0:23:33.32,main,Boar,0000,0000,0000,,Boar!
+Dialogue: 0,0:23:36.03,0:23:37.16,main,Asta,0000,0000,0000,,That's awesome, Noelle!
+Dialogue: 0,0:23:37.55,0:23:40.41,main,Asta,0000,0000,0000,,A path will always open,\Nas long as you don't give up!
+Dialogue: 0,0:23:40.41,0:23:42.25,main,Asta,0000,0000,0000,,We're going to protect everyone,\N no matter what!
+Dialogue: 0,0:23:43.01,0:23:46.17,main,Asta,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 10:\N"Those Who Protect."
+Dialogue: 0,0:23:44.25,0:23:51.14,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 10\N\N{\fs18}Those Who Protect
+Dialogue: 0,0:23:46.52,0:23:49.21,main,Asta,0000,0000,0000,,Not giving up is my magic!

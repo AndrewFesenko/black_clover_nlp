@@ -1,0 +1,357 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00E678C2,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0075,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+ 
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.25,0:00:06.86,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:06.86,0:00:08.64,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:08.64,0:00:10.74,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:10.98,0:00:12.05,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:12.05,0:00:16.62,italics,Nar,0000,0000,0000,,He puts in blood, sweat, and tears \Nin hopes of becoming the Wizard King.
+Dialogue: 0,0:00:17.06,0:00:22.64,italics,Nar,0000,0000,0000,,But there are also those in the kingdom \Nwho possess at least a little bit of mana,
+Dialogue: 0,0:00:22.64,0:00:26.73,italics,Nar,0000,0000,0000,,yet can barely use any magic at all.
+Dialogue: 0,0:00:27.82,0:00:32.38,italics,Nar,0000,0000,0000,,The very few out of the population, \Nthose who live in the shadows...
+Dialogue: 0,0:00:36.79,0:00:40.75,italics,Nar,0000,0000,0000,,They are also trying to survive.
+Dialogue: 0,0:02:04.45,0:02:09.27,Ep Title,sign,0000,0000,0000,,{\fs22\move(315,115,315,110)\t(1,4650,\fs24)\fad(500,1)}Those Remaining
+Dialogue: 0,0:02:18.11,0:02:20.11,italicstop,Nar,0000,0000,0000,,Looking back a bit, to just before
+Dialogue: 0,0:02:18.11,0:02:23.62,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\fad(778,1)\blur4}Tiulyu Town
+Dialogue: 0,0:02:20.11,0:02:23.62,italicstop,Nar,0000,0000,0000,,the Eye of the Midnight Sun \Nattacked the royal capital...
+Dialogue: 0,0:02:24.21,0:02:27.22,italics,Nar,0000,0000,0000,,This town was neither rich nor poor,
+Dialogue: 0,0:02:27.22,0:02:29.37,italics,Nar,0000,0000,0000,,neither big nor small.
+Dialogue: 0,0:02:29.76,0:02:34.42,italics,Nar,0000,0000,0000,,A very mundane town found \Nin the Common Realm.
+Dialogue: 0,0:02:54.38,0:02:55.19,main,Dazu,0000,0000,0000,,Ow...
+Dialogue: 0,0:02:55.57,0:02:58.44,main,Bow,0000,0000,0000,,Endure it. It'll get better soon enough.
+Dialogue: 0,0:03:01.06,0:03:02.09,main,Dazu,0000,0000,0000,,Thank you.
+Dialogue: 0,0:03:02.09,0:03:03.20,main,Bow,0000,0000,0000,,It's fine.
+Dialogue: 0,0:03:04.95,0:03:06.91,main,Bow,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:03:06.91,0:03:07.73,main,Dazu,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:17.09,0:03:18.83,main,Dazu,0000,0000,0000,,I should go.
+Dialogue: 0,0:03:18.83,0:03:22.75,main,Bow,0000,0000,0000,,You can stay a while. \NNo one's going to come by.
+Dialogue: 0,0:03:22.75,0:03:26.58,main,Dazu,0000,0000,0000,,I'd love to, but he'll be home soon.
+Dialogue: 0,0:03:26.58,0:03:27.85,main,Bow,0000,0000,0000,,I see.
+Dialogue: 0,0:03:29.47,0:03:30.77,main,Dazu,0000,0000,0000,,See you later.
+Dialogue: 0,0:03:31.03,0:03:32.43,main,Bow,0000,0000,0000,,See you later.
+Dialogue: 0,0:04:02.92,0:04:05.85,main,Vide,0000,0000,0000,,It's as delicious as ever. Thank you, Dazu.
+Dialogue: 0,0:04:06.31,0:04:07.46,main,Dazu,0000,0000,0000,,It's nothing.
+Dialogue: 0,0:04:07.46,0:04:12.65,main,Meshu,0000,0000,0000,,It really is delicious. At least you can cook.
+Dialogue: 0,0:04:13.65,0:04:14.65,main,Vide,0000,0000,0000,,Tell me about it.
+Dialogue: 0,0:04:15.04,0:04:20.07,main,Meshu,0000,0000,0000,,Oh, dear. It looks like my soup has \Ngotten cold while we were talking.
+Dialogue: 0,0:04:20.45,0:04:22.69,main,Dazu,0000,0000,0000,,I'll reheat it right away.
+Dialogue: 0,0:04:22.69,0:04:25.46,main,Meshu,0000,0000,0000,,You don't need to go all the way \Nback to the kitchen for that.
+Dialogue: 0,0:04:25.46,0:04:28.52,main,Meshu,0000,0000,0000,,Go on. Warm it up with your magic.
+Dialogue: 0,0:04:29.12,0:04:30.51,main,Vide,0000,0000,0000,,That's a great idea.
+Dialogue: 0,0:04:31.22,0:04:36.31,main,Dazu,0000,0000,0000,,Then allow me to borrow some \Nof your flame magic, Mother,
+Dialogue: 0,0:04:36.31,0:04:38.04,main,Dazu,0000,0000,0000,,and some of your spatial magic, dear.
+Dialogue: 0,0:04:48.71,0:04:51.27,main,Meshu,0000,0000,0000,,Ah, it looks like it's warmed up.
+Dialogue: 0,0:04:51.27,0:04:55.54,main,Meshu,0000,0000,0000,,Your catalyst magic really does come in handy.
+Dialogue: 0,0:04:55.95,0:05:00.15,main,Vide,0000,0000,0000,,You can borrow magic from \Nothers and use it for yourself.
+Dialogue: 0,0:05:00.15,0:05:01.75,main,Vide,0000,0000,0000,,Impressive indeed.
+Dialogue: 0,0:05:02.53,0:05:04.11,main,Meshu,0000,0000,0000,,Indeed.
+Dialogue: 0,0:05:05.89,0:05:07.57,main,Meshu,0000,0000,0000,,My, it's delicious.
+Dialogue: 0,0:05:24.26,0:05:25.34,main,Man,0000,0000,0000,,Run away!
+Dialogue: 0,0:05:25.34,0:05:27.07,main,Girl A,0000,0000,0000,,Mommy!
+Dialogue: 0,0:05:26.30,0:05:28.07,main,Woman A,0000,0000,0000,,Someone help me!
+Dialogue: 0,0:05:36.68,0:05:38.11,main,Orca A,0000,0000,0000,,Accursed humans...
+Dialogue: 0,0:05:38.11,0:05:40.92,main,Orca b,0000,0000,0000,,You will face the wrath of the elves!
+Dialogue: 0,0:05:40.92,0:05:42.65,main,Orca C,0000,0000,0000,,Now is the time for our revenge!
+Dialogue: 0,0:05:45.86,0:05:48.40,main,Dazu,0000,0000,0000,,Dear! Mother! Hang in there!
+Dialogue: 0,0:05:48.91,0:05:52.49,main,Meshu,0000,0000,0000,,H-Hurry and help us...
+Dialogue: 0,0:05:58.92,0:06:01.71,main,Vide,0000,0000,0000,,Hurry up, you stupid...
+Dialogue: 0,0:06:25.55,0:06:28.24,main,Dazu,0000,0000,0000,,It's too early for it to be dawn.
+Dialogue: 0,0:06:36.99,0:06:39.07,main,Orca A,0000,0000,0000,,Curse you, human...
+Dialogue: 0,0:06:55.60,0:06:58.76,main,Villager A,0000,0000,0000,,That's... the magic of the \NCaptain of the Golden Dawn.
+Dialogue: 0,0:06:58.76,0:07:00.40,main,Villager B,0000,0000,0000,,How beautiful...
+Dialogue: 0,0:07:00.40,0:07:03.46,main,Villager C,0000,0000,0000,,Did they save the kingdom?
+Dialogue: 0,0:07:21.37,0:07:25.17,sign_12339_133_Finnes_Calmreich,Caption,0000,0000,0000,,{\fad(1947,1)\blur3}A Few Days Later
+Dialogue: 0,0:07:47.13,0:07:48.35,main,Dazu,0000,0000,0000,,Something wrong?
+Dialogue: 0,0:07:49.01,0:07:49.90,main,Bow,0000,0000,0000,,Look...
+Dialogue: 0,0:07:51.48,0:07:53.16,main,Dazu,0000,0000,0000,,"The Devil's Servants"?
+Dialogue: 0,0:07:53.61,0:07:56.21,main,Dazu,0000,0000,0000,,"The Magic Parliament will \Nput Magic Knights on trial
+Dialogue: 0,0:07:56.21,0:08:02.32,main,Dazu,0000,0000,0000,,on suspicion of communicating with \Nthe devil and using forbidden magic."
+Dialogue: 0,0:08:03.17,0:08:08.42,main,Bow,0000,0000,0000,,Apparently that incident \Naffected the entire kingdom.
+Dialogue: 0,0:08:08.72,0:08:12.33,main,Bow,0000,0000,0000,,According to the rumors, \Nthose who attacked everyone
+Dialogue: 0,0:08:12.33,0:08:16.43,main,Bow,0000,0000,0000,,were being controlled by the devil \Nand had gained terrifying powers.
+Dialogue: 0,0:08:16.68,0:08:19.33,main,Dazu,0000,0000,0000,,Devil... Terrifying powers?
+Dialogue: 0,0:08:20.43,0:08:23.02,main,Dazu,0000,0000,0000,,The devil... did this?
+Dialogue: 0,0:08:32.19,0:08:36.70,main,Julius,0000,0000,0000,,I would like all of you to train your \Nsquad members as much as you can.
+Dialogue: 0,0:08:36.70,0:08:38.31,main,Julius,0000,0000,0000,,We only have six months,
+Dialogue: 0,0:08:38.31,0:08:41.96,main,Julius,0000,0000,0000,,but do everything you can to \Nraise everyone's magic stages
+Dialogue: 0,0:08:41.96,0:08:47.71,main,Julius,0000,0000,0000,,so that we can face the Spade Kingdom \Nand protect this kingdom.
+Dialogue: 0,0:08:48.51,0:08:51.01,main,Julius,0000,0000,0000,,So, Damnatio, does that work for you?
+Dialogue: 0,0:08:51.01,0:08:52.09,main,Damnatio,0000,0000,0000,,Whatever do you mean?
+Dialogue: 0,0:08:52.34,0:08:55.68,main,Julius,0000,0000,0000,,In order to defeat the devil, the Magic Knights
+Dialogue: 0,0:08:55.68,0:08:59.51,main,Julius,0000,0000,0000,,will have to get stronger \Nin the next six months.
+Dialogue: 0,0:08:59.51,0:09:02.31,main,Julius,0000,0000,0000,,I'd like you to think about \Nwhat to do with Asta
+Dialogue: 0,0:09:02.31,0:09:06.27,main,Julius,0000,0000,0000,,after we've taken care of this matter \Nwith the Spade Kingdom, if you would.
+Dialogue: 0,0:09:07.79,0:09:09.40,main,Damnatio,0000,0000,0000,,I have no objections.
+Dialogue: 0,0:09:11.60,0:09:13.69,main,Kabwe,0000,0000,0000,,What's the meaning of this?!
+Dialogue: 0,0:09:14.59,0:09:18.11,main,Kabwe,0000,0000,0000,,The Black Bull named Asta \Nand that woman named Nero...
+Dialogue: 0,0:09:18.64,0:09:22.24,main,Kabwe,0000,0000,0000,,You're going to wait six months to \Ntry those servants of the devil?!
+Dialogue: 0,0:09:22.53,0:09:24.18,main,Damnatio,0000,0000,0000,,It's just as I explained it.
+Dialogue: 0,0:09:24.76,0:09:29.34,main,Damnatio,0000,0000,0000,,Our top priority now is to cooperate with \Nthe Magic Knights and the Heart Kingdom
+Dialogue: 0,0:09:29.34,0:09:33.36,main,Damnatio,0000,0000,0000,,so that we can face the threats of \Nthe Spade Kingdom and the devil.
+Dialogue: 0,0:09:33.36,0:09:34.28,main,Kabwe,0000,0000,0000,,But—
+Dialogue: 0,0:09:34.28,0:09:35.76,main,Damnatio,0000,0000,0000,,This has already been decided.
+Dialogue: 0,0:09:36.43,0:09:40.26,main,Kabwe,0000,0000,0000,,Are you truly okay with that, Lord Damnatio?
+Dialogue: 0,0:09:40.26,0:09:45.36,main,Damnatio,0000,0000,0000,,I am not. But there is an order to things...
+Dialogue: 0,0:09:45.36,0:09:47.02,main,Damnatio,0000,0000,0000,,And priorities.
+Dialogue: 0,0:09:47.32,0:09:51.11,main,Kabwe,0000,0000,0000,,Then that's all the more reason \Nto execute that devil first!
+Dialogue: 0,0:09:51.63,0:09:55.42,main,Kabwe,0000,0000,0000,,The chaos in our kingdom caused \Nby the Eye of the Midnight Sun
+Dialogue: 0,0:09:55.42,0:09:57.78,main,Kabwe,0000,0000,0000,,was the work of the devil, was it not?!
+Dialogue: 0,0:09:58.05,0:10:00.41,main,Kabwe,0000,0000,0000,,My nephew was among the victims...
+Dialogue: 0,0:10:00.41,0:10:01.40,main,Damnatio,0000,0000,0000,,Enough.
+Dialogue: 0,0:10:01.40,0:10:05.10,main,Kabwe,0000,0000,0000,,B-But to ensure the safety \Nand peace of our citizens,
+Dialogue: 0,0:10:05.10,0:10:08.07,main,Kabwe,0000,0000,0000,,we should execute them immediately!
+Dialogue: 0,0:10:08.07,0:10:09.92,main,Kabwe,0000,0000,0000,,That's why the Magic Parliament—
+Dialogue: 0,0:10:10.20,0:10:11.42,main,Damnatio,0000,0000,0000,,Take your leave!
+Dialogue: 0,0:10:14.85,0:10:16.97,main,Kabwe,0000,0000,0000,,P-Please excuse me.
+Dialogue: 0,0:10:23.83,0:10:27.73,italics,Kabwe,0000,0000,0000,,The Wizard King has Lord Damnatio \Ndancing in the palm of his hand.
+Dialogue: 0,0:10:28.56,0:10:32.81,italics,Kabwe,0000,0000,0000,,We're going to leave servants of \Nthe devil be for six months? Impossible!
+Dialogue: 0,0:10:33.49,0:10:35.58,italics,Kabwe,0000,0000,0000,,I must bring the scales of justice that
+Dialogue: 0,0:10:35.58,0:10:38.04,italics,Kabwe,0000,0000,0000,,have tilted toward the darkness \Nback to the light.
+Dialogue: 0,0:10:38.47,0:10:40.66,italics,Kabwe,0000,0000,0000,,I must bring peace and harmony \Nback to this kingdom.
+Dialogue: 0,0:10:41.92,0:10:42.91,main,Dazu,0000,0000,0000,,That's him?
+Dialogue: 0,0:10:42.91,0:10:44.91,main,Bow,0000,0000,0000,,Yes, there's no doubt about it.
+Dialogue: 0,0:10:45.28,0:10:48.45,main,Bow,0000,0000,0000,,He hates the devil even more than \Nothers in the Magic Parliament.
+Dialogue: 0,0:10:48.97,0:10:49.95,main,Dazu,0000,0000,0000,,Let's go.
+Dialogue: 0,0:10:51.28,0:10:52.71,main,Dazu,0000,0000,0000,,Pardon me.
+Dialogue: 0,0:10:54.04,0:10:56.56,main,Bow,0000,0000,0000,,Master Kabwe, I presume?
+Dialogue: 0,0:10:57.56,0:11:01.34,main,Kabwe,0000,0000,0000,,I am indeed Kabwe. Have we met before?
+Dialogue: 0,0:11:01.65,0:11:04.15,main,Dazu,0000,0000,0000,,No, we have not.
+Dialogue: 0,0:11:04.15,0:11:06.60,main,Dazu,0000,0000,0000,,May we have some of your time?
+Dialogue: 0,0:11:07.93,0:11:10.45,main,Kabwe,0000,0000,0000,,I'm sorry, but I'm a bit busy...
+Dialogue: 0,0:11:10.45,0:11:14.37,main,Dazu,0000,0000,0000,,I lost my family in the attack \Nby the Eye of the Midnight Sun.
+Dialogue: 0,0:11:15.11,0:11:19.61,main,Dazu,0000,0000,0000,,Not just my family. My town \Nburned, and many perished.
+Dialogue: 0,0:11:19.99,0:11:21.24,main,Kabwe,0000,0000,0000,,I'm sorry to hear that.
+Dialogue: 0,0:11:21.83,0:11:26.15,main,Kabwe,0000,0000,0000,,There are many in this kingdom \Nwho are suffering just as you are.
+Dialogue: 0,0:11:26.15,0:11:28.12,main,Dazu,0000,0000,0000,,Yes, you're exactly right.
+Dialogue: 0,0:11:28.36,0:11:34.12,main,Bow,0000,0000,0000,,Are you not also going through \Nthe same thing, Kabwe?
+Dialogue: 0,0:11:34.89,0:11:36.13,main,Kabwe,0000,0000,0000,,How did you know that?
+Dialogue: 0,0:11:36.38,0:11:42.38,main,Bow,0000,0000,0000,,We want your help so that we can \Nseek revenge for the many victims.
+Dialogue: 0,0:11:42.67,0:11:44.35,main,Kabwe,0000,0000,0000,,My help?
+Dialogue: 0,0:11:44.35,0:11:45.84,main,Kabwe,0000,0000,0000,,What do you intend to do?
+Dialogue: 0,0:11:49.21,0:11:54.77,main,Dazu,0000,0000,0000,,I... We want to destroy the servants \Nof the devil with our own hands.
+Dialogue: 0,0:11:55.06,0:11:56.73,main,Kabwe,0000,0000,0000,,The servants of the devil?
+Dialogue: 0,0:11:58.14,0:12:01.99,main,Kabwe,0000,0000,0000,,It appears that I'll have \Nto hear more about this.
+Dialogue: 0,0:12:02.20,0:12:03.10,main,Bow,0000,0000,0000,,Yes.
+Dialogue: 0,0:12:03.51,0:12:04.74,main,Dazu,0000,0000,0000,,That would be appreciated.
+Dialogue: 0,0:12:14.19,0:12:16.18,italics,Nar,0000,0000,0000,,As the royal capital began to calm down
+Dialogue: 0,0:12:16.18,0:12:18.50,italics,Nar,0000,0000,0000,,after the Eye of the Midnight Sun's attack...
+Dialogue: 0,0:12:19.02,0:12:21.25,italics,Nar,0000,0000,0000,,The Wizard King Julius Novachrono was
+Dialogue: 0,0:12:21.25,0:12:23.34,italics,Nar,0000,0000,0000,,swamped with paperwork from \Nthe aftermath of the attack,
+Dialogue: 0,0:12:23.83,0:12:28.23,italics,Nar,0000,0000,0000,,and the Magic Knights were \Ntraining vigorously daily so that
+Dialogue: 0,0:12:28.23,0:12:32.47,italics,Nar,0000,0000,0000,,they could take on the threats of \Nthe Spade Kingdom and the devil.
+Dialogue: 0,0:12:34.90,0:12:36.44,main,Asta,0000,0000,0000,,What's wrong, Noelle?
+Dialogue: 0,0:12:36.44,0:12:38.50,main,Asta,0000,0000,0000,,Come at me more! Come on!
+Dialogue: 0,0:12:40.94,0:12:46.21,main,Noelle,0000,0000,0000,,I could keep going, but I'm a bit \Nthirsty. Let's take a little break.
+Dialogue: 0,0:12:46.21,0:12:48.08,main,Asta,0000,0000,0000,,I'm not thirsty yet, though!
+Dialogue: 0,0:12:48.72,0:12:52.41,main,Noelle,0000,0000,0000,,But I am! And I'm royalty!
+Dialogue: 0,0:12:52.74,0:12:57.26,main,Asta,0000,0000,0000,,You always say that, but that has \Nnothing to do with anything, does it?
+Dialogue: 0,0:12:57.26,0:13:00.67,main,Noelle,0000,0000,0000,,Shut up! I said we're taking a break, \Nso we're taking a break!
+Dialogue: 0,0:13:01.17,0:13:03.88,main,Noelle,0000,0000,0000,,You just keep working out, \Nthen, Meathead Asta.
+Dialogue: 0,0:13:03.88,0:13:07.63,main,Asta,0000,0000,0000,,What's Noelle so mad about? \NWhat do you think, Nero?
+Dialogue: 0,0:13:07.63,0:13:08.35,main,,0000,0000,0000,,Dunno.
+Dialogue: 0,0:13:08.35,0:13:10.68,main,Asta,0000,0000,0000,,Guess I {\i1}will{\i0} work out, then.
+Dialogue: 0,0:13:12.81,0:13:15.83,main,Asta,0000,0000,0000,,One! Two! Three! Four! Five! Six!
+Dialogue: 0,0:13:15.83,0:13:17.97,top,Asta,0000,0000,0000,,Seven! Eight! Nine! Ten! Eleven!
+Dialogue: 0,0:13:17.97,0:13:20.19,top,Asta,0000,0000,0000,,Twelve! Thirteen! Fourteen! Fifteen! Sixteen!
+Dialogue: 0,0:13:24.14,0:13:25.91,main,Noelle,0000,0000,0000,,Hey, Gauche, Finral.
+Dialogue: 0,0:13:25.91,0:13:29.12,main,Finral,0000,0000,0000,,Hey, Noelle. Could you get \Nme a glass of water, too?
+Dialogue: 0,0:13:29.36,0:13:31.00,main,Noelle,0000,0000,0000,,Get one yourself.
+Dialogue: 0,0:13:31.44,0:13:32.87,italics,Finral,0000,0000,0000,,Again, I have seniority here...
+Dialogue: 0,0:13:34.53,0:13:36.79,main,Gauche,0000,0000,0000,,The hideout sure is quiet today.
+Dialogue: 0,0:13:36.79,0:13:40.46,main,Noelle,0000,0000,0000,,Everyone but Henry is out training.
+Dialogue: 0,0:13:40.70,0:13:42.19,main,Gauche,0000,0000,0000,,And you're slacking?
+Dialogue: 0,0:13:42.19,0:13:44.39,main,Noelle,0000,0000,0000,,I'm just taking a short break!
+Dialogue: 0,0:13:44.39,0:13:47.97,main,Noelle,0000,0000,0000,,What about you? Were you off seeing Marie again?
+Dialogue: 0,0:13:47.97,0:13:49.04,main,Gauche,0000,0000,0000,,What?
+Dialogue: 0,0:13:49.04,0:13:50.24,main,Noelle,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:13:50.24,0:13:52.98,main,Gauche,0000,0000,0000,,I was training this good-for-nothing.
+Dialogue: 0,0:13:52.98,0:13:56.98,main,Gauche,0000,0000,0000,,I'm going to go serve my angel, Marie, later.
+Dialogue: 0,0:13:57.20,0:13:59.48,italics,Noelle,0000,0000,0000,,So you {\i0}are{\i1} going.
+Dialogue: 0,0:13:59.48,0:14:01.23,main,Finral,0000,0000,0000,,Yeah, I'm beat.
+Dialogue: 0,0:14:01.23,0:14:05.28,main,Finral,0000,0000,0000,,The combo move we came up with using my \Nspatial magic and his mirror magic...
+Dialogue: 0,0:14:05.28,0:14:07.74,main,Finral,0000,0000,0000,,The timing's just been impossible to get down.
+Dialogue: 0,0:14:08.15,0:14:11.77,main,Gauche,0000,0000,0000,,I need to go cleanse my body \Nbefore I go see my angel.
+Dialogue: 0,0:14:12.70,0:14:15.75,main,Gauche,0000,0000,0000,,It'd be rude to go see her drenched in sweat.
+Dialogue: 0,0:14:17.95,0:14:21.19,main,Finral,0000,0000,0000,,Sister Theresa's apparently \Ngone until tonight.
+Dialogue: 0,0:14:21.19,0:14:24.25,main,Finral,0000,0000,0000,,Apparently, all the sisters from the \Nchurch are getting together or something.
+Dialogue: 0,0:14:24.25,0:14:27.39,main,Finral,0000,0000,0000,,So he's going to go see her \Nbefore the sister comes back.
+Dialogue: 0,0:14:27.39,0:14:30.26,main,Finral,0000,0000,0000,,Or rather, he's forcing me to take him...
+Dialogue: 0,0:14:30.51,0:14:32.76,main,Noelle,0000,0000,0000,,When the cat's away, \Nthe mice will, well, you know...
+Dialogue: 0,0:14:36.10,0:14:37.98,main,Gauche,0000,0000,0000,,Marie, I'll come to see you soon.
+Dialogue: 0,0:14:42.12,0:14:45.21,main,Gordon,0000,0000,0000,,Gauche, I'll wash your back for you.
+Dialogue: 0,0:14:45.21,0:14:47.99,main,Gordon,0000,0000,0000,,I hope you'll wash my back, too.
+Dialogue: 0,0:14:48.25,0:14:51.08,main,Asta,0000,0000,0000,,1,090! 1,091! 1,092! 1,093!
+Dialogue: 0,0:14:51.08,0:14:54.08,main,Asta,0000,0000,0000,,1,094! 1,095! 1,096! 1,097!
+Dialogue: 0,0:14:54.08,0:14:57.01,top,Asta,0000,0000,0000,,1,098! 1,099! 1,100! 1,101!
+Dialogue: 0,0:14:54.45,0:14:56.57,main,Noelle,0000,0000,0000,,How long is he going to keep that up?
+Dialogue: 0,0:14:57.01,0:15:00.58,top,Asta,0000,0000,0000,,1,102! 1,103! 1,104! 1,105! 1,106!
+Dialogue: 0,0:14:57.27,0:15:00.58,main,Noelle,0000,0000,0000,,Maybe I should take him something to eat.
+Dialogue: 0,0:15:02.59,0:15:05.69,main,Noelle,0000,0000,0000,,Even I can make a sandwich.
+Dialogue: 0,0:15:06.05,0:15:08.47,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3}A Town in the Common Realm, Nean
+Dialogue: 0,0:15:09.03,0:15:10.68,main,Boy A,0000,0000,0000,,Here it comes, Marie!
+Dialogue: 0,0:15:11.74,0:15:12.59,main,Marie,0000,0000,0000,,There!
+Dialogue: 0,0:15:12.59,0:15:14.80,main,Girl A,0000,0000,0000,,Nice kick!
+Dialogue: 0,0:15:15.36,0:15:18.18,main,Mask E,0000,0000,0000,,There. That must be her.
+Dialogue: 0,0:15:18.55,0:15:21.16,main,Onoby,0000,0000,0000,,Yes. That's Marie Adlai.
+Dialogue: 0,0:15:21.16,0:15:25.44,main,Onoby,0000,0000,0000,,The daughter of a fallen noble. Her older\N brother is a former criminal, and...
+Dialogue: 0,0:15:25.44,0:15:31.45,main,Siona,0000,0000,0000,,She was controlled by a devil during the \Nattack and harmed many innocent people.
+Dialogue: 0,0:15:32.11,0:15:36.16,main,Onoby,0000,0000,0000,,Let's take care of this before the \Nold hag from the church returns.
+Dialogue: 0,0:15:36.16,0:15:37.11,main,Siona,0000,0000,0000,,Indeed.
+Dialogue: 0,0:15:40.70,0:15:41.79,main,Marie,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:15:44.75,0:15:47.59,main,Onoby,0000,0000,0000,,Servant of the devil... \NYou're coming with me!
+Dialogue: 0,0:15:50.45,0:15:51.47,main,Onoby,0000,0000,0000,,You brat...
+Dialogue: 0,0:15:52.25,0:15:54.14,main,Boy A,0000,0000,0000,,What are you doing to Marie?!
+Dialogue: 0,0:15:54.14,0:15:56.27,main,Girl A,0000,0000,0000,,Are you planning to take her again?
+Dialogue: 0,0:15:56.27,0:15:58.34,main,Girl B,0000,0000,0000,,We won't let you take her!
+Dialogue: 0,0:15:58.34,0:15:59.47,main,Boy B,0000,0000,0000,,No way!
+Dialogue: 0,0:15:59.68,0:16:01.10,main,Onoby,0000,0000,0000,,Little brats...
+Dialogue: 0,0:16:01.31,0:16:02.69,main,Townsperson A,0000,0000,0000,,Who the heck are they?
+Dialogue: 0,0:16:02.69,0:16:05.90,main,Townsperson B,0000,0000,0000,,H-Hey! Theresa! Theresa!
+Dialogue: 0,0:16:05.90,0:16:07.57,main,Neige,0000,0000,0000,,Theresa's out right now.
+Dialogue: 0,0:16:07.57,0:16:09.88,main,Townsperson B,0000,0000,0000,,Th-They're trying to take Marie!
+Dialogue: 0,0:16:11.55,0:16:13.79,main,Neige,0000,0000,0000,,Wh-Who are you guys?!
+Dialogue: 0,0:16:13.79,0:16:15.07,main,Marie,0000,0000,0000,,Neige!
+Dialogue: 0,0:16:15.64,0:16:18.58,main,Onoby,0000,0000,0000,,We are the Devil Banishers!
+Dialogue: 0,0:16:18.58,0:16:22.06,main,Neige,0000,0000,0000,,Devil... I won't let you take Marie!
+Dialogue: 0,0:16:22.49,0:16:24.96,main,Neige,0000,0000,0000,,Snow Magic: Snow Cry!
+Dialogue: 0,0:16:31.49,0:16:34.34,italics,Neige,0000,0000,0000,,Of course this happens \Nwhen Theresa isn't here...
+Dialogue: 0,0:16:35.16,0:16:36.18,italics,Neige,0000,0000,0000,,There are more of them?
+Dialogue: 0,0:16:36.41,0:16:37.51,main,Neige,0000,0000,0000,,Snow Magic—
+Dialogue: 0,0:16:39.14,0:16:40.91,italics,Neige,0000,0000,0000,,Wh-When did they...
+Dialogue: 0,0:16:40.91,0:16:42.77,italics,Neige,0000,0000,0000,,I couldn't sense their mana.
+Dialogue: 0,0:16:45.77,0:16:47.00,main,Marie,0000,0000,0000,,Neige!
+Dialogue: 0,0:16:47.00,0:16:49.69,main,Boy B,0000,0000,0000,,Hey! Stop! Let go!
+Dialogue: 0,0:16:49.91,0:16:52.03,main,Girl B,0000,0000,0000,,Stop!
+Dialogue: 0,0:16:52.25,0:16:53.19,main,Marie,0000,0000,0000,,Everyone!
+Dialogue: 0,0:16:57.27,0:17:00.69,main,Siona,0000,0000,0000,,You're not getting away again,\N servant of the devil.
+Dialogue: 0,0:17:02.01,0:17:04.72,main,Marie,0000,0000,0000,,But I'm not a servant of the devil...
+Dialogue: 0,0:17:04.72,0:17:08.54,main,Onoby,0000,0000,0000,,We must return the scale that's tilted\Ntoward darkness back to the light.
+Dialogue: 0,0:17:08.54,0:17:10.60,main,Townsperson C,0000,0000,0000,,Y-You lot!
+Dialogue: 0,0:17:10.60,0:17:12.62,main,Townsperson D,0000,0000,0000,,What are you going to do with her?!
+Dialogue: 0,0:17:12.62,0:17:14.80,main,Townsperson,0000,0000,0000,,We need to contact the Magic Knights!
+Dialogue: 0,0:17:15.55,0:17:16.36,main,Onoby,0000,0000,0000,,Let's go!
+Dialogue: 0,0:17:19.22,0:17:20.43,main,Neige,0000,0000,0000,,Marie...
+Dialogue: 0,0:17:21.68,0:17:22.80,main,Girl B,0000,0000,0000,,Marie!
+Dialogue: 0,0:17:22.80,0:17:23.68,main,Girl A,0000,0000,0000,,Marie!
+Dialogue: 0,0:17:23.92,0:17:29.36,main,Marie,0000,0000,0000,,Someone... Save me! Big Brother! Big Brother!
+Dialogue: 0,0:17:33.37,0:17:34.36,main,Noelle,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:17:34.60,0:17:38.08,main,Gauche,0000,0000,0000,,I thought I heard an angel \Ncall for me just now.
+Dialogue: 0,0:17:38.08,0:17:39.49,main,Noelle,0000,0000,0000,,You're hearing things.
+Dialogue: 0,0:17:40.91,0:17:43.95,main,Gauche,0000,0000,0000,,I'm sure Marie must be anxious to see me, too.
+Dialogue: 0,0:17:44.80,0:17:47.29,main,Gauche,0000,0000,0000,,What in the world is that? \NIs that for the magical beasts?
+Dialogue: 0,0:17:47.29,0:17:49.99,main,Noelle,0000,0000,0000,,How rude! It's a sandwich!
+Dialogue: 0,0:17:49.99,0:17:52.40,main,Noelle,0000,0000,0000,,If you want a bite, just say so!
+Dialogue: 0,0:17:52.40,0:17:53.63,main,Gauche,0000,0000,0000,,No, I don't want it.
+Dialogue: 0,0:17:54.42,0:17:55.70,main,Gauche,0000,0000,0000,,Hey, Finral.
+Dialogue: 0,0:17:56.20,0:17:58.13,main,Gauche,0000,0000,0000,,Wake up! Let's go.
+Dialogue: 0,0:17:58.13,0:17:59.30,main,Finral,0000,0000,0000,,Sure, whatever.
+Dialogue: 0,0:17:59.89,0:18:02.86,italics,Finral,0000,0000,0000,,Seriously, none of you know \Nhow to treat a senior comrade.
+Dialogue: 0,0:18:02.86,0:18:05.35,main,Finral,0000,0000,0000,,All right, Noelle. We're going out for a bit.
+Dialogue: 0,0:18:05.58,0:18:07.99,main,Gauche,0000,0000,0000,,Not a bit. We'll be gone for a while!
+Dialogue: 0,0:18:07.99,0:18:11.27,main,Finral,0000,0000,0000,,If Yami finds out, I'm gonna\N get a scolding, too.
+Dialogue: 0,0:18:12.08,0:18:13.02,main,Finral,0000,0000,0000,,Here.
+Dialogue: 0,0:18:15.70,0:18:17.53,main,Noelle,0000,0000,0000,,Now, I should...
+Dialogue: 0,0:18:17.53,0:18:21.11,main,Asta,0000,0000,0000,,8,122! 8,123! 8,124! 8,125!
+Dialogue: 0,0:18:21.11,0:18:23.46,main,Asta,0000,0000,0000,,8,126! 8,127! 8,128!
+Dialogue: 0,0:18:21.83,0:18:23.46,top,Nero,0000,0000,0000,,How long are you going to do this?
+Dialogue: 0,0:18:23.46,0:18:25.12,main,Asta,0000,0000,0000,,Until 10,000!
+Dialogue: 0,0:18:25.12,0:18:28.22,main,Asta,0000,0000,0000,,Wait... 8,003?! No!
+Dialogue: 0,0:18:29.22,0:18:32.57,main,Asta,0000,0000,0000,,I lost count because you talked to me!
+Dialogue: 0,0:18:32.57,0:18:35.35,main,Asta,0000,0000,0000,,Now I need to start back at one!
+Dialogue: 0,0:18:35.35,0:18:38.79,main,Asta,0000,0000,0000,,One, two, three, four, five, six...
+Dialogue: 0,0:18:38.79,0:18:40.47,main,Dazu,0000,0000,0000,,That must be Asta.
+Dialogue: 0,0:18:38.79,0:18:42.35,top,Asta,0000,0000,0000,,Seven, eight, nine, ten, eleven, twelve...
+Dialogue: 0,0:18:40.47,0:18:47.11,main,Kabwe,0000,0000,0000,,Yes. He has no mana and cannot use magic, \Nbut somehow he joined the Magic Knights.
+Dialogue: 0,0:18:42.35,0:18:45.20,top,Asta,0000,0000,0000,,Thirteen, fourteen, fifteen, sixteen...
+Dialogue: 0,0:18:47.11,0:18:49.60,main,Kabwe,0000,0000,0000,,He's nothing but a filthy devil's servant.
+Dialogue: 0,0:18:49.60,0:18:52.13,main,Kabwe,0000,0000,0000,,Let's do this.
+Dialogue: 0,0:18:52.13,0:18:53.73,main,Dazu,0000,0000,0000,,All is according to plan.
+Dialogue: 0,0:18:53.73,0:18:56.64,main,Asta,0000,0000,0000,,131, 132, 133, 134...
+Dialogue: 0,0:18:56.64,0:18:59.31,main,Asta,0000,0000,0000,,135... 136?
+Dialogue: 0,0:19:01.50,0:19:03.58,italics,Asta,0000,0000,0000,,Huh? Only one person?
+Dialogue: 0,0:19:06.79,0:19:08.01,main,Asta,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:19:13.54,0:19:15.78,main,Asta,0000,0000,0000,,Hey, talk to me! What happened?
+Dialogue: 0,0:19:19.79,0:19:21.30,main,Bow,0000,0000,0000,,T-Take this, please.
+Dialogue: 0,0:19:28.63,0:19:30.12,main,Asta,0000,0000,0000,,What is this?
+Dialogue: 0,0:19:30.12,0:19:31.20,main,Nero,0000,0000,0000,,Poison?
+Dialogue: 0,0:19:35.97,0:19:39.03,main,Kabwe,0000,0000,0000,,Your mixing abilities are quite impressive.
+Dialogue: 0,0:19:39.89,0:19:41.11,main,Bow,0000,0000,0000,,Thank you.
+Dialogue: 0,0:19:41.11,0:19:44.52,main,Kabwe,0000,0000,0000,,I thought we only had the \Ndevil-possessed boy here,
+Dialogue: 0,0:19:44.52,0:19:47.70,main,Kabwe,0000,0000,0000,,but apparently the girl who used \Nforbidden magic is here, too.
+Dialogue: 0,0:19:47.70,0:19:50.43,main,Kabwe,0000,0000,0000,,Luck must be on our side.
+Dialogue: 0,0:19:50.43,0:19:51.79,main,Dazu,0000,0000,0000,,So this is Nero.
+Dialogue: 0,0:19:52.03,0:19:54.54,main,Mask C,0000,0000,0000,,Look at those horns... She's clearly a devil.
+Dialogue: 0,0:19:54.89,0:19:58.15,main,Mask D,0000,0000,0000,,They're proof that she used forbidden magic.
+Dialogue: 0,0:19:58.15,0:20:00.30,main,Kabwe,0000,0000,0000,,Now, let us capture them.
+Dialogue: 0,0:20:03.11,0:20:04.94,main,Asta,0000,0000,0000,,Stop!
+Dialogue: 0,0:20:04.03,0:20:06.51,main,Mask D,0000,0000,0000,,Ow, ow, ow, ow, ow! Let go!
+Dialogue: 0,0:20:06.99,0:20:08.77,main,Mask C,0000,0000,0000,,How can he be so strong?!
+Dialogue: 0,0:20:08.77,0:20:10.07,italics,Nero,0000,0000,0000,,I'm losing consciousness...
+Dialogue: 0,0:20:10.07,0:20:12.64,main,Asta,0000,0000,0000,,Let go of Nero!
+Dialogue: 0,0:20:12.93,0:20:14.82,main,Nero,0000,0000,0000,,Asta...
+Dialogue: 0,0:20:14.82,0:20:17.32,main,Noelle,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:20:17.79,0:20:19.86,main,Noelle,0000,0000,0000,,Get away from Asta and Nero!
+Dialogue: 0,0:20:20.14,0:20:22.61,italics,Nero,0000,0000,0000,,Sealing Magic: Inverse Release!
+Dialogue: 0,0:20:27.45,0:20:31.66,italics,Asta,0000,0000,0000,,My body... Crap! I'm gonna di...
+Dialogue: 0,0:20:32.01,0:20:33.75,main,Kabwe,0000,0000,0000,,Let's hurry and take them.
+Dialogue: 0,0:20:33.75,0:20:36.17,italics,Noelle,0000,0000,0000,,Water Creation Magic: Sea Dragon's...
+Dialogue: 0,0:20:36.17,0:20:39.03,main,Mask C,0000,0000,0000,,Plant Magic: The Flower on the Roadside!
+Dialogue: 0,0:20:37.59,0:20:38.46,italics,Noelle,0000,0000,0000,,Water—
+Dialogue: 0,0:20:43.51,0:20:45.59,main,Mask D,0000,0000,0000,,Sand Magic: Sandscreen!
+Dialogue: 0,0:20:45.98,0:20:47.05,main,Kabwe,0000,0000,0000,,Let's go!
+Dialogue: 0,0:20:48.87,0:20:50.03,main,Noelle,0000,0000,0000,,You're not getting away!
+Dialogue: 0,0:20:52.50,0:20:55.69,main,Gordon,0000,0000,0000,,It seems really noisy outside...
+Dialogue: 0,0:20:59.36,0:21:01.03,main,Noelle,0000,0000,0000,,Asta! Nero!
+Dialogue: 0,0:21:01.71,0:21:02.94,main,Mask D,0000,0000,0000,,She's fast!
+Dialogue: 0,0:21:03.40,0:21:06.57,main,Noelle,0000,0000,0000,,Water Creation Magic: Sea Dragon's Waterball!
+Dialogue: 0,0:21:12.61,0:21:13.71,main,Mask D,0000,0000,0000,,Crap!
+Dialogue: 0,0:21:16.29,0:21:18.46,main,Kabwe,0000,0000,0000,,Let's give up for now.
+Dialogue: 0,0:21:18.46,0:21:19.57,main,Dazu,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:19.57,0:21:20.96,main,Mask D,0000,0000,0000,,I a-apologize...
+Dialogue: 0,0:21:22.50,0:21:23.46,main,Kabwe,0000,0000,0000,,Transparency Magic:
+Dialogue: 0,0:21:25.80,0:21:27.72,main,Kabwe,0000,0000,0000,,Share the Same Fate!
+Dialogue: 0,0:21:28.95,0:21:31.56,main,Noelle,0000,0000,0000,,Hold it! Who are you?!
+Dialogue: 0,0:21:32.14,0:21:34.56,main,Dazu,0000,0000,0000,,We are the Devil Banishers.
+Dialogue: 0,0:21:34.56,0:21:36.81,main,Bow,0000,0000,0000,,We wish for the demise of the devil.
+Dialogue: 0,0:21:37.14,0:21:39.77,main,Noelle,0000,0000,0000,,You're not getting away! Give Nero back!
+Dialogue: 0,0:21:42.81,0:21:44.41,italics,Noelle,0000,0000,0000,,I can't sense their mana.
+Dialogue: 0,0:21:45.60,0:21:46.40,italics,Noelle,0000,0000,0000,,Nero!
+Dialogue: 0,0:21:46.79,0:21:47.72,main,Noelle,0000,0000,0000,,Asta!
+Dialogue: 0,0:21:48.93,0:21:51.79,main,People,0000,0000,0000,,How could they do that to little children?
+Dialogue: 0,0:21:53.26,0:21:54.95,main,Finral,0000,0000,0000,,Wh-What's going on?
+Dialogue: 0,0:21:56.21,0:21:58.67,main,Boy A,0000,0000,0000,,It's terrible! Marie was...
+Dialogue: 0,0:21:59.00,0:22:00.00,main,Gauche,0000,0000,0000,,What?!
+Dialogue: 0,0:22:00.82,0:22:03.09,main,Noelle,0000,0000,0000,,Asta, wake up!
+Dialogue: 0,0:22:03.79,0:22:05.59,main,Noelle,0000,0000,0000,,Asta!
+Dialogue: 0,0:23:39.92,0:23:41.57,main,Noelle,0000,0000,0000,,Asta, don't die!
+Dialogue: 0,0:23:41.57,0:23:45.32,main,Noelle,0000,0000,0000,,Make one of your stupid faces and laugh! Asta!
+Dialogue: 0,0:23:45.32,0:23:49.45,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, \NPage 143: "The Tilted Scale."
+Dialogue: 0,0:23:46.44,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 143\N\N{\fs18} The Tilted Scale
+Dialogue: 0,0:23:49.45,0:23:52.78,main,Noelle,0000,0000,0000,,They took Nero and Marie... \NJust what are they after?!

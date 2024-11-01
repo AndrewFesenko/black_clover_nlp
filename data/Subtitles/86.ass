@@ -1,0 +1,428 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: main - subtitles,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0058,0
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+
+Dialogue: 0,0:00:02.92,0:00:07.02,italics,Nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.17,0:00:15.43,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.56,0:00:27.73,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:31.36,0:00:33.74,italics,Nar,0000,0000,0000,,When he was younger, \NYami was on a journey to train,
+Dialogue: 0,0:00:33.74,0:00:37.65,italics,Nar,0000,0000,0000,,when the head of a little village asked him \Nto protect it some magical bandits.
+Dialogue: 0,0:00:37.65,0:00:39.37,italics,Nar,0000,0000,0000,,He ended up battling the bandits,
+Dialogue: 0,0:00:39.87,0:00:41.66,italics,Nar,0000,0000,0000,,and during that battle...
+Dialogue: 0,0:00:41.66,0:00:43.62,flashback,William,0000,0000,0000,,Yami, was it?
+Dialogue: 0,0:00:44.02,0:00:45.54,flashback,William,0000,0000,0000,,I'm counting on you to watch my back.
+Dialogue: 0,0:00:46.26,0:00:50.84,italics,Nar,0000,0000,0000,,Yami encountered Vangeance,\Nwho was nearby on another mission.
+Dialogue: 0,0:00:50.84,0:00:53.95,flashback,William,0000,0000,0000,,First, I'm going to become a \NMagic Knights Squad captain...
+Dialogue: 0,0:00:54.43,0:00:57.67,flashback,William,0000,0000,0000,,Looks like the challenge is on. \NLet's see who can do it first.
+Dialogue: 0,0:00:58.87,0:01:02.18,main,Yami,0000,0000,0000,,And all kinds of stuff happened after that.
+Dialogue: 0,0:01:02.56,0:01:06.27,main,Yami,0000,0000,0000,,A few years later, \NJulius became the Wizard King,
+Dialogue: 0,0:01:06.69,0:01:08.76,top,Yami,0000,0000,0000,,and both the golden weird mask guy and I
+Dialogue: 0,0:01:08.46,0:01:10.56,sign_6730_49_Captain_of_the_A,Sign,0000,0000,0000,,{\blur3\fad(502,1)}The Wizard King's Attendant\N{\fs30}Marx Francois
+Dialogue: 0,0:01:08.76,0:01:13.01,top,Yami,0000,0000,0000,,were appointed Vice Captains\N of the Gray Deer.
+Dialogue: 0,0:01:10.56,0:01:13.82,sign_1785_19_Vice_Captain_of_,Sign,0000,0000,0000,,{\blur3}Vice Captain of the Gray Deer\N{\fs26}William Vangeance
+Dialogue: 0,0:01:10.56,0:01:13.82,sign_1785_20_Vice_Captain_of_,Sign,0000,0000,0000,,{\blur3}Vice Captain of the Gray Deer\N{\fs26}Yami Sukehiro
+Dialogue: 0,0:01:13.01,0:01:14.72,top,Yami,0000,0000,0000,,Then, one day...
+Dialogue: 0,0:01:14.21,0:01:19.57,sign_6730_49_Captain_of_the_A,Sign,0000,0000,0000,,{\blur3\fad(967,1)}28th Wizard King\N{\fs30}Julius Novachrono
+Dialogue: 0,0:01:15.91,0:01:18.44,top,Julius,0000,0000,0000,,Hey! Thanks for coming.
+Dialogue: 0,0:01:18.44,0:01:19.57,top,Julius,0000,0000,0000,,Welcome!
+Dialogue: 0,0:01:19.91,0:01:22.29,main,Yami,0000,0000,0000,,You don't have to be so formal with us.
+Dialogue: 0,0:01:22.29,0:01:23.83,main,William,0000,0000,0000,,I agree.
+Dialogue: 0,0:01:24.33,0:01:29.34,main,Julius,0000,0000,0000,,I heard you did amazing work exploring \Nthat dungeon the other day.
+Dialogue: 0,0:01:29.34,0:01:31.08,main,William,0000,0000,0000,,It was nothing.
+Dialogue: 0,0:01:31.08,0:01:34.30,main,Julius,0000,0000,0000,,I heard you saved all the \Nknights who were caught
+Dialogue: 0,0:01:34.30,0:01:36.16,main,Julius,0000,0000,0000,,by the trap spell with your magic.
+Dialogue: 0,0:01:36.16,0:01:38.86,main,Julius,0000,0000,0000,,I wish I could've seen that magic!
+Dialogue: 0,0:01:38.86,0:01:43.43,main,Julius,0000,0000,0000,,Oh, I'll give you the stars for \Nthat next time. Don't worry.
+Dialogue: 0,0:01:43.43,0:01:46.29,main,William,0000,0000,0000,,I'm honored. Thank you very much.
+Dialogue: 0,0:01:47.53,0:01:52.81,main,Julius,0000,0000,0000,,I heard you were absolutely fierce in \Nthe defensive battle at Kuka Village.
+Dialogue: 0,0:01:53.23,0:01:58.32,main,Julius,0000,0000,0000,,I heard you split the giant soldier that the \Nenemy created using rock magic in two.
+Dialogue: 0,0:01:58.32,0:01:59.40,main,Yami,0000,0000,0000,,Yeah, that was nothing...
+Dialogue: 0,0:01:59.92,0:02:03.73,main,Yami,0000,0000,0000,,Actually, it was everything! \NYou're going to give me some stars, too, right?
+Dialogue: 0,0:02:03.73,0:02:07.81,main,Julius,0000,0000,0000,,Of course! I'm sure your \Ncaptain is very proud.
+Dialogue: 0,0:02:07.81,0:02:09.96,main,Marx,0000,0000,0000,,Sir, it's about time.
+Dialogue: 0,0:02:09.96,0:02:15.87,main,Julius,0000,0000,0000,,Oh, right. Sorry to have you \Nstop by when you're so busy.
+Dialogue: 0,0:02:17.69,0:02:20.55,main,Julius,0000,0000,0000,,There's a job that I'd like \Nyou two to take on.
+Dialogue: 0,0:02:23.43,0:02:24.68,main,Both,0000,0000,0000,,Bandits?
+Dialogue: 0,0:02:24.68,0:02:28.08,main,Julius,0000,0000,0000,,Yeah, they're causing trouble all over.
+Dialogue: 0,0:02:28.08,0:02:30.18,main,Julius,0000,0000,0000,,Would you two catch them for me?
+Dialogue: 0,0:02:30.18,0:02:31.78,main,William,0000,0000,0000,,Of course, sir.
+Dialogue: 0,0:02:31.78,0:02:36.14,main,William,0000,0000,0000,,The Magic Knights live to serve and \Nprotect the people of the Clover Kingdom.
+Dialogue: 0,0:02:36.14,0:02:38.93,main,William,0000,0000,0000,,We will happily accept this mission.
+Dialogue: 0,0:02:38.93,0:02:39.73,main,William,0000,0000,0000,,But...
+Dialogue: 0,0:02:39.73,0:02:41.70,main,Yami,0000,0000,0000,,Why are you just asking the two of us?
+Dialogue: 0,0:02:42.05,0:02:44.61,main,Julius,0000,0000,0000,,Well, it's possible that
+Dialogue: 0,0:02:44.61,0:02:48.12,main,Julius,0000,0000,0000,,someone from the Magic Knights \Nis aiding the bandits.
+Dialogue: 0,0:02:48.12,0:02:50.25,main,Yami,0000,0000,0000,,Well, can't say I'm surprised.
+Dialogue: 0,0:02:51.40,0:02:54.27,main,Julius,0000,0000,0000,,I don't think they're ordinary bandits.
+Dialogue: 0,0:02:54.27,0:02:59.02,main,Julius,0000,0000,0000,,They're very organized and even \Nhave some ancient magic items.
+Dialogue: 0,0:02:59.02,0:03:02.30,main,Julius,0000,0000,0000,,Pretty powerful ones, at that.
+Dialogue: 0,0:03:02.62,0:03:04.77,main,Marx,0000,0000,0000,,It may be that someone is providing them
+Dialogue: 0,0:03:04.77,0:03:06.80,main,Marx,0000,0000,0000,,with magic items that we found in dungeons.
+Dialogue: 0,0:03:06.80,0:03:10.49,main,Yami,0000,0000,0000,,I see. So that's why you want us.
+Dialogue: 0,0:03:10.49,0:03:13.91,main,William,0000,0000,0000,,If all the Magic Knights were assigned \Nto this, evidence may be destroyed,
+Dialogue: 0,0:03:13.91,0:03:15.93,main,William,0000,0000,0000,,and the guilty party may disappear.
+Dialogue: 0,0:03:15.93,0:03:18.31,main,William,0000,0000,0000,,That's why we've been assigned \Nto this secret mission.
+Dialogue: 0,0:03:18.31,0:03:19.82,main,,0000,0000,0000,,Exactly.
+Dialogue: 0,0:03:20.61,0:03:26.33,main,Yami,0000,0000,0000,,Say, Julius. What are you going to \Ndo if one of us is that traitor?
+Dialogue: 0,0:03:26.33,0:03:28.83,main,Yami,0000,0000,0000,,We might just let the bandits escape.
+Dialogue: 0,0:03:29.18,0:03:31.55,main,Julius,0000,0000,0000,,Well, that would be a problem.
+Dialogue: 0,0:03:31.55,0:03:35.63,main,Julius,0000,0000,0000,,But I think I know you \Ntwo pretty well by now.
+Dialogue: 0,0:03:35.63,0:03:38.84,main,Julius,0000,0000,0000,,I've known you both since before \Nyou even joined the Magic Knights.
+Dialogue: 0,0:03:39.24,0:03:41.35,main,Julius,0000,0000,0000,,That's why I trust you.
+Dialogue: 0,0:03:42.17,0:03:45.44,main,Julius,0000,0000,0000,,But if you two end up betraying me, \NI guess there's not much I can do.
+Dialogue: 0,0:03:45.99,0:03:48.22,main,Yami,0000,0000,0000,,You always were a cunning old dude.
+Dialogue: 0,0:03:48.56,0:03:50.55,main,Julius,0000,0000,0000,,Well, I'll be counting on both of you.
+Dialogue: 0,0:03:51.11,0:03:52.10,main,Marx,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:03:52.58,0:03:54.39,sign_5669_76_Heart_Kingdom_,Sign,0000,0000,0000,,{\blur3\fad(254,1)}Heart Kingdom
+Dialogue: 0,0:03:52.58,0:03:54.39,sign_5669_77_Spade_Kingdom,Sign,0000,0000,0000,,{\blur3\fad(254,1)}Spade Kingdom
+Dialogue: 0,0:03:52.58,0:03:54.39,sign_5669_78_Forsaken_Realm,Sign,0000,0000,0000,,{\blur3\fad(254,1)}Forsaken Realm
+Dialogue: 0,0:03:52.58,0:03:54.39,sign_5669_79_Common_Realm,Sign,0000,0000,0000,,{\blur3\fad(254,1)}Common Realm
+Dialogue: 0,0:03:52.58,0:03:54.39,sign_5669_80_Noble_Realm,Sign,0000,0000,0000,,{\blur3\fad(254,1)}Noble Realm
+Dialogue: 0,0:03:52.58,0:03:54.39,sign_5669_81_Rayaka,Sign,0000,0000,0000,,{\blur3\fad(254,1)}Rayaka
+Dialogue: 0,0:03:52.58,0:03:54.39,sign_5669_82_Nean,Sign,0000,0000,0000,,{\blur3\fad(254,1)}Nean
+Dialogue: 0,0:03:52.58,0:03:54.39,sign_5669_83_Kikka,Sign,0000,0000,0000,,{\blur3\fad(254,1)}Kikka
+Dialogue: 0,0:03:52.58,0:03:54.39,sign_5669_84_Raquey,Sign,0000,0000,0000,,{\blur3\fad(254,1)}Raquey
+Dialogue: 0,0:03:52.58,0:03:54.39,sign_5669_85_Kiten,Sign,0000,0000,0000,,{\blur3\fad(254,1)}Kiten
+Dialogue: 0,0:03:52.58,0:03:54.39,sign_5669_78_Diamond_Kingdom_,Sign,0000,0000,0000,,{\blur3\fad(254,1)}Diamond Kingdom
+Dialogue: 0,0:03:54.39,0:03:58.11,sign_5713_87_Heart_Kingdom_,Sign,0000,0000,0000,,{\blur3\fad(1936,1)}Heart\NKingdom
+Dialogue: 0,0:03:54.39,0:03:58.11,sign_5713_88_Spade_Kingdom,Sign,0000,0000,0000,,{\blur3\fad(1936,1)}Spade Kingdom
+Dialogue: 0,0:03:54.39,0:03:58.11,sign_5713_89_Forsaken_Realm,Sign,0000,0000,0000,,{\blur3\fad(1936,1)}Forsaken Realm
+Dialogue: 0,0:03:54.39,0:03:58.11,sign_5713_90_Common_Realm,Sign,0000,0000,0000,,{\blur3\fad(1936,1)}Common Realm
+Dialogue: 0,0:03:54.39,0:03:58.11,sign_5713_91_Noble_Realm,Sign,0000,0000,0000,,{\blur3\fad(1936,1)}Noble Realm
+Dialogue: 0,0:03:54.39,0:03:58.11,sign_5713_92_Rayaka,Sign,0000,0000,0000,,{\blur3\fad(1936,1)}Rayaka
+Dialogue: 0,0:03:54.39,0:03:58.11,sign_5713_93_Nean,Sign,0000,0000,0000,,{\blur3\fad(1936,1)}Nean
+Dialogue: 0,0:03:54.39,0:03:58.11,sign_5713_94_Kikka,Sign,0000,0000,0000,,{\blur3\fad(1936,1)}Kikka
+Dialogue: 0,0:03:54.39,0:03:58.11,sign_5713_95_Raquey,Sign,0000,0000,0000,,{\blur3\fad(1936,1)}Raquey
+Dialogue: 0,0:03:54.39,0:03:58.11,sign_5713_96_Kiten,Sign,0000,0000,0000,,{\blur3\fad(1936,1)}Kiten
+Dialogue: 0,0:03:54.39,0:03:58.11,sign_5713_89_Diamond_Kingdom_,Sign,0000,0000,0000,,{\blur3\fad(1936,1)}Diamond\N Kingdom
+Dialogue: 0,0:03:54.57,0:03:58.11,main,Marx,0000,0000,0000,,I've marked the towns and villages that \Nhave been attacked by the bandits.
+Dialogue: 0,0:03:58.48,0:04:01.71,main,Yami,0000,0000,0000,,I see... So they're showing up\N in unexpected places.
+Dialogue: 0,0:04:01.71,0:04:04.86,main,Yami,0000,0000,0000,,Must be so people won't figure \Nout where they'll show up next.
+Dialogue: 0,0:04:04.86,0:04:13.39,sign_5964_101_Nean_Common_Real,Sign,0000,0000,0000,,{\blur3}Nean\N{\fs24}Common Realm\N{\fs20}Kikka
+Dialogue: 0,0:04:05.33,0:04:09.11,main,Marx,0000,0000,0000,,I've sent messages to the Magic Knights \Nin these areas to be on their guard,
+Dialogue: 0,0:04:09.11,0:04:12.06,main,Marx,0000,0000,0000,,but that information \Nmight've also been leaked.
+Dialogue: 0,0:04:12.06,0:04:15.25,main,julius,0000,0000,0000,,The bandits keep appearing in places \Nthat aren't heavily guarded.
+Dialogue: 0,0:04:13.39,0:04:15.25,sign_6168_105_Heart_Kingdom,Sign,0000,0000,0000,,{\blur3}Heart Kingdom
+Dialogue: 0,0:04:16.64,0:04:20.60,main,Yami,0000,0000,0000,,We're gonna have to figure out \Nwhere they'll pop up next,
+Dialogue: 0,0:04:20.60,0:04:22.77,main,Yami,0000,0000,0000,,but that'll be tough to do.
+Dialogue: 0,0:04:22.77,0:04:24.49,main,William,0000,0000,0000,,No, it's actually quite simple.
+Dialogue: 0,0:04:24.49,0:04:25.62,main,Yami,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:25.09,0:04:37.60,sign_6449_110_Forsaken_Realm,Sign,0000,0000,0000,,{\blur3}Forsaken Realm
+Dialogue: 0,0:04:25.09,0:04:37.60,sign_6449_111_Common_Realm,Sign,0000,0000,0000,,{\blur3}Common Realm
+Dialogue: 0,0:04:25.09,0:04:37.60,sign_6449_112_Noble_Realm,Sign,0000,0000,0000,,{\blur3}Noble Realm
+Dialogue: 0,0:04:25.09,0:04:37.60,sign_6449_113_Rayaka,Sign,0000,0000,0000,,{\blur3}Rayaka
+Dialogue: 0,0:04:25.09,0:04:37.60,sign_6449_114_Nean,Sign,0000,0000,0000,,{\blur3}Nean
+Dialogue: 0,0:04:25.09,0:04:37.60,sign_6449_115_Kikka,Sign,0000,0000,0000,,{\blur3}Kikka
+Dialogue: 0,0:04:25.09,0:04:37.60,sign_6449_116_Raquey,Sign,0000,0000,0000,,{\blur3}Raquey
+Dialogue: 0,0:04:25.62,0:04:29.30,main,William,0000,0000,0000,,First, we can rule out any place \Nthat's already been attacked.
+Dialogue: 0,0:04:27.20,0:04:37.60,sign_6499_112_Spade_Kingdom,Sign,0000,0000,0000,,{\blur3}Spade Kingdom
+Dialogue: 0,0:04:27.20,0:04:37.60,sign_6499_113_Diamond_Kingdom,Sign,0000,0000,0000,,{\blur3}Diamond\N Kingdom
+Dialogue: 0,0:04:29.30,0:04:33.32,main,William,0000,0000,0000,,The next likely targets will probably be \Nsomewhere a treasure's been found lately,
+Dialogue: 0,0:04:33.32,0:04:35.90,main,William,0000,0000,0000,,or somewhere near a harvest.
+Dialogue: 0,0:04:35.90,0:04:37.60,main,Willaim,0000,0000,0000,,A bountiful one, specifically.
+Dialogue: 0,0:04:37.97,0:04:41.44,main,Yami,0000,0000,0000,,Even then, that's more than \Nten or twenty places.
+Dialogue: 0,0:04:41.44,0:04:45.45,main,William,0000,0000,0000,,We can probably rule out places that \Nare near the sites of attacks, too.
+Dialogue: 0,0:04:45.95,0:04:49.35,main,William,0000,0000,0000,,They'll probably assume that such places \Nwill be on alert and harder to attack.
+Dialogue: 0,0:04:49.35,0:04:50.47,main,Yami,0000,0000,0000,,Even then...
+Dialogue: 0,0:04:50.47,0:04:53.39,main,William,0000,0000,0000,,You think the two of us can't \Ncover so many locations, right?
+Dialogue: 0,0:04:53.39,0:04:55.27,main,William,0000,0000,0000,,I know. That's why...
+Dialogue: 0,0:04:56.33,0:04:59.08,sign_7198_131_Nean,Sign,0000,0000,0000,,{\blur3}Nean
+Dialogue: 0,0:04:56.33,0:04:59.08,sign_7198_132_Common_Realm,Sign,0000,0000,0000,,{\blur3}Common Realm
+Dialogue: 0,0:04:56.33,0:04:59.08,sign_7198_133_Kikka,Sign,0000,0000,0000,,{\blur3}Kikka
+Dialogue: 0,0:04:56.93,0:04:59.08,main,William,0000,0000,0000,,Here, and here...
+Dialogue: 0,0:04:59.08,0:05:02.43,main,William,0000,0000,0000,,And this village. \NCould you send out Magic Knights
+Dialogue: 0,0:05:02.43,0:05:05.19,main,William,0000,0000,0000,,to these locations to be on \Nhigh alert for these bandits?
+Dialogue: 0,0:05:05.19,0:05:09.09,main,Yami,0000,0000,0000,,Why, though? If someone's leaking,\N there'd be no point—
+Dialogue: 0,0:05:09.09,0:05:10.19,main,Julius,0000,0000,0000,,I see!
+Dialogue: 0,0:05:10.19,0:05:14.56,main,Julius,0000,0000,0000,,You want to take advantage of the fact \Nthat someone is leaking information.
+Dialogue: 0,0:05:14.93,0:05:18.95,main,William,0000,0000,0000,,Yes. They'll probably avoid places that \Nare being guarded by the Magic Knights.
+Dialogue: 0,0:05:19.40,0:05:23.04,main,William,0000,0000,0000,,They'll prioritize places that \Naren't being guarded by the Knights.
+Dialogue: 0,0:05:23.51,0:05:26.38,main,Yami,0000,0000,0000,,I-I knew that, duh...
+Dialogue: 0,0:05:26.38,0:05:28.93,main,Yami,0000,0000,0000,,I was just testing you.
+Dialogue: 0,0:05:30.08,0:05:33.41,main,Yami,0000,0000,0000,,Which means the places they're \Nprobably going to go after
+Dialogue: 0,0:05:33.41,0:05:36.92,main,Yami,0000,0000,0000,,will be the town of Aymaia or Zocodany Village.
+Dialogue: 0,0:05:33.41,0:05:38.12,sign_6168_105_Heart_Kingdom,Sign,0000,0000,0000,,{\blur3}Heart\NKingdom
+Dialogue: 0,0:06:04.38,0:06:10.15,Ep Title,Sign,0000,0000,0000,,Yami and Vangeance
+Dialogue: 0,0:07:11.42,0:07:13.88,italics,William,0000,0000,0000,,How are things looking over there, Yami?
+Dialogue: 0,0:07:13.88,0:07:16.19,top,Yami,0000,0000,0000,,Nothing suspicious so far.
+Dialogue: 0,0:07:13.88,0:07:16.89,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3}Zocodany Village
+Dialogue: 0,0:07:16.89,0:07:18.96,italics,William,0000,0000,0000,,It appears that an ancient magic item
+Dialogue: 0,0:07:18.96,0:07:21.89,italics,William,0000,0000,0000,,was found in a cave near \NZocodany Village recently.
+Dialogue: 0,0:07:22.52,0:07:23.92,italics,William,0000,0000,0000,,That item is being regarded
+Dialogue: 0,0:07:23.92,0:07:27.40,italics,William,0000,0000,0000,,as the village's treasure and is on \Ndisplay at the village elder's home.
+Dialogue: 0,0:07:27.91,0:07:32.69,main,Yami,0000,0000,0000,,Only a handful of Magic Knights \Nwould know about that at this point.
+Dialogue: 0,0:07:32.69,0:07:35.88,italics,William,0000,0000,0000,,It's too early for the bandits \Nto show up for that treasure.
+Dialogue: 0,0:07:36.51,0:07:39.25,italics,William,0000,0000,0000,,So if they show up in \Nsearch of that treasure,
+Dialogue: 0,0:07:39.25,0:07:42.16,italics,William,0000,0000,0000,,it'll be clear that there's \Na traitor within our ranks.
+Dialogue: 0,0:07:42.16,0:07:45.17,italics,Yami,0000,0000,0000,,Yeah. How are thing looking in Aymaia?
+Dialogue: 0,0:07:45.91,0:07:47.42,main,Willaim,0000,0000,0000,,Nothing suspicious here, either.
+Dialogue: 0,0:07:48.05,0:07:51.72,main,William,0000,0000,0000,,They just finished harvesting, and they're \Npreparing for their harvest festival.
+Dialogue: 0,0:07:51.94,0:07:57.93,sign_12339_133_Finnes_Calmreich,Sign,0000,0000,0000,,{\blur3\fad(1009,1)}The Town of Aymaia
+Dialogue: 0,0:07:52.19,0:07:54.68,top,William,0000,0000,0000,,Apparently, their harvest \Nwas very good this year.
+Dialogue: 0,0:07:54.68,0:07:57.62,italicstop,Yami,0000,0000,0000,,I'm sure the bandits would \Nlove to get their hands on it.
+Dialogue: 0,0:07:58.31,0:07:59.30,main,William,0000,0000,0000,,Just to remind you...
+Dialogue: 0,0:07:59.30,0:08:03.93,main,William,0000,0000,0000,,No matter where the bandits show up,\N don't handle them alone.
+Dialogue: 0,0:08:04.62,0:08:08.71,main,William,0000,0000,0000,,We'll wait until we contact the other\N and they arrive to fight.
+Dialogue: 0,0:08:08.71,0:08:09.55,main,William,0000,0000,0000,,Got it?
+Dialogue: 0,0:08:09.55,0:08:10.94,italics,Yami,0000,0000,0000,,Yeah, yeah.
+Dialogue: 0,0:08:11.81,0:08:15.77,italics,Yami,0000,0000,0000,,You better not go back on that just so \Nyou can get all the stars for yourself.
+Dialogue: 0,0:08:16.69,0:08:17.83,main,William,0000,0000,0000,,I won't.
+Dialogue: 0,0:08:17.83,0:08:20.45,main,William,0000,0000,0000,,I'll contact you again if I see anything.
+Dialogue: 0,0:08:20.84,0:08:22.04,main,Yami,0000,0000,0000,,Jeez...
+Dialogue: 0,0:08:32.77,0:08:33.88,main,Yami,0000,0000,0000,,They actually showed up.
+Dialogue: 0,0:08:34.92,0:08:36.80,main,Yami,0000,0000,0000,,Hey, they're here, masked weirdo.
+Dialogue: 0,0:08:37.65,0:08:39.26,main,Yami,0000,0000,0000,,You hear me? Hey!
+Dialogue: 0,0:08:40.51,0:08:44.40,main,Yami,0000,0000,0000,,What the hell is going on? \NThis thing was working fine earlier.
+Dialogue: 0,0:08:45.65,0:08:47.54,main,Yami,0000,0000,0000,,This ki...
+Dialogue: 0,0:08:47.54,0:08:50.52,italics,Yami,0000,0000,0000,,Are they blocking the flow of mana?
+Dialogue: 0,0:08:51.33,0:08:55.41,italics,Yami,0000,0000,0000,,Looks like they're somehow \Nable to block comms.
+Dialogue: 0,0:08:55.41,0:08:58.03,italics,Yami,0000,0000,0000,,Guess they aren't ordinary bandits after all.
+Dialogue: 0,0:08:59.00,0:09:03.54,italics,Yami,0000,0000,0000,,Must be a traitor from the Magic Knights... \NI'm gonna have to hunt them down.
+Dialogue: 0,0:09:04.08,0:09:07.23,italics,Yami,0000,0000,0000,,Looks like there are thirty... \Nno, more than that.
+Dialogue: 0,0:09:07.23,0:09:09.54,italics,Yami,0000,0000,0000,,There are probably at least fifty.
+Dialogue: 0,0:09:10.68,0:09:14.49,flashback,William,0000,0000,0000,,No matter where the bandits show up,\N don't handle them alone.
+Dialogue: 0,0:09:14.49,0:09:16.80,flashback,William,0000,0000,0000,,We'll wait until we contact the other...
+Dialogue: 0,0:09:16.80,0:09:20.80,main,Yami,0000,0000,0000,,Well, I can't get a hold of you, \Nso what the hell am I supposed to do?
+Dialogue: 0,0:09:20.80,0:09:22.85,main,Yami,0000,0000,0000,,I'm just gonna have to go on my own!
+Dialogue: 0,0:09:27.73,0:09:29.92,main,Yami,0000,0000,0000,,I'll cut them down before \Nthey get to the village.
+Dialogue: 0,0:09:31.04,0:09:32.06,main,Yami,0000,0000,0000,,Dark Cloaked...
+Dialogue: 0,0:09:35.21,0:09:36.36,main,Yami,0000,0000,0000,,Black Blade!
+Dialogue: 0,0:09:41.28,0:09:42.87,main,Guy,0000,0000,0000,,An enemy attack! Scatter!
+Dialogue: 0,0:09:46.95,0:09:48.41,main,Guy,0000,0000,0000,,Who the hell are you?!
+Dialogue: 0,0:09:48.41,0:09:49.33,main,Guy,0000,0000,0000,,A Magic Knight?
+Dialogue: 0,0:09:49.33,0:09:51.57,main,Guy,0000,0000,0000,,You've got some nerve, facing us alone!
+Dialogue: 0,0:09:51.57,0:09:52.96,main,Guy,0000,0000,0000,,You're gonna regret that!
+Dialogue: 0,0:09:53.93,0:09:58.72,main,Yami,0000,0000,0000,,Dark Magic: Dark Cloaked Lightless Slash!
+Dialogue: 0,0:10:01.67,0:10:03.61,main,Yami,0000,0000,0000,,That should take care \Nof about half of them...
+Dialogue: 0,0:10:19.05,0:10:20.51,main,Yami,0000,0000,0000,,Are you the boss?
+Dialogue: 0,0:10:22.17,0:10:24.15,main,Yami,0000,0000,0000,,I think I've seen you before.
+Dialogue: 0,0:10:24.15,0:10:27.09,main,Yami,0000,0000,0000,,You don't look like a Magic Knight, though.
+Dialogue: 0,0:10:27.93,0:10:29.21,main,Boss,0000,0000,0000,,You're the guy from that one time.
+Dialogue: 0,0:10:29.21,0:10:31.67,main,Yami,0000,0000,0000,,What one time?
+Dialogue: 0,0:10:31.67,0:10:36.79,main,Boss,0000,0000,0000,,A few years ago, you got in the way of \Nus plundering that crummy little village.
+Dialogue: 0,0:10:36.79,0:10:39.38,main,Boss,0000,0000,0000,,Guess I get to repay you for \Nthat sooner than I thought.
+Dialogue: 0,0:10:39.91,0:10:41.22,main,Yami,0000,0000,0000,,A few years ago?
+Dialogue: 0,0:10:45.40,0:10:47.23,main,Yami,0000,0000,0000,,Hey! You're the dude from that one time!
+Dialogue: 0,0:10:47.23,0:10:48.94,main,Yami,0000,0000,0000,,I see now...
+Dialogue: 0,0:10:48.94,0:10:51.41,italics,Yami,0000,0000,0000,,Putting the guy's horrible \Nfashion sense aside,
+Dialogue: 0,0:10:51.41,0:10:56.25,italics,Yami,0000,0000,0000,,his magic powers aren't too impressive, \Nbut that staff is bad news.
+Dialogue: 0,0:10:56.25,0:10:59.19,italics,Yami,0000,0000,0000,,Was that a treasure someone \Nfound in a dungeon?
+Dialogue: 0,0:10:59.77,0:11:02.56,main,Boss,0000,0000,0000,,Don't think I'm the same as before!
+Dialogue: 0,0:11:02.56,0:11:05.53,main,Yami,0000,0000,0000,,Hey, who gave you that staff?
+Dialogue: 0,0:11:05.53,0:11:08.33,main,Boss,0000,0000,0000,,If you want to know, \Nyou'll have to defeat me first!
+Dialogue: 0,0:11:12.75,0:11:14.35,main,Boss,0000,0000,0000,,Take this!
+Dialogue: 0,0:11:24.28,0:11:26.89,main,Yami,0000,0000,0000,,Damn you guys for wasting my time.
+Dialogue: 0,0:11:27.71,0:11:29.14,main,Yami,0000,0000,0000,,Now, then...
+Dialogue: 0,0:11:29.47,0:11:35.20,main,Yami,0000,0000,0000,,Let's have you spill who \Nthe hell gave you this staff.
+Dialogue: 0,0:11:37.47,0:11:41.40,main,Yami,0000,0000,0000,,Five... four... three...
+Dialogue: 0,0:11:39.76,0:11:41.40,main,Boss,0000,0000,0000,,W-Wait! I'll tell you!
+Dialogue: 0,0:11:41.84,0:11:43.49,main,Boss,0000,0000,0000,,Th-The truth is...
+Dialogue: 0,0:11:46.85,0:11:48.41,main,Yami,0000,0000,0000,,Stay in your home!
+Dialogue: 0,0:11:50.48,0:11:52.91,main,Boss,0000,0000,0000,,Not another step, Magic Knight!
+Dialogue: 0,0:11:53.83,0:11:57.61,main,Boss,0000,0000,0000,,If you move, this old bat is gonna get it!
+Dialogue: 0,0:11:57.61,0:11:59.88,main,Boss,0000,0000,0000,,I'm gonna pay you back a millionfold!
+Dialogue: 0,0:12:00.21,0:12:04.63,main,Yami,0000,0000,0000,,How? You think your buddies \Nstand a chance against me?
+Dialogue: 0,0:12:04.95,0:12:07.93,main,Boss,0000,0000,0000,,No, they probably don't.
+Dialogue: 0,0:12:07.93,0:12:08.96,main,Boss,0000,0000,0000,,But...
+Dialogue: 0,0:12:11.39,0:12:12.27,main,Yami,0000,0000,0000,,Wha—
+Dialogue: 0,0:12:16.71,0:12:17.80,main,Yami,0000,0000,0000,,This magic—
+Dialogue: 0,0:12:17.80,0:12:21.36,main,Mohl,0000,0000,0000,,It's a type of earth magic spell,\N Witch Hunter Claws,
+Dialogue: 0,0:12:21.36,0:12:23.39,main,Mohl,0000,0000,0000,,you see.
+Dialogue: 0,0:12:24.71,0:12:26.00,main,goht,0000,0000,0000,,Likewise,
+Dialogue: 0,0:12:26.00,0:12:29.74,main,goht,0000,0000,0000,,that's a binding spell \Ncalled Sheep Horn Snag.
+Dialogue: 0,0:12:29.74,0:12:32.61,main,Yami,0000,0000,0000,,I've seen you guys before.
+Dialogue: 0,0:12:34.52,0:12:37.51,top,Yami,0000,0000,0000,,You're Goht from the Crimson Lion Kings\N and Mohl from the Silver Eagles.
+Dialogue: 0,0:12:34.52,0:12:40.50,sign_18183_232_Silver_Eagles_Sq,Sign,0000,0000,0000,,{\fad(1003,1)\blur3}Silver Eagles Squad Member\N{\fs26}Mohl
+Dialogue: 0,0:12:34.52,0:12:40.50,sign_18183_233_Crimson_Lion_Kin,Sign,0000,0000,0000,,{\fad(1003,1)\blur3}Crimson Lion Kings Squad Member\N{\fs26}Goht
+Dialogue: 0,0:12:37.51,0:12:40.50,top,Yami,0000,0000,0000,,Guess we actually had two \Ntraitors instead of one.
+Dialogue: 0,0:12:40.50,0:12:42.61,main,Yami,0000,0000,0000,,So you were the ones giving these bandits
+Dialogue: 0,0:12:42.61,0:12:47.13,main,Yami,0000,0000,0000,,magic items and information,\N and having them attack the villages.
+Dialogue: 0,0:12:48.48,0:12:52.93,main,Goht,0000,0000,0000,,There's no use in struggling. \NNo man can break through that.
+Dialogue: 0,0:12:54.71,0:12:57.73,main,Yami,0000,0000,0000,,You guys are a disgrace to the Magic Knights!
+Dialogue: 0,0:12:57.73,0:13:04.11,main,Goht,0000,0000,0000,,You're the foreigner named Yami Sukehiro \Nthat the Wizard King picked up, aren't you?
+Dialogue: 0,0:13:04.11,0:13:08.16,main,Goht,0000,0000,0000,,I thought the Wizard King was up to \Nsomething. So this is what it was.
+Dialogue: 0,0:13:08.16,0:13:12.83,main,Mohl,0000,0000,0000,,Which means that the \NWizard King's order to protect
+Dialogue: 0,0:13:12.83,0:13:16.51,main,Mohl,0000,0000,0000,,the villages in the area was a diversion
+Dialogue: 0,0:13:16.51,0:13:20.24,main,Mohl,0000,0000,0000,,to pinpoint where we'd attack next.
+Dialogue: 0,0:13:20.24,0:13:22.92,main,Mohl,0000,0000,0000,,I guess we completely fell for it.
+Dialogue: 0,0:13:23.43,0:13:28.41,main,Boss,0000,0000,0000,,Lord Goht and Lord Mohl,\N you're amazing for figuring out their plan!
+Dialogue: 0,0:13:28.41,0:13:30.99,main,Mohl,0000,0000,0000,,You go hurry up and find their treasure.
+Dialogue: 0,0:13:30.99,0:13:32.09,main,Boss,0000,0000,0000,,Y-Y-Yes, sir.
+Dialogue: 0,0:13:32.09,0:13:36.00,main,Boss,0000,0000,0000,,Uh, it was at the village elder's house,\N right? Hey, take me there.
+Dialogue: 0,0:13:36.00,0:13:37.49,main,Old,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:13:37.49,0:13:38.83,main,Boss,0000,0000,0000,,You men, follow me!
+Dialogue: 0,0:13:38.83,0:13:39.72,main,Guy,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:13:41.31,0:13:46.40,main,Yami,0000,0000,0000,,The Magic Knights exist to serve and \Nprotect the people of the Clover Kingdom!
+Dialogue: 0,0:13:46.40,0:13:47.74,main,Yami,0000,0000,0000,,Yet you bastards...
+Dialogue: 0,0:13:47.74,0:13:49.39,main,Mohl,0000,0000,0000,,We'll tell the Wizard King
+Dialogue: 0,0:13:49.39,0:13:54.08,main,Mohl,0000,0000,0000,,that we found you after you'd \Nbeen defeated by the bandits.
+Dialogue: 0,0:13:54.08,0:13:57.13,main,Yami,0000,0000,0000,,Don't think I'll go down that easily!
+Dialogue: 0,0:13:57.13,0:13:58.99,main,Yami,0000,0000,0000,,I'll pay you back a millionfold!
+Dialogue: 0,0:13:58.99,0:14:01.47,main,Goht,0000,0000,0000,,Oh, my. Only a weakling would \Nsay something like that.
+Dialogue: 0,0:14:01.47,0:14:02.71,main,Mohl,0000,0000,0000,,Goodbye now.
+Dialogue: 0,0:14:08.13,0:14:10.51,main,Mohl,0000,0000,0000,,How long do you think he can hold out?
+Dialogue: 0,0:14:10.51,0:14:12.47,main,Goht,0000,0000,0000,,Just give it up already.
+Dialogue: 0,0:14:12.47,0:14:15.38,main,Yami,0000,0000,0000,,Like I'd give up that easily!
+Dialogue: 0,0:14:15.38,0:14:18.80,main,Yami,0000,0000,0000,,Not yet... I'm not done yet!
+Dialogue: 0,0:14:18.80,0:14:21.44,main,Goht,0000,0000,0000,,I think you're just about at your limit.
+Dialogue: 0,0:14:21.44,0:14:23.60,main,Yami,0000,0000,0000,,Who the hell cares about limits?
+Dialogue: 0,0:14:23.60,0:14:29.45,main,Yami,0000,0000,0000,,I'll just surpass them! Right here, right now!
+Dialogue: 0,0:14:41.11,0:14:43.42,main,William,0000,0000,0000,,Dracaena Formation.
+Dialogue: 0,0:14:52.84,0:14:54.08,main,William,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:14:54.08,0:14:55.24,main,Yami,0000,0000,0000,,Took you long enough!
+Dialogue: 0,0:14:55.24,0:14:56.97,main,William,0000,0000,0000,,I'll have you know that I hurried over.
+Dialogue: 0,0:14:57.37,0:15:00.11,main,William,0000,0000,0000,,When I wasn't able to get a hold of you,
+Dialogue: 0,0:15:00.60,0:15:04.86,main,William,0000,0000,0000,,I figured the bandits had \Nappeared in Zocodany.
+Dialogue: 0,0:15:06.12,0:15:08.11,main,Yami,0000,0000,0000,,Looks like I owe you one.
+Dialogue: 0,0:15:08.11,0:15:11.77,main,Yami,0000,0000,0000,,And I'm gonna pay it back quick, masked weirdo.
+Dialogue: 0,0:15:12.31,0:15:13.78,main,Yami,0000,0000,0000,,They're the ones behind all this.
+Dialogue: 0,0:15:14.17,0:15:17.49,main,William,0000,0000,0000,,Goht and Mohl... I see.
+Dialogue: 0,0:15:17.49,0:15:19.55,main,Goht,0000,0000,0000,,William Vangeance...
+Dialogue: 0,0:15:19.96,0:15:22.85,main,Goht,0000,0000,0000,,I guess you were following the \NWizard King's orders, too.
+Dialogue: 0,0:15:22.85,0:15:26.29,main,Mohl,0000,0000,0000,,We'll just have to defeat you \Nalong with Yami Sukehiro.
+Dialogue: 0,0:15:32.34,0:15:33.73,main,Yami,0000,0000,0000,,You bastard!
+Dialogue: 0,0:15:41.43,0:15:43.31,main,Goht,0000,0000,0000,,Attack of the Horn!
+Dialogue: 0,0:15:48.32,0:15:49.98,main,Yami,0000,0000,0000,,Dark Cloaked Lightless Slash!
+Dialogue: 0,0:15:55.55,0:15:59.01,main,Yami,0000,0000,0000,,I told you I'd pay you back \Na billionfold, didn't I?
+Dialogue: 0,0:16:00.44,0:16:02.33,main,Goht,0000,0000,0000,,Please go easy on me.
+Dialogue: 0,0:16:07.79,0:16:10.11,main,Mohl,0000,0000,0000,,Not bad.
+Dialogue: 0,0:16:10.11,0:16:15.18,main,Mohl,0000,0000,0000,,Let's negotiate. Why not join us?
+Dialogue: 0,0:16:15.18,0:16:16.26,main,William,0000,0000,0000,,Join you?
+Dialogue: 0,0:16:16.26,0:16:18.81,main,Mohl,0000,0000,0000,,Yes, it'll be quite fun.
+Dialogue: 0,0:16:18.81,0:16:22.88,main,William,0000,0000,0000,,That sounds tempting... But I'll pass.
+Dialogue: 0,0:16:22.88,0:16:25.69,main,William,0000,0000,0000,,I swore my loyalty to the \NWizard King, after all.
+Dialogue: 0,0:16:25.69,0:16:29.84,main,Mohl,0000,0000,0000,,I see. That's unfortunate.
+Dialogue: 0,0:16:38.52,0:16:40.53,main,Yami,0000,0000,0000,,Looks like I already paid you back.
+Dialogue: 0,0:16:42.97,0:16:45.05,main,William,0000,0000,0000,,It truly is unfortunate
+Dialogue: 0,0:16:45.05,0:16:48.87,main,William,0000,0000,0000,,that there were traitors \Namong the Magic Knights.
+Dialogue: 0,0:16:55.13,0:16:57.93,main,William,0000,0000,0000,,Now, all that's left is...
+Dialogue: 0,0:16:58.68,0:17:00.14,main,Yami,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:05.13,0:17:07.48,main,Boss,0000,0000,0000,,I don't know who the hell \Nthat is, but take him down!
+Dialogue: 0,0:17:12.04,0:17:14.76,main,Julius,0000,0000,0000,,I wasn't planning on interfering,
+Dialogue: 0,0:17:14.76,0:17:16.93,main,Julius,0000,0000,0000,,but I think I'm allowed \Nto have a {\i1}little{\i0} fun.
+Dialogue: 0,0:17:23.48,0:17:24.83,main,Yami,0000,0000,0000,,The hell?
+Dialogue: 0,0:17:26.88,0:17:28.50,main,Julius,0000,0000,0000,,Well done.
+Dialogue: 0,0:17:28.90,0:17:34.26,main,Julius,0000,0000,0000,,You were able to capture the traitors \Nas well as all of the bandits.
+Dialogue: 0,0:17:34.26,0:17:37.51,main,Yami,0000,0000,0000,,I mean... the bandits' boss was \Nout cold at the top of the tree.
+Dialogue: 0,0:17:39.25,0:17:41.51,main,Julius,0000,0000,0000,,I guess weirder things have happened.
+Dialogue: 0,0:17:42.08,0:17:45.09,main,Julius,0000,0000,0000,,Again, excellent work.
+Dialogue: 0,0:17:45.09,0:17:46.06,main,Julius,0000,0000,0000,,By the way...
+Dialogue: 0,0:17:48.57,0:17:50.44,main,Julius,0000,0000,0000,,Yami, Vangeance...
+Dialogue: 0,0:17:51.12,0:17:53.29,main,Julius,0000,0000,0000,,Considering everything you've done so far,
+Dialogue: 0,0:17:54.07,0:17:57.44,main,Julius,0000,0000,0000,,I'm appointing both of you \Nas captains of new squads.
+Dialogue: 0,0:17:57.80,0:17:59.47,main,Yami,0000,0000,0000,,You're making us...
+Dialogue: 0,0:17:59.47,0:18:01.70,main,William,0000,0000,0000,,...captains of new squads?
+Dialogue: 0,0:18:02.67,0:18:03.95,main,Julius,0000,0000,0000,,Will you accept my offer?
+Dialogue: 0,0:18:08.23,0:18:11.73,main,Yami,0000,0000,0000,,I guess the competition to see who can \Nbecome squad captain first ended in a draw.
+Dialogue: 0,0:18:11.73,0:18:14.50,main,William,0000,0000,0000,,Yes, but our true competition \Nstill lies ahead.
+Dialogue: 0,0:18:14.50,0:18:15.45,main,Yami,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:15.99,0:18:16.99,main,William,0000,0000,0000,,I won't lose.
+Dialogue: 0,0:18:16.99,0:18:17.97,main,Yami,0000,0000,0000,,Neither will I.
+Dialogue: 0,0:18:18.35,0:18:23.22,main,Julius,0000,0000,0000,,I believe in both of you. Yami, \Nwhat kind of squad will you create?
+Dialogue: 0,0:18:23.22,0:18:26.31,main,Yami,0000,0000,0000,,What kind of squad? Let's see...
+Dialogue: 0,0:18:26.75,0:18:32.14,main,Yami,0000,0000,0000,,A squad where status, bloodlines, \Nand social standing don't matter.
+Dialogue: 0,0:18:32.14,0:18:37.48,main,Yami,0000,0000,0000,,I'll round up some outsiders and hooligans, \Nand create a place where they can belong.
+Dialogue: 0,0:18:37.83,0:18:40.31,main,Yami,0000,0000,0000,,Just like you did for me.
+Dialogue: 0,0:18:40.31,0:18:42.49,main,Julius,0000,0000,0000,,Sure. That sounds great!
+Dialogue: 0,0:18:42.49,0:18:46.29,main,Yami,0000,0000,0000,,I'll call them... Let's see...
+Dialogue: 0,0:18:46.29,0:18:50.59,main,Yami,0000,0000,0000,,I'll gather up a bunch of guys who all \Nhave their own color, mix them all up,
+Dialogue: 0,0:18:50.59,0:18:53.01,main,Yami,0000,0000,0000,,and once their colors all mix together...
+Dialogue: 0,0:18:53.63,0:18:55.95,main,Yami,0000,0000,0000,,Black. The Black Hooligans?
+Dialogue: 0,0:18:55.95,0:18:57.80,main,Yami,0000,0000,0000,,Nah, let's go with bulls.
+Dialogue: 0,0:18:57.80,0:19:00.51,main,Yami,0000,0000,0000,,Okay, I'll call them the Black Bulls!
+Dialogue: 0,0:19:00.51,0:19:02.49,main,Julius,0000,0000,0000,,The Black Bulls...
+Dialogue: 0,0:19:02.49,0:19:04.90,main,Julius,0000,0000,0000,,That sounds perfect for you.
+Dialogue: 0,0:19:04.90,0:19:05.85,main,Julius,0000,0000,0000,,And you?
+Dialogue: 0,0:19:05.85,0:19:08.75,main,William,0000,0000,0000,,I will create the Golden Dawn.
+Dialogue: 0,0:19:08.75,0:19:09.85,main,Julius,0000,0000,0000,,The Golden...?
+Dialogue: 0,0:19:09.85,0:19:14.27,main,William,0000,0000,0000,,Yes. Creating the ultimate squad is \Nmy way of repaying you, Lord Julius.
+Dialogue: 0,0:19:14.91,0:19:15.88,main,William,0000,0000,0000,,As the name suggests,
+Dialogue: 0,0:19:15.88,0:19:20.87,main,William,0000,0000,0000,,I will make a squad that will bring \Na golden dawn to this world.
+Dialogue: 0,0:19:21.65,0:19:23.65,main,William,0000,0000,0000,,Even though the night is dark,
+Dialogue: 0,0:19:23.65,0:19:27.77,main,William,0000,0000,0000,,I will prove that the light will always shine,\N and a golden dawn will come one day.
+Dialogue: 0,0:19:27.77,0:19:30.04,main,Yami,0000,0000,0000,,How cheesy can you be?
+Dialogue: 0,0:19:30.47,0:19:33.85,main,Julius,0000,0000,0000,,That sounds wonderful, too.\NI look forward to it.
+Dialogue: 0,0:19:33.85,0:19:39.00,main,Julius,0000,0000,0000,,Starting today, you are the Captain of the \NGolden Dawn. Congratulations, William.
+Dialogue: 0,0:19:39.00,0:19:39.80,main,William,0000,0000,0000,,Thank you, sir.
+Dialogue: 0,0:19:42.30,0:19:47.64,main,Julius,0000,0000,0000,,And starting today, you are the Captain of \Nthe Magic Knights Squad, the Black Bulls.
+Dialogue: 0,0:19:47.64,0:19:49.06,main,Julius,0000,0000,0000,,Congratulations, Yami.
+Dialogue: 0,0:19:53.06,0:19:55.19,main,Yami,0000,0000,0000,,Looking forward to working with you, Goldie.
+Dialogue: 0,0:20:00.59,0:20:01.69,main,Yami,0000,0000,0000,,So there you have it.
+Dialogue: 0,0:20:02.77,0:20:03.88,main,Asta,0000,0000,0000,,Right...
+Dialogue: 0,0:20:04.17,0:20:05.32,main,Yami,0000,0000,0000,,What'd you think?
+Dialogue: 0,0:20:05.32,0:20:08.76,main,Asta,0000,0000,0000,,Um... I guess you went through a lot.
+Dialogue: 0,0:20:08.76,0:20:11.37,main,Asta,0000,0000,0000,,So, what were you trying to say?
+Dialogue: 0,0:20:11.93,0:20:14.32,main,Yami,0000,0000,0000,,Even if you stumble, \Neven if you think you might lose,
+Dialogue: 0,0:20:14.32,0:20:16.45,main,Yami,0000,0000,0000,,you'll be fine as long as you don't give up!
+Dialogue: 0,0:20:16.45,0:20:18.36,main,Yami,0000,0000,0000,,Don't ever give up in any situation!
+Dialogue: 0,0:20:18.36,0:20:19.71,main,Yami,0000,0000,0000,,Surpass your limits!
+Dialogue: 0,0:20:19.71,0:20:21.75,main,Yami,0000,0000,0000,,Then a path will always open up for you!
+Dialogue: 0,0:20:21.75,0:20:24.80,main,Yami,0000,0000,0000,,Quit being so depressed just because \Nyou lost to your rival once!
+Dialogue: 0,0:20:24.80,0:20:27.97,main,Yami,0000,0000,0000,,Even if you lose 99 times, you just \Nhave to win the next time!
+Dialogue: 0,0:20:27.97,0:20:32.43,main,Asta,0000,0000,0000,,I-I see... You should've just \Nsaid that in the first pla—
+Dialogue: 0,0:20:32.43,0:20:33.60,main,Asta,0000,0000,0000,,Ow, ow, ow, ow, ow!
+Dialogue: 0,0:20:33.60,0:20:36.19,main,Asta,0000,0000,0000,,Captain! You're going to crush my skull!
+Dialogue: 0,0:20:36.91,0:20:39.87,main,Asta,0000,0000,0000,,But Captain Yami's right!
+Dialogue: 0,0:20:39.87,0:20:41.65,main,Asta,0000,0000,0000,,There's no point in being depressed!
+Dialogue: 0,0:20:41.65,0:20:46.04,main,Asta,0000,0000,0000,,All right! I'm gonna catch \Nup to Yuno and surpass him!
+Dialogue: 0,0:20:46.77,0:20:47.82,main,Asta,0000,0000,0000,,Come to think of it,
+Dialogue: 0,0:20:48.17,0:20:52.58,main,Asta,0000,0000,0000,,shouldn't we be getting the results from \Nthe Royal Knights Selection Exam soon?
+Dialogue: 0,0:20:52.89,0:20:57.08,main,Magna,0000,0000,0000,,O-Oh, yeah... I-I can't wait!
+Dialogue: 0,0:20:57.60,0:21:00.27,main,Magna,0000,0000,0000,,Come on, messenger owls!
+Dialogue: 0,0:21:02.71,0:21:05.72,main,Magna,0000,0000,0000,,The hell? That's no messenger owl.
+Dialogue: 0,0:21:07.16,0:21:09.77,main,Magna,0000,0000,0000,,I dunno who the hell you are,\N but stop that racket!
+Dialogue: 0,0:21:09.77,0:21:12.35,main,Magna,0000,0000,0000,,Don't you know that this is the \Nhome of the Black Bulls,
+Dialogue: 0,0:21:12.35,0:21:14.52,main,Magna,0000,0000,0000,,the Magic Knights Squad that Mister Yami—
+Dialogue: 0,0:21:14.52,0:21:16.52,main,Asta,0000,0000,0000,,Th-The heck?!
+Dialogue: 0,0:21:20.19,0:21:24.03,main,Asta,0000,0000,0000,,Y-You're Lady Sisgoleon!
+Dialogue: 0,0:22:55.08,0:22:59.58,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:56.04,0:22:58.69,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:59.08,0:23:03.08,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Golden Weird Mask Guy!
+Dialogue: 0,0:23:00.00,0:23:01.95,main,Yami,0000,0000,0000,,Golden Weird Mask Guy!
+Dialogue: 0,0:23:03.08,0:23:05.40,main,Yami,0000,0000,0000,,Say, Golden Weird Mask Guy.
+Dialogue: 0,0:23:05.40,0:23:07.54,main,William,0000,0000,0000,,I'd rather you didn't call me that.
+Dialogue: 0,0:23:07.54,0:23:08.34,main,Yami,0000,0000,0000,,Then...
+Dialogue: 0,0:23:08.34,0:23:10.27,main,Yami,0000,0000,0000,,Baldie Weird Mask Guy.
+Dialogue: 0,0:23:10.27,0:23:12.72,main,William,0000,0000,0000,,I'd rather you didn't call me that, either.
+Dialogue: 0,0:23:12.72,0:23:14.69,main,Yami,0000,0000,0000,,Baldie Long Drawers Mask Guy!
+Dialogue: 0,0:23:14.69,0:23:15.97,main,William,0000,0000,0000,,Please stop.
+Dialogue: 0,0:23:16.35,0:23:18.44,main,Yami,0000,0000,0000,,Baldie Long Drawers Belly Warmer Mask Guy!
+Dialogue: 0,0:23:18.44,0:23:20.35,main,William,0000,0000,0000,,This doesn't even make sense anymore.
+Dialogue: 0,0:23:20.68,0:23:23.36,main,Yami,0000,0000,0000,,Baldie Long Drawers Belly Warmer \NTiny Mustache Mask Guy!
+Dialogue: 0,0:23:23.36,0:23:24.73,main,William,0000,0000,0000,,How long is this going to go on?
+Dialogue: 0,0:23:24.73,0:23:28.10,main,Yami,0000,0000,0000,,Baldie Long Drawers Belly \NWarmer Tiny Mustache...
+Dialogue: 0,0:23:28.10,0:23:30.84,main,Yami,0000,0000,0000,,who wears his shirt and \Nsocks backwards... Mask Guy?
+Dialogue: 0,0:23:29.68,0:23:30.84,top,William,0000,0000,0000,,No, really. How long?
+Dialogue: 0,0:23:30.84,0:23:32.48,main,Yami,0000,0000,0000,,How about Birthday Suit Mask Guy?
+Dialogue: 0,0:23:36.22,0:23:39.08,main,Magna,0000,0000,0000,,It's finally time to find out the results \Nof the Royal Knights Selection Exam!
+Dialogue: 0,0:23:39.08,0:23:41.87,main,Magna,0000,0000,0000,,I know for damn sure that I was chosen!
+Dialogue: 0,0:23:41.87,0:23:43.58,main,Magna,0000,0000,0000,,Who are you calling worried?!
+Dialogue: 0,0:23:43.58,0:23:47.25,main,magna,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 87: \N"Formation of the Royal Knights."
+Dialogue: 0,0:23:44.71,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 87\N\N{\fs18} Formation of the Royal Knights
+Dialogue: 0,0:23:47.25,0:23:48.80,main,Magna,0000,0000,0000,,I'm fired up!

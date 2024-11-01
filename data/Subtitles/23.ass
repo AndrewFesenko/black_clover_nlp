@@ -1,0 +1,370 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: main - subtitles,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0058,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0080,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,0030,0030,0018,1
+Style: sign_4210_33_Central_District,Times New Roman,28,&H00FBFDFD,&H000000FF,&H002A3536,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0090,1
+Style: sign_5094_42_King_of_the_Clov,Times New Roman,20,&H00FBFDFD,&H000000FF,&H0042403F,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0115,1
+
+
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.73,0:00:06.82,italics,Nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.07,0:00:15.31,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.49,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:30.60,0:00:34.07,italics,Nar,0000,0000,0000,,The Clover Kingdom's royal capital \Nsuddenly fell under attack.
+Dialogue: 0,0:00:34.82,0:00:36.82,italics,Nar,0000,0000,0000,,Flames rose in five spots \Nthroughout the capital,
+Dialogue: 0,0:00:36.82,0:00:41.45,italics,Nar,0000,0000,0000,,and the Magic Knights deployed to each\Nlocation to help the panicked citizens.
+Dialogue: 0,0:00:41.76,0:00:45.75,italics,Nar,0000,0000,0000,,They battled an unknown enemy.
+Dialogue: 0,0:00:46.71,0:00:49.08,main,Asta,0000,0000,0000,,Come at me yourself!
+Dialogue: 0,0:00:49.08,0:00:52.88,main,Rades,0000,0000,0000,,Don't get cocky, you little brat!
+Dialogue: 0,0:00:52.88,0:00:55.01,main,Rades,0000,0000,0000,,Come forth, Alfred.
+Dialogue: 0,0:00:59.84,0:01:02.72,main,Rades,0000,0000,0000,,Number Two, Alfred.
+Dialogue: 0,0:01:02.72,0:01:05.07,main,Rades,0000,0000,0000,,Go, Alfred!
+Dialogue: 0,0:01:32.01,0:01:36.84,italics,,0000,0000,0000,,I would always close my eyes
+Dialogue: 0,0:01:36.84,0:01:41.18,italics,,0000,0000,0000,,And cower at reality
+Dialogue: 0,0:01:41.18,0:01:45.85,italics,,0000,0000,0000,,I can't stand the idea
+Dialogue: 0,0:01:45.85,0:01:50.23,italics,,0000,0000,0000,,Of just making excuses to give up
+Dialogue: 0,0:01:50.23,0:01:51.34,italics,,0000,0000,0000,,Stand right there
+Dialogue: 0,0:01:51.34,0:01:52.54,italics,,0000,0000,0000,,I don't want to be near you
+Dialogue: 0,0:01:52.54,0:01:53.68,italics,,0000,0000,0000,,Any minute now
+Dialogue: 0,0:01:53.68,0:01:57.02,italics,,0000,0000,0000,,Just wait right there
+Dialogue: 0,0:01:54.86,0:01:57.02,italics,,0000,0000,0000,,(The decisive battle is still a long way off)
+Dialogue: 0,0:01:57.02,0:01:59.11,italics,,0000,0000,0000,,Black and blue
+Dialogue: 0,0:01:59.11,0:02:05.03,italics,,0000,0000,0000,,I'll give up on giving up
+Dialogue: 0,0:02:05.13,0:02:08.55,italics,,0000,0000,0000,,And get the world on my side
+Dialogue: 0,0:02:08.55,0:02:12.23,italics,,0000,0000,0000,,I'm looking for the reason I'm alive
+Dialogue: 0,0:02:12.23,0:02:17.42,italics,,0000,0000,0000,,Every time somewhere under this sky
+Dialogue: 0,0:02:17.42,0:02:23.32,italics,,0000,0000,0000,,Break through the tearful nights
+Dialogue: 0,0:02:23.32,0:02:26.56,italics,,0000,0000,0000,,And head where the light shines
+Dialogue: 0,0:02:26.56,0:02:30.39,italics,,0000,0000,0000,,I want to keep my promise
+Dialogue: 0,0:02:30.39,0:02:33.94,italics,,0000,0000,0000,,I'll deliver it to you
+Dialogue: 0,0:02:33.94,0:02:37.96,italics,,0000,0000,0000,,shape of love
+Dialogue: 0,0:02:42.49,0:02:45.66,Ep Title,Sign,0000,0000,0000,,The Crimson Lion King
+Dialogue: 0,0:02:51.71,0:02:54.71,sign_4210_33_Central_District,Sign,0000,0000,0000,,Central District
+Dialogue: 0,0:02:56.83,0:02:58.21,italics,Nozel,0000,0000,0000,,Something's wrong.
+Dialogue: 0,0:02:58.80,0:03:02.43,italics,Nozel,0000,0000,0000,,Their numbers are great, \Nbut they're far too weak.
+Dialogue: 0,0:03:03.68,0:03:05.43,italics,Nozel,0000,0000,0000,,What does the enemy want?
+Dialogue: 0,0:03:06.01,0:03:08.22,italics,Nozel,0000,0000,0000,,Where is their main force?
+Dialogue: 0,0:03:08.83,0:03:10.39,italics,Nozel,0000,0000,0000,,What are they after?
+Dialogue: 0,0:03:13.37,0:03:14.47,italics,Nozel,0000,0000,0000,,The king?
+Dialogue: 0,0:03:20.93,0:03:23.15,main,King,0000,0000,0000,,Where is the Wizard King?
+Dialogue: 0,0:03:24.63,0:03:26.72,main,King,0000,0000,0000,,During an emergency like this,
+Dialogue: 0,0:03:26.72,0:03:30.64,top,King,0000,0000,0000,,he should be the first to rush to the side of
+Dialogue: 0,0:03:28.58,0:03:35.60,sign_5094_42_King_of_the_Clov,Sign,0000,0000,0000,,{\fad(1,1034)}King of the Clover Kingdom\N{\fs30}Augustus Kira Clover XIII
+Dialogue: 0,0:03:30.64,0:03:36.91,top,King,0000,0000,0000,,Augustus Kira Clover XIII,\NKing of the Clover Kingdom.
+Dialogue: 0,0:03:41.43,0:03:45.84,main,King,0000,0000,0000,,His first priority should be \Nto protect me. That is...
+Dialogue: 0,0:03:45.84,0:03:48.20,main,King,0000,0000,0000,,the most important duty of
+Dialogue: 0,0:03:48.20,0:03:53.01,main,King,0000,0000,0000,,the most powerful mage in \Nthe kingdom,the Wizard King!
+Dialogue: 0,0:03:53.01,0:03:54.85,main,Marx,0000,0000,0000,,You are absolutely right, Your Majesty.
+Dialogue: 0,0:03:55.28,0:04:00.11,main,Marx,0000,0000,0000,,Rest assured, we, the advisors of \Nthe Wizard King, will protect you.
+Dialogue: 0,0:04:01.33,0:04:02.55,main,King,0000,0000,0000,,Curse that Julius.
+Dialogue: 0,0:04:02.96,0:04:07.25,main,King,0000,0000,0000,,He's gotten full of himself because his \Nauthority equals mine when we're at war,
+Dialogue: 0,0:04:07.25,0:04:09.41,main,King,0000,0000,0000,,hasn't he?
+Dialogue: 0,0:04:09.81,0:04:10.89,main,King,0000,0000,0000,,Honestly...
+Dialogue: 0,0:04:10.89,0:04:17.92,main,King,0000,0000,0000,,I'm the only leader of the Clover Kingdom!
+Dialogue: 0,0:04:19.27,0:04:22.26,sign_4210_33_Central_District,Sign,0000,0000,0000,,{\fad(1008,1)}Castle Town Kikka
+Dialogue: 0,0:04:24.81,0:04:26.92,main,Subordinate 1,0000,0000,0000,,Chef! What are you doing?
+Dialogue: 0,0:04:26.92,0:04:30.39,main,Subordinate 2,0000,0000,0000,,The royal capital is under attack!\NWe need to take shelter!
+Dialogue: 0,0:04:30.85,0:04:35.39,main,Chef,0000,0000,0000,,You idiots! Like a true chef could \Nleave in the middle of cooking!
+Dialogue: 0,0:04:35.80,0:04:38.67,main,Chef,0000,0000,0000,,I will deliver the best dishes, \Nno matter the situation!
+Dialogue: 0,0:04:38.67,0:04:40.40,main,Chef,0000,0000,0000,,That's what it means to be the best!
+Dialogue: 0,0:04:40.40,0:04:46.05,main,Subordinate 1,0000,0000,0000,,Uh, but all the Magic Knights have \Nbeen deployed, so there's no one here!
+Dialogue: 0,0:04:46.05,0:04:47.67,main,Subordinate 2,0000,0000,0000,,They left for battle.
+Dialogue: 0,0:04:47.67,0:04:52.15,main,Chef,0000,0000,0000,,What?! How could they have left \Nwithout eating my main dish?!
+Dialogue: 0,0:04:52.91,0:04:55.12,main,Subordinate 2,0000,0000,0000,,Well, our kingdom is in trouble!
+Dialogue: 0,0:04:55.12,0:04:56.97,main,Subordinate 1,0000,0000,0000,,Let's hurry and escape!
+Dialogue: 0,0:04:56.15,0:04:59.42,italics,Charmy,0000,0000,0000,,La!
+Dialogue: 0,0:04:59.42,0:05:02.67,main,Chef,0000,0000,0000,,Wh-Who's this little shrimp?
+Dialogue: 0,0:05:02.67,0:05:05.09,main,Charmy,0000,0000,0000,,This main dish you mentioned...
+Dialogue: 0,0:05:06.32,0:05:09.55,main,Charmy,0000,0000,0000,,Please let me eat it!
+Dialogue: 0,0:05:12.63,0:05:14.31,italics,Chef,0000,0000,0000,,A Magic Knight's robe...
+Dialogue: 0,0:05:14.31,0:05:17.10,italics,Chef,0000,0000,0000,,Which means she must be one \Nof the big shots that got
+Dialogue: 0,0:05:17.10,0:05:18.64,italics,Chef,0000,0000,0000,,invited to the decoration ceremony.
+Dialogue: 0,0:05:18.99,0:05:20.02,italics,Chef,0000,0000,0000,,And...
+Dialogue: 0,0:05:20.72,0:05:23.71,italics,Chef,0000,0000,0000,,Her glaring eyes are practically on fire.
+Dialogue: 0,0:05:24.19,0:05:27.36,italics,Chef,0000,0000,0000,,Her glaring drool is practically on fire.
+Dialogue: 0,0:05:27.75,0:05:28.87,italics,Chef,0000,0000,0000,,She's...
+Dialogue: 0,0:05:29.47,0:05:31.16,italics,Chef,0000,0000,0000,,someone special!
+Dialogue: 0,0:05:33.31,0:05:34.91,main,Chef,0000,0000,0000,,All right, you've got it!
+Dialogue: 0,0:05:35.32,0:05:36.83,main,Chef,0000,0000,0000,,Just wait!
+Dialogue: 0,0:05:36.83,0:05:39.61,main,Chef,0000,0000,0000,,I'll cook you up the best main dish ever!
+Dialogue: 0,0:05:39.61,0:05:41.20,main,Both,0000,0000,0000,,What?!
+Dialogue: 0,0:05:41.20,0:05:45.38,main,Charmy,0000,0000,0000,,Yay! Woohoo!
+Dialogue: 0,0:05:43.27,0:05:45.38,main,Subordinate 1,0000,0000,0000,,Let's just run!
+Dialogue: 0,0:05:45.38,0:05:46.42,main,Chef,0000,0000,0000,,Cooking...
+Dialogue: 0,0:05:47.60,0:05:50.18,main,Chef,0000,0000,0000,,is more important than my life!
+Dialogue: 0,0:05:48.76,0:05:50.18,main,Charmy,0000,0000,0000,,Yay!
+Dialogue: 0,0:05:52.01,0:05:55.53,sign_4210_33_Central_District,Sign,0000,0000,0000,,{\fad(1,1032)}North District
+Dialogue: 0,0:06:02.69,0:06:06.14,main,Rades,0000,0000,0000,,Too bad, you stupid brat!
+Dialogue: 0,0:06:06.14,0:06:13.28,main,Rades,0000,0000,0000,,Your special anti-magic blade doesn't \Nmean anything if it can't hit its target!
+Dialogue: 0,0:06:19.16,0:06:20.71,main,Girl,0000,0000,0000,,Mister...
+Dialogue: 0,0:06:21.89,0:06:23.46,main,Noelle,0000,0000,0000,,This is your chance!
+Dialogue: 0,0:06:23.46,0:06:24.79,main,Noelle,0000,0000,0000,,Run!
+Dialogue: 0,0:06:24.79,0:06:26.57,main,Girl,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:06:31.51,0:06:32.80,main,Girl,0000,0000,0000,,Please help him.
+Dialogue: 0,0:06:33.15,0:06:37.64,main,Noelle,0000,0000,0000,,I know. Don't worry, he's...
+Dialogue: 0,0:06:38.24,0:06:40.31,main,Noelle,0000,0000,0000,,a dear friend of mine!
+Dialogue: 0,0:06:43.16,0:06:44.19,main,Girl,0000,0000,0000,,Okay!
+Dialogue: 0,0:06:56.39,0:06:58.25,main,Asta,0000,0000,0000,,Come down here!
+Dialogue: 0,0:06:58.25,0:07:00.14,main,Rades,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:07:00.39,0:07:04.31,main,Rades,0000,0000,0000,,Who the heck would come down \Njust because someone told them to?
+Dialogue: 0,0:07:07.65,0:07:09.88,italics,Noelle,0000,0000,0000,,Back at the dungeon...
+Dialogue: 0,0:07:10.23,0:07:12.12,flashback,Asta,0000,0000,0000,,Yeah, leave it to me.
+Dialogue: 0,0:07:12.12,0:07:14.64,flashback,Asta,0000,0000,0000,,I'll throw enough at him from the both of us!
+Dialogue: 0,0:07:15.06,0:07:16.97,flashback,Asta,0000,0000,0000,,I don't have any magic,
+Dialogue: 0,0:07:16.97,0:07:18.51,flashback,Asta,0000,0000,0000,,but I've got...
+Dialogue: 0,0:07:19.00,0:07:21.29,flashback,Asta,0000,0000,0000,,my friends!
+Dialogue: 0,0:07:22.56,0:07:26.39,italics,Noelle,0000,0000,0000,,My magical powers combined with Asta's sword.
+Dialogue: 0,0:07:26.81,0:07:29.11,italics,Noelle,0000,0000,0000,,If only I could help him now like I did then,
+Dialogue: 0,0:07:29.11,0:07:30.90,italics,Noelle,0000,0000,0000,,even if the enemy is in the air...
+Dialogue: 0,0:07:31.59,0:07:33.40,main,Leopold,0000,0000,0000,,Black Bulls girl!
+Dialogue: 0,0:07:34.47,0:07:38.24,main,Leopold,0000,0000,0000,,I, Leopold Vermillion, shall assist you.
+Dialogue: 0,0:07:38.24,0:07:41.03,main,Leopold,0000,0000,0000,,I shall not let him harm my rival any longer!
+Dialogue: 0,0:07:41.03,0:07:42.25,main,Noelle,0000,0000,0000,,Right.
+Dialogue: 0,0:07:50.59,0:07:53.51,main,Rades,0000,0000,0000,,You two can deal with him!
+Dialogue: 0,0:07:55.23,0:07:59.00,italics,Leopold,0000,0000,0000,,Muddy Water Magic...\NMine's a poor match for that.
+Dialogue: 0,0:07:59.63,0:08:00.77,main,Noelle,0000,0000,0000,,Asta...
+Dialogue: 0,0:08:01.64,0:08:03.97,main,Noelle,0000,0000,0000,,His wound from that attack earlier...
+Dialogue: 0,0:08:16.95,0:08:20.66,main,rades,0000,0000,0000,,You told me earlier, didn't you?
+Dialogue: 0,0:08:21.00,0:08:24.25,main,rades,0000,0000,0000,,To come at you myself?
+Dialogue: 0,0:08:27.68,0:08:29.34,main,Rades,0000,0000,0000,,You fool!
+Dialogue: 0,0:08:29.34,0:08:34.50,main,Rades,0000,0000,0000,,I'm not going to fight. I'm going to control\Nmy corpses and enjoy the show!
+Dialogue: 0,0:08:34.50,0:08:36.55,main,Rades,0000,0000,0000,,I'm going to win just by watching.
+Dialogue: 0,0:08:36.55,0:08:40.61,main,Rades,0000,0000,0000,,That's how I fight!
+Dialogue: 0,0:08:40.61,0:08:46.07,main,Rades,0000,0000,0000,,Unlike a meathead like you,\NI actually know how to use my brain.
+Dialogue: 0,0:08:46.07,0:08:48.03,main,Rades,0000,0000,0000,,Moron!
+Dialogue: 0,0:08:49.39,0:08:50.99,main,Rades,0000,0000,0000,,Moron!
+Dialogue: 0,0:08:53.53,0:08:55.49,italics,Asta,0000,0000,0000,,Damn it...
+Dialogue: 0,0:08:56.01,0:08:59.53,italics,Asta,0000,0000,0000,,That stupid jerk doesn't even \Nthink of people as people...
+Dialogue: 0,0:08:59.99,0:09:01.53,italics,Asta,0000,0000,0000,,I don't wanna lose to him!
+Dialogue: 0,0:09:01.87,0:09:04.04,main,Rades,0000,0000,0000,,What's that look for?
+Dialogue: 0,0:09:05.00,0:09:09.07,main,Rades,0000,0000,0000,,Guts alone won't gonna get you \Nout of this, you stupid brat!
+Dialogue: 0,0:09:09.07,0:09:10.13,main,Rades,0000,0000,0000,,Alfred!
+Dialogue: 0,0:09:14.65,0:09:16.03,main,Noelle,0000,0000,0000,,Asta!
+Dialogue: 0,0:09:24.04,0:09:26.43,italics,Asta,0000,0000,0000,,Damn it! What should I...
+Dialogue: 0,0:09:28.40,0:09:29.44,main,Rades,0000,0000,0000,,Kill him!
+Dialogue: 0,0:09:51.04,0:09:57.40,italics,Rades,0000,0000,0000,,M-My Alfred... turned into \Ncharcoal in an instant...
+Dialogue: 0,0:10:02.24,0:10:03.68,italics,Rades,0000,0000,0000,,He's...
+Dialogue: 0,0:10:14.76,0:10:19.79,italics,Asta,0000,0000,0000,,Damn it... I couldn't defeat him on my own.
+Dialogue: 0,0:10:22.80,0:10:26.66,main,Fuegoleon,0000,0000,0000,,I apologize for horning in on your fight.
+Dialogue: 0,0:10:28.73,0:10:32.28,main,Fuegoleon,0000,0000,0000,,But I thought it would be a shame \Nto let a man like you die here.
+Dialogue: 0,0:10:37.92,0:10:38.92,main,Fuegoleon,0000,0000,0000,,Forgive me.
+Dialogue: 0,0:10:41.25,0:10:47.18,main,Fuegoleon,0000,0000,0000,,You fought well for a peasant \Nwith no magical powers.
+Dialogue: 0,0:10:47.18,0:10:49.18,flashback,Yami,0000,0000,0000,,You're funny, kid.
+Dialogue: 0,0:10:49.50,0:10:51.10,flashback,Yami,0000,0000,0000,,Join my squad.
+Dialogue: 0,0:10:51.56,0:10:56.77,main,Fuegoleon,0000,0000,0000,,I hate to admit this, but it looks like \NYami's foresight was better than mine.
+Dialogue: 0,0:11:03.56,0:11:05.20,main,Fuegoleon,0000,0000,0000,,Asta, wasn't it?
+Dialogue: 0,0:11:07.05,0:11:10.81,main,Fuegoleon,0000,0000,0000,,You mentioned that you were going to \Nbecome the Wizard King, didn't you?
+Dialogue: 0,0:11:12.58,0:11:16.30,main,Rades,0000,0000,0000,,Huh?! Become the Wizard King?!
+Dialogue: 0,0:11:16.30,0:11:22.88,main,Rades,0000,0000,0000,,There's no way a stupid brat like you who's \Nway weaker than me could become that!
+Dialogue: 0,0:11:23.37,0:11:24.26,main,Fuegoleon,0000,0000,0000,,Then...
+Dialogue: 0,0:11:25.72,0:11:27.93,main,Fuegoleon,0000,0000,0000,,I guess you're my rival, too.
+Dialogue: 0,0:11:36.25,0:11:38.91,main,Rades,0000,0000,0000,,So you're gonna fight me?
+Dialogue: 0,0:11:38.91,0:11:41.19,main,Rades,0000,0000,0000,,Finally, someone worth fighting...
+Dialogue: 0,0:11:43.87,0:11:47.48,main,Rades,0000,0000,0000,,Captain of the Crimson Lion Kings,
+Dialogue: 0,0:11:47.48,0:11:50.47,main,Rades,0000,0000,0000,,Fuegoleon Vermillion!
+Dialogue: 0,0:11:52.11,0:11:53.41,main,Fuegoleon,0000,0000,0000,,Asta,
+Dialogue: 0,0:11:53.87,0:11:55.73,main,Fuegoleon,0000,0000,0000,,leave the rest to me!
+Dialogue: 0,0:12:18.11,0:12:19.54,main,Noelle,0000,0000,0000,,Asta!
+Dialogue: 0,0:12:19.54,0:12:20.83,main,Leopold,0000,0000,0000,,Fuegoleon!
+Dialogue: 0,0:12:29.84,0:12:32.11,italics,Asta,0000,0000,0000,,A captain of a Magic Knights squad...
+Dialogue: 0,0:12:33.33,0:12:35.71,flashback,Fuegoleon,0000,0000,0000,,I guess you're my rival, too.
+Dialogue: 0,0:12:36.27,0:12:37.85,italics,Asta,0000,0000,0000,,Did he just say...
+Dialogue: 0,0:12:44.16,0:12:46.40,main,Asta,0000,0000,0000,,This is no time for me to be a wuss!
+Dialogue: 0,0:12:46.40,0:12:48.08,main,Asta,0000,0000,0000,,I can still...
+Dialogue: 0,0:12:48.08,0:12:50.35,main,Asta,0000,0000,0000,,do this!
+Dialogue: 0,0:12:50.35,0:12:51.52,main,Fuegoleon,0000,0000,0000,,No, you can't.
+Dialogue: 0,0:12:53.11,0:12:55.51,main,Asta,0000,0000,0000,,My head, my face, and my stomach hurt!
+Dialogue: 0,0:12:55.51,0:12:56.94,main,Fuegoleon,0000,0000,0000,,I'm sure they do.
+Dialogue: 0,0:12:57.64,0:13:00.67,main,Fuegoleon,0000,0000,0000,,As a warrior, you need to constantly \Nbe aware of your condition,
+Dialogue: 0,0:13:01.08,0:13:03.79,main,Fuegoleon,0000,0000,0000,,and determine if you're \Nable to fight or not.
+Dialogue: 0,0:13:06.43,0:13:09.17,main,Fuegoleon,0000,0000,0000,,You are definitely not \Nin that state right now.
+Dialogue: 0,0:13:11.69,0:13:16.41,main,Fuegoleon,0000,0000,0000,,Your exuberance may be your greatest\Nweapon, but keep a cool head, too.
+Dialogue: 0,0:13:16.91,0:13:19.52,main,Fuegoleon,0000,0000,0000,,If you truly wish to become \Nthe Wizard King, that is.
+Dialogue: 0,0:13:25.39,0:13:26.42,main,Fuegoleon,0000,0000,0000,,Now, let's hear it.
+Dialogue: 0,0:13:27.69,0:13:29.68,main,Fuegoleon,0000,0000,0000,,What are you after?
+Dialogue: 0,0:13:30.39,0:13:34.02,main,Fuegoleon,0000,0000,0000,,Your actions are too scattered \Nfor an invasion and
+Dialogue: 0,0:13:34.02,0:13:36.93,main,Fuegoleon,0000,0000,0000,,too organized for indiscriminate terrorism.
+Dialogue: 0,0:13:37.51,0:13:39.00,main,Fuegoleon,0000,0000,0000,,Who are you?
+Dialogue: 0,0:13:39.53,0:13:42.94,main,Rades,0000,0000,0000,,Who am I? You don't recognize me?
+Dialogue: 0,0:13:44.23,0:13:47.37,main,Rades,0000,0000,0000,,I guess I'm the only one \Nenjoying this reunion.
+Dialogue: 0,0:13:47.37,0:13:48.65,main,Fuegoleon,0000,0000,0000,,What?
+Dialogue: 0,0:13:50.60,0:13:54.79,main,Rades,0000,0000,0000,,Six years ago, I was the top choice \Nfor a Magic Knights squad.
+Dialogue: 0,0:13:56.03,0:13:59.29,main,Fuegoleon,0000,0000,0000,,What? You're a former Magic Knight?
+Dialogue: 0,0:13:59.29,0:14:01.58,main,Rades,0000,0000,0000,,I guess you wouldn't remember.
+Dialogue: 0,0:14:01.89,0:14:04.83,main,Rades,0000,0000,0000,,I wasn't important enough for \Nyou people to bother with.
+Dialogue: 0,0:14:13.81,0:14:18.18,flashbackitalics,Fuegoleon,0000,0000,0000,,He's a commoner, but he has \Ntremendous magical powers.
+Dialogue: 0,0:14:19.20,0:14:21.17,flashback,Guy,0000,0000,0000,,All who wish to offer, \Nplease raise your hand.
+Dialogue: 0,0:14:23.99,0:14:26.33,main,Fuegoleon,0000,0000,0000,,I see... You're from back then.
+Dialogue: 0,0:14:27.05,0:14:27.99,main,Fuegoleon,0000,0000,0000,,What's your name?
+Dialogue: 0,0:14:28.97,0:14:30.46,main,Rades,0000,0000,0000,,It's Rades!
+Dialogue: 0,0:14:30.46,0:14:32.01,main,Fuegoleon,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:32.01,0:14:35.68,main,Fuegoleon,0000,0000,0000,,I believe you joined the Purple Orcas.
+Dialogue: 0,0:14:36.36,0:14:38.61,main,Rades,0000,0000,0000,,They expelled me!
+Dialogue: 0,0:14:39.47,0:14:40.62,main,Fuegoleon,0000,0000,0000,,Expelled?
+Dialogue: 0,0:14:41.64,0:14:45.16,main,Fuegoleon,0000,0000,0000,,Rades, with all of your talent... Why?
+Dialogue: 0,0:14:46.59,0:14:51.30,main,Rades,0000,0000,0000,,They said that my magic was \Ndangerous and forbidden,
+Dialogue: 0,0:14:51.71,0:14:54.80,main,Rades,0000,0000,0000,,and kicked me out of the \Nsquad and the kingdom both!
+Dialogue: 0,0:14:55.17,0:15:00.06,main,Rades,0000,0000,0000,,Because I was a commoner,\Nno one stood up for me. No one!
+Dialogue: 0,0:15:00.45,0:15:03.44,main,Rades,0000,0000,0000,,Even though my powers were \Nbetter than everyone else's!
+Dialogue: 0,0:15:03.44,0:15:06.52,main,Rades,0000,0000,0000,,Greater than the nobles'...\Ngreater than anyone's!
+Dialogue: 0,0:15:07.20,0:15:10.89,main,Rades,0000,0000,0000,,I thought magic meant \Neverything in this kingdom!
+Dialogue: 0,0:15:12.36,0:15:13.90,main,Rades,0000,0000,0000,,And that's why!
+Dialogue: 0,0:15:13.90,0:15:17.24,main,Rades,0000,0000,0000,,I'm getting my revenge on the \NMagic Knights and this country!
+Dialogue: 0,0:15:17.24,0:15:21.37,main,Rades,0000,0000,0000,,With my powers! That's what I'm after!
+Dialogue: 0,0:15:21.37,0:15:25.13,main,Valtos,0000,0000,0000,,Though we do have another goal.
+Dialogue: 0,0:15:25.99,0:15:28.17,main,Fuegoleon,0000,0000,0000,,For such a childish reason...
+Dialogue: 0,0:15:29.87,0:15:32.42,main,Fuegoleon,0000,0000,0000,,You can't be serious, you fool!
+Dialogue: 0,0:15:33.31,0:15:34.63,main,Rades,0000,0000,0000,,Childish?
+Dialogue: 0,0:15:36.43,0:15:40.85,main,Rades,0000,0000,0000,,Reasons are always simple!
+Dialogue: 0,0:15:45.36,0:15:46.67,main,Fuegoleon,0000,0000,0000,,Leo!
+Dialogue: 0,0:15:47.31,0:15:48.23,main,Leopold,0000,0000,0000,,Fuegoleon?
+Dialogue: 0,0:15:48.54,0:15:49.69,main,Fuegoleon,0000,0000,0000,,Do you need help?
+Dialogue: 0,0:15:50.00,0:15:51.57,main,Leopold,0000,0000,0000,,Definitely not!
+Dialogue: 0,0:15:52.64,0:15:53.92,main,Leopold,0000,0000,0000,,Not at all!
+Dialogue: 0,0:15:53.92,0:15:54.96,main,Noelle,0000,0000,0000,,Hey...
+Dialogue: 0,0:15:54.96,0:15:56.60,main,Fuegoleon,0000,0000,0000,,Very good!
+Dialogue: 0,0:15:56.60,0:15:57.57,main,Noelle,0000,0000,0000,,Wha—
+Dialogue: 0,0:15:58.04,0:16:00.64,main,Fuegoleon,0000,0000,0000,,If you understand, take care\Nof things quickly!
+Dialogue: 0,0:16:00.64,0:16:01.58,main,Leopold,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:16:01.58,0:16:06.13,italics,Asta,0000,0000,0000,,Wh-Whoa, those brothers are Spartan for sure!
+Dialogue: 0,0:16:06.55,0:16:08.48,main,Rades,0000,0000,0000,,Way to ask the impossible!
+Dialogue: 0,0:16:08.48,0:16:11.85,main,Rades,0000,0000,0000,,Our attributes are lousy against each other.
+Dialogue: 0,0:16:11.85,0:16:14.76,main,Rades,0000,0000,0000,,Not like I'm going to let you help him, but...
+Dialogue: 0,0:16:20.18,0:16:23.10,main,Fuegoleon,0000,0000,0000,,Sorry, but I can't control \Nthe intensity of the flames.
+Dialogue: 0,0:16:23.79,0:16:27.60,main,Fuegoleon,0000,0000,0000,,Flame Creation Magic: Leo Rugiens!
+Dialogue: 0,0:16:37.70,0:16:39.49,main,Fuegoleon,0000,0000,0000,,A magical barrier...
+Dialogue: 0,0:16:41.29,0:16:43.08,main,Rades,0000,0000,0000,,Number One, Carl!
+Dialogue: 0,0:16:43.76,0:16:47.47,main,Rades,0000,0000,0000,,When he was alive, he was \Nan expert at defense magic!
+Dialogue: 0,0:16:47.47,0:16:51.84,main,Rades,0000,0000,0000,,So I added my curse magic \Nand made him even tougher!
+Dialogue: 0,0:16:53.04,0:16:56.13,main,Asta,0000,0000,0000,,He's bringing out one of those things again!
+Dialogue: 0,0:16:56.13,0:16:57.65,main,Fuegoleon,0000,0000,0000,,Asta.
+Dialogue: 0,0:16:57.65,0:16:58.59,main,Asta,0000,0000,0000,,Y-Yes, sir!
+Dialogue: 0,0:16:59.30,0:17:02.56,main,Fuegoleon,0000,0000,0000,,Do you remember what I said a moment ago?
+Dialogue: 0,0:17:04.52,0:17:05.60,main,Fuegoleon,0000,0000,0000,,Watch carefully.
+Dialogue: 0,0:17:06.21,0:17:08.47,main,Rades,0000,0000,0000,,Why are you so calm?!
+Dialogue: 0,0:17:08.47,0:17:11.61,main,Rades,0000,0000,0000,,Defense isn't the only thing he can do!
+Dialogue: 0,0:17:14.80,0:17:18.07,main,Fuegoleon,0000,0000,0000,,Flame Creation Magic: Ignis Columna.
+Dialogue: 0,0:17:22.45,0:17:25.83,main,Rades,0000,0000,0000,,Trying to match Carl's barrier spells, huh?
+Dialogue: 0,0:17:27.83,0:17:29.37,main,Rades,0000,0000,0000,,Well?!
+Dialogue: 0,0:17:29.37,0:17:33.34,main,Rades,0000,0000,0000,,What do you think about this invincible \Nbarrier and super barrage?
+Dialogue: 0,0:17:34.35,0:17:36.34,main,Fuegoleon,0000,0000,0000,,Indeed, there is nothing I can do right now.
+Dialogue: 0,0:17:38.35,0:17:42.85,main,Rades,0000,0000,0000,,Is that all you've got,\NCaptain of the Crimson Lion Kings?
+Dialogue: 0,0:18:00.99,0:18:04.37,main,Fuegoleon,0000,0000,0000,,Flame Magic: Sol Linea.
+Dialogue: 0,0:18:05.12,0:18:06.81,main,Fuegoleon,0000,0000,0000,,In the instant you attack,
+Dialogue: 0,0:18:06.81,0:18:10.85,main,Fuegoleon,0000,0000,0000,,for just a moment, the mana of \Nthe barrier thins in places.
+Dialogue: 0,0:18:10.85,0:18:13.09,main,Fuegoleon,0000,0000,0000,,That's what I aimed for.
+Dialogue: 0,0:18:13.51,0:18:16.52,main,Fuegoleon,0000,0000,0000,,I deal with difficult magic every day.
+Dialogue: 0,0:18:17.75,0:18:19.05,main,Fuegoleon,0000,0000,0000,,Listen well, all of you!
+Dialogue: 0,0:18:20.79,0:18:22.26,main,Fuegoleon,0000,0000,0000,,As long as you are Magic Knights,
+Dialogue: 0,0:18:22.26,0:18:27.27,main,Fuegoleon,0000,0000,0000,,you will find yourselves constantly pitted \Nagainst powerful enemies and magic!
+Dialogue: 0,0:18:28.11,0:18:31.21,main,Fuegoleon,0000,0000,0000,,But when that happens,\Nif you gauge the ability calmly
+Dialogue: 0,0:18:31.21,0:18:36.28,main,Fuegoleon,0000,0000,0000,,and maintain a bold fighting spirit,\Nyou will never lose!
+Dialogue: 0,0:18:36.28,0:18:37.73,main,Fuegoleon,0000,0000,0000,,Is that clear?!
+Dialogue: 0,0:18:37.73,0:18:38.86,main,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:18:39.22,0:18:42.28,italics,Asta,0000,0000,0000,,He instantly saw his opponent's weaknesses,
+Dialogue: 0,0:18:42.28,0:18:43.78,italics,Asta,0000,0000,0000,,and even psyched up his allies.
+Dialogue: 0,0:18:44.48,0:18:48.23,italics,Asta,0000,0000,0000,,So that's a Magic Knights Captain.
+Dialogue: 0,0:18:49.31,0:18:52.29,italics,Asta,0000,0000,0000,,H-He's awesome!
+Dialogue: 0,0:18:52.29,0:18:57.59,main,Rades,0000,0000,0000,,I-Impossible! My Number One \Nwas defeated so easily...
+Dialogue: 0,0:18:58.27,0:19:01.43,main,Rades,0000,0000,0000,,D-Damn it! Damn it!
+Dialogue: 0,0:19:02.48,0:19:04.19,main,Fuegoleon,0000,0000,0000,,Rades, wasn't it?
+Dialogue: 0,0:19:05.64,0:19:09.77,main,Fuegoleon,0000,0000,0000,,Even if you possess extraordinary abilities \Nand polish them to their fullest,
+Dialogue: 0,0:19:10.45,0:19:14.27,main,Fuegoleon,0000,0000,0000,,without a righteous spirit,\Nyour deeds are nothing but violence!
+Dialogue: 0,0:19:14.88,0:19:18.28,main,Fuegloen,0000,0000,0000,,No one will acknowledge something like that.
+Dialogue: 0,0:19:23.76,0:19:25.45,main,Marx,0000,0000,0000,,I have a report, Your Majesty.
+Dialogue: 0,0:19:25.93,0:19:29.19,main,Marx,0000,0000,0000,,Most of the attackers have \Nbeen dealt with, it seems.
+Dialogue: 0,0:19:31.67,0:19:33.81,main,King,0000,0000,0000,,Took them long enough.
+Dialogue: 0,0:19:33.81,0:19:36.31,main,King,0000,0000,0000,,The Magic Knights need to work harder.
+Dialogue: 0,0:19:36.80,0:19:39.41,main,King,0000,0000,0000,,And? Where's the Wizard King?
+Dialogue: 0,0:19:39.41,0:19:41.30,main,King,0000,0000,0000,,Why hasn't he come to my side?
+Dialogue: 0,0:19:42.80,0:19:44.51,main,Marx,0000,0000,0000,,He's on an important mission.
+Dialogue: 0,0:19:45.76,0:19:51.31,main,King,0000,0000,0000,,Honestly... There's no way it \Ncould be more important than me.
+Dialogue: 0,0:19:54.48,0:19:58.50,sign_4210_33_Central_District,Sign,0000,0000,0000,,{\fad(1,1035)}West District
+Dialogue: 0,0:19:57.63,0:20:00.64,top,Klaus,0000,0000,0000,,What were those things, anyway?
+Dialogue: 0,0:20:02.52,0:20:07.48,main,Hamon,0000,0000,0000,,Regardless, they're apparently\Nno match for us.
+Dialogue: 0,0:20:08.66,0:20:12.68,sign_4210_33_Central_District,Sign,0000,0000,0000,,{\fad(1,1035)}East District
+Dialogue: 0,0:20:08.99,0:20:12.36,top,Sol,0000,0000,0000,,I can't believe you fools \Ntried to attack my sis!
+Dialogue: 0,0:20:12.36,0:20:17.21,top,Sol,0000,0000,0000,,Only the women of the Blue Rose \NKnights are allowed to touch her!
+Dialogue: 0,0:20:17.21,0:20:20.66,main,Charlotte,0000,0000,0000,,Sol, don't say things \Npeople will misinterpret.
+Dialogue: 0,0:20:20.66,0:20:23.51,main,Sol,0000,0000,0000,,The only ones who can touch \NSis's soft, velvety skin are...
+Dialogue: 0,0:20:23.51,0:20:24.87,main,Charlotte,0000,0000,0000,,That's not what I meant.
+Dialogue: 0,0:20:25.55,0:20:29.57,sign_4210_33_Central_District,Sign,0000,0000,0000,,{\fad(1,1033)}Central District
+Dialogue: 0,0:20:26.88,0:20:29.57,top,Solid,0000,0000,0000,,What? Finished already?
+Dialogue: 0,0:20:30.69,0:20:32.79,main,Nebra,0000,0000,0000,,But I wasn't done playing.
+Dialogue: 0,0:20:33.47,0:20:35.56,italics,Nozel,0000,0000,0000,,Something is off.
+Dialogue: 0,0:20:35.81,0:20:39.80,sign_4210_33_Central_District,Sign,0000,0000,0000,,{\fad(1,1002)}Northwest District
+Dialogue: 0,0:20:37.84,0:20:39.80,top,Alecdora,0000,0000,0000,,I guess that's most of them.
+Dialogue: 0,0:20:40.61,0:20:43.82,main,Mimosa,0000,0000,0000,,Th-They were so gross.
+Dialogue: 0,0:20:44.32,0:20:48.96,italics,Yuno,0000,0000,0000,,I need to get stronger so things like \Nthis don't trouble me so much.
+Dialogue: 0,0:20:48.96,0:20:51.85,main,People,0000,0000,0000,,Th-They're so strong!
+Dialogue: 0,0:20:52.45,0:20:55.05,main,People,0000,0000,0000,,Hooray for the Magic Knights!
+Dialogue: 0,0:20:55.05,0:21:03.88,top,People,0000,0000,0000,,Hooray! Hooray!
+Dialogue: 0,0:20:56.92,0:20:59.41,main,Catherine,0000,0000,0000,,It's too early for you to \Nbe cheering just yet.
+Dialogue: 0,0:21:00.80,0:21:03.88,main,Catherine,0000,0000,0000,,I think everything's about ready.
+Dialogue: 0,0:21:04.42,0:21:07.38,main,Catherine,0000,0000,0000,,Now for some lively sow's mana...
+Dialogue: 0,0:21:07.38,0:21:10.20,main,Catherine,0000,0000,0000,,How exciting!
+Dialogue: 0,0:21:30.37,0:21:35.74,italics,,0000,0000,0000,,My dry emotions gaze at the me from that day
+Dialogue: 0,0:21:35.74,0:21:38.71,italics,,0000,0000,0000,,And push me forward
+Dialogue: 0,0:21:38.71,0:21:40.75,italics,,0000,0000,0000,,(I can't find a place to go)
+Dialogue: 0,0:21:40.75,0:21:46.03,italics,,0000,0000,0000,,Even the faintest light can \Nstill break through the darkness
+Dialogue: 0,0:21:46.03,0:21:51.53,italics,,0000,0000,0000,,And change the flow of time
+Dialogue: 0,0:21:50.26,0:21:53.95,italics,,0000,0000,0000,,(I will keep believing in you)
+Dialogue: 0,0:21:52.95,0:21:56.83,italics,,0000,0000,0000,,In this ever-vivid place
+Dialogue: 0,0:21:56.83,0:21:59.77,italics,,0000,0000,0000,,(Break free yourself)
+Dialogue: 0,0:21:59.77,0:22:02.67,italics,,0000,0000,0000,,In order to grasp my endless dream
+Dialogue: 0,0:22:02.67,0:22:05.33,italics,,0000,0000,0000,,If there is a path that I should choose
+Dialogue: 0,0:22:05.33,0:22:07.39,italics,,0000,0000,0000,,(Do you wanna try? Do you wanna try?)
+Dialogue: 0,0:22:07.39,0:22:10.30,italics,,0000,0000,0000,,Wherever it may lead us
+Dialogue: 0,0:22:10.30,0:22:12.79,italics,,0000,0000,0000,,Until my life comes to an end
+Dialogue: 0,0:22:12.79,0:22:15.47,italics,,0000,0000,0000,,I will accept any pain that comes my way
+Dialogue: 0,0:22:15.47,0:22:17.49,italics,,0000,0000,0000,,(We can try again, we can try again)
+Dialogue: 0,0:22:17.49,0:22:21.85,italics,,0000,0000,0000,,Even if we can't see tomorrow
+Dialogue: 0,0:22:21.85,0:22:27.40,italics,,0000,0000,0000,,Holding onto feelings too intense to voice
+Dialogue: 0,0:22:27.96,0:22:31.13,italics,,0000,0000,0000,,I'll keep screaming them in my heart
+Dialogue: 0,0:22:42.02,0:22:46.48,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:43.23,0:22:45.88,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:45.98,0:22:49.99,sign_33188_278_The_Mystery_of_t,,0000,0000,0000,,{\fad(520,1)}Palace Three-Second Cooking
+Dialogue: 0,0:22:46.89,0:22:49.37,main,Chef,0000,0000,0000,,Palace Three-Second Cooking.
+Dialogue: 0,0:22:49.99,0:22:52.36,main,Chef,0000,0000,0000,,The time where I, the royal \Nhead chef of Clover Kingdom,
+Dialogue: 0,0:22:52.36,0:22:55.85,main,Chef,0000,0000,0000,,introduce a three-second dish \Nthat anyone can make.
+Dialogue: 0,0:22:55.85,0:22:57.99,main,Chef,0000,0000,0000,,Today, I'd like to make some \Ncurry in three seconds.
+Dialogue: 0,0:22:58.41,0:23:01.77,main,Chef,0000,0000,0000,,I'm going to be using simple curry \Nroux procured at the market.
+Dialogue: 0,0:23:01.77,0:23:04.37,main,Chef,0000,0000,0000,,Next, you'll need carrots, onions, potatoes,
+Dialogue: 0,0:23:04.37,0:23:05.96,main,Chef,0000,0000,0000,,some mushrooms, and maybe some tomatoes.
+Dialogue: 0,0:23:05.96,0:23:08.52,main,Chef,0000,0000,0000,,If you try adding secret ingredients \Nlike chocolate or coffee,
+Dialogue: 0,0:23:08.52,0:23:10.52,main,Chef,0000,0000,0000,,you can make an even more fragrant curry.
+Dialogue: 0,0:23:10.52,0:23:13.23,main,Chef,0000,0000,0000,,Now, then... You take \Nthose ingredients, and...
+Dialogue: 0,0:23:13.23,0:23:15.45,main,Chef,0000,0000,0000,,Immediately chop them up using \Nyour magic, and simmer them!
+Dialogue: 0,0:23:15.45,0:23:18.00,main,Chef,0000,0000,0000,,Make sure you use plenty of love and passion!
+Dialogue: 0,0:23:19.49,0:23:22.02,main,Chef,0000,0000,0000,,And it's finished. Wasn't that easy?
+Dialogue: 0,0:23:22.02,0:23:24.08,main,Charmy,0000,0000,0000,,Time to eat!
+Dialogue: 0,0:23:24.63,0:23:26.28,main,Charmy,0000,0000,0000,,So good!
+Dialogue: 0,0:23:26.28,0:23:30.17,main,Chef,0000,0000,0000,,And that concludes this episode of Palace\NThree-Second Cooking, dishes anyone can make!
+Dialogue: 0,0:23:30.17,0:23:31.87,main,Both,0000,0000,0000,,See you next time!
+Dialogue: 0,0:23:31.87,0:23:33.25,main,Asta,0000,0000,0000,,But that's impossible!
+Dialogue: 0,0:23:35.47,0:23:38.54,main,King,0000,0000,0000,,Magic Knights, hurry up and \Ntake care of the attackers.
+Dialogue: 0,0:23:38.90,0:23:42.54,main,King,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 24: "Blackout."
+Dialogue: 0,0:23:40.08,0:23:51.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 24\N\N{\fs18} Blackout
+Dialogue: 0,0:23:42.54,0:23:47.84,main,King,0000,0000,0000,,Eating and napping is the job of \Nthe King of Clover Kingdom,
+Dialogue: 0,0:23:47.84,0:23:49.88,main,King,0000,0000,0000,,Augustus Kira Clover XIII.

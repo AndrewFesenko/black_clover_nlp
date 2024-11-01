@@ -1,0 +1,428 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00E678C2,&H000000FF,&H19E678C2,&H000D1728,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0075,1
+ 
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.38,0:00:06.99,italics,Nar,0000,0000,0000,,The Clover Kingdom.
+Dialogue: 0,0:00:07.61,0:00:09.57,italics,Nar,0000,0000,0000,,In this kingdom where magic is everything,
+Dialogue: 0,0:00:09.57,0:00:12.60,italics,Nar,0000,0000,0000,,there is one boy who can't use magic.
+Dialogue: 0,0:00:13.37,0:00:15.24,italics,Nar,0000,0000,0000,,His name is Asta.
+Dialogue: 0,0:00:16.25,0:00:19.06,italics,Nar,0000,0000,0000,,With guts and hard work, \Nhe made it into the Magic Knights,
+Dialogue: 0,0:00:19.06,0:00:21.77,italics,Nar,0000,0000,0000,,and he never gave up, \Ndespite how much he got hurt.
+Dialogue: 0,0:00:21.77,0:00:24.60,italics,Nar,0000,0000,0000,,He continues to diligently aim for the top!
+Dialogue: 0,0:00:26.16,0:00:27.79,italics,Nar,0000,0000,0000,,Even if you are a peasant,
+Dialogue: 0,0:00:27.79,0:00:29.63,italics,Nar,0000,0000,0000,,or even if you're poor...
+Dialogue: 0,0:00:29.93,0:00:32.38,italics,Nar,0000,0000,0000,,Anyone in this world can still shine!
+Dialogue: 0,0:00:32.76,0:00:34.80,italics,Nar,0000,0000,0000,,He's working hard to prove that,
+Dialogue: 0,0:00:35.16,0:00:37.81,italics,Nar,0000,0000,0000,,and to become the Wizard King!
+Dialogue: 0,0:00:43.02,0:00:45.02,italics,Grey,0000,0000,0000,,I can't leave things the way they are.
+Dialogue: 0,0:00:45.48,0:00:51.03,italics,Grey,0000,0000,0000,,Finral is becoming more reliable, \Nand Gordon's become more upbeat.
+Dialogue: 0,0:00:51.32,0:00:54.07,italics,Grey,0000,0000,0000,,Both Magna and Luck have gotten stronger,
+Dialogue: 0,0:00:54.07,0:00:57.78,italics,Grey,0000,0000,0000,,and Noelle's learning one \Npowerful spell after another.
+Dialogue: 0,0:00:57.78,0:01:01.16,italics,Grey,0000,0000,0000,,Asta has always been moving forward.
+Dialogue: 0,0:01:01.16,0:01:04.78,italics,Grey,0000,0000,0000,,I think Gauche has become a bit \Nmore approachable... maybe.
+Dialogue: 0,0:01:05.44,0:01:10.85,italics,Grey,0000,0000,0000,,Everyone's moving forward, but I'm still \Nembarrassed about anyone seeing me.
+Dialogue: 0,0:01:10.85,0:01:12.59,italics,Grey,0000,0000,0000,,I'm still scared.
+Dialogue: 0,0:01:13.10,0:01:15.26,italics,Grey,0000,0000,0000,,I'm better now than I was then,
+Dialogue: 0,0:01:16.74,0:01:21.10,italics,Grey,0000,0000,0000,,but I want to stop feeling \Nembarrassed in my true form.
+Dialogue: 0,0:01:28.54,0:01:30.91,italics,Grey,0000,0000,0000,,I have to change!
+Dialogue: 0,0:02:52.42,0:02:57.23,Ep Title,Sign,0000,0000,0000,,{\fs22\move(320,95,320,90)\t(1,4650,\fs24)\fad(1000,1)}The Maidens' Challenge
+Dialogue: 0,0:03:09.29,0:03:10.68,main,Noelle,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:03:12.03,0:03:13.79,main,Noelle,0000,0000,0000,,What is it? Do you need something?
+Dialogue: 0,0:03:14.07,0:03:15.38,main,Grey,0000,0000,0000,,U-Um! Um!
+Dialogue: 0,0:03:15.66,0:03:17.92,main,Noelle,0000,0000,0000,,Are you not feeling well?
+Dialogue: 0,0:03:17.92,0:03:19.01,main,Grey,0000,0000,0000,,Um!
+Dialogue: 0,0:03:19.26,0:03:21.63,main,Grey,0000,0000,0000,,Please make me your student!
+Dialogue: 0,0:03:22.08,0:03:23.89,main,Noelle,0000,0000,0000,,Huh? What's that supposed to mean?
+Dialogue: 0,0:03:24.47,0:03:27.48,main,Grey,0000,0000,0000,,I want to get over my shyness.
+Dialogue: 0,0:03:27.48,0:03:28.47,main,Noelle,0000,0000,0000,,Why?
+Dialogue: 0,0:03:28.87,0:03:34.94,main,Grey,0000,0000,0000,,When we fight the Spade Kingdom or the devil, \NI can't help anyone if I'm like this.
+Dialogue: 0,0:03:34.94,0:03:36.98,main,Noelle,0000,0000,0000,,Why don't you just transform and fight?
+Dialogue: 0,0:03:37.28,0:03:38.78,main,Grey,0000,0000,0000,,That's not good enough!
+Dialogue: 0,0:03:39.48,0:03:41.74,main,Grey,0000,0000,0000,,I have to be the real me.
+Dialogue: 0,0:03:42.12,0:03:43.76,main,Noelle,0000,0000,0000,,Why me, though?
+Dialogue: 0,0:03:43.76,0:03:46.62,main,Noelle,0000,0000,0000,,Basically everyone on our \Nteam is pretty confident.
+Dialogue: 0,0:03:47.37,0:03:49.81,main,Grey,0000,0000,0000,,You're the only one who can help me with this!
+Dialogue: 0,0:03:50.49,0:03:54.11,main,Grey,0000,0000,0000,,You're always so confident and refined,\N because you're royalty.
+Dialogue: 0,0:03:54.42,0:03:57.79,main,Grey,0000,0000,0000,,I want to be like you, Noelle!
+Dialogue: 0,0:03:58.79,0:04:01.26,main,Noelle,0000,0000,0000,,Ah, you have excellent judgment.
+Dialogue: 0,0:04:01.63,0:04:06.03,main,Noelle,0000,0000,0000,,Well, if you insist, I guess I don't \Nmind helping you out as a royal.
+Dialogue: 0,0:04:06.03,0:04:07.51,main,Grey,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:04:08.01,0:04:10.39,main,Noelle,0000,0000,0000,,Just so you know, I don't hold back.
+Dialogue: 0,0:04:11.08,0:04:13.64,main,Grey,0000,0000,0000,,Okay! Th-Thank you!
+Dialogue: 0,0:04:15.87,0:04:19.53,main,Noelle,0000,0000,0000,,If being looked at embarrasses you, \Nwe'll just have to get you over that.
+Dialogue: 0,0:04:19.75,0:04:21.42,main,Grey,0000,0000,0000,,O-Okay!
+Dialogue: 0,0:04:21.42,0:04:24.15,main,Noelle,0000,0000,0000,,I'm going to look at you, so just act normal.
+Dialogue: 0,0:04:26.12,0:04:27.57,main,Noelle,0000,0000,0000,,Show me your face!
+Dialogue: 0,0:04:27.57,0:04:29.16,main,Grey,0000,0000,0000,,I can't!
+Dialogue: 0,0:04:29.38,0:04:33.37,main,Noelle,0000,0000,0000,,Okay... There, I closed my eyes. How about now?
+Dialogue: 0,0:04:34.72,0:04:36.50,main,Grey,0000,0000,0000,,I-I'm okay.
+Dialogue: 0,0:04:39.50,0:04:41.13,main,Noelle,0000,0000,0000,,Okay, again.
+Dialogue: 0,0:04:46.25,0:04:47.39,italics,Noelle,0000,0000,0000,,This is pretty bad.
+Dialogue: 0,0:04:47.87,0:04:50.23,main,Noelle,0000,0000,0000,,Okay, how about this?
+Dialogue: 0,0:04:53.00,0:04:54.97,main,Noelle,0000,0000,0000,,You're fine if I'm not that close, right?
+Dialogue: 0,0:04:54.97,0:04:57.02,main,Grey,0000,0000,0000,,No... As long as you're looking at me...
+Dialogue: 0,0:04:57.52,0:04:59.92,italics,Noelle,0000,0000,0000,,Looks like this is going to take a while.
+Dialogue: 0,0:04:59.92,0:05:01.03,main,Gordon,0000,0000,0000,,I'll help, too.
+Dialogue: 0,0:05:02.57,0:05:03.57,main,Noelle,0000,0000,0000,,Gordon!
+Dialogue: 0,0:05:03.57,0:05:07.82,main,Gordon,0000,0000,0000,,I'm always very aware of what \Nmy precious friends are doing.
+Dialogue: 0,0:05:08.08,0:05:11.41,main,Gordon,0000,0000,0000,,So I've been watching you two \Nfrom here this whole time.
+Dialogue: 0,0:05:11.71,0:05:13.06,main,Noelle,0000,0000,0000,,This whole time?
+Dialogue: 0,0:05:13.06,0:05:14.75,main,Grey,0000,0000,0000,,I-I'm so embarrassed!
+Dialogue: 0,0:05:14.75,0:05:20.25,main,Gordon,0000,0000,0000,,I hope you'll let me help \Nwith my best friend's growth.
+Dialogue: 0,0:05:20.73,0:05:23.26,main,Gordon,0000,0000,0000,,It's probably hard having a real \Nperson look at you right away.
+Dialogue: 0,0:05:23.49,0:05:25.85,main,Gordon,0000,0000,0000,,You should get used to \Nbeing around my dolls first.
+Dialogue: 0,0:05:25.85,0:05:27.71,main,Noelle,0000,0000,0000,,So we're taking this in steps.
+Dialogue: 0,0:05:27.71,0:05:29.26,main,Noelle,0000,0000,0000,,That's not a bad idea.
+Dialogue: 0,0:05:29.59,0:05:33.27,main,Gordon,0000,0000,0000,,We'll do our best not to \Nlook at you, so give it a try.
+Dialogue: 0,0:05:33.56,0:05:34.60,main,Grey,0000,0000,0000,,O-Okay!
+Dialogue: 0,0:05:35.83,0:05:37.07,main,Gordon,0000,0000,0000,,Hey, Grey!
+Dialogue: 0,0:05:37.60,0:05:40.98,main,Noelle,0000,0000,0000,,Act normally! You shouldn't \Nbe embarrassed around a doll!
+Dialogue: 0,0:05:41.40,0:05:43.45,main,Grey,0000,0000,0000,,G-Good morning...
+Dialogue: 0,0:05:43.45,0:05:44.65,main,Noelle,0000,0000,0000,,With more energy!
+Dialogue: 0,0:05:44.65,0:05:46.40,main,Grey,0000,0000,0000,,B-But...
+Dialogue: 0,0:05:47.73,0:05:49.57,main,Grey,0000,0000,0000,,He's still looking at me!
+Dialogue: 0,0:05:49.83,0:05:52.33,main,Noelle,0000,0000,0000,,Buck up! You want to be like me, don't you?
+Dialogue: 0,0:05:53.18,0:05:55.04,main,Grey,0000,0000,0000,,Just like Noelle...
+Dialogue: 0,0:05:56.03,0:05:58.19,main,Greynoelle,0000,0000,0000,,This doll's no big deal.
+Dialogue: 0,0:05:58.19,0:06:00.71,main,Noelle,0000,0000,0000,,There's no point if you transform!
+Dialogue: 0,0:06:00.71,0:06:02.29,main,Grey,0000,0000,0000,,Y-You're right!
+Dialogue: 0,0:06:02.29,0:06:05.30,main,Noelle,0000,0000,0000,,But don't forget how you felt just now.
+Dialogue: 0,0:06:05.30,0:06:08.93,main,Noelle,0000,0000,0000,,Yes, you {\i1}will{\i0} transform... but only your mind.
+Dialogue: 0,0:06:08.93,0:06:11.01,main,Grey,0000,0000,0000,,Th-That sounds difficult.
+Dialogue: 0,0:06:11.52,0:06:15.16,main,Grey,0000,0000,0000,,I-I have nothing to be embarrassed about.
+Dialogue: 0,0:06:15.16,0:06:19.09,main,Noelle,0000,0000,0000,,Jumping straight to my level will \Nbe difficult. I'm royalty, after all.
+Dialogue: 0,0:06:19.09,0:06:20.78,main,Grey,0000,0000,0000,,Then what should I do?!
+Dialogue: 0,0:06:20.78,0:06:23.24,main,Gordon,0000,0000,0000,,Maybe you can start with Asta.
+Dialogue: 0,0:06:23.24,0:06:25.15,main,Gordon,0000,0000,0000,,He's really easy to understand.
+Dialogue: 0,0:06:25.53,0:06:27.71,main,Grey,0000,0000,0000,,Asta... Asta...
+Dialogue: 0,0:06:28.66,0:06:31.90,main,Grey,0000,0000,0000,,Heya, Miz Charmy! What's for lunch today?!
+Dialogue: 0,0:06:31.90,0:06:33.58,main,Noelle,0000,0000,0000,,Perfect! Just keep that up!
+Dialogue: 0,0:06:33.58,0:06:34.97,main,Gordon,0000,0000,0000,,She sounds a lot like him.
+Dialogue: 0,0:06:35.50,0:06:37.61,main,Grey,0000,0000,0000,,Thanks for always helping me out, Noelle!
+Dialogue: 0,0:06:37.61,0:06:40.33,main,Grey,0000,0000,0000,,It's great to know you're on my side in battle!
+Dialogue: 0,0:06:40.54,0:06:43.91,main,Grey,0000,0000,0000,,We're gonna have to fight \Nsome really strong guys soon,
+Dialogue: 0,0:06:43.91,0:06:45.82,main,Grey,0000,0000,0000,,but I know we can win if I'm with you!
+Dialogue: 0,0:06:45.82,0:06:49.68,main,Noelle,0000,0000,0000,,I don't know why you can \Nwin with me, but fine.
+Dialogue: 0,0:06:50.10,0:06:53.86,main,Grey,0000,0000,0000,,U-Um, I look forward to working with you!
+Dialogue: 0,0:06:55.15,0:06:57.93,main,Gordon,0000,0000,0000,,It's difficult getting over your weakness.
+Dialogue: 0,0:06:58.17,0:07:02.49,main,Noelle,0000,0000,0000,,Sorry, I don't know what other kind \Nof advice I can give you right now.
+Dialogue: 0,0:07:02.49,0:07:05.63,main,Noelle,0000,0000,0000,,Especially since I can't understand \Nfeeling embarrassed just by
+Dialogue: 0,0:07:05.63,0:07:07.50,main,Noelle,0000,0000,0000,,having someone look at me.
+Dialogue: 0,0:07:07.50,0:07:09.96,main,Gordon,0000,0000,0000,,I'm sorry I couldn't help out.
+Dialogue: 0,0:07:09.96,0:07:12.78,main,Gordon,0000,0000,0000,,I hope you'll be able to find a good teacher.
+Dialogue: 0,0:07:17.67,0:07:18.47,main,Grey,0000,0000,0000,,Hey.
+Dialogue: 0,0:07:19.17,0:07:20.35,main,Gauche,0000,0000,0000,,Is that you, Grey?
+Dialogue: 0,0:07:20.35,0:07:22.48,main,Gauche,0000,0000,0000,,What do you want, and why are you in my form?
+Dialogue: 0,0:07:23.22,0:07:24.54,main,Greygauche,0000,0000,0000,,I want to ask a favor.
+Dialogue: 0,0:07:24.90,0:07:25.96,main,Gauche,0000,0000,0000,,What?
+Dialogue: 0,0:07:25.96,0:07:27.71,main,Greygauche,0000,0000,0000,,Be my mentor.
+Dialogue: 0,0:07:28.25,0:07:29.77,main,Gauche,0000,0000,0000,,What am I supposed to teach you?
+Dialogue: 0,0:07:29.77,0:07:32.32,main,Gauche,0000,0000,0000,,Our magic attributes are \Ncompletely different.
+Dialogue: 0,0:07:32.32,0:07:36.07,main,Greygauche,0000,0000,0000,,If I undo my transformation, I become \Nembarrassed whenever someone sees me.
+Dialogue: 0,0:07:36.07,0:07:38.66,main,Greygauche,0000,0000,0000,,Tell me how I can be more confident.
+Dialogue: 0,0:07:38.66,0:07:41.03,main,Gauche,0000,0000,0000,,Tch! Why do I have to do that?
+Dialogue: 0,0:07:41.03,0:07:43.22,main,Gauche,0000,0000,0000,,Ask someone else. I'm busy.
+Dialogue: 0,0:07:43.22,0:07:45.37,main,Greygauche,0000,0000,0000,,Don't be so stingy. Just tell me.
+Dialogue: 0,0:07:46.41,0:07:49.74,main,Gauche,0000,0000,0000,,I won't get anything out of helping you.
+Dialogue: 0,0:07:50.43,0:07:54.36,main,Greygauche,0000,0000,0000,,I guess you're right. Then I guess \NI'll do one thing you ask me to.
+Dialogue: 0,0:08:00.19,0:08:01.54,main,Greygauche,0000,0000,0000,,What's all this?
+Dialogue: 0,0:08:01.54,0:08:05.04,main,Gauche,0000,0000,0000,,Turn into Marie and say \Nthe lines I've written here.
+Dialogue: 0,0:08:05.71,0:08:06.73,main,Gauche,0000,0000,0000,,We'll start with...
+Dialogue: 0,0:08:06.73,0:08:08.15,main,Marie,0000,0000,0000,,I love you, Big Brother!
+Dialogue: 0,0:08:08.15,0:08:09.31,main,Gauche,0000,0000,0000,,That's a must!
+Dialogue: 0,0:08:09.31,0:08:10.13,main,Gauche,0000,0000,0000,,Also...
+Dialogue: 0,0:08:10.13,0:08:13.33,main,Marie,0000,0000,0000,,I worked really hard to make this \Nfor you, Big Brother! Eat up!
+Dialogue: 0,0:08:13.33,0:08:15.15,main,Gauche,0000,0000,0000,,And this is also absolutely necessary.
+Dialogue: 0,0:08:15.15,0:08:17.90,main,Marie,0000,0000,0000,,Let's be together forever, Big Brother!
+Dialogue: 0,0:08:18.97,0:08:21.93,main,Gauche,0000,0000,0000,,There's plenty more, but say \Nthose like you mean them.
+Dialogue: 0,0:08:21.93,0:08:24.56,main,Greygauche,0000,0000,0000,,I'm not actually Marie. \NWill that still make you happy?
+Dialogue: 0,0:08:24.92,0:08:27.45,main,Gauche,0000,0000,0000,,I only get to see the \Nreal Marie once a month.
+Dialogue: 0,0:08:27.45,0:08:30.33,main,Gauche,0000,0000,0000,,I'll be able to get by as long \Nas you look and sound like her.
+Dialogue: 0,0:08:30.33,0:08:32.19,main,Greygauche,0000,0000,0000,,O-Oh, I see...
+Dialogue: 0,0:08:32.41,0:08:33.90,main,Gauche,0000,0000,0000,,Okay, follow me.
+Dialogue: 0,0:08:35.69,0:08:38.40,main,Gauche,0000,0000,0000,,You just want to be okay \Nwith being seen, right?
+Dialogue: 0,0:08:38.40,0:08:39.20,main,Greygauche,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:39.42,0:08:40.79,main,Gauche,0000,0000,0000,,First, undo your transformation.
+Dialogue: 0,0:08:51.26,0:08:55.80,main,Grey,0000,0000,0000,,I-I'm being seen! I'm being \Nseen from every possible angle!
+Dialogue: 0,0:08:55.80,0:08:56.80,main,Gauche,0000,0000,0000,,Try to survive this.
+Dialogue: 0,0:08:57.32,0:08:58.24,main,Grey,0000,0000,0000,,S-S-S-S-Survive...
+Dialogue: 0,0:08:58.24,0:08:59.69,main,Grey,0000,0000,0000,,Um... U-Use what I learned earlier...
+Dialogue: 0,0:08:59.69,0:09:02.18,main,Grey,0000,0000,0000,,J-J-J-J-Just transform my mind to Asta's...
+Dialogue: 0,0:09:03.14,0:09:06.06,main,Grey,0000,0000,0000,,H-H-Hey... G-G-Gauche...
+Dialogue: 0,0:09:06.06,0:09:08.14,main,Grey,0000,0000,0000,,I can't!
+Dialogue: 0,0:09:09.40,0:09:10.44,italics,Gauche,0000,0000,0000,,I guess it's no use.
+Dialogue: 0,0:09:13.11,0:09:15.29,main,Gauche,0000,0000,0000,,Hey. Stand up and open your eyes.
+Dialogue: 0,0:09:15.29,0:09:17.32,main,Grey,0000,0000,0000,,I-I can't!
+Dialogue: 0,0:09:17.32,0:09:20.12,main,Gauche,0000,0000,0000,,Calm down. I'm not looking at you anymore.
+Dialogue: 0,0:09:20.12,0:09:20.93,main,Grey,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:25.43,0:09:27.90,main,Gauche,0000,0000,0000,,Well, what do we do about this?
+Dialogue: 0,0:09:41.40,0:09:42.85,italics,Gauche,0000,0000,0000,,Wait, is this...
+Dialogue: 0,0:09:42.85,0:09:44.97,main,Gauche,0000,0000,0000,,Hey, can you hear my voice?
+Dialogue: 0,0:09:46.41,0:09:47.21,main,Gauche,0000,0000,0000,,Stand up.
+Dialogue: 0,0:09:48.95,0:09:50.30,main,Gauche,0000,0000,0000,,Raise your right hand.
+Dialogue: 0,0:09:52.48,0:09:54.62,main,Gauche,0000,0000,0000,,Now raise your left leg.
+Dialogue: 0,0:09:56.28,0:09:59.40,italics,Gauche,0000,0000,0000,,She fell into a trance as she \Nwatched the butterfly pass by.
+Dialogue: 0,0:09:59.40,0:10:00.82,italics,Gauche,0000,0000,0000,,This should work!
+Dialogue: 0,0:10:00.82,0:10:03.49,italics,Gauche,0000,0000,0000,,Now, how do I get her to not worry \Nabout people looking at her?
+Dialogue: 0,0:10:04.50,0:10:05.52,main,Gauche,0000,0000,0000,,A turtle.
+Dialogue: 0,0:10:06.33,0:10:09.43,main,Gauche,0000,0000,0000,,From now on, you're going to \Nbe a turtle. A very big turtle.
+Dialogue: 0,0:10:09.43,0:10:13.16,main,Gauche,0000,0000,0000,,Whether it's windy, rainy, or people are \Nstaring at you, you just don't care.
+Dialogue: 0,0:10:13.16,0:10:14.40,main,Gauche,0000,0000,0000,,You are a turtle!
+Dialogue: 0,0:10:22.26,0:10:23.26,main,Gauche,0000,0000,0000,,I'm...
+Dialogue: 0,0:10:24.11,0:10:25.14,main,Gauche,0000,0000,0000,,looking at you.
+Dialogue: 0,0:10:26.97,0:10:28.64,main,Gauche,0000,0000,0000,,All right! It worked!
+Dialogue: 0,0:10:29.45,0:10:31.15,main,Gauche,0000,0000,0000,,Hey, say something!
+Dialogue: 0,0:10:32.62,0:10:35.53,main,Gauche,0000,0000,0000,,Oh, right. Turtles don't talk.
+Dialogue: 0,0:10:35.53,0:10:36.65,main,Gauche,0000,0000,0000,,Well, that's not good.
+Dialogue: 0,0:10:37.59,0:10:39.86,main,Gauche,0000,0000,0000,,You're now going to turn back into a human.
+Dialogue: 0,0:10:39.86,0:10:41.70,main,Gauche,0000,0000,0000,,But your mind will remain a turtle.
+Dialogue: 0,0:10:41.70,0:10:44.37,main,Gauche,0000,0000,0000,,You'll be a human who's never fazed \Nby anything, just like a turtle.
+Dialogue: 0,0:10:45.32,0:10:47.56,main,Grey,0000,0000,0000,,I'm... a human.
+Dialogue: 0,0:10:48.67,0:10:50.42,main,Gauche,0000,0000,0000,,I'm looking at you.
+Dialogue: 0,0:10:55.57,0:10:57.88,main,Grey,0000,0000,0000,,I don't have to hide my face.
+Dialogue: 0,0:10:58.41,0:10:59.88,main,Grey,0000,0000,0000,,I can bear it!
+Dialogue: 0,0:11:00.65,0:11:01.88,main,Gauche,0000,0000,0000,,Perfect.
+Dialogue: 0,0:11:06.07,0:11:07.23,main,Gauche,0000,0000,0000,,How are you doing?
+Dialogue: 0,0:11:07.23,0:11:13.05,main,Grey,0000,0000,0000,,I'm still a little anxious, \Nbut I feel completely different... now.
+Dialogue: 0,0:11:13.80,0:11:17.58,main,Gauche,0000,0000,0000,,I'm sure you do. You have \Nthe mind of a turtle now.
+Dialogue: 0,0:11:17.58,0:11:20.73,main,Gauche,0000,0000,0000,,Eventually, you won't care about \Npeople looking at you at all.
+Dialogue: 0,0:11:21.29,0:11:22.11,main,Grey,0000,0000,0000,,Yes...
+Dialogue: 0,0:11:22.11,0:11:23.97,main,Gauche,0000,0000,0000,,If you're fine on this crowded street,
+Dialogue: 0,0:11:23.97,0:11:28.12,main,Gauche,0000,0000,0000,,you should be fine being surrounded \Nby your friends at the hideout.
+Dialogue: 0,0:11:28.54,0:11:31.12,main,Grey,0000,0000,0000,,I owe it all to you, Gauche. Thank you.
+Dialogue: 0,0:11:31.93,0:11:32.87,main,Gauche,0000,0000,0000,,In that case...
+Dialogue: 0,0:11:35.17,0:11:37.17,main,Gauche,0000,0000,0000,,I'll need you to keep your promise now.
+Dialogue: 0,0:11:37.75,0:11:38.55,main,Grey,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:38.97,0:11:41.37,main,Gauche,0000,0000,0000,,Don't tell me you actually forgot.
+Dialogue: 0,0:11:41.37,0:11:44.22,main,Gauche,0000,0000,0000,,Turn into Marie and say \Nthose lines I wrote for you.
+Dialogue: 0,0:11:44.22,0:11:45.36,main,,0000,0000,0000,,Oh... Right.
+Dialogue: 0,0:11:46.63,0:11:47.93,main,Grey,0000,0000,0000,,I love you, Big Brother!
+Dialogue: 0,0:11:47.93,0:11:50.68,main,Gauche,0000,0000,0000,,I love you too, Marie!
+Dialogue: 0,0:11:53.52,0:11:54.97,main,Gauche,0000,0000,0000,,Why did you turn back?
+Dialogue: 0,0:11:54.97,0:11:57.86,main,Grey,0000,0000,0000,,I-I-I mean, this is a bit much...
+Dialogue: 0,0:11:58.46,0:11:59.78,main,Gauche,0000,0000,0000,,Transform.
+Dialogue: 0,0:11:59.78,0:12:01.63,main,Grey,0000,0000,0000,,I-I'm too embarrassed...
+Dialogue: 0,0:12:01.63,0:12:03.56,main,Gauche,0000,0000,0000,,You turned back to normal!
+Dialogue: 0,0:12:04.96,0:12:08.10,main,Gauche,0000,0000,0000,,Well, that was a big waste of time.
+Dialogue: 0,0:12:08.10,0:12:10.95,main,Grey,0000,0000,0000,,I-I'm really sorry!
+Dialogue: 0,0:12:10.95,0:12:13.96,main,Gauche,0000,0000,0000,,I mean, if you're not embarrassed \Nwhen you're transformed,
+Dialogue: 0,0:12:13.96,0:12:16.50,main,Gauche,0000,0000,0000,,then why don't you just stay \Nin that form like you used to?
+Dialogue: 0,0:12:17.57,0:12:20.51,main,Grey,0000,0000,0000,,But then it wouldn't be the real me.
+Dialogue: 0,0:12:21.03,0:12:22.38,main,Gauche,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:12:22.62,0:12:26.01,main,Gauche,0000,0000,0000,,It doesn't matter what form \Nyou take. You're always Grey.
+Dialogue: 0,0:12:26.87,0:12:28.13,main,Grey,0000,0000,0000,,Gauche...
+Dialogue: 0,0:12:52.58,0:12:54.08,main,Sol,0000,0000,0000,,You're so amazing, Sis!
+Dialogue: 0,0:12:54.36,0:12:57.67,main,Sol,0000,0000,0000,,You can activate your spells \Nway faster than before!
+Dialogue: 0,0:12:58.15,0:12:59.72,main,Charlotte,0000,0000,0000,,It's still not enough.
+Dialogue: 0,0:12:59.72,0:13:06.45,main,Charlotte,0000,0000,0000,,This isn't enough to face the threat of \Nthe Spade Kingdom, let alone the devil!
+Dialogue: 0,0:13:08.91,0:13:11.10,main,Charlotte,0000,0000,0000,,Next! All five of you come at me at onc—
+Dialogue: 0,0:13:16.85,0:13:19.48,italics,Charlotte,0000,0000,0000,,I guess I can't even call \Nthis training anymore.
+Dialogue: 0,0:13:20.39,0:13:22.48,main,Charlotte,0000,0000,0000,,All right, let's take a break.
+Dialogue: 0,0:13:26.49,0:13:28.56,main,Galgaria,0000,0000,0000,,It's rough not having any time off,
+Dialogue: 0,0:13:28.56,0:13:32.24,main,Galgaria,0000,0000,0000,,but we definitely need to train for this \Nupcoming battle with the Spade Kingdom.
+Dialogue: 0,0:13:32.79,0:13:36.25,main,Selena,0000,0000,0000,,We need to do our best right now \Nto protect the Clover Kingdom.
+Dialogue: 0,0:13:36.63,0:13:39.63,main,Wainsley,0000,0000,0000,,Captain! We look forward to you whipping \Nus into shape in the afternoon, too!
+Dialogue: 0,0:13:40.19,0:13:41.56,main,Charlotte,0000,0000,0000,,I intend to do just that.
+Dialogue: 0,0:13:41.56,0:13:43.52,main,Charlotte,0000,0000,0000,,Just be careful not to injure yourselves.
+Dialogue: 0,0:13:44.20,0:13:45.01,main,All,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:13:45.01,0:13:47.75,italics,Charlotte,0000,0000,0000,,Everyone is enthusiastic \Nabout their training.
+Dialogue: 0,0:13:47.75,0:13:51.60,italics,Charlotte,0000,0000,0000,,They may be livelier now that I've eased the \Nrestrictions on their interactions with men.
+Dialogue: 0,0:13:51.99,0:13:54.84,main,Rose C,0000,0000,0000,,I can't wait to go out on dates with \Nmy boyfriend as soon as this whole mess
+Dialogue: 0,0:13:54.84,0:13:56.60,main,Rose C,0000,0000,0000,,with the Spade Kingdom and the devil is done.
+Dialogue: 0,0:13:57.60,0:14:00.24,main,Wainsley,0000,0000,0000,,Me, too! We're gonna go \Nout on dates every day!
+Dialogue: 0,0:14:00.24,0:14:02.36,main,Wainsley,0000,0000,0000,,I guess we'll just have \Nto get stronger first.
+Dialogue: 0,0:14:02.36,0:14:05.45,main,Rose E,0000,0000,0000,,Aw, no fair. I broke up \Nwith my boyfriend recently.
+Dialogue: 0,0:14:05.45,0:14:07.80,main,Rose C,0000,0000,0000,,What? Did you dump him,\Nor did he dump you?
+Dialogue: 0,0:14:07.80,0:14:09.33,main,Rose E,0000,0000,0000,,He dumped me...
+Dialogue: 0,0:14:09.85,0:14:12.95,main,Rose C,0000,0000,0000,,I see... Well, you've both been busy.
+Dialogue: 0,0:14:12.95,0:14:14.65,main,Wainsley,0000,0000,0000,,Yeah, that's rough.
+Dialogue: 0,0:14:14.65,0:14:17.56,main,Wainsley,0000,0000,0000,,But nothing good comes of dwelling on \Nthe past, so move on to the next one!
+Dialogue: 0,0:14:17.56,0:14:22.25,main,Rose C,0000,0000,0000,,Yeah! One of my boyfriend's friends is single,\N so let's all go drinking together soon.
+Dialogue: 0,0:14:22.25,0:14:25.05,top,Rose E,0000,0000,0000,,I can't get over it that quickly...
+Dialogue: 0,0:14:22.25,0:14:27.15,italics,Charlotte,0000,0000,0000,,W-Well, regardless of their motives,\N their enthusiasm is good.
+Dialogue: 0,0:14:25.05,0:14:26.25,top,Rose C,0000,0000,0000,,Don't worry!
+Dialogue: 0,0:14:26.25,0:14:28.47,top,Wainsley,0000,0000,0000,,Yeah, it's no big deal.
+Dialogue: 0,0:14:27.15,0:14:28.47,italics,Charlotte,0000,0000,0000,,I must lead them.
+Dialogue: 0,0:14:28.76,0:14:32.73,main,Sol,0000,0000,0000,,You guys talking about romance again?\N You're all helpless!
+Dialogue: 0,0:14:32.73,0:14:35.06,main,Sol,0000,0000,0000,,What's so good about hanging out with men?
+Dialogue: 0,0:14:35.32,0:14:37.00,main,Galgaria,0000,0000,0000,,Of course, Captain Charlotte,
+Dialogue: 0,0:14:37.00,0:14:39.54,main,Galgaria,0000,0000,0000,,you'll be going out with Captain Yami \Nonce this is all over, right?
+Dialogue: 0,0:14:40.73,0:14:42.57,main,Selena,0000,0000,0000,,What's wrong, Captain?
+Dialogue: 0,0:14:42.57,0:14:44.81,main,Charlotte,0000,0000,0000,,E-Er, it's nothing.
+Dialogue: 0,0:14:44.81,0:14:48.19,main,Puli,0000,0000,0000,,By the way, Captain, have there \Nbeen any developments since?
+Dialogue: 0,0:14:48.63,0:14:50.36,main,Charlotte,0000,0000,0000,,What do you mean by developments?
+Dialogue: 0,0:14:50.58,0:14:54.62,main,Puli,0000,0000,0000,,Oh, come on! I'm talking about your \Nromance with Captain Yami, of course!
+Dialogue: 0,0:14:56.04,0:14:59.92,main,Rose C,0000,0000,0000,,Yeah! Were you able to go on \Nany dates after our mixer?
+Dialogue: 0,0:14:59.92,0:15:01.58,italics,Charlotte,0000,0000,0000,,M-Mixer...
+Dialogue: 0,0:15:05.59,0:15:08.12,main,Galgaria,0000,0000,0000,,That was so much fun!
+Dialogue: 0,0:15:08.12,0:15:10.51,main,Wainsley,0000,0000,0000,,I think Captain Yami just \Nneeded one more push!
+Dialogue: 0,0:15:10.74,0:15:12.40,main,Charlotte,0000,0000,0000,,Don't be absurd!
+Dialogue: 0,0:15:12.40,0:15:15.81,main,Puli,0000,0000,0000,,No, no, you were going in the \Nright direction, Captain.
+Dialogue: 0,0:15:16.02,0:15:20.30,main,Selena,0000,0000,0000,,If the Angel of Love, Puli Angel, says so,\N then it must be true, Captain!
+Dialogue: 0,0:15:20.30,0:15:21.31,main,Galgaria,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:22.11,0:15:23.73,italics,Charlotte,0000,0000,0000,,Really? Is that true?
+Dialogue: 0,0:15:23.73,0:15:27.36,main,Rose C,0000,0000,0000,,So, Captain, you are going out on \Ndates with Captain Yami, aren't you?
+Dialogue: 0,0:15:27.36,0:15:28.97,main,Charlotte,0000,0000,0000,,Of course I'm not!
+Dialogue: 0,0:15:28.97,0:15:30.28,main,All,0000,0000,0000,,What?!
+Dialogue: 0,0:15:30.71,0:15:32.28,italics,Charlotte,0000,0000,0000,,Though, in truth...
+Dialogue: 0,0:15:33.15,0:15:34.78,italics,Charlotte,0000,0000,0000,,After our last captains' meeting,
+Dialogue: 0,0:15:35.12,0:15:38.67,italics,Charlotte,0000,0000,0000,,I wanted to ask him to dinner, \Nand prepared a little gift to give him.
+Dialogue: 0,0:15:38.67,0:15:40.23,italics,Charlotte,0000,0000,0000,,But I just couldn't give it to him.
+Dialogue: 0,0:15:40.79,0:15:45.29,main,Sol,0000,0000,0000,,Well, duh! Sis shines more on the \Nbattlefield than in any dumb relationship!
+Dialogue: 0,0:15:45.81,0:15:49.17,main,Charlotte,0000,0000,0000,,We need to prepare for the threat of \Nthe Spade Kingdom and the devil right now.
+Dialogue: 0,0:15:49.39,0:15:52.22,main,Puli,0000,0000,0000,,Non, non! This is the perfect time to strike!
+Dialogue: 0,0:15:53.44,0:15:56.95,main,Puli,0000,0000,0000,,Everyone is on edge because \Nof the upcoming battle.
+Dialogue: 0,0:15:56.95,0:16:00.23,main,Puli,0000,0000,0000,,That's why everyone needs \Na little extra love.
+Dialogue: 0,0:16:00.51,0:16:03.23,main,Galgaria,0000,0000,0000,,I know I mentioned that \NI want to go out on a date
+Dialogue: 0,0:16:03.23,0:16:05.29,main,Galgaria,0000,0000,0000,,with my boyfriend once this is all over,
+Dialogue: 0,0:16:05.29,0:16:07.17,main,Galgaria,0000,0000,0000,,but we go on dates occasionally anyway.
+Dialogue: 0,0:16:07.17,0:16:09.84,main,Wainsley,0000,0000,0000,,I haven't seen mine, \Nbut we've been chatting through our
+Dialogue: 0,0:16:09.84,0:16:11.32,main,Wainsley,0000,0000,0000,,magic communication items every night.
+Dialogue: 0,0:16:11.53,0:16:12.74,main,Sol,0000,0000,0000,,Seriously...
+Dialogue: 0,0:16:12.98,0:16:15.53,main,Puli,0000,0000,0000,,And now is a once in a lifetime chance.
+Dialogue: 0,0:16:15.89,0:16:17.21,main,Charlotte,0000,0000,0000,,What's that supposed to mean?
+Dialogue: 0,0:16:17.21,0:16:20.03,main,Puli,0000,0000,0000,,When a man and a woman share a \Nsense of impending danger together,
+Dialogue: 0,0:16:20.03,0:16:21.43,main,Puli,0000,0000,0000,,they become closer!
+Dialogue: 0,0:16:21.43,0:16:23.80,main,Puli,0000,0000,0000,,Now that we're facing the impending \Ndanger of the Spade Kingdom
+Dialogue: 0,0:16:23.80,0:16:25.54,main,Puli,0000,0000,0000,,and the devil, it's the perfect chance.
+Dialogue: 0,0:16:25.54,0:16:27.34,main,Sol,0000,0000,0000,,You can't be serious.
+Dialogue: 0,0:16:27.34,0:16:30.45,main,Puli,0000,0000,0000,,Anyway, this is the \Nopportune chance for love!
+Dialogue: 0,0:16:30.45,0:16:31.84,main,Puli,0000,0000,0000,,If you use it wisely...
+Dialogue: 0,0:16:34.55,0:16:38.68,main,Charlotte,0000,0000,0000,,I can't let a man save me.
+Dialogue: 0,0:16:38.95,0:16:42.09,main,Yami,0000,0000,0000,,What are you talking about? \NYou save me all the time.
+Dialogue: 0,0:16:42.09,0:16:42.89,main,Charlotte,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:43.54,0:16:48.74,main,Yami,0000,0000,0000,,My love for you is what \Nkeeps me going all the time.
+Dialogue: 0,0:16:48.74,0:16:50.15,main,Charlotte,0000,0000,0000,,Yami...
+Dialogue: 0,0:16:52.19,0:16:54.90,main,Yami,0000,0000,0000,,Charlotte, I want...
+Dialogue: 0,0:16:54.90,0:16:56.71,main,Yami,0000,0000,0000,,to start a family with you.
+Dialogue: 0,0:16:57.71,0:16:58.70,main,Charlotte,0000,0000,0000,,Of course!
+Dialogue: 0,0:16:59.34,0:17:01.59,main,Puli,0000,0000,0000,,And then the two get \Nmarried and lived happ—
+Dialogue: 0,0:17:01.59,0:17:02.87,main,Charlotte,0000,0000,0000,,Wait, wait, wait, wait, wait!
+Dialogue: 0,0:17:02.87,0:17:04.69,main,Charlotte,0000,0000,0000,,That's not happening!
+Dialogue: 0,0:17:04.69,0:17:06.25,main,All,0000,0000,0000,,But it could!
+Dialogue: 0,0:17:06.46,0:17:10.50,main,Charlotte,0000,0000,0000,,Even so, losing our next battle wouldn't mean\N facing mere anxiety or a sense of danger.
+Dialogue: 0,0:17:10.50,0:17:11.94,main,Charlotte,0000,0000,0000,,We would be dead.
+Dialogue: 0,0:17:11.94,0:17:14.05,main,Charlotte,0000,0000,0000,,To avoid that, we must train!
+Dialogue: 0,0:17:14.50,0:17:17.05,main,Charlotte,0000,0000,0000,,I'm sure you're all plenty rested now!
+Dialogue: 0,0:17:17.34,0:17:19.38,italics,Wainsley,0000,0000,0000,,Captain Charlotte is amazing.
+Dialogue: 0,0:17:19.38,0:17:21.89,italics,Rose C,0000,0000,0000,,I guess she doesn't let love get in the way.
+Dialogue: 0,0:17:21.89,0:17:25.35,italics,Rose E,0000,0000,0000,,We need to work hard so this \Ndanger can pass quicker!
+Dialogue: 0,0:17:26.12,0:17:29.15,main,Charlotte,0000,0000,0000,,Sol, Puli, Selena, Galgaria...
+Dialogue: 0,0:17:29.57,0:17:31.48,main,Charlotte,0000,0000,0000,,All of you, attack me at once!
+Dialogue: 0,0:17:31.77,0:17:33.78,main,Sol,0000,0000,0000,,All right! Here we go, Sis!
+Dialogue: 0,0:17:34.14,0:17:37.07,main,Galgaria,0000,0000,0000,,Stone Creation Magic: Stone Rain!
+Dialogue: 0,0:17:37.45,0:17:40.84,main,Selena,0000,0000,0000,,Water Creation Magic: Cascade Destroyer!
+Dialogue: 0,0:17:46.58,0:17:49.21,main,Sol,0000,0000,0000,,Earth Magic: Mud Wall Partition!
+Dialogue: 0,0:17:56.43,0:17:57.68,main,Puli,0000,0000,0000,,No!
+Dialogue: 0,0:18:02.19,0:18:03.05,main,Selena,0000,0000,0000,,Galgar—
+Dialogue: 0,0:18:03.96,0:18:05.43,main,Sol,0000,0000,0000,,Crap! I won't make it in ti—
+Dialogue: 0,0:18:05.43,0:18:08.53,main,Rose C,0000,0000,0000,,Our captain is so dazzling. \NShe fights so elegantly.
+Dialogue: 0,0:18:08.53,0:18:11.27,main,Wainsley,0000,0000,0000,,I'm sure Captain Yami loves this, too.
+Dialogue: 0,0:18:12.10,0:18:12.90,main,Sol,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:17.34,0:18:20.41,main,Sol,0000,0000,0000,,Damn it! I thought I had a chance!
+Dialogue: 0,0:18:20.41,0:18:23.59,main,Rose E,0000,0000,0000,,Everything must be according to her plans!
+Dialogue: 0,0:18:23.59,0:18:25.97,main,Rose C,0000,0000,0000,,Our captain is amazing.
+Dialogue: 0,0:18:25.97,0:18:28.29,main,Wainsley,0000,0000,0000,,Let's do our best not to hold her back.
+Dialogue: 0,0:18:31.68,0:18:36.46,main,Charlotte,0000,0000,0000,,The four of you can rest a while. \NThe other seven of you, attack me at once.
+Dialogue: 0,0:18:38.62,0:18:40.26,main,Rose C,0000,0000,0000,,What do you think?
+Dialogue: 0,0:18:40.26,0:18:42.22,main,Sol,0000,0000,0000,,What?! We can't do that!
+Dialogue: 0,0:18:42.45,0:18:43.77,main,Selena,0000,0000,0000,,No, we totally can.
+Dialogue: 0,0:18:43.77,0:18:45.81,main,Galgaria,0000,0000,0000,,It'll serve as training for us, too.
+Dialogue: 0,0:18:45.81,0:18:48.36,main,Rose E,0000,0000,0000,,And we'll be supporting \NCaptain Charlotte, too.
+Dialogue: 0,0:18:48.36,0:18:49.39,main,Wainsley,0000,0000,0000,,It's two birds with one stone!
+Dialogue: 0,0:18:49.66,0:18:51.95,italics,Charlotte,0000,0000,0000,,What in the world are they discussing?
+Dialogue: 0,0:18:51.95,0:18:55.11,italics,Charlotte,0000,0000,0000,,Are they coming up with a strategy \Nfor attacking me all at once?
+Dialogue: 0,0:18:55.77,0:18:58.68,main,Galgaria,0000,0000,0000,,Say, Captain. We have a suggestion.
+Dialogue: 0,0:18:59.11,0:19:00.01,main,Charlotte,0000,0000,0000,,What is it?
+Dialogue: 0,0:19:00.01,0:19:01.91,main,Rose C,0000,0000,0000,,This is difficult to say,
+Dialogue: 0,0:19:01.91,0:19:06.30,main,Rose C,0000,0000,0000,,but we don't think we can be worthy \Ntraining partners for you.
+Dialogue: 0,0:19:06.30,0:19:07.91,main,Charlotte,0000,0000,0000,,I wouldn't say that.
+Dialogue: 0,0:19:07.91,0:19:14.38,main,Rose E,0000,0000,0000,,Even when the whole group of us attack, \Nwe still aren't any match for you.
+Dialogue: 0,0:19:14.38,0:19:16.84,main,Sol,0000,0000,0000,,Stop being so pathetic in front of Sis!
+Dialogue: 0,0:19:17.31,0:19:19.26,main,Girl,0000,0000,0000,,But it's true.
+Dialogue: 0,0:19:19.26,0:19:23.34,main,Wainsley,0000,0000,0000,,So we were wondering if we should \Nmaybe train with another squad.
+Dialogue: 0,0:19:23.80,0:19:25.14,main,Charlotte,0000,0000,0000,,Train with another squad?
+Dialogue: 0,0:19:25.35,0:19:28.21,main,Galgaria,0000,0000,0000,,For example, if we were to \Ntrain with the Black Bulls,
+Dialogue: 0,0:19:28.21,0:19:30.93,main,Galgaria,0000,0000,0000,,I think we could all find \Nworthy training partners.
+Dialogue: 0,0:19:30.93,0:19:31.73,main,Charlotte,0000,0000,0000,,Whut?!
+Dialogue: 0,0:19:31.73,0:19:35.16,main,Selena,0000,0000,0000,,They seem to have a mix \Nof the best and the worst,
+Dialogue: 0,0:19:35.16,0:19:36.73,main,Selena,0000,0000,0000,,so they should be worthy opponents.
+Dialogue: 0,0:19:37.03,0:19:40.57,main,Rose E,0000,0000,0000,,Captain, could you officially \Nrequest a joint training session?
+Dialogue: 0,0:19:40.83,0:19:45.37,main,Charlotte,0000,0000,0000,,I-I see... Well, I don't know \Nif they'll accept, but...
+Dialogue: 0,0:19:45.37,0:19:46.70,main,Charlotte,0000,0000,0000,,I'll find the right moment to ask.
+Dialogue: 0,0:19:50.28,0:19:52.92,italics,Marx,0000,0000,0000,,Captain Charlotte, do you have a moment?
+Dialogue: 0,0:19:52.92,0:19:54.29,main,Charlotte,0000,0000,0000,,I'm free.
+Dialogue: 0,0:19:54.29,0:19:56.13,italics,Marx,0000,0000,0000,,If you're busy training, \NI can call at another time.
+Dialogue: 0,0:19:56.55,0:19:58.69,main,Charlotte,0000,0000,0000,,Well, we were just \Ndiscussing the possibility
+Dialogue: 0,0:19:58.69,0:20:01.16,main,Charlotte,0000,0000,0000,,of a joint training session \Nwith the Black Bulls.
+Dialogue: 0,0:20:01.16,0:20:02.43,main,Charlotte,0000,0000,0000,,What did you need?
+Dialogue: 0,0:20:02.69,0:20:04.88,italics,Marx,0000,0000,0000,,I'd like to confirm the date \Nfor the next captains' meeting.
+Dialogue: 0,0:20:04.88,0:20:07.73,italics,Marx,0000,0000,0000,,I'm assuming your plans haven't changed?
+Dialogue: 0,0:20:07.73,0:20:08.64,main,Charlotte,0000,0000,0000,,Correct.
+Dialogue: 0,0:20:08.85,0:20:11.00,italics,Marx,0000,0000,0000,,Understood. Please excuse me.
+Dialogue: 0,0:20:12.09,0:20:15.71,main,Charlotte,0000,0000,0000,,All right. For now, we're going \Nto continue doing what we can.
+Dialogue: 0,0:20:15.71,0:20:17.84,main,Charlotte,0000,0000,0000,,We can worry about the joint \Ntraining session later.
+Dialogue: 0,0:20:17.84,0:20:18.77,main,All,0000,0000,0000,,Right!
+Dialogue: 0,0:20:28.24,0:20:31.31,italics,Charlotte,0000,0000,0000,,Joint training with the Black Bulls...
+Dialogue: 0,0:20:31.31,0:20:35.66,italics,Charlotte,0000,0000,0000,,I wonder if he'll be suspicious... \NNo, this is merely training.
+Dialogue: 0,0:20:35.66,0:20:38.88,italics,Charlotte,0000,0000,0000,,Yes, this is for survival. \NTo help us defeat the enemy...
+Dialogue: 0,0:20:39.84,0:20:41.53,main,Yami,0000,0000,0000,,Why're you just standing there?
+Dialogue: 0,0:20:41.88,0:20:42.76,main,Charlotte,0000,0000,0000,,Ya—
+Dialogue: 0,0:20:43.00,0:20:47.01,italics,Charlotte,0000,0000,0000,,This is it, Charlotte. Ask Yami if he'd \Nagree to the joint training session.
+Dialogue: 0,0:20:50.17,0:20:54.45,main,Yami,0000,0000,0000,,I guess even the Spiny Prickly Queen\N trips sometimes, huh?
+Dialogue: 0,0:20:54.45,0:20:56.23,main,Yami,0000,0000,0000,,I got to see something rare today.
+Dialogue: 0,0:21:04.98,0:21:06.56,main,Yami,0000,0000,0000,,Seriously? Again?
+Dialogue: 0,0:21:06.56,0:21:10.16,main,Yami,0000,0000,0000,,You're shattering my sensitive, \Nfragile heart of glass here.
+Dialogue: 0,0:21:10.74,0:21:13.37,main,Marx,0000,0000,0000,,Other than the Captain of the\N Blue Rose Knights, everyone is present.
+Dialogue: 0,0:21:14.27,0:21:16.41,main,Julius,0000,0000,0000,,So Charlotte's late?
+Dialogue: 0,0:21:16.41,0:21:18.93,main,Julius,0000,0000,0000,,She arrived late to the \NStar Festival with Yami.
+Dialogue: 0,0:21:18.93,0:21:20.63,main,Julius,0000,0000,0000,,I wonder what happened this time.
+Dialogue: 0,0:21:21.04,0:21:23.71,main,Marx,0000,0000,0000,,By the way, it seems the Blue Rose Knights are
+Dialogue: 0,0:21:23.71,0:21:26.85,main,Marx,0000,0000,0000,,trying to plan a joint training \Nsession with the Black Bulls.
+Dialogue: 0,0:21:26.85,0:21:28.76,main,Marx,0000,0000,0000,,Perhaps this is related.
+Dialogue: 0,0:21:29.05,0:21:33.64,main,Julius,0000,0000,0000,,A joint training session, huh? \NHey, I just had a great idea.
+Dialogue: 0,0:21:33.84,0:21:34.64,main,Marx,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:34.97,0:21:36.42,main,Julius,0000,0000,0000,,The kingdom's citizens are still
+Dialogue: 0,0:21:36.42,0:21:39.65,main,Julius,0000,0000,0000,,emotionally and physically exhausted \Nfrom the Eye of the Midnight Sun's attacks.
+Dialogue: 0,0:21:39.95,0:21:41.55,main,Marx,0000,0000,0000,,I can't deny that.
+Dialogue: 0,0:21:42.09,0:21:46.03,main,Julius,0000,0000,0000,,I'm sure they're worried about whether \Nthe royal family can protect them or not.
+Dialogue: 0,0:21:46.53,0:21:51.94,main,Julius,0000,0000,0000,,We need to reassure them that the Magic \NKnights have the strength to protect them,
+Dialogue: 0,0:21:51.94,0:21:55.21,main,Julius,0000,0000,0000,,and raise the morale of the captains \Nand Magic Knights, too.
+Dialogue: 0,0:21:55.21,0:22:00.04,main,Julius,0000,0000,0000,,So that we can face the impending threat \Nof the Spade Kingdom and the devil.
+Dialogue: 0,0:22:00.43,0:22:03.44,main,Marx,0000,0000,0000,,Um... If I may, what exactly \Nare you planning to do?
+Dialogue: 0,0:22:05.68,0:22:08.19,main,Julius,0000,0000,0000,,I'm going to have the \Ncaptains fight each other.
+Dialogue: 0,0:23:40.05,0:23:42.45,main,Some,0000,0000,0000,,Next time on {\i1}Black Clover{\i0}, Page 151:
+Dialogue: 0,0:23:41.10,0:23:54.25,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 151\N\N{\fs18} Clash! The Battle of the Magic Knights Squad Captains!"
+Dialogue: 0,0:23:42.45,0:23:44.81,main,Some,0000,0000,0000,,"Clash! The Battle of the \NMagic Knights Squad Captains!"
+Dialogue: 0,0:23:44.81,0:23:47.40,main,Grey,0000,0000,0000,,D-Do your best, Captain Yami!
+Dialogue: 0,0:23:47.40,0:23:49.27,main,Gauche,0000,0000,0000,,You, too. Wanna train again?
+Dialogue: 0,0:23:49.27,0:23:50.28,main,Grey,0000,0000,0000,,No!
+Dialogue: 0,0:23:50.28,0:23:51.15,main,Gauche,0000,0000,0000,,Okay, fine.
+Dialogue: 0,0:23:51.15,0:23:52.49,main,Grey,0000,0000,0000,,I-I look forward to your guidance.
+Dialogue: 0,0:23:52.49,0:23:53.41,main,Gauche,0000,0000,0000,,Which is it?!

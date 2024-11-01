@@ -1,0 +1,326 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0080,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,0030,0030,0018,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+
+Dialogue: 0,0:00:02.69,0:00:07.13,italics,nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.09,0:00:15.34,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.48,0:00:27.65,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:31.06,0:00:35.53,italics,Nar,0000,0000,0000,,The forces of the Eye of the Midnight \NSun attacked the Witches' Forest.
+Dialogue: 0,0:00:35.53,0:00:39.07,italics,Nar,0000,0000,0000,,They were after the magic stone \Nthat lies in the forest.
+Dialogue: 0,0:00:39.81,0:00:45.18,italics,Nar,0000,0000,0000,,At the same time, the forces of the Diamond \NKingdom also attacked the Witches' Forest.
+Dialogue: 0,0:00:45.18,0:00:47.67,italics,Nar,0000,0000,0000,,They wanted to take advantage of the chaos
+Dialogue: 0,0:00:47.67,0:00:50.75,italics,Nar,0000,0000,0000,,and steal the Queen of Witches' secret.
+Dialogue: 0,0:00:51.28,0:00:54.26,italics,Nar,0000,0000,0000,,Fanzell, a former officer in \Nthe Diamond Kingdom's army,
+Dialogue: 0,0:00:54.26,0:00:58.26,italics,Nar,0000,0000,0000,,ended up facing two of his \Nformer students, Mars and Ladros.
+Dialogue: 0,0:00:58.26,0:01:00.14,main,Ladros,0000,0000,0000,,Million Lasers!
+Dialogue: 0,0:01:05.31,0:01:10.35,main,Fanzell,0000,0000,0000,,Don't... You should be using your \Npowers to do the right thing...
+Dialogue: 0,0:01:10.35,0:01:16.39,main,Ladros,0000,0000,0000,,Getting to use your power to the max in \Ncombat... What could be better than that?
+Dialogue: 0,0:01:16.39,0:01:20.57,main,Ladros,0000,0000,0000,,You see, I want to be acknowledged. \NBy this country! By this world!
+Dialogue: 0,0:01:21.53,0:01:25.83,main,Ladros,0000,0000,0000,,Guess I'll just have to kill this chick first!
+Dialogue: 0,0:01:26.91,0:01:29.46,main,Fanzell,0000,0000,0000,,Don't!
+Dialogue: 0,0:01:32.04,0:01:35.92,main,Mars,0000,0000,0000,,My powers... exist to protect others.
+Dialogue: 0,0:01:36.47,0:01:39.68,main,Mars,0000,0000,0000,,Your lessons got through to me.
+Dialogue: 0,0:01:40.95,0:01:43.61,italics,Nar,0000,0000,0000,,Mars managed to turn the \Ntables at the last moment.
+Dialogue: 0,0:01:43.61,0:01:45.27,italics,Nar,0000,0000,0000,,Fanzell was troubled because
+Dialogue: 0,0:01:45.27,0:01:49.87,italics,Nar,0000,0000,0000,,he thought there was no way to defeat \NLadros's absorption and emission power,
+Dialogue: 0,0:01:49.87,0:01:51.56,italics,Nar,0000,0000,0000,,but he and Mars came up with a plan.
+Dialogue: 0,0:01:51.56,0:01:54.07,main,Ladros,0000,0000,0000,,What are you gossiping about over there?
+Dialogue: 0,0:01:54.07,0:01:58.99,main,Ladros,0000,0000,0000,,No matter what plan you come up with,\Nit'll be useless against my power!
+Dialogue: 0,0:01:58.99,0:02:02.46,main,Fanzell,0000,0000,0000,,I'm not half bad at \Nreinforcement magic myself.
+Dialogue: 0,0:02:02.46,0:02:03.66,main,Both,0000,0000,0000,,Have a nice trip!
+Dialogue: 0,0:02:16.46,0:02:19.88,Ep Title,Sign,0000,0000,0000,,{\fad(1023,1)}The Promised World
+Dialogue: 0,0:03:39.09,0:03:42.48,main,Asta,0000,0000,0000,,We have you completely surrounded!
+Dialogue: 0,0:03:42.48,0:03:45.34,main,Asta,0000,0000,0000,,So just give up already!
+Dialogue: 0,0:03:45.34,0:03:49.43,main,Asta,0000,0000,0000,,If you do something stupid, your parents \Nand friends back home will be sad!
+Dialogue: 0,0:03:50.43,0:03:54.98,main,Fana,0000,0000,0000,,You filthy humans... Don't you\N dare speak of my friends!
+Dialogue: 0,0:04:01.41,0:04:03.90,main,Finral,0000,0000,0000,,She still has that much magic left?!
+Dialogue: 0,0:04:03.90,0:04:05.82,main,Asta,0000,0000,0000,,Oh, damn it!
+Dialogue: 0,0:04:11.11,0:04:12.19,main,Mars,0000,0000,0000,,Those flames...
+Dialogue: 0,0:04:12.19,0:04:13.54,main,Fanzell,0000,0000,0000,,There! They're right over there!
+Dialogue: 0,0:04:14.87,0:04:17.04,main,Fanzell,0000,0000,0000,,This overwhelming amount of magic...
+Dialogue: 0,0:04:17.94,0:04:19.04,main,Fanzell,0000,0000,0000,,It's Salamander!
+Dialogue: 0,0:04:20.40,0:04:21.84,main,Mar,0000,0000,0000,,This magic...
+Dialogue: 0,0:04:22.48,0:04:26.05,main,Fanzell,0000,0000,0000,,In that situation, Asta's not going \Nto have any time to deal with Ladros!
+Dialogue: 0,0:04:27.55,0:04:29.60,main,Fanzell,0000,0000,0000,,No, wait a sec...
+Dialogue: 0,0:04:31.56,0:04:34.56,main,Ladros,0000,0000,0000,,Come on, Teach! Mars! Wait up!
+Dialogue: 0,0:04:34.56,0:04:37.97,main,Ladros,0000,0000,0000,,A little reinforcement magic \Nwon't help you win against me!
+Dialogue: 0,0:04:37.97,0:04:40.19,main,Ladros,0000,0000,0000,,And you'll never win if \Nyou keep running away!
+Dialogue: 0,0:04:40.19,0:04:44.03,main,Ladros,0000,0000,0000,,Here you go! Million Lasers!
+Dialogue: 0,0:04:50.99,0:04:52.45,main,Fanzell,0000,0000,0000,,Asta!
+Dialogue: 0,0:04:52.45,0:04:53.95,main,Asta,0000,0000,0000,,Old Man Zell!
+Dialogue: 0,0:04:54.51,0:04:57.12,main,Asta,0000,0000,0000,,Wait, you're with the pale guy?!
+Dialogue: 0,0:05:00.33,0:05:01.21,main,Noelle,0000,0000,0000,,Asta!
+Dialogue: 0,0:05:05.30,0:05:07.01,main,Fanzell,0000,0000,0000,,Deflect it over here!
+Dialogue: 0,0:05:07.01,0:05:09.18,main,Asta,0000,0000,0000,,I don't know what's going on, but okay!
+Dialogue: 0,0:05:12.81,0:05:14.56,italics,Fanzell,0000,0000,0000,,I'll get us out of the way using the wind
+Dialogue: 0,0:05:14.91,0:05:17.06,italics,Fanzell,0000,0000,0000,,and aim the fire right at...
+Dialogue: 0,0:05:18.31,0:05:21.27,main,Ladros,0000,0000,0000,,Hey... This is way too big!
+Dialogue: 0,0:05:31.70,0:05:32.92,main,Fanzell,0000,0000,0000,,Did it work?
+Dialogue: 0,0:05:39.35,0:05:41.28,italics,Fanzell,0000,0000,0000,,Ladros's magical powers disappeared.
+Dialogue: 0,0:05:42.08,0:05:45.11,main,Asta,0000,0000,0000,,Hey! Old Man Zell!
+Dialogue: 0,0:05:45.11,0:05:48.87,main,Asta,0000,0000,0000,,What the heck's going on here?!\NSomething just fell!
+Dialogue: 0,0:05:48.87,0:05:50.75,main,Fanzell,0000,0000,0000,,Well done, Asta.
+Dialogue: 0,0:05:50.75,0:05:52.48,main,Fanzell,0000,0000,0000,,I see you've grown even stronger.
+Dialogue: 0,0:05:52.48,0:05:54.47,main,Asta,0000,0000,0000,,Aw, shucks. It's nothing.
+Dialogue: 0,0:05:55.19,0:05:59.42,main,Asta,0000,0000,0000,,No, wait! Why are you with the pale guy?!
+Dialogue: 0,0:05:59.42,0:06:00.56,main,Asta,0000,0000,0000,,He's an enemy!
+Dialogue: 0,0:06:04.51,0:06:06.69,main,Mars,0000,0000,0000,,Asta, was it?
+Dialogue: 0,0:06:07.23,0:06:10.24,main,Mars,0000,0000,0000,,I am not your enemy. Trust me.
+Dialogue: 0,0:06:10.24,0:06:13.20,main,Asta,0000,0000,0000,,How am I supposed to believe a \Nguy with an evil face like yours?!
+Dialogue: 0,0:06:13.59,0:06:16.34,main,Mars,0000,0000,0000,,And my name is Mars, you shrimp.
+Dialogue: 0,0:06:16.34,0:06:18.20,main,Asta,0000,0000,0000,,Wait, your mouth's nasty now, too!
+Dialogue: 0,0:06:18.54,0:06:20.16,main,Fanzell,0000,0000,0000,,I'll explain everything later.
+Dialogue: 0,0:06:20.16,0:06:20.96,main,Asta,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:21.63,0:06:24.21,main,Fanzell,0000,0000,0000,,For now, I'd like you to trust Mars.
+Dialogue: 0,0:06:25.68,0:06:27.97,main,Asta,0000,0000,0000,,Well, if you say so.
+Dialogue: 0,0:06:29.72,0:06:31.81,main,Zell,0000,0000,0000,,Thanks. Now, then...
+Dialogue: 0,0:06:31.81,0:06:35.23,main,Zell,0000,0000,0000,,I think Ladros has been taken \Ncare of for now, thanks to Asta.
+Dialogue: 0,0:06:37.86,0:06:40.27,main,Zell,0000,0000,0000,,So we need to do something \Nabout this monster.
+Dialogue: 0,0:06:40.87,0:06:44.94,italics,Mars,0000,0000,0000,,So that's the fire spirit Salamander \Nthat I've heard so much about.
+Dialogue: 0,0:06:45.44,0:06:49.69,italics,Mars,0000,0000,0000,,It appears to be weakened, but it \Nstill has tremendous magical powers.
+Dialogue: 0,0:06:50.07,0:06:54.20,italics,Mars,0000,0000,0000,,But those flames... They're the same as mine?
+Dialogue: 0,0:06:54.67,0:06:57.33,italics,Mars,0000,0000,0000,,And this magic itself feels like...
+Dialogue: 0,0:07:02.26,0:07:03.91,main,Mars,0000,0000,0000,,Fa...na...
+Dialogue: 0,0:07:26.21,0:07:29.94,flashbackitalics,Mars,0000,0000,0000,,We have no family... \Nso we have no other choice...
+Dialogue: 0,0:07:29.94,0:07:31.07,flashbackitalics,Mars,0000,0000,0000,,But...
+Dialogue: 0,0:07:32.57,0:07:35.36,flashback,Fana,0000,0000,0000,,Mars, is the training painful?
+Dialogue: 0,0:07:36.53,0:07:38.42,flashback,Mars,0000,0000,0000,,N-No, it's not.
+Dialogue: 0,0:07:38.42,0:07:42.08,flashback,Fana,0000,0000,0000,,When things get rough,\Nremember the faces of those you love.
+Dialogue: 0,0:07:42.61,0:07:47.60,flashback,Fana,0000,0000,0000,,We were born to protect the people \Nof this kingdom that we love so much.
+Dialogue: 0,0:07:48.80,0:07:50.17,italics,Mar,0000,0000,0000,,The faces of those you love...
+Dialogue: 0,0:07:50.85,0:07:54.85,italics,Mars,0000,0000,0000,,The face that popped into my \Nhead immediately... was yours,
+Dialogue: 0,0:07:54.85,0:07:55.68,italics,Mars,0000,0000,0000,,Fana.
+Dialogue: 0,0:07:56.55,0:07:58.93,flashback,Fana,0000,0000,0000,,Once we become strong enough\N to protect this kingdom,
+Dialogue: 0,0:07:58.93,0:08:01.52,flashback,Fana,0000,0000,0000,,we'll be allowed to go outside.
+Dialogue: 0,0:08:01.91,0:08:04.85,flashback,Fana,0000,0000,0000,,You'll probably make it out first, Mars.
+Dialogue: 0,0:08:04.85,0:08:05.73,flashback,Fana,0000,0000,0000,,Lucky.
+Dialogue: 0,0:08:06.63,0:08:11.33,flashback,Fana,0000,0000,0000,,I mean, you're the strongest \Nout of all of us, Mars.
+Dialogue: 0,0:08:13.89,0:08:16.74,flashback,Mars,0000,0000,0000,,I'll be waiting for you when that happens.
+Dialogue: 0,0:08:16.74,0:08:17.86,flashback,Fana,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:17.86,0:08:20.59,flashback,Mars,0000,0000,0000,,Until you get out, too, Fana.
+Dialogue: 0,0:08:22.72,0:08:25.87,flashback,Fana,0000,0000,0000,,Sure! Let's go see the \Noutside world together.
+Dialogue: 0,0:08:32.82,0:08:34.80,flashback,Trainer,0000,0000,0000,,This is your final test.
+Dialogue: 0,0:08:34.80,0:08:36.26,flashback,Trainer,0000,0000,0000,,Kill each other.
+Dialogue: 0,0:08:37.06,0:08:42.22,flashback,Trainer,0000,0000,0000,,The sole survivor will be allowed to go \Noutside as our kingdom's mage warrior.
+Dialogue: 0,0:08:42.88,0:08:45.25,flashback,Trainer,0000,0000,0000,,If you refuse, you'll all be disposed of.
+Dialogue: 0,0:08:57.51,0:08:59.83,flashback,Fana,0000,0000,0000,,I'm sorry, Mars.
+Dialogue: 0,0:09:01.78,0:09:03.10,flashback,Mars,0000,0000,0000,,Fana...
+Dialogue: 0,0:09:03.10,0:09:04.58,flashback,Fana,0000,0000,0000,,I have no other choice.
+Dialogue: 0,0:09:05.35,0:09:06.45,flashback,Fana,0000,0000,0000,,Please die.
+Dialogue: 0,0:09:43.43,0:09:44.42,flashback,Mars,0000,0000,0000,,Why...
+Dialogue: 0,0:09:45.23,0:09:46.15,flashback,Mars,0000,0000,0000,,Why?
+Dialogue: 0,0:09:52.61,0:09:53.55,flashback,Mars,0000,0000,0000,,My wounds...
+Dialogue: 0,0:09:54.08,0:09:57.80,flashback,Fana,0000,0000,0000,,If I didn't do that, you wouldn't have...
+Dialogue: 0,0:09:57.80,0:10:00.30,flashback,Fana,0000,0000,0000,,tried to kill me...
+Dialogue: 0,0:10:01.52,0:10:04.59,flashback,Fana,0000,0000,0000,,Make sure you go see the world outside.
+Dialogue: 0,0:10:05.75,0:10:08.87,flashback,Fana,0000,0000,0000,,For me... as well.
+Dialogue: 0,0:10:14.61,0:10:17.04,flashback,Mars,0000,0000,0000,,Fana!
+Dialogue: 0,0:10:19.73,0:10:22.95,italics,Mars,0000,0000,0000,,I thought I killed her with my own hands...
+Dialogue: 0,0:10:23.28,0:10:26.45,italics,Mars,0000,0000,0000,,But Fana's alive?!
+Dialogue: 0,0:10:26.45,0:10:29.58,main,Mars,0000,0000,0000,,Fana!
+Dialogue: 0,0:10:30.96,0:10:32.10,main,Asta,0000,0000,0000,,Hey!
+Dialogue: 0,0:10:32.10,0:10:33.75,main,Mars,0000,0000,0000,,It's me! It's me!
+Dialogue: 0,0:10:33.75,0:10:34.67,main,Mars,0000,0000,0000,,Don't you recognize me?
+Dialogue: 0,0:10:34.67,0:10:37.38,main,Asta,0000,0000,0000,,H-H-Hey! Wait, wait, wait!
+Dialogue: 0,0:10:37.38,0:10:38.72,main,Asta,0000,0000,0000,,You're going to die, die, die!
+Dialogue: 0,0:10:38.72,0:10:40.26,main,Asta,0000,0000,0000,,Were you always like this?!
+Dialogue: 0,0:10:40.26,0:10:41.16,main,Mars,0000,0000,0000,,Fana!
+Dialogue: 0,0:10:41.16,0:10:42.09,main,Asta,0000,0000,0000,,You know each other?!
+Dialogue: 0,0:10:44.43,0:10:46.72,main,Mars,0000,0000,0000,,Fana! Fana!
+Dialogue: 0,0:10:45.52,0:10:46.72,main,Asta,0000,0000,0000,,He—
+Dialogue: 0,0:10:48.58,0:10:49.89,main,Mars,0000,0000,0000,,Fana!
+Dialogue: 0,0:10:50.39,0:10:51.39,main,Fanzell,0000,0000,0000,,Fana?
+Dialogue: 0,0:10:52.02,0:10:54.19,main,Fanzell,0000,0000,0000,,My student Fana?
+Dialogue: 0,0:10:56.75,0:11:01.53,main,Fanzell,0000,0000,0000,,After I left, I heard she died in \NMorris's human experiments.
+Dialogue: 0,0:11:01.53,0:11:04.03,main,Mars,0000,0000,0000,,Fana!
+Dialogue: 0,0:11:04.47,0:11:06.91,main,Fana,0000,0000,0000,,I don't know you!
+Dialogue: 0,0:11:11.01,0:11:12.75,main,Asta,0000,0000,0000,,Hot, hot, hot, hot, hot!
+Dialogue: 0,0:11:13.19,0:11:15.69,main,Fanzell,0000,0000,0000,,It really is Fana...
+Dialogue: 0,0:11:15.69,0:11:18.53,main,Fanzell,0000,0000,0000,,But is that transformation magic?
+Dialogue: 0,0:11:18.53,0:11:22.26,main,Fanzell,0000,0000,0000,,No... there'd be no point in that.\N Or there shouldn't be.
+Dialogue: 0,0:11:22.77,0:11:26.06,main,Fanzell,0000,0000,0000,,That eye is emitting a strange power...
+Dialogue: 0,0:11:26.06,0:11:27.76,main,Fanzell,0000,0000,0000,,Is it someone's spell?
+Dialogue: 0,0:11:30.52,0:11:34.29,main,Fanzell,0000,0000,0000,,Is the Eye of the Midnight Sun \Ncontrolling Fana with that eye?
+Dialogue: 0,0:11:34.90,0:11:37.97,main,Fana,0000,0000,0000,,What... is this? My head is...
+Dialogue: 0,0:11:39.62,0:11:40.78,main,Mars,0000,0000,0000,,Fana!
+Dialogue: 0,0:11:43.28,0:11:47.20,main,Fana,0000,0000,0000,,Why do all of you insist \Non getting in my way?
+Dialogue: 0,0:11:48.11,0:11:49.29,main,Fana,0000,0000,0000,,I hate you!
+Dialogue: 0,0:11:53.94,0:11:55.00,main,Noelle,0000,0000,0000,,That's...
+Dialogue: 0,0:11:55.00,0:11:57.71,main,Finral,0000,0000,0000,,Gah! More self-destruct magic?!
+Dialogue: 0,0:11:58.27,0:12:02.29,flashback,Vetto,0000,0000,0000,,I'm taking you all down with me... No...
+Dialogue: 0,0:12:02.29,0:12:05.34,flashback,Vetto,0000,0000,0000,,I'll blow this whole temple to smithereens!
+Dialogue: 0,0:12:05.70,0:12:06.76,main,Fanzell,0000,0000,0000,,Self-destruct?
+Dialogue: 0,0:12:07.64,0:12:09.67,main,Finral,0000,0000,0000,,What's wrong with those people?!
+Dialogue: 0,0:12:09.67,0:12:12.21,main,Finral,0000,0000,0000,,Do they all come with that option installed?!
+Dialogue: 0,0:12:12.21,0:12:16.02,main,Vanessa,0000,0000,0000,,This isn't good! In a few minutes,\Nthis whole area's going to be blown away!
+Dialogue: 0,0:12:16.58,0:12:19.02,main,Fana,0000,0000,0000,,Everything should just... disappear.
+Dialogue: 0,0:12:27.51,0:12:30.03,main,Fana,0000,0000,0000,,Everything should just... disappear.
+Dialogue: 0,0:12:36.12,0:12:38.58,main,Noelle,0000,0000,0000,,Sea Dragon's Lair!
+Dialogue: 0,0:12:42.64,0:12:44.01,main,Fanzell,0000,0000,0000,,Mars, no!
+Dialogue: 0,0:12:48.99,0:12:51.31,main,Asta,0000,0000,0000,,What the hell are you doing?!
+Dialogue: 0,0:12:53.14,0:12:55.18,main,Fanzell,0000,0000,0000,,Block it with your magic!
+Dialogue: 0,0:12:55.63,0:12:58.95,main,Mars,0000,0000,0000,,Master, I have no right to block it!
+Dialogue: 0,0:12:59.39,0:13:03.57,main,Mars,0000,0000,0000,,I killed Fana! I can't—
+Dialogue: 0,0:13:05.71,0:13:07.87,main,Asta,0000,0000,0000,,This is seriously not the time for that!
+Dialogue: 0,0:13:07.87,0:13:09.78,main,Asta,0000,0000,0000,,Are you stupid?! Do you wanna die?!
+Dialogue: 0,0:13:10.45,0:13:15.00,main,Asta,0000,0000,0000,,I don't know the details, \Nbut do you really know her?
+Dialogue: 0,0:13:15.87,0:13:18.66,main,Asta,0000,0000,0000,,She's a leader in a terrorist group \Ncalled the Eye of the Midnight Sun!
+Dialogue: 0,0:13:18.66,0:13:20.23,main,Asta,0000,0000,0000,,Are you sure she's not just similar-looking?
+Dialogue: 0,0:13:20.23,0:13:21.54,main,Asta,0000,0000,0000,,Dude, she's got three eyes!
+Dialogue: 0,0:13:21.90,0:13:24.21,main,Mars,0000,0000,0000,,I would never mistake Fana!
+Dialogue: 0,0:13:24.21,0:13:26.80,main,Mars,0000,0000,0000,,She's my precious childhood friend!
+Dialogue: 0,0:13:30.64,0:13:32.47,main,Asta,0000,0000,0000,,Is that right?
+Dialogue: 0,0:13:32.47,0:13:33.31,main,Asta,0000,0000,0000,,Then...
+Dialogue: 0,0:13:34.85,0:13:39.03,main,Asta,0000,0000,0000,,If she's so important to you,\Nnow's really no time for you to be dying!
+Dialogue: 0,0:13:39.03,0:13:42.21,main,Asta,0000,0000,0000,,Live and save her for real!
+Dialogue: 0,0:13:44.27,0:13:46.32,main,Mars,0000,0000,0000,,You're right. I'm sorry.
+Dialogue: 0,0:13:47.30,0:13:49.07,main,Asta,0000,0000,0000,,Were you always this up-front?
+Dialogue: 0,0:13:50.42,0:13:54.58,italics,Fanzell,0000,0000,0000,,Not only does Asta yell at me,\Nbut now he's yelling at you, his senior.
+Dialogue: 0,0:13:55.11,0:13:57.33,italics,Fanzell,0000,0000,0000,,It's all right, Mars.
+Dialogue: 0,0:13:57.33,0:14:00.08,italics,Fanzell,0000,0000,0000,,You'll be able to save her!
+Dialogue: 0,0:14:00.08,0:14:05.67,main,Vanessa,0000,0000,0000,,Neither Finral's spatial magic nor my \Nthread magic work against those flames.
+Dialogue: 0,0:14:06.16,0:14:10.18,main,Vanessa,0000,0000,0000,,And if we agitate it with Noelle's water \Nmagic, it might explode immediately!
+Dialogue: 0,0:14:10.18,0:14:14.43,italics,Noelle,0000,0000,0000,,I knew it. Only Asta's \Nanti-magic sword can stop it!
+Dialogue: 0,0:14:14.43,0:14:18.18,main,Asta,0000,0000,0000,,All right, let's do this!
+Dialogue: 0,0:14:18.18,0:14:19.94,main,Noelle,0000,0000,0000,,Asta!
+Dialogue: 0,0:14:20.29,0:14:22.23,italics,Asta,0000,0000,0000,,When we fought the hairy gorilla...
+Dialogue: 0,0:14:22.26,0:14:23.68,flashback,Vetto,0000,0000,0000,,It's no use...
+Dialogue: 0,0:14:23.68,0:14:28.94,flashback,Vetto,0000,0000,0000,,You humans shall taste despair... Despair!
+Dialogue: 0,0:14:29.71,0:14:32.24,italics,Asta,0000,0000,0000,,My power couldn't stop him, but...
+Dialogue: 0,0:14:32.24,0:14:35.37,italics,Mars,0000,0000,0000,,Back then, I ended up killing her, but...
+Dialogue: 0,0:14:45.54,0:14:46.63,main,Mars,0000,0000,0000,,This time...
+Dialogue: 0,0:14:46.63,0:14:47.63,main,Asta,0000,0000,0000,,...I'm not...
+Dialogue: 0,0:14:47.63,0:14:49.63,main,Both,0000,0000,0000,,...letting anyone die!
+Dialogue: 0,0:14:52.42,0:14:54.68,main,Fana,0000,0000,0000,,Stay away from me!
+Dialogue: 0,0:14:57.85,0:15:00.67,main,Mars,0000,0000,0000,,Mineral Creation Magic: Laevateinn!
+Dialogue: 0,0:15:07.52,0:15:09.70,italics,Fanzell,0000,0000,0000,,They're both amazing!
+Dialogue: 0,0:15:09.70,0:15:13.03,italics,Fanzell,0000,0000,0000,,High-powered flame magic even \Nat that range isn't fazing them!
+Dialogue: 0,0:15:13.37,0:15:16.27,italics,Fanzell,0000,0000,0000,,Still, they have only a few minutes left.
+Dialogue: 0,0:15:16.27,0:15:17.53,italics,Fanzell,0000,0000,0000,,Will they make it in time?
+Dialogue: 0,0:15:20.74,0:15:25.13,italics,Asta,0000,0000,0000,,I'll charge in until she's in my sword's \Nrange and dispel that self-destruct spell!
+Dialogue: 0,0:15:28.98,0:15:30.53,italics,Asta,0000,0000,0000,,This heat is insane!
+Dialogue: 0,0:15:30.53,0:15:33.18,italics,Asta,0000,0000,0000,,If we go any further, \Nwe'll end up as charcoal!
+Dialogue: 0,0:15:34.80,0:15:36.05,main,Noelle,0000,0000,0000,,Asta?
+Dialogue: 0,0:15:36.05,0:15:37.93,main,Fanzell,0000,0000,0000,,No, that's...
+Dialogue: 0,0:15:41.38,0:15:42.18,main,Asta,0000,0000,0000,,You...
+Dialogue: 0,0:15:43.33,0:15:46.98,main,Mars,0000,0000,0000,,Flame Recovery Magic: Phoenix Robe.
+Dialogue: 0,0:15:49.43,0:15:50.23,main,Mars,0000,0000,0000,,You good to go?
+Dialogue: 0,0:15:50.23,0:15:51.29,main,Asta,0000,0000,0000,,Heck, yeah!
+Dialogue: 0,0:15:51.29,0:15:54.72,main,Asta,0000,0000,0000,,So long as I don't turn into charcoal, \NI can go as far as you want me to!
+Dialogue: 0,0:16:00.39,0:16:02.75,italics,Mars,0000,0000,0000,,This guy's amazing.
+Dialogue: 0,0:16:04.19,0:16:08.50,italics,Mars,0000,0000,0000,,After I fought him in the dungeon, I battled \Nagainst many other skilled fighters,
+Dialogue: 0,0:16:07.17,0:16:11.19,top,Asta,0000,0000,0000,,Not yet! I'm not done yet!
+Dialogue: 0,0:16:09.78,0:16:12.80,italics,Mars,0000,0000,0000,,but I've never met anyone \Nwho's this bad at giving up.
+Dialogue: 0,0:16:12.80,0:16:15.01,italics,Mars,0000,0000,0000,,And... he's also strange.
+Dialogue: 0,0:16:15.81,0:16:20.16,italics,Mars,0000,0000,0000,,Even now, he's still not sure whether I'm friend or foe, but he's still talking to me
+Dialogue: 0,0:16:20.16,0:16:21.63,italics,Mars,0000,0000,0000,,and trying to help.
+Dialogue: 0,0:16:22.53,0:16:25.52,italics,Mars,0000,0000,0000,,I've fought many of the Magic Knights,
+Dialogue: 0,0:16:26.37,0:16:30.52,italics,Mars,0000,0000,0000,,but no one has tried as hard to \Nprotect and help people as he does.
+Dialogue: 0,0:16:31.30,0:16:34.53,italics,Mars,0000,0000,0000,,He embodies the title in the \Ntruest sense of the term.
+Dialogue: 0,0:16:35.12,0:16:36.43,italics,Mars,0000,0000,0000,,He is...
+Dialogue: 0,0:16:37.30,0:16:39.28,italics,Mars,0000,0000,0000,,a real knight!
+Dialogue: 0,0:16:41.57,0:16:43.29,main,Asta,0000,0000,0000,,Hey, are you all right?
+Dialogue: 0,0:16:43.29,0:16:45.37,main,Mars,0000,0000,0000,,I'm fine!
+Dialogue: 0,0:16:45.37,0:16:50.04,main,Mars,0000,0000,0000,,This pain can't even begin \Nto compare to Fana's!
+Dialogue: 0,0:16:50.04,0:16:54.37,italics,Asta,0000,0000,0000,,This guy's completely different \Nfrom when I first fought him.
+Dialogue: 0,0:16:54.37,0:16:59.05,italics,Asta,0000,0000,0000,,He was like a killer doll back then.\NI didn't know he had such warm feelings.
+Dialogue: 0,0:16:59.76,0:17:01.88,italics,Asta,0000,0000,0000,,Enormous, polished power,
+Dialogue: 0,0:17:01.88,0:17:04.56,italics,Asta,0000,0000,0000,,and an unbreakable determination \Nto save someone...
+Dialogue: 0,0:17:04.88,0:17:08.06,italics,Asta,0000,0000,0000,,Right now, he's indestructible!
+Dialogue: 0,0:17:10.31,0:17:12.65,main,Fanzell,0000,0000,0000,,It's going to blow any second now!
+Dialogue: 0,0:17:12.65,0:17:14.83,main,Fanzell,0000,0000,0000,,You guys should evacuate!
+Dialogue: 0,0:17:22.77,0:17:26.93,italics,Fanzell,0000,0000,0000,,They believe in their friend \Nand refuse to move.
+Dialogue: 0,0:17:28.82,0:17:32.59,main,Fanzell,0000,0000,0000,,I'll believe in those two as well,\N and see this through.
+Dialogue: 0,0:17:33.06,0:17:36.04,main,Fanzell,0000,0000,0000,,Go forth, my students.
+Dialogue: 0,0:17:36.04,0:17:38.59,main,Fanzell,0000,0000,0000,,You can do this!
+Dialogue: 0,0:17:43.60,0:17:45.25,italics,Asta,0000,0000,0000,,Just...
+Dialogue: 0,0:17:45.25,0:17:46.60,italics,Mars,0000,0000,0000,,...a little more.
+Dialogue: 0,0:17:52.06,0:17:54.98,main,Mars,0000,0000,0000,,Fana!
+Dialogue: 0,0:17:56.98,0:17:58.24,main,Fana,0000,0000,0000,,It's all over.
+Dialogue: 0,0:17:58.24,0:18:01.91,main,Asta,0000,0000,0000,,No... Not yet!
+Dialogue: 0,0:18:06.10,0:18:10.17,main,Asta,0000,0000,0000,,I won't let it end!
+Dialogue: 0,0:18:20.63,0:18:22.72,main,Noelle,0000,0000,0000,,H-He did it!
+Dialogue: 0,0:18:22.72,0:18:24.22,main,Asta,0000,0000,0000,,Ack! Hot, hot, hot! Hot, hot, hot!
+Dialogue: 0,0:18:30.03,0:18:31.60,main,Asta,0000,0000,0000,,It's gone.
+Dialogue: 0,0:18:31.97,0:18:33.11,main,Fana,0000,0000,0000,,It is not gone.
+Dialogue: 0,0:18:35.62,0:18:38.94,main,Fana,0000,0000,0000,,Our hatred will never go away!
+Dialogue: 0,0:18:39.76,0:18:40.74,main,Asta,0000,0000,0000,,Not—
+Dialogue: 0,0:18:49.00,0:18:52.25,main,Mars,0000,0000,0000,,Fana, it's me! It's me!
+Dialogue: 0,0:18:52.25,0:18:54.31,main,Mars,0000,0000,0000,,I'm really, truly sorry!
+Dialogue: 0,0:18:54.31,0:18:57.50,main,Mars,0000,0000,0000,,Back then, I didn't have the \Nstrength to fight alongside you!
+Dialogue: 0,0:18:58.19,0:19:00.27,main,Mars,0000,0000,0000,,Please forgive me!
+Dialogue: 0,0:19:02.34,0:19:06.01,flashback,Mars,0000,0000,0000,,You're a girl, Fana. You shouldn't \Npush yourself too hard.
+Dialogue: 0,0:19:06.58,0:19:08.49,flashback,Mars,0000,0000,0000,,I'll be waiting for you when that happens.
+Dialogue: 0,0:19:08.49,0:19:10.27,flashback,Mars,0000,0000,0000,,Until you get out, too, Fana.
+Dialogue: 0,0:19:17.23,0:19:19.39,flashback,Elf 2,0000,0000,0000,,Why... Why?!
+Dialogue: 0,0:19:19.39,0:19:22.20,flashback,Elf 4,0000,0000,0000,,Only that human knows where we live!
+Dialogue: 0,0:19:22.20,0:19:24.74,flashback,Elf 5,0000,0000,0000,,He... He must've betrayed us!
+Dialogue: 0,0:19:29.95,0:19:32.65,main,Mars,0000,0000,0000,,We've met in the outside world,
+Dialogue: 0,0:19:32.65,0:19:34.50,main,Mars,0000,0000,0000,,but nothing's started yet!
+Dialogue: 0,0:19:34.50,0:19:35.50,main,Mars,0000,0000,0000,,Let's...
+Dialogue: 0,0:19:35.96,0:19:37.96,flashback,Fana,0000,0000,0000,,Let's go see the \Noutside world together.
+Dialogue: 0,0:19:37.96,0:19:40.16,main,Mars,0000,0000,0000,,Let's go see the world together!
+Dialogue: 0,0:20:12.22,0:20:13.02,main,Fana,0000,0000,0000,,Okay.
+Dialogue: 0,0:20:15.06,0:20:17.50,main,Fana,0000,0000,0000,,It's a promise, Mars.
+Dialogue: 0,0:20:21.78,0:20:23.99,main,Mars,0000,0000,0000,,Yeah, Fana.
+Dialogue: 0,0:20:25.28,0:20:26.72,main,Fana,0000,0000,0000,,Mars?
+Dialogue: 0,0:20:39.94,0:20:41.97,main,Vanessa,0000,0000,0000,,Oh, goodness.
+Dialogue: 0,0:20:41.97,0:20:43.73,main,Noelle,0000,0000,0000,,What a relief.
+Dialogue: 0,0:20:43.73,0:20:45.03,main,Finral,0000,0000,0000,,I'm so jealous!
+Dialogue: 0,0:22:28.05,0:22:32.55,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:28.48,0:22:31.35,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:32.05,0:22:36.06,sign_33188_278_The_Mystery_of_t,Sgn,0000,0000,0000,,{\fad(520,1)}Leave It to Mars
+Dialogue: 0,0:22:33.17,0:22:34.82,main,Mars,0000,0000,0000,,Leave It to Mars.
+Dialogue: 0,0:22:36.69,0:22:40.31,main,Fana,0000,0000,0000,,Hey, Mars. Tell me what happened after \Nyou defeated me all those years ago.
+Dialogue: 0,0:22:40.56,0:22:42.10,main,Mars,0000,0000,0000,,Ow!
+Dialogue: 0,0:22:43.83,0:22:46.42,main,Mars,0000,0000,0000,,I'm sorry I defeated you.
+Dialogue: 0,0:22:46.42,0:22:47.57,main,Mars,0000,0000,0000,,Ahem...
+Dialogue: 0,0:22:47.57,0:22:49.90,main,Mars,0000,0000,0000,,Ta-da! Look at this grimoire!
+Dialogue: 0,0:22:50.29,0:22:52.91,main,Fana,0000,0000,0000,,Wait, is half of this mine?
+Dialogue: 0,0:22:52.91,0:22:56.63,main,Mars,0000,0000,0000,,Yes! It's a grimoire with your powers in it!
+Dialogue: 0,0:22:56.63,0:22:58.45,main,Mars,0000,0000,0000,,I can feel you all the time!
+Dialogue: 0,0:22:58.76,0:23:00.71,main,Fana,0000,0000,0000,,Wow... That's a little scary.
+Dialogue: 0,0:23:00.96,0:23:02.14,main,Mars,0000,0000,0000,,Ow!
+Dialogue: 0,0:23:02.14,0:23:05.46,main,Mars,0000,0000,0000,,Th-The mage scholar Morris made this!
+Dialogue: 0,0:23:06.50,0:23:10.58,main,Mars,0000,0000,0000,,I was brainwashed by Morris.\NThey modified my body,
+Dialogue: 0,0:23:10.58,0:23:12.82,main,Mars,0000,0000,0000,,and I fought as I was commanded.
+Dialogue: 0,0:23:13.65,0:23:16.97,main,Mars,0000,0000,0000,,But then I regained my memories \Nafter fighting Asta.
+Dialogue: 0,0:23:16.97,0:23:18.55,main,Mars,0000,0000,0000,,And ever since, Fana,
+Dialogue: 0,0:23:18.55,0:23:23.36,main,Mars,0000,0000,0000,,I've been saving lives in secret between \Nmissions as my way of atoning to you!
+Dialogue: 0,0:23:23.36,0:23:24.31,main,Mars,0000,0000,0000,,I'm a good boy, right?
+Dialogue: 0,0:23:24.63,0:23:26.61,main,Fana,0000,0000,0000,,Yes, you're a very good boy.
+Dialogue: 0,0:23:27.32,0:23:30.03,main,Fana,0000,0000,0000,,You may have defeated me,\N but you're a good boy.
+Dialogue: 0,0:23:30.38,0:23:31.63,main,Mars,0000,0000,0000,,Ow!
+Dialogue: 0,0:23:35.52,0:23:37.87,main,Finral,0000,0000,0000,,I'm so jealous... No, envious!
+Dialogue: 0,0:23:37.87,0:23:40.55,main,Finral,0000,0000,0000,,No, no. I'm older here, so I \Nhave to act like I don't care.
+Dialogue: 0,0:23:40.55,0:23:42.85,main,Finral,0000,0000,0000,,I {\i1}am{\i0} older than Mars, right?
+Dialogue: 0,0:23:42.85,0:23:45.45,main,Finral,0000,0000,0000,,Congratulations, Mars and Fana.\NI wish you happiness.
+Dialogue: 0,0:23:45.45,0:23:48.21,main,Witch queen,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 62: \N"Those Who Boost Each Other Up."
+Dialogue: 0,0:23:46.21,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 62\N\N{\fs18} Those Who Boost Each Other Up
+Dialogue: 0,0:23:48.21,0:23:49.96,main,Finral,0000,0000,0000,,No, wait! I {\i1}am{\i0} jealous!

@@ -1,0 +1,366 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Ep Title,Trebuchet MS,24,&H00F7FCFD,&H000000FF,&H00070805,&H000D1728,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0080,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,0030,0030,0018,1
+
+
+
+
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.75,0:00:06.84,italics,nar,0000,0000,0000,,It appeared as though humanity \Nwould be destroyed by the demons.
+Dialogue: 0,0:00:11.17,0:00:15.30,italics,Nar,0000,0000,0000,,But a single mage saved them all.
+Dialogue: 0,0:00:22.45,0:00:27.60,italics,Nar,0000,0000,0000,,He was called the Wizard King,\Nand he became a legend.
+Dialogue: 0,0:00:30.51,0:00:33.91,italics,Nar,0000,0000,0000,,Asta and the others finally \Narrived at the Underwater Temple.
+Dialogue: 0,0:00:33.91,0:00:35.20,italics,Nar,0000,0000,0000,,But once they got there...
+Dialogue: 0,0:00:35.53,0:00:38.94,main,Gifso,0000,0000,0000,,You guys are after the \Nmagic stone, aren't you?
+Dialogue: 0,0:00:38.94,0:00:42.39,main,Gifso,0000,0000,0000,,If you want it, why don't \Nwe play a little game?
+Dialogue: 0,0:00:42.39,0:00:44.79,italics,Nar,0000,0000,0000,,...a mysterious old man called the high priest
+Dialogue: 0,0:00:44.79,0:00:47.62,italics,Nar,0000,0000,0000,,and nine temple mages were waiting for them!
+Dialogue: 0,0:00:47.62,0:00:51.04,italics,Nar,0000,0000,0000,,The high priest told Asta and the other \NBlack Bulls, who were separated,
+Dialogue: 0,0:00:51.04,0:00:54.67,italics,Nar,0000,0000,0000,,that if they wanted the magic stone, they\Nmust battle the temple mages, nine-on-nine.
+Dialogue: 0,0:00:55.00,0:00:57.99,italics,Gifso,0000,0000,0000,,Victory goes to the first team \Nto wipe out the other team,
+Dialogue: 0,0:00:57.99,0:01:01.67,italics,Gifso,0000,0000,0000,,or whichever team has the \Nmost members left in the end.
+Dialogue: 0,0:01:01.67,0:01:03.53,main,Luck,0000,0000,0000,,Yay! This is awesome!
+Dialogue: 0,0:01:03.53,0:01:05.85,main,Luck,0000,0000,0000,,A blood-soaked battle! I'm super pumped!
+Dialogue: 0,0:01:05.85,0:01:07.62,main,Noelle,0000,0000,0000,,Nine?
+Dialogue: 0,0:01:07.62,0:01:11.15,main,Noelle,0000,0000,0000,,There should be ten of us...\NWe're missing one.
+Dialogue: 0,0:01:11.46,0:01:13.24,main,Asta,0000,0000,0000,,That's so easy to understand!
+Dialogue: 0,0:01:13.24,0:01:15.57,main,Asta,0000,0000,0000,,All right! Bring it on!
+Dialogue: 0,0:01:15.57,0:01:17.63,main,Octopus mage,0000,0000,0000,,That's funny...
+Dialogue: 0,0:01:17.63,0:01:20.82,main,Octopus mage,0000,0000,0000,,I can't seem to sense any magic from you.
+Dialogue: 0,0:01:21.87,0:01:25.12,main,Octopus mage,0000,0000,0000,,Guess I picked a loser.
+Dialogue: 0,0:01:25.63,0:01:29.27,main,Asta,0000,0000,0000,,Wanna find out if I'm \Nactually a loser or not?
+Dialogue: 0,0:01:59.99,0:02:02.78,Ep Title,Sign,0000,0000,0000,,{\fad(1,480)}Temple Battle Royale
+Dialogue: 0,0:03:04.51,0:03:08.63,main,Gifso,0000,0000,0000,,Now, then, why don't we watch from here?
+Dialogue: 0,0:03:08.63,0:03:11.02,main,Gifso,0000,0000,0000,,I've got plenty of food and drink!
+Dialogue: 0,0:03:12.75,0:03:16.49,main,Yami,0000,0000,0000,,Hey, you old geezer,\Ndon't leave me out of the game!
+Dialogue: 0,0:03:16.49,0:03:18.78,main,Yami,0000,0000,0000,,I got all pumped up, but now I'm sad.
+Dialogue: 0,0:03:20.80,0:03:23.78,main,Gifso,0000,0000,0000,,You're a bit too strong.
+Dialogue: 0,0:03:24.31,0:03:29.37,main,Gifso,0000,0000,0000,,All the people outside, as well as myself,\Nare very excited for this game.
+Dialogue: 0,0:03:29.86,0:03:32.62,main,Gifso,0000,0000,0000,,It'd be no fun if it were to end quickly.
+Dialogue: 0,0:03:33.71,0:03:36.70,main,Yami,0000,0000,0000,,Looks like you really do get it, gramps.
+Dialogue: 0,0:03:36.70,0:03:37.68,main,Yami,0000,0000,0000,,You've got good taste.
+Dialogue: 0,0:03:37.68,0:03:40.45,main,Gifso,0000,0000,0000,,I do, don't I?
+Dialogue: 0,0:03:42.08,0:03:45.56,main,Gifso,0000,0000,0000,,Ooh, it looks like a few \Nmatch-ups have already begun.
+Dialogue: 0,0:03:45.56,0:03:48.10,main,Yami,0000,0000,0000,,All right. If any of mine lose, I'll kill 'em.
+Dialogue: 0,0:03:50.60,0:03:53.38,main,Magna,0000,0000,0000,,So cold... Damn that geezer.
+Dialogue: 0,0:03:53.38,0:03:55.52,main,Magna,0000,0000,0000,,He's gonna pay for this!
+Dialogue: 0,0:03:56.13,0:03:57.24,main,Seahorse mage,0000,0000,0000,,Hilarious!
+Dialogue: 0,0:03:57.24,0:04:00.98,main,Seahorse mage,0000,0000,0000,,You're at a total disadvantage with \Nfire magic in a place like this.
+Dialogue: 0,0:04:00.98,0:04:02.69,main,Seahorse mage,0000,0000,0000,,Looks like I win.
+Dialogue: 0,0:04:04.90,0:04:09.20,main,Moray Mage,0000,0000,0000,,I'd rather not pick on \Nfrail-looking guys like you.
+Dialogue: 0,0:04:10.58,0:04:12.33,main,Luck,0000,0000,0000,,Are you gonna fight me?
+Dialogue: 0,0:04:14.33,0:04:15.99,main,Puffer Mage,0000,0000,0000,,I know you guys.
+Dialogue: 0,0:04:15.99,0:04:18.26,main,Puffer mage,0000,0000,0000,,You're the Black Bulls, aren't you?
+Dialogue: 0,0:04:18.26,0:04:21.67,main,Puffer mage,0000,0000,0000,,You're the weakest of the Magic Knights.
+Dialogue: 0,0:04:22.08,0:04:25.17,main,Gauche,0000,0000,0000,,Marie's waiting for me.\NHurry up and come at me, damn it.
+Dialogue: 0,0:04:27.19,0:04:31.22,main,Octopus mage,0000,0000,0000,,Just so you know, it's pretty pointless \Nfor you to wave around that rusty sword.
+Dialogue: 0,0:04:31.65,0:04:35.23,main,Octopus mage,0000,0000,0000,,My mollusk magic can \Nparry any kind of attack.
+Dialogue: 0,0:04:36.13,0:04:36.98,main,Asta,0000,0000,0000,,I see...
+Dialogue: 0,0:04:40.31,0:04:42.34,main,Gifso,0000,0000,0000,,Isn't this exciting?
+Dialogue: 0,0:04:42.34,0:04:46.45,main,Gifso,0000,0000,0000,,Oh, by the way, what are your knights' ranks?
+Dialogue: 0,0:04:46.45,0:04:48.92,main,Yami,0000,0000,0000,,They're all junior magic knights.
+Dialogue: 0,0:04:48.92,0:04:51.70,main,Yami,0000,0000,0000,,I'm surprised you even know \Nabout that, living down here.
+Dialogue: 0,0:04:53.79,0:04:55.75,main,Gifso,0000,0000,0000,,According to your ranking system,
+Dialogue: 0,0:04:55.75,0:05:00.15,main,Gifso,0000,0000,0000,,my temple mages would be more\Npowerful than intermediate knights!
+Dialogue: 0,0:05:00.15,0:05:03.63,main,Gifso,0000,0000,0000,,Those juniors don't stand a chance!
+Dialogue: 0,0:05:03.63,0:05:05.14,main,Yami,0000,0000,0000,,What? Really?
+Dialogue: 0,0:05:05.14,0:05:06.80,main,Yami,0000,0000,0000,,Well, that's not good...
+Dialogue: 0,0:05:07.97,0:05:12.04,main,Yami,0000,0000,0000,,Unless those idiots are actually \Nstronger than usual for their titles.
+Dialogue: 0,0:05:12.81,0:05:15.14,main,Gifso,0000,0000,0000,,Wh-Wh-Wh-What?!
+Dialogue: 0,0:05:17.44,0:05:20.66,main,Magna,0000,0000,0000,,Don't think I'm gonna get discouraged \Njust because I'm surrounded by water.
+Dialogue: 0,0:05:20.66,0:05:23.11,main,Magna,0000,0000,0000,,I'm gonna serve all of you up like grilled fish!
+Dialogue: 0,0:05:23.11,0:05:25.65,main,Luck,0000,0000,0000,,He must've been one of the weaker ones.
+Dialogue: 0,0:05:25.65,0:05:28.36,main,Luck,0000,0000,0000,,So... I wonder where \Nall the strong ones are?
+Dialogue: 0,0:05:28.69,0:05:29.64,main,Gauche,0000,0000,0000,,Good grief.
+Dialogue: 0,0:05:29.64,0:05:33.33,main,Gauche,0000,0000,0000,,I need to finish this nonsense quick\Nso I can go back to doting on Marie.
+Dialogue: 0,0:05:34.27,0:05:37.07,main,Octopus mage,0000,0000,0000,,This... isn't right...
+Dialogue: 0,0:05:37.07,0:05:42.29,main,Octopus mage,0000,0000,0000,,My mollusk magic should be able to \Ndeflect any kind of physical attack.
+Dialogue: 0,0:05:42.29,0:05:46.12,main,Asta,0000,0000,0000,,My sword is anti-magic! That junk won't work!
+Dialogue: 0,0:05:46.12,0:05:47.76,main,Octopus mage,0000,0000,0000,,What?
+Dialogue: 0,0:05:47.76,0:05:49.57,main,Asta,0000,0000,0000,,Next, next!
+Dialogue: 0,0:05:54.00,0:05:56.96,main,Yami,0000,0000,0000,,Good job, you idiots! \NBeat the crap out of them!
+Dialogue: 0,0:05:57.81,0:06:00.27,main,Gifso,0000,0000,0000,,Those fools let down their guard!
+Dialogue: 0,0:06:00.58,0:06:04.21,main,Yami,0000,0000,0000,,Hey, gramps, I forgot! We should \Nbet on which team is gonna win!
+Dialogue: 0,0:06:04.21,0:06:06.24,main,Yami,0000,0000,0000,,I bet 10,000 yuls on the Bulls!
+Dialogue: 0,0:06:06.24,0:06:09.15,main,Gifso,0000,0000,0000,,Grr... The battle's just begun!
+Dialogue: 0,0:06:09.65,0:06:13.07,main,Gifso,0000,0000,0000,,They won't be able to defeat the \Nremaining priests so easily!
+Dialogue: 0,0:06:13.07,0:06:17.66,main,Gifso,0000,0000,0000,,Especially the Three Great Priests, \Nwho are on par with senior knights.
+Dialogue: 0,0:06:21.65,0:06:22.63,main,Finral,0000,0000,0000,,Badump, badump...
+Dialogue: 0,0:06:23.30,0:06:25.13,main,Finral,0000,0000,0000,,Sneak, sneak, sneak, sneak...
+Dialogue: 0,0:06:25.67,0:06:27.81,main,Finral,0000,0000,0000,,Whew... Man, that was close.
+Dialogue: 0,0:06:27.81,0:06:30.59,main,Finral,0000,0000,0000,,There's no way I could fight \Na guy who looks that strong.
+Dialogue: 0,0:06:30.59,0:06:35.33,main,Finral,0000,0000,0000,,I've been trying to get to the places I \Nmarked outside, but I can't for some reason.
+Dialogue: 0,0:06:35.33,0:06:39.60,main,Finral,0000,0000,0000,,That means I can only use my spatial \Nmagic to get to places I can see.
+Dialogue: 0,0:06:39.60,0:06:41.51,italics,Gifso,0000,0000,0000,,Oh, I forgot to mention this,
+Dialogue: 0,0:06:41.51,0:06:45.67,italics,Gifso,0000,0000,0000,,but you won't be able to leave my \Nplayground until the game's over.
+Dialogue: 0,0:06:45.67,0:06:47.81,main,Finral,0000,0000,0000,,Whoa! Are you watching me, gramps?!
+Dialogue: 0,0:06:47.81,0:06:51.43,italics,Yami,0000,0000,0000,,Hey, Finral, why the hell are you hiding? \NHurry up and fight, or I'll kill you!
+Dialogue: 0,0:06:51.43,0:06:52.66,main,Finral,0000,0000,0000,,Huh? Yami?!
+Dialogue: 0,0:06:52.66,0:06:55.73,main,Finral,0000,0000,0000,,Wait, are you with the old guy?
+Dialogue: 0,0:06:55.73,0:06:58.88,italics,Yami,0000,0000,0000,,We're enjoying some food and drinks \Nwhile we watch you guys fight.
+Dialogue: 0,0:06:58.88,0:07:03.54,main,Finral,0000,0000,0000,,What?! Come on, make him \Nstop this violent game!
+Dialogue: 0,0:07:03.54,0:07:06.29,italics,Yami,0000,0000,0000,,What? It's fun to watch \Nbecause it's so violent.
+Dialogue: 0,0:07:06.29,0:07:08.06,italics,Gifso,0000,0000,0000,,That's right!
+Dialogue: 0,0:07:08.06,0:07:09.63,main,Finral,0000,0000,0000,,When did you two hit it off so well?!
+Dialogue: 0,0:07:09.63,0:07:13.83,main,Gifso,0000,0000,0000,,It's definitely no fun if \Nyou're not gonna fight.
+Dialogue: 0,0:07:13.83,0:07:15.31,main,Yami,0000,0000,0000,,Don't let that coward get away.
+Dialogue: 0,0:07:15.31,0:07:17.51,main,Gifso,0000,0000,0000,,There we go! Nuisance spell activated.
+Dialogue: 0,0:07:17.86,0:07:20.35,italics,Gifso,0000,0000,0000,,Game Magic: Monster Toy.
+Dialogue: 0,0:07:28.93,0:07:30.77,main,Finral,0000,0000,0000,,Scary!
+Dialogue: 0,0:07:31.35,0:07:34.78,main,Gifso,0000,0000,0000,,How entertaining! I should use more of these!
+Dialogue: 0,0:07:35.19,0:07:37.03,main,Yami,0000,0000,0000,,Hey, you old geezer...
+Dialogue: 0,0:07:37.03,0:07:40.50,main,Yami,0000,0000,0000,,Let's do this one next. \NThis'll probably kill them!
+Dialogue: 0,0:07:40.50,0:07:43.89,main,Gifso,0000,0000,0000,,Are you sure you're actually on their side?
+Dialogue: 0,0:07:43.89,0:07:45.37,main,Gifso,0000,0000,0000,,Nice drawing, though.
+Dialogue: 0,0:07:45.99,0:07:48.92,main,Yami,0000,0000,0000,,Now, then... Let's see how \Nthe others are holding up.
+Dialogue: 0,0:07:48.92,0:07:52.70,main,Yami,0000,0000,0000,,That bastard Grey turned into a crab, \Nand I don't know where he went,
+Dialogue: 0,0:07:52.70,0:07:54.18,main,Yami,0000,0000,0000,,so I'll just have to kill him later.
+Dialogue: 0,0:07:54.61,0:07:57.00,main,Yami,0000,0000,0000,,Oh? Is Charmy battling?
+Dialogue: 0,0:07:59.95,0:08:02.63,main,Charmy,0000,0000,0000,,S-Such destructive force...
+Dialogue: 0,0:08:02.63,0:08:05.94,main,Charmy,0000,0000,0000,,Th-The Underwater Temple is amazing.
+Dialogue: 0,0:08:05.94,0:08:08.15,main,Charmy,0000,0000,0000,,And so is its seafood!
+Dialogue: 0,0:08:09.31,0:08:12.49,main,Charmy,0000,0000,0000,,S-So good! Munchy, munchy...
+Dialogue: 0,0:08:12.49,0:08:15.30,main,Charmy,0000,0000,0000,,This is the best I've ever had!
+Dialogue: 0,0:08:15.30,0:08:17.95,main,Charmy,0000,0000,0000,,So this is the Underwater Temple's seafood!
+Dialogue: 0,0:08:19.75,0:08:23.95,main,Charmy,0000,0000,0000,,I wish my meal-saving prince \Ncould have some, too!
+Dialogue: 0,0:08:24.37,0:08:29.21,main,Charmy,0000,0000,0000,,Okay! This entire ecosystem is mine!
+Dialogue: 0,0:08:31.17,0:08:33.96,main,Charmy,0000,0000,0000,,I'm going to eat absolutely everything!
+Dialogue: 0,0:08:38.35,0:08:41.64,main,Gifso,0000,0000,0000,,That one there... What exactly is she doing?
+Dialogue: 0,0:08:42.22,0:08:46.22,main,Charmy,0000,0000,0000,,Heave-ho! Heave-ho! What a huge haul!
+Dialogue: 0,0:08:46.22,0:08:47.02,main,Dolphin mage,0000,0000,0000,,Found you!
+Dialogue: 0,0:08:47.35,0:08:48.56,main,Charmy,0000,0000,0000,,La?
+Dialogue: 0,0:08:48.56,0:08:53.11,main,Dolphin mage,0000,0000,0000,,My, what a cute little target. I almost \Nfeel bad that I'm going to defeat you.
+Dialogue: 0,0:08:54.14,0:08:55.39,main,Charmy,0000,0000,0000,,So you're finally here.
+Dialogue: 0,0:08:55.39,0:08:59.89,main,Charmy,0000,0000,0000,,But right now, I'm overflowing \Nwith undersea mana.
+Dialogue: 0,0:08:59.89,0:09:03.81,main,Charmy,0000,0000,0000,,If you want me to chew you up \Nthe way I chewed up those fish,
+Dialogue: 0,0:09:03.81,0:09:06.13,main,Charmy,0000,0000,0000,,bring it on!
+Dialogue: 0,0:09:08.83,0:09:11.42,main,Dolphin mage,0000,0000,0000,,Song Magic: Mother Lullaby.
+Dialogue: 0,0:09:20.74,0:09:24.85,main,Charmy,0000,0000,0000,,I feel so nice...
+Dialogue: 0,0:09:25.17,0:09:28.79,main,Charmy,0000,0000,0000,,Why, yes, I can still eat more...
+Dialogue: 0,0:09:28.79,0:09:30.27,main,Charmy,0000,0000,0000,,One down!
+Dialogue: 0,0:09:33.43,0:09:36.55,main,Gifso,0000,0000,0000,,Just so you know, sleeping counts as a K.O.
+Dialogue: 0,0:09:36.55,0:09:39.92,main,Gifso,0000,0000,0000,,How do you like the power \Nof one of my Great Priests?
+Dialogue: 0,0:09:39.92,0:09:42.58,main,Yami,0000,0000,0000,,She's not getting any food for a week.
+Dialogue: 0,0:09:43.20,0:09:44.52,main,Dolphin mage,0000,0000,0000,,Now, then...
+Dialogue: 0,0:09:44.52,0:09:47.12,main,Dolphin mage,0000,0000,0000,,I wonder if I'll see those two next.
+Dialogue: 0,0:09:49.01,0:09:51.77,main,Magna,0000,0000,0000,,All right! My clothes are finally dry!
+Dialogue: 0,0:09:51.77,0:09:54.17,main,Magna,0000,0000,0000,,Let's see... Who am I gonna fight next?
+Dialogue: 0,0:09:55.67,0:09:58.84,main,Magna,0000,0000,0000,,Hey, Luck. I guess you're still alive.
+Dialogue: 0,0:09:58.84,0:10:01.51,main,Luck,0000,0000,0000,,Yup! I defeated one of \Nthe enemy guys already.
+Dialogue: 0,0:10:01.51,0:10:05.89,main,Luck,0000,0000,0000,,I headed this way because I felt a \Nstrong presence over here, but...
+Dialogue: 0,0:10:08.00,0:10:10.39,main,Luck,0000,0000,0000,,Looks like I was right...
+Dialogue: 0,0:10:10.85,0:10:14.73,main,Magna,0000,0000,0000,,All right... let's decide who \Ngets a piece of 'em fir—
+Dialogue: 0,0:10:14.73,0:10:17.23,main,Magna,0000,0000,0000,,Hey! No fair, Luck! You bastard!
+Dialogue: 0,0:10:18.69,0:10:21.57,main,Luck,0000,0000,0000,,Ya snooze, ya lose, Magna!
+Dialogue: 0,0:10:24.00,0:10:27.54,main,Luck,0000,0000,0000,,Lightning Magic: Thunderbolt Destruction!
+Dialogue: 0,0:10:28.79,0:10:31.75,main,Shark Mage,0000,0000,0000,,Water Creation Magic: Sea God's Shield.
+Dialogue: 0,0:10:37.43,0:10:40.97,italics,Luck,0000,0000,0000,,It's tough! My lighting should work \Npretty well against water, though.
+Dialogue: 0,0:10:40.97,0:10:44.69,main,Shark mage,0000,0000,0000,,Well, well, aren't you lively?
+Dialogue: 0,0:10:49.17,0:10:50.77,main,Asta,0000,0000,0000,,What the heck are these things?!
+Dialogue: 0,0:10:59.70,0:11:02.24,main,Asta,0000,0000,0000,,This ki... Someone's there.
+Dialogue: 0,0:11:05.70,0:11:11.10,main,Kiato,0000,0000,0000,,Come on, Grandpa. Do you really have \Nto hit us with your nuisance spells, too?
+Dialogue: 0,0:11:11.10,0:11:13.79,main,Kiato,0000,0000,0000,,Well, whatever. That was a good warm-up.
+Dialogue: 0,0:11:13.79,0:11:14.83,main,Asta,0000,0000,0000,,Hup!
+Dialogue: 0,0:11:14.83,0:11:18.00,italics,Asta,0000,0000,0000,,He took out something that huge?\NWho the heck is he?
+Dialogue: 0,0:11:18.42,0:11:20.70,main,Kiato,0000,0000,0000,,Hey, there!
+Dialogue: 0,0:11:20.70,0:11:22.59,main,Kiato,0000,0000,0000,,You're Asta, right?
+Dialogue: 0,0:11:22.59,0:11:25.04,main,Asta,0000,0000,0000,,Huh? Yeah, that's right...
+Dialogue: 0,0:11:25.04,0:11:29.61,main,Kiato,0000,0000,0000,,I've heard about you! You use a strange \Nsword that cancels out magic, right?
+Dialogue: 0,0:11:29.61,0:11:32.77,main,Asta,0000,0000,0000,,Uh, yes... Wait, who'd you hear that from?!
+Dialogue: 0,0:11:33.54,0:11:35.77,main,Kiato,0000,0000,0000,,Never mind that! Check out this dance!
+Dialogue: 0,0:11:37.73,0:11:40.42,italics,Asta,0000,0000,0000,,The hell?! He just started dancing!
+Dialogue: 0,0:11:51.45,0:11:54.42,italics,Asta,0000,0000,0000,,But it's a really cool dance!
+Dialogue: 0,0:11:54.76,0:11:57.75,main,Kiato,0000,0000,0000,,Do you think they'd like this \Ndance up on the surface, too?
+Dialogue: 0,0:11:57.75,0:11:59.13,main,Asta,0000,0000,0000,,Heck yeah!
+Dialogue: 0,0:11:59.13,0:12:00.55,main,Kiato,0000,0000,0000,,The name's Kiato!
+Dialogue: 0,0:12:00.55,0:12:04.50,main,Kiato,0000,0000,0000,,My dream's to become a dancer who \Ncaptivates the whole kingdom!
+Dialogue: 0,0:12:04.50,0:12:06.55,italics,Asta,0000,0000,0000,,He just started talking about his dream?!
+Dialogue: 0,0:12:06.99,0:12:10.18,main,Kiato,0000,0000,0000,,Although people from the Underwater Temple\Ncan go to the kingdom's beaches,
+Dialogue: 0,0:12:10.18,0:12:14.88,main,Kiato,0000,0000,0000,,we can't go to the capital. \NIt's against the rules.
+Dialogue: 0,0:12:15.81,0:12:19.57,main,Kiato,0000,0000,0000,,But if we win this fight, Grandpa said...
+Dialogue: 0,0:12:19.57,0:12:22.26,main,Kiato,0000,0000,0000,,Oh, the high priest is my grandpa.
+Dialogue: 0,0:12:22.26,0:12:26.50,main,Kiato,0000,0000,0000,,Anyway, he said we could use the high\N priest's authority to go up to the surface!
+Dialogue: 0,0:12:26.50,0:12:30.66,main,Kiato,0000,0000,0000,,I'm gonna make a name for myself \Nand become a super famous dancer!
+Dialogue: 0,0:12:30.66,0:12:32.95,italics,Asta,0000,0000,0000,,He just told me all about this huge dream!
+Dialogue: 0,0:12:32.95,0:12:34.47,main,Asta,0000,0000,0000,,Hey, wait a sec...
+Dialogue: 0,0:12:34.47,0:12:37.08,main,Asta,0000,0000,0000,,This all seems pretty familiar.
+Dialogue: 0,0:12:37.36,0:12:38.70,main,Kiato,0000,0000,0000,,So listen...
+Dialogue: 0,0:12:39.19,0:12:42.68,main,Kiato,0000,0000,0000,,I'm gonna take you down \Nfor the sake of my dream!
+Dialogue: 0,0:12:42.68,0:12:43.96,italics,Asta,0000,0000,0000,,He's fast!
+Dialogue: 0,0:12:49.81,0:12:52.43,main,Asta,0000,0000,0000,,I have my own dream, too!
+Dialogue: 0,0:12:52.43,0:12:53.52,main,Kiato,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:53.84,0:12:58.21,main,Asta,0000,0000,0000,,I wanna become the strongest man \Nwho protects the Clover Kingdom,
+Dialogue: 0,0:12:58.21,0:13:00.11,main,Asta,0000,0000,0000,,the Wizard King!
+Dialogue: 0,0:13:00.45,0:13:03.67,main,Asta,0000,0000,0000,,So for that dream...
+Dialogue: 0,0:13:03.67,0:13:06.11,main,Asta,0000,0000,0000,,I'm gonna take you down!
+Dialogue: 0,0:13:06.51,0:13:07.91,main,Kiato,0000,0000,0000,,I like it!
+Dialogue: 0,0:13:09.27,0:13:13.45,main,Kiato,0000,0000,0000,,Then let's bet our dreams on \Na head-to-head showdown!
+Dialogue: 0,0:13:13.45,0:13:15.87,main,Asta,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:13:17.87,0:13:23.97,italics,Noelle,0000,0000,0000,,Wh-What am I going to do? I haven't \Nlearned a single attack spell yet.
+Dialogue: 0,0:13:28.07,0:13:30.79,main,Kahono,0000,0000,0000,,Hey, there! I finally found you!
+Dialogue: 0,0:13:30.79,0:13:32.89,italics,Noelle,0000,0000,0000,,Sh-Shoot! I'm in trouble!
+Dialogue: 0,0:13:32.89,0:13:36.47,main,Noelle,0000,0000,0000,,Y-You want to take on \Na royal such as myself?
+Dialogue: 0,0:13:36.47,0:13:39.68,main,Noelle,0000,0000,0000,,You've got some guts! This is your \Nchance to run away if you want!
+Dialogue: 0,0:13:40.39,0:13:43.06,main,Kahono,0000,0000,0000,,First off, I'm glad you \Ncould make it, Noelle!
+Dialogue: 0,0:13:43.06,0:13:45.48,main,Noelle,0000,0000,0000,,H-How do you know my name?
+Dialogue: 0,0:13:45.48,0:13:49.03,main,Kahono,0000,0000,0000,,Oh, right. I guess you can't \Ntell with this thing on my face.
+Dialogue: 0,0:13:51.52,0:13:52.49,main,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:54.90,0:13:56.23,main,Noelle,0000,0000,0000,,Kahono!
+Dialogue: 0,0:13:56.80,0:13:59.35,main,Kahono,0000,0000,0000,,I've been waiting for you, Noelle!
+Dialogue: 0,0:14:07.86,0:14:11.93,main,Noelle,0000,0000,0000,,Kahono... I had no idea you were \Nfrom the Underwater Temple.
+Dialogue: 0,0:14:11.93,0:14:15.14,main,Noelle,0000,0000,0000,,Why did you help me learn magic?
+Dialogue: 0,0:14:15.61,0:14:19.19,main,Kahono,0000,0000,0000,,I was actually looking for people who \Nwanted to come to the Underwater Temple
+Dialogue: 0,0:14:19.19,0:14:22.19,main,Kahono,0000,0000,0000,,while I practiced singing on that beach.
+Dialogue: 0,0:14:22.19,0:14:26.78,main,Kahono,0000,0000,0000,,You see, when we have guests, Grandpa...\NI mean, the high priest, always holds games.
+Dialogue: 0,0:14:27.47,0:14:29.30,main,Kahono,0000,0000,0000,,If I win, I'll be able to go to the surface
+Dialogue: 0,0:14:29.30,0:14:32.03,main,Kahono,0000,0000,0000,,and make my dream to \Nbecome an idol come true!
+Dialogue: 0,0:14:32.03,0:14:35.74,main,Noelle,0000,0000,0000,,Your dream? Then you used me?!
+Dialogue: 0,0:14:35.74,0:14:38.08,main,Kahono,0000,0000,0000,,Huh? No.
+Dialogue: 0,0:14:38.82,0:14:42.01,main,Kahono,0000,0000,0000,,It's true that I wanted to help you, \Nsince you were working so hard,
+Dialogue: 0,0:14:42.01,0:14:45.24,main,Kahono,0000,0000,0000,,and it's also true that I wanted \Nto become friends with you.
+Dialogue: 0,0:14:45.24,0:14:50.38,main,Kahono,0000,0000,0000,,But from now on, we'll fight fair and \Nsquare as opponents in this game!
+Dialogue: 0,0:14:50.95,0:14:53.97,main,Noelle,0000,0000,0000,,No! We're supposed to be friends!
+Dialogue: 0,0:14:53.97,0:14:55.09,main,Kahono,0000,0000,0000,,Yup!
+Dialogue: 0,0:14:55.09,0:14:57.94,main,Kahono,0000,0000,0000,,Friends are people who can clash over \Nthings that are precious to them,
+Dialogue: 0,0:14:57.94,0:15:00.48,main,Kahono,0000,0000,0000,,but keep smiling together even then!
+Dialogue: 0,0:15:01.31,0:15:03.98,main,Kahono,0000,0000,0000,,Song Magic: Mother Lullaby.
+Dialogue: 0,0:15:08.29,0:15:10.35,italics,Noelle,0000,0000,0000,,What is this spell?
+Dialogue: 0,0:15:10.35,0:15:12.15,italics,Noelle,0000,0000,0000,,I-It's going to make me...
+Dialogue: 0,0:15:13.55,0:15:16.91,main,Noelle,0000,0000,0000,,Water Creation Magic: Sea Dragon's Lair!
+Dialogue: 0,0:15:17.78,0:15:19.45,main,Kahono,0000,0000,0000,,Now you're ready to fight?
+Dialogue: 0,0:15:21.51,0:15:24.17,main,Kahono,0000,0000,0000,,Song Magic: Destructive Beat!
+Dialogue: 0,0:15:28.09,0:15:29.78,main,Kahono,0000,0000,0000,,Come on, now, Noelle!
+Dialogue: 0,0:15:29.78,0:15:31.80,main,Kahono,0000,0000,0000,,You'll never win if you just keep defending!
+Dialogue: 0,0:15:32.95,0:15:34.80,main,Noelle,0000,0000,0000,,What do you think you're doing?!
+Dialogue: 0,0:15:36.73,0:15:38.80,main,Kahono,0000,0000,0000,,She only let off some magic \Nenergy, but look at that force!
+Dialogue: 0,0:15:38.80,0:15:39.96,main,Kahono,0000,0000,0000,,Amazing!
+Dialogue: 0,0:15:41.25,0:15:43.52,main,Kahono,0000,0000,0000,,Huh? What're you doing, Noelle?
+Dialogue: 0,0:15:43.52,0:15:46.16,main,Kahono,0000,0000,0000,,An attack like that won't \Nhave any effect on me.
+Dialogue: 0,0:15:46.16,0:15:48.90,main,Kahono,0000,0000,0000,,Aim straight! That sucked!
+Dialogue: 0,0:15:50.00,0:15:52.15,main,Noelle,0000,0000,0000,,Shut up!
+Dialogue: 0,0:15:52.15,0:15:56.71,main,Noelle,0000,0000,0000,,I still can't control my magic \Nwhen I'm attacking, you idiot!
+Dialogue: 0,0:15:56.71,0:16:00.49,main,Kahono,0000,0000,0000,,That's not it. You're already \Ncontrolling your magic, Noelle.
+Dialogue: 0,0:16:00.49,0:16:01.45,main,Noelle,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:01.79,0:16:05.00,main,Kahono,0000,0000,0000,,You're subconsciously trying \Nnot to attack people.
+Dialogue: 0,0:16:05.00,0:16:07.08,main,Kahono,0000,0000,0000,,You must not want to hurt anyone.
+Dialogue: 0,0:16:07.79,0:16:10.21,main,Kahono,0000,0000,0000,,But are you sure you're okay with that?
+Dialogue: 0,0:16:10.21,0:16:12.72,main,Kahono,0000,0000,0000,,Why did you come here, Noelle?
+Dialogue: 0,0:16:12.72,0:16:15.97,main,Kahono,0000,0000,0000,,Didn't you come here to \Nmake something come true?
+Dialogue: 0,0:16:22.22,0:16:24.31,main,Kahono,0000,0000,0000,,If you don't fight for it and win it,
+Dialogue: 0,0:16:24.31,0:16:25.98,main,Kahono,0000,0000,0000,,you'll never get what you want!
+Dialogue: 0,0:16:27.03,0:16:30.73,main,Noelle,0000,0000,0000,,I... want to be useful to everyone!
+Dialogue: 0,0:16:33.87,0:16:35.49,main,Noelle,0000,0000,0000,,Fine!
+Dialogue: 0,0:16:47.04,0:16:48.67,italics,Asta,0000,0000,0000,,This guy's really strong!
+Dialogue: 0,0:16:48.67,0:16:51.46,italics,Asta,0000,0000,0000,,And what's with his moves?
+Dialogue: 0,0:16:51.46,0:16:56.26,italics,Asta,0000,0000,0000,,It's like his mind's gone somewhere else.\N It's really hard to read his ki!
+Dialogue: 0,0:17:02.35,0:17:05.23,italics,Asta,0000,0000,0000,,I think he's even throwing off my senses.
+Dialogue: 0,0:17:05.55,0:17:07.60,italics,Asta,0000,0000,0000,,Is this his magic?
+Dialogue: 0,0:17:07.60,0:17:09.31,main,Kiato,0000,0000,0000,,It's just like I thought.
+Dialogue: 0,0:17:09.31,0:17:11.07,main,Kiato,0000,0000,0000,,If you're going up against a real sword,
+Dialogue: 0,0:17:11.07,0:17:14.11,main,Kiato,0000,0000,0000,,your anti-magic sword is nothing \Nmore than a lump of iron!
+Dialogue: 0,0:17:14.57,0:17:19.11,main,Kiato,0000,0000,0000,,And if I add in my dance magic,\Nyou won't be able to follow my moves!
+Dialogue: 0,0:17:21.09,0:17:23.62,main,Gifso,0000,0000,0000,,How do you like my grandson? Isn't he strong?
+Dialogue: 0,0:17:24.09,0:17:26.44,main,Yami,0000,0000,0000,,Yeah, the kid definitely \Nknows how to handle a sword.
+Dialogue: 0,0:17:26.44,0:17:27.37,main,Yami,0000,0000,0000,,But...
+Dialogue: 0,0:17:27.39,0:17:30.96,main,Kiato,0000,0000,0000,,Come on, now! Just surrender already, Asta!
+Dialogue: 0,0:17:31.39,0:17:34.34,italics,Asta,0000,0000,0000,,This isn't good! I'm about to lose!
+Dialogue: 0,0:17:34.34,0:17:36.72,italics,Asta,0000,0000,0000,,He really is like water. \NThere's no way to catch him...
+Dialogue: 0,0:17:37.55,0:17:41.02,italics,Asta,0000,0000,0000,,Wait, maybe brute strength \Nisn't the way to go here!
+Dialogue: 0,0:17:41.02,0:17:44.96,italics,Asta,0000,0000,0000,,I probably shouldn't try to capture water,\Nsince it has no distinct shape!
+Dialogue: 0,0:17:47.25,0:17:49.59,italics,Asta,0000,0000,0000,,Anyway, I need to calm down.
+Dialogue: 0,0:17:49.59,0:17:50.48,italics,Asta,0000,0000,0000,,That's it!
+Dialogue: 0,0:17:52.55,0:17:56.05,italics,Asta,0000,0000,0000,,I will also become like water!
+Dialogue: 0,0:17:56.56,0:17:59.00,main,Kiato,0000,0000,0000,,Monkeying around won't get you anywhere!
+Dialogue: 0,0:17:59.65,0:18:01.39,main,Asta,0000,0000,0000,,Don't sell a monkey short!
+Dialogue: 0,0:18:01.39,0:18:02.91,main,Asta,0000,0000,0000,,I can't use magic!
+Dialogue: 0,0:18:03.22,0:18:04.20,main,Asta,0000,0000,0000,,And that's why...
+Dialogue: 0,0:18:04.20,0:18:06.70,main,Asta,0000,0000,0000,,I'll recreate magic with my body!
+Dialogue: 0,0:18:07.33,0:18:10.83,main,Kiato,0000,0000,0000,,Pretty sure there are limits \Nwhen you can't use magic!
+Dialogue: 0,0:18:11.15,0:18:12.15,main,Kiato,0000,0000,0000,,What?
+Dialogue: 0,0:18:12.15,0:18:13.71,main,Asta,0000,0000,0000,,In that case...
+Dialogue: 0,0:18:13.97,0:18:15.68,main,Asta,0000,0000,0000,,I'll use this chance...
+Dialogue: 0,0:18:17.05,0:18:19.26,main,Asta,0000,0000,0000,,to go beyond my limits!
+Dialogue: 0,0:18:19.26,0:18:22.80,italics,Kiato,0000,0000,0000,,Jeez... Just how athletic is this kid?
+Dialogue: 0,0:18:25.78,0:18:28.89,main,Yami,0000,0000,0000,,My idiot's ability to pick \Nthings up quick is even greater!
+Dialogue: 0,0:18:34.21,0:18:39.48,main,Vanessa,0000,0000,0000,,What a rude man... Trying to set up a sneaky \Ntrap for a defenseless woman like me.
+Dialogue: 0,0:18:41.03,0:18:44.78,main,Vanessa,0000,0000,0000,,You can't really complain if you \Nfall for a trap yourself, can you?
+Dialogue: 0,0:18:46.41,0:18:52.18,main,Yami,0000,0000,0000,,Seriously? Vanessa's usually drunk and \Nuseless before she gets warmed up.
+Dialogue: 0,0:18:52.18,0:18:55.21,main,Yami,0000,0000,0000,,We're in top shape today.\N I should've bet more, damn it.
+Dialogue: 0,0:18:56.02,0:18:59.62,main,Gifso,0000,0000,0000,,These guys aren't junior mages at all!
+Dialogue: 0,0:18:59.62,0:19:02.78,main,Gifso,0000,0000,0000,,But man, that lady's got some nice boobies.
+Dialogue: 0,0:19:02.78,0:19:05.55,main,Yami,0000,0000,0000,,Hey, old man. Could you get \Nthat magic stone ready?
+Dialogue: 0,0:19:06.17,0:19:10.11,main,Yami,0000,0000,0000,,A really dangerous lot called the \NEye of the Midnight Sun is after that stone.
+Dialogue: 0,0:19:10.11,0:19:12.81,main,Yami,0000,0000,0000,,It'd be in your best interests \Nto just hand it over to us.
+Dialogue: 0,0:19:13.57,0:19:16.92,main,Gifso,0000,0000,0000,,The best part of a game \Nis turning the tables.
+Dialogue: 0,0:19:16.92,0:19:19.91,main,Yami,0000,0000,0000,,You can't get lamer than bluffing, old man.
+Dialogue: 0,0:19:19.91,0:19:21.88,main,Gifso,0000,0000,0000,,I'm not bluffing!
+Dialogue: 0,0:19:21.88,0:19:26.69,main,Gifso,0000,0000,0000,,If my son and grandkids get serious, \Nwe'll turn things around in an instant!
+Dialogue: 0,0:19:26.69,0:19:31.46,main,Gifso,0000,0000,0000,,My son is the strongest mage \Nof the Underwater Temple!
+Dialogue: 0,0:19:34.79,0:19:38.29,main,Luck,0000,0000,0000,,Uh-oh... I think you're getting tired, Magna.
+Dialogue: 0,0:19:38.29,0:19:39.71,main,Luck,0000,0000,0000,,You can take a little break.
+Dialogue: 0,0:19:39.71,0:19:42.64,main,Magna,0000,0000,0000,,I couldn't feel better, you idiot.
+Dialogue: 0,0:19:42.64,0:19:44.63,main,Magna,0000,0000,0000,,You butt out, Luck.
+Dialogue: 0,0:19:45.95,0:19:49.72,main,Shark mage,0000,0000,0000,,Sorry to drag you into \Nmy dad's game like this.
+Dialogue: 0,0:19:50.18,0:19:53.31,main,Magna,0000,0000,0000,,Dad? You're that geezer's son?
+Dialogue: 0,0:19:53.63,0:19:56.65,italics,Luck,0000,0000,0000,,He's strong... His magic \Nis as deep as the sea.
+Dialogue: 0,0:19:57.42,0:20:00.96,italics,Luck,0000,0000,0000,,No doubt about it... He's definitely \Nthe strongest one here.
+Dialogue: 0,0:20:00.96,0:20:02.83,main,Shark mage,0000,0000,0000,,You two should come at me at once.
+Dialogue: 0,0:20:02.83,0:20:06.16,main,Shark mage,0000,0000,0000,,I'd rather not hurt you \Nany more than I need to.
+Dialogue: 0,0:20:06.16,0:20:08.91,main,Shark mage,0000,0000,0000,,At the very least, I'll end \Nall this in an instant.
+Dialogue: 0,0:20:09.33,0:20:12.37,main,Shark mage,0000,0000,0000,,Water Creation Magic: Sea God's Hammer!
+Dialogue: 0,0:20:15.54,0:20:17.56,main,Magna,0000,0000,0000,,You ain't ending anyone, you bastard!
+Dialogue: 0,0:20:17.56,0:20:20.28,main,Luck,0000,0000,0000,,I'm not done having fun yet!
+Dialogue: 0,0:20:28.47,0:20:29.66,main,Kiato,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:29.66,0:20:31.01,main,Asta,0000,0000,0000,,Wh-What was that?
+Dialogue: 0,0:20:31.01,0:20:34.06,main,Gifso,0000,0000,0000,,Wh-Wh-What the heck's going on?!
+Dialogue: 0,0:20:43.17,0:20:46.49,main,Vetto,0000,0000,0000,,Looks like you're having fun.
+Dialogue: 0,0:20:48.77,0:20:52.53,main,Vetto,0000,0000,0000,,Why don't you let us join in?
+Dialogue: 0,0:22:24.04,0:22:28.55,sign_33083_276_Petit_Clover_,Sign,0000,0000,0000,,{\fad(1,520)}Pe{\c&H3BC020&}t{\c&HE2AF0F&}i{\c&H3BC020&}t C{\c&HE2AF0F&}l{\c&H3BC020&}o{\c&H0E42D4&}ve{\c&H3BC020&}r
+Dialogue: 0,0:22:24.95,0:22:27.70,main,All,0000,0000,0000,,Petit Clover!
+Dialogue: 0,0:22:28.05,0:22:32.01,sign_33188_278_The_Mystery_of_t,Sign,0000,0000,0000,,{\fad(520,1)}Why Don't You Let Us Join In?
+Dialogue: 0,0:22:28.93,0:22:32.01,main,Vetto,0000,0000,0000,,Why Don't You Let Us Join In?
+Dialogue: 0,0:22:32.52,0:22:35.68,main,Vetto,0000,0000,0000,,Looks like you're having fun.
+Dialogue: 0,0:22:36.85,0:22:40.94,main,Vetto,0000,0000,0000,,Why don't you let us join in?
+Dialogue: 0,0:22:40.94,0:22:42.56,main,Charmy,0000,0000,0000,,Munchy, munchy...
+Dialogue: 0,0:22:42.89,0:22:43.69,main,Charmy,0000,0000,0000,,La?
+Dialogue: 0,0:22:45.25,0:22:48.49,main,Vetto,0000,0000,0000,,I-I must've come to the wrong place.
+Dialogue: 0,0:22:48.87,0:22:52.24,main,Charmy,0000,0000,0000,,Munchy, munchy... Have a bite.
+Dialogue: 0,0:22:52.55,0:22:54.37,main,Charmy,0000,0000,0000,,Have a bite, 'kay?
+Dialogue: 0,0:22:57.28,0:23:03.25,main,Vetto,0000,0000,0000,,Well, if you insist, I guess I'll... join in.
+Dialogue: 0,0:23:04.07,0:23:06.06,main,Charmy,0000,0000,0000,,I'll let you join in...
+Dialogue: 0,0:23:06.06,0:23:07.55,main,Charmy,0000,0000,0000,,After you stir that pot.
+Dialogue: 0,0:23:08.61,0:23:12.05,main,Charmy,0000,0000,0000,,Those who will not work do not get to munchy!
+Dialogue: 0,0:23:12.26,0:23:18.03,top,Vetto,0000,0000,0000,,Stir, stir, stir...
+Dialogue: 0,0:23:14.11,0:23:18.03,main,Charmy,0000,0000,0000,,Put your back into it!\NIt's not all about strength!
+Dialogue: 0,0:23:18.03,0:23:20.79,main,Vetto,0000,0000,0000,,I see... This is quite deep.
+Dialogue: 0,0:23:21.41,0:23:27.20,italics,Asta,0000,0000,0000,,And so, Vetto realized his dream to become \Na chef and gave up on the magic stone.
+Dialogue: 0,0:23:27.20,0:23:29.12,italics,Asta,0000,0000,0000,,Then everyone lived happily ever after!
+Dialogue: 0,0:23:29.12,0:23:31.16,main,Asta,0000,0000,0000,,That probably won't happen, huh?
+Dialogue: 0,0:23:31.68,0:23:33.00,main,Vetto,0000,0000,0000,,Of course not!
+Dialogue: 0,0:23:35.70,0:23:37.53,main,Vetto,0000,0000,0000,,To make the Eye of the Midnight Sun's\Ndream come true,
+Dialogue: 0,0:23:37.53,0:23:41.68,main,Vetto,0000,0000,0000,,I, Vetto of the Third Eye, \Nshall obtain the magic stone!
+Dialogue: 0,0:23:41.68,0:23:46.08,main,Vetto,0000,0000,0000,,{\i1}Black Clover{\i0}, Page 44: "The Pointlessly \NDirect Fireball and the Wild Lightning."
+Dialogue: 0,0:23:42.66,0:23:50.39,sign_34238_338_Page_2_The_Boys_,Sign,0000,0000,0000,,{\fad(234,1)}Page 44\N\N{\fs18} The Pointlessly Direct Fireball and the Wild Lightning
+Dialogue: 0,0:23:46.40,0:23:49.96,main,Vetto,0000,0000,0000,,My beast magic shall destroy everything!
