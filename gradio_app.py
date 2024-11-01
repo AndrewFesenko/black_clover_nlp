@@ -31,7 +31,7 @@ def main():
         # Theme Classification Section
         with gr.Row():
             with gr.Column():
-                gr.HTML("<h1>Theme Classification (Zero Shot Claasifiers)</h1>")
+                gr.HTML("<h1>Theme Classification (Zero Shot Classifiers)</h1>")
                 with gr.Row():
                     with gr.Column():
                         plot = gr.BarPlot()

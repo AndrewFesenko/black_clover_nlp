@@ -8,8 +8,10 @@ import os
 import sys
 import pathlib 
 folder_path = pathlib.Path(__file__).parent.resolve()
-sys.path.append('C:/Users/Andrew/Documents/AI Series/utils')
-from utils import load_subtitles_dataset
+sys.path.append(os.path.join(folder_path,'../'))
+project_path = pathlib.Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(project_path))
+from utils.data_loader import load_subtitles_dataset
 nltk.download('punkt')
 nltk.download('punkt_tab')
 
