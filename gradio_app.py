@@ -1,6 +1,10 @@
 import gradio as gr
+import pandas as pd
+import json
 from theme_classifier import ThemeClassifier
 from character_network import NamedEntityRecognizer, CharacterNetworkGenerator
+from character_chatbot import CharacterChatBot
+import os
 
 def get_themes(theme_list_str,subtitles_path,save_path):
     theme_list = theme_list_str.split(',')
@@ -37,6 +41,31 @@ def get_character_network(subtitles_path,ner_path):
 
     return html
 
+# Function to load spells from the JSONL file
+def load_spell_data(filepath):
+    spells = []
+    with open(filepath, 'r') as f:
+        for line in f:
+            spells.append(json.loads(line))
+    return pd.DataFrame(spells)
+
+# Load spell data
+spell_data = load_spell_data('C:/Users/Andrew/Documents/AI Series/data/spell.jsonl')
+
+# Function to filter spells based on name or type
+def filter_spells(search_term, spell_type):
+    filtered_data = spell_data
+
+    # Apply search filter if a search term is provided
+    if search_term:
+        filtered_data = filtered_data[filtered_data['spell_name'].str.contains(search_term, case=False, na=False)]
+    
+    # Apply type filter if provided and not "All"
+    if spell_type and spell_type != "All":
+        filtered_data = filtered_data[filtered_data['spell_type'] == spell_type]
+
+    return filtered_data[['spell_name', 'spell_type', 'spell_description']]
+
 def main():
     with gr.Blocks() as iface:
         # Theme Classification Section
@@ -65,7 +94,25 @@ def main():
                         ner_path = gr.Textbox(label="NERs save path")
                         get_network_graph_button = gr.Button("Get Character Network")
                         get_network_graph_button.click(get_character_network, inputs=[subtitles_path,ner_path], outputs=[network_html])
-            
+                        
+        # Spell Database Section
+        with gr.Row():
+            gr.HTML("<h1>Spell Database</h1>")
+        with gr.Row():
+            with gr.Column():
+                spell_types = ["All"] + list(spell_data['spell_type'].unique())
+                spell_type_dropdown = gr.Dropdown(label="Select Spell Type", choices=spell_types, value="All")
+                search_box = gr.Textbox(label="Search Spells by Name", placeholder="Enter spell name...")
+                filter_button = gr.Button("Filter Spells")
+                spell_display = gr.Dataframe(label="Spells", headers=["Spell Name", "Spell Type", "Description"])
+
+            # Update table when the button is clicked
+            filter_button.click(fn=filter_spells, inputs=[search_box, spell_type_dropdown], outputs=[spell_display])
+
+        #Character Chatbot
+
+
+
     iface.launch(share=True)
 
 if __name__ == '__main__':
