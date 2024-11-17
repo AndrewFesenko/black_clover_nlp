@@ -5,6 +5,8 @@ from theme_classifier import ThemeClassifier
 from character_network import NamedEntityRecognizer, CharacterNetworkGenerator
 from character_chatbot import CharacterChatBot
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 def get_themes(theme_list_str,subtitles_path,save_path):
     theme_list = theme_list_str.split(',')
@@ -52,19 +54,33 @@ def load_spell_data(filepath):
 # Load spell data
 spell_data = load_spell_data('C:/Users/Andrew/Documents/AI Series/data/spell.jsonl')
 
-# Function to filter spells based on name or type
 def filter_spells(search_term, spell_type):
     filtered_data = spell_data
 
-    # Apply search filter if a search term is provided
     if search_term:
         filtered_data = filtered_data[filtered_data['spell_name'].str.contains(search_term, case=False, na=False)]
     
-    # Apply type filter if provided and not "All"
     if spell_type and spell_type != "All":
         filtered_data = filtered_data[filtered_data['spell_type'] == spell_type]
 
-    return filtered_data[['spell_name', 'spell_type', 'spell_description']]
+    # Convert filtered data to an HTML table with wrapped text
+    html_content = "<style>table { width: 100%; border-collapse: collapse; } th, td { padding: 8px; border: 1px solid #ddd; text-align: left; } td { word-wrap: break-word; max-width: 300px; white-space: normal; }</style>"
+    html_content += "<table><tr><th>Spell Name</th><th>Spell Type</th><th>Spell Description</th></tr>"
+    
+    for _, row in filtered_data.iterrows():
+        html_content += f"<tr><td>{row['spell_name']}</td><td>{row['spell_type']}</td><td>{row['spell_description']}</td></tr>"
+    
+    html_content += "</table>"
+    return html_content
+
+def chat_with_character_chatbot(message, history):
+    character_chatbot = CharacterChatBot("tukyo/Clover_Llama-3.1-8B-Instruct",
+                                         huggingface_token = os.getenv('huggingface_token')
+                                         )
+
+    output = character_chatbot.chat(message, history)
+    output = output['content'].strip()
+    return output
 
 def main():
     with gr.Blocks() as iface:
@@ -97,20 +113,21 @@ def main():
                         
         # Spell Database Section
         with gr.Row():
-            gr.HTML("<h1>Spell Database</h1>")
-        with gr.Row():
             with gr.Column():
                 spell_types = ["All"] + list(spell_data['spell_type'].unique())
                 spell_type_dropdown = gr.Dropdown(label="Select Spell Type", choices=spell_types, value="All")
                 search_box = gr.Textbox(label="Search Spells by Name", placeholder="Enter spell name...")
                 filter_button = gr.Button("Filter Spells")
-                spell_display = gr.Dataframe(label="Spells", headers=["Spell Name", "Spell Type", "Description"])
+                spell_display = gr.HTML(label="Spells")  # Change to gr.HTML here
 
             # Update table when the button is clicked
             filter_button.click(fn=filter_spells, inputs=[search_box, spell_type_dropdown], outputs=[spell_display])
 
         #Character Chatbot
-
+        with gr.Row():
+            with gr.Column():
+                gr.HTML("<h1>Character Chatbot</h1>")
+                gr.ChatInterface(chat_with_character_chatbot)
 
 
     iface.launch(share=True)
